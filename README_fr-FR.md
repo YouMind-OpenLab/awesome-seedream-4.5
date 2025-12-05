@@ -90,7 +90,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **1** |
 | ⭐ En vedette | **0** |
-| 🔄 Dernière mise à jour | **vendredi 5 décembre 2025 à 16:13:06 UTC** |
+| 🔄 Dernière mise à jour | **vendredi 5 décembre 2025 à 20:12:08 UTC** |
 
 </div>
 
@@ -179,6 +179,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-12-05T16:13:06.183Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-12-05T20:12:08.762Z</sub>
 
 </div>
