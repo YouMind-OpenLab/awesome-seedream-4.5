@@ -90,7 +90,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **1** |
 | ⭐ แนะนำ | **0** |
-| 🔄 อัปเดตล่าสุด | **วันเสาร์ที่ 6 ธันวาคม พ.ศ. 2568 เวลา 12 นาฬิกา 17 นาที 47 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันเสาร์ที่ 6 ธันวาคม พ.ศ. 2568 เวลา 16 นาฬิกา 11 นาที 03 วินาที UTC** |
 
 </div>
 
@@ -179,6 +179,6 @@ by {argument name="author" default="Steve Jobs"}
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2025-12-06T12:17:47.416Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2025-12-06T16:11:03.833Z</sub>
 
 </div>

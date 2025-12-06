@@ -90,7 +90,7 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 |--------|-------|
 | 📝 プロンプト総数 | **1** |
 | ⭐ おすすめ | **0** |
-| 🔄 最終更新 | **2025年12月6日土曜日 12:17:47 UTC** |
+| 🔄 最終更新 | **2025年12月6日土曜日 16:11:03 UTC** |
 
 </div>
 
@@ -179,6 +179,6 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2025-12-06T12:17:47.179Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2025-12-06T16:11:03.551Z</sub>
 
 </div>
