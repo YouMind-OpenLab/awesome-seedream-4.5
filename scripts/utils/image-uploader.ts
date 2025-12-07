@@ -1,16 +1,17 @@
 import fetch from 'node-fetch';
+import type { Media } from './cms-client.js';
 
 const CMS_HOST = process.env.CMS_HOST;
 const CMS_API_KEY = process.env.CMS_API_KEY;
 
 /**
- * 上传图片到 CMS
- * @param imageUrl 原始图片 URL
- * @returns CMS 图片 URL
+ * Upload image to CMS
+ * @param imageUrl Original image URL
+ * @returns CMS media object
  */
-export async function uploadImageToCMS(imageUrl: string): Promise<string> {
+export async function uploadImageToCMS(imageUrl: string): Promise<Media> {
   try {
-    // 下载图片
+    // Download image
     const imageResponse = await fetch(imageUrl);
     if (!imageResponse.ok) {
       throw new Error(`Failed to fetch image: ${imageResponse.statusText}`);
@@ -19,16 +20,16 @@ export async function uploadImageToCMS(imageUrl: string): Promise<string> {
     const imageBuffer = await imageResponse.arrayBuffer();
     const contentType = imageResponse.headers.get('content-type') || 'image/jpeg';
 
-    // 从 URL 中提取文件名
+    // Extract filename from URL
     const urlParts = imageUrl.split('/');
     const filename = urlParts[urlParts.length - 1].split('?')[0] || 'image.jpg';
 
-    // 创建 FormData
+    // Create FormData
     const formData = new FormData();
     const blob = new Blob([imageBuffer], { type: contentType });
     formData.append('file', blob, filename);
 
-    // 上传到 CMS
+    // Upload to CMS
     const uploadResponse = await fetch(`${CMS_HOST}/api/media`, {
       method: 'POST',
       headers: {
@@ -42,11 +43,14 @@ export async function uploadImageToCMS(imageUrl: string): Promise<string> {
       throw new Error(`Failed to upload image: ${uploadResponse.statusText} - ${errorText}`);
     }
 
-    const data = await uploadResponse.json() as { doc: { url: string } };
-    return `${CMS_HOST}${data.doc.url}`;
+    const data = await uploadResponse.json() as { doc: Media };
+    const media = data.doc;
+     
+    return media;
   } catch (error) {
     console.error('Error uploading image to CMS:', error);
-    // 如果上传失败，返回原始 URL
-    return imageUrl;
+    // If upload fails, throw error instead of returning original URL
+    // The caller should handle the error
+    throw error;
   }
 }

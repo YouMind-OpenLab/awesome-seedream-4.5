@@ -45,6 +45,17 @@ body:
       placeholder: "This prompt generates..."
     validations:
       required: true
+  
+  - type: dropdown
+    id: need_reference_images
+    attributes:
+      label: Need Reference Images
+      description: Does this prompt require user to input images?
+      options:
+        - "false"
+        - "true"
+    validations:
+      required: false
 
   - type: textarea
     id: image_urls

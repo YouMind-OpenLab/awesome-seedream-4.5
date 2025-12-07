@@ -1,22 +1,5 @@
+import { Prompt } from './cms-client.js';
 import { t } from './i18n.js';
-
-interface Prompt {
-  id: number;
-  title: string;
-  description: string;
-  content: string;
-  translatedContent?: string; // Translated content for current locale
-  sourceLink: string;
-  sourcePublishedAt: string;
-  sourceMedia: string[];
-  author: {
-    name: string;
-    link?: string;
-  };
-  language: string;
-  featured?: boolean;
-  sort?: number;
-}
 
 interface SortedPrompts {
   all: Prompt[];

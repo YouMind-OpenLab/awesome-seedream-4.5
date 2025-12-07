@@ -103,11 +103,12 @@ export interface Media {
 
 export interface Prompt {
   id: number;
+  model?: string;
   title: string;
   description: string;
   content: string;
   translatedContent?: string; // Translated content for current locale
-  sourceLink: string;
+  sourceLink?: string; // Optional source link
   sourcePublishedAt: string;
   sourceMedia: string[];
   video?: {
@@ -122,6 +123,7 @@ export interface Prompt {
   language: string;
   featured?: boolean;
   sort?: number;
+  needReferenceImages?: boolean; // Whether this prompt requires user to input images
   sourceMeta?: Record<string, any>;
 }
 
@@ -222,6 +224,43 @@ export function sortPrompts(prompts: Prompt[]) {
 }
 
 /**
+ * 根据 GitHub issue 编号查找已存在的 prompt
+ */
+export async function findPromptByGitHubIssue(
+  issueNumber: string
+): Promise<Prompt | null> {
+  const query = {
+    limit: 1,
+    depth: 2,
+    where: {
+      "sourceMeta.github_issue": {
+        equals: issueNumber,
+      },
+      model: {
+        equals: "seedream-4.5",
+      },
+    },
+  };
+
+  const stringifiedQuery = stringify(query, { addQueryPrefix: true });
+  const url = `${CMS_HOST}/api/prompts${stringifiedQuery}`;
+
+  const response = await fetch(url, {
+    headers: {
+      Authorization: `users API-Key ${CMS_API_KEY}`,
+      "Content-Type": "application/json",
+    },
+  });
+
+  if (!response.ok) {
+    throw new Error(`CMS API error: ${response.statusText}`);
+  }
+
+  const data = (await response.json()) as CMSResponse;
+  return data.docs.length > 0 ? data.docs[0] : null;
+}
+
+/**
  * 创建新 prompt（直接发布，无草稿）
  */
 export async function createPrompt(
@@ -242,6 +281,34 @@ export async function createPrompt(
     const errorText = await response.text();
     throw new Error(
       `Failed to create prompt: ${response.statusText} - ${errorText}`
+    );
+  }
+
+  return response.json() as Promise<Prompt | null>;
+}
+
+/**
+ * 更新已存在的 prompt
+ */
+export async function updatePrompt(
+  id: number,
+  data: Partial<Prompt>
+): Promise<Prompt | null> {
+  const url = `${CMS_HOST}/api/prompts/${id}`;
+
+  const response = await fetch(url, {
+    method: "PATCH",
+    headers: {
+      Authorization: `users API-Key ${CMS_API_KEY}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify(data),
+  });
+
+  if (!response.ok) {
+    const errorText = await response.text();
+    throw new Error(
+      `Failed to update prompt: ${response.statusText} - ${errorText}`
     );
   }
 

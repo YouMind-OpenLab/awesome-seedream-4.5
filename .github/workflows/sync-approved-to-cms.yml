@@ -3,11 +3,23 @@ name: Sync Approved to CMS
 on:
   issues:
     types: [labeled]
+    # Note: 'labeled' event triggers on both open and closed issues
+    # This allows the workflow to run when 'approved' label is added
+    # even if the issue was closed after being reopened
+
+permissions:
+  issues: write
+  contents: read
 
 jobs:
   sync:
-    # Only trigger when 'approved' label is added to a prompt submission
-    if: github.event.label.name == 'approved' && contains(github.event.issue.labels.*.name, 'prompt-submission')
+    # Only trigger when 'approved' label is added AND issue has 'prompt-submission' label
+    # Works for both open and closed issues
+    # Note: We check both conditions - the added label must be 'approved' 
+    # AND the issue must already have 'prompt-submission' label
+    if: |
+      github.event.label.name == 'approved' &&
+      contains(join(github.event.issue.labels.*.name, ' '), 'prompt-submission')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -29,6 +41,7 @@ jobs:
           CMS_HOST: ${{ secrets.CMS_HOST }}
           CMS_API_KEY: ${{ secrets.CMS_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
           ISSUE_BODY: ${{ github.event.issue.body }}
         run: npx tsx scripts/sync-approved-to-cms.ts
