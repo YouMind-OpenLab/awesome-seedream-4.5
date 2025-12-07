@@ -51,7 +51,7 @@ All content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/b
 We feature:
 - ✅ Automatic updates every 4 hours
 - ✅ Beautiful web gallery with search
-- ✅ Multi-language support (16+ languages)
+- ✅ Multi-language support (17 languages)
 - ✅ CMS-backed content management
 - ✅ Quality-controlled submissions
 
@@ -72,7 +72,7 @@ Use our [Bug Report template](https://github.com/YouMind-OpenLab/awesome-seedrea
 
 ### How do I contact the team?
 
-- 📧 Email: prompts@youmind.com
+- 📧 Email: contact@youmind.ai
 - 💬 [GitHub Discussions](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/discussions)
 - 🐛 [GitHub Issues](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues)
 

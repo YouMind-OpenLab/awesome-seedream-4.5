@@ -2,7 +2,6 @@
 
 Thank you for your interest in contributing! This guide will help you submit your prompts.
 
-[中文版本](CONTRIBUTING_ZH.md)
 
 ## 📋 Table of Contents
 
@@ -40,7 +39,7 @@ We only accept contributions via GitHub Issues to ensure quality control and con
 - **Images**: One or multiple high-quality results (one URL per line)
 - **Author**: Original creator's name and link
 - **Source**: Link to original post/tweet
-- **Language**: Prompt's language (supports 20+ languages)
+- **Language**: Prompt's language (supports 17 languages)
 
 ### Image Requirements
 
@@ -53,7 +52,22 @@ We only accept contributions via GitHub Issues to ensure quality control and con
 
 ### Supported Languages
 
-English, Chinese, Japanese, Korean, Spanish, French, German, Italian, Portuguese, Russian, Arabic, Hindi, Thai, Vietnamese, Indonesian, Turkish, Polish, Dutch, Swedish, Norwegian, Danish, Finnish
+- English (en)
+- Chinese / 简体中文 (zh)
+- Traditional Chinese / 繁體中文 (zh-TW)
+- Japanese / 日本語 (ja-JP)
+- Korean / 한국어 (ko-KR)
+- Thai / ไทย (th-TH)
+- Vietnamese / Tiếng Việt (vi-VN)
+- Hindi / हिन्दी (hi-IN)
+- Spanish / Español (es-ES)
+- Latin American Spanish / Español Latinoamérica (es-419)
+- German / Deutsch (de-DE)
+- French / Français (fr-FR)
+- Italian / Italiano (it-IT)
+- Brazilian Portuguese / Português do Brasil (pt-BR)
+- European Portuguese / Português (pt-PT)
+- Turkish / Türkçe (tr-TR)
 
 ### Quality Standards
 
@@ -91,7 +105,7 @@ By contributing, you agree to:
 
 ## ❓ Questions?
 
-- 📧 Email: prompts@youmind.com
+- 📧 Email: contact@youmind.ai
 - 💬 Discussions: [GitHub Discussions](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/discussions)
 - 🐛 Issues: [Report a problem](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues)
 

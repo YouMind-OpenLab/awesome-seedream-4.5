@@ -80,8 +80,6 @@ body:
       label: Source Link
       description: Original post/tweet URL
       placeholder: "https://x.com/username/status/..."
-    validations:
-      required: true
 
   - type: dropdown
     id: language
@@ -91,26 +89,20 @@ body:
       options:
         - English
         - Chinese (中文)
+        - Traditional Chinese (繁體中文)
         - Japanese (日本語)
         - Korean (한국어)
-        - Spanish (Español)
-        - French (Français)
-        - German (Deutsch)
-        - Italian (Italiano)
-        - Portuguese (Português)
-        - Russian (Русский)
-        - Arabic (العربية)
-        - Hindi (हिन्दी)
         - Thai (ไทย)
         - Vietnamese (Tiếng Việt)
-        - Indonesian (Bahasa Indonesia)
+        - Hindi (हिन्दी)
+        - Spanish (Español)
+        - Latin American Spanish (Español Latinoamérica)
+        - German (Deutsch)
+        - French (Français)
+        - Italian (Italiano)
+        - Brazilian Portuguese (Português do Brasil)
+        - European Portuguese (Português)
         - Turkish (Türkçe)
-        - Polish (Polski)
-        - Dutch (Nederlands)
-        - Swedish (Svenska)
-        - Norwegian (Norsk)
-        - Danish (Dansk)
-        - Finnish (Suomi)
     validations:
       required: true
 
