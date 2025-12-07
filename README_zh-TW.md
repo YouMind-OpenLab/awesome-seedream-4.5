@@ -90,7 +90,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **1** |
 | ⭐ 精選 | **0** |
-| 🔄 最後更新 | **2025年12月7日 星期日 上午8:12:46 [UTC]** |
+| 🔄 最後更新 | **2025年12月7日 星期日 中午12:17:14 [UTC]** |
 
 </div>
 
@@ -179,6 +179,6 @@ by {argument name="author" default="Steve Jobs"}
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2025-12-07T08:12:46.750Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2025-12-07T12:17:14.106Z</sub>
 
 </div>
