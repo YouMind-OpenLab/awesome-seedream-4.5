@@ -90,7 +90,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **1** |
 | ⭐ Nổi bật | **0** |
-| 🔄 Cập nhật lần cuối | **lúc 08:15:53 UTC Thứ Ba, 9 tháng 12, 2025** |
+| 🔄 Cập nhật lần cuối | **lúc 12:21:04 UTC Thứ Ba, 9 tháng 12, 2025** |
 
 </div>
 
@@ -179,6 +179,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-09T08:15:53.740Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-09T12:21:04.989Z</sub>
 
 </div>
