@@ -36,7 +36,22 @@ export const SUPPORTED_LANGUAGES: LanguageConfig[] = [
   { code: 'tr-TR', name: 'Türkçe', readmeFileName: 'README_tr-TR.md' },
 ];
 
-const MAX_REGULAR_PROMPTS_TO_DISPLAY = 150;
+const MAX_REGULAR_PROMPTS_TO_DISPLAY = 120;
+
+/**
+ * Convert locale to URL language prefix
+ * en -> en-US, zh -> zh-CN, others remain unchanged
+ */
+function getLocalePrefix(locale: string): string {
+  if (locale === 'en') {
+    return 'en-US';
+  }
+  if (locale === 'zh') {
+    return 'zh-CN';
+  }
+  // Other language codes (e.g., zh-TW, ja-JP) remain unchanged
+  return locale;
+}
 
 /**
  * 清理提示词内容中的代码块标记
@@ -146,8 +161,8 @@ function generateLanguageNavigation(currentLocale: string): string {
 function generateGalleryCTA(locale: string): string {
   // 根据语言选择图片：zh 和 zh-TW 使用 zh，其他使用 en
   const imageLang = locale === 'zh' || locale === 'zh-TW' ? 'zh' : 'en';
-  const coverImage = `public/images/seedream-4.5-prompts-cover-${imageLang}.png`;
-  const listImage = `public/images/seedream-4.5-prompts-list-${imageLang}.png`;
+  const coverImage = imageLang === 'zh' ? `https://marketing-assets.youmind.com/campaigns/seedream-4-dot-5-prompts-cover-cn.jpeg` :`https://marketing-assets.youmind.com/campaigns/seedream-4-dot-5-prompts-cover.jpeg`;
+  const listImage = imageLang === 'zh' ? `https://marketing-assets.youmind.com/campaigns/seedream-4-dot-5-prompts-list-cn.png` :`https://marketing-assets.youmind.com/campaigns/seedream-4-dot-5-prompts-list.png`;
 
   return `## 🌐 ${t('viewInGallery', locale)}
 
@@ -159,7 +174,7 @@ function generateGalleryCTA(locale: string): string {
 
 </div>
 
-**[${t('browseGallery', locale)}](https://youmind.com/seedream-4-dot-5-prompts)**
+**[${t('browseGallery', locale)}](https://youmind.com/${getLocalePrefix(locale)}/seedream-4-dot-5-prompts)**
 
 ${t('galleryFeatures', locale)}
 
@@ -223,7 +238,7 @@ function generatePromptSection(prompt: Prompt, index: number, locale: string): s
   md += `- **${t('languages', locale)}:** ${prompt.language}\n\n`;
 
   const encodedPrompt = encodeURIComponent(promptContent);
-  md += `**[${t('tryItNow', locale)}](https://youmind.com/seedream-4-dot-5-prompts?prompt=${encodedPrompt})**\n\n`;
+  md += `**[${t('tryItNow', locale)}](https://youmind.com/${getLocalePrefix(locale)}/seedream-4-dot-5-prompts?prompt=${encodedPrompt})**\n\n`;
 
   md += `---\n\n`;
 
@@ -259,7 +274,7 @@ function generateAllPromptsSection(regular: Prompt[], hiddenCount: number, local
     md += `<div align="center">\n\n`;
     md += `### 🎯 ${hiddenCount} ${t('morePromptsDesc', locale)}\n\n`;
     md += `Due to GitHub's content length limitations, we can only display the first ${MAX_REGULAR_PROMPTS_TO_DISPLAY} regular prompts in this README.\n\n`;
-    md += `**[${t('viewAll', locale)}](https://youmind.com/seedream-4-dot-5-prompts)**\n\n`;
+    md += `**[${t('viewAll', locale)}](https://youmind.com/${getLocalePrefix(locale)}/seedream-4-dot-5-prompts)**\n\n`;
     md += `The gallery features:\n\n`;
     md += `${t('galleryFeature1', locale)}\n\n`;
     md += `${t('galleryFeature2', locale)}\n\n`;
@@ -395,7 +410,7 @@ ${t('licensedUnder', locale)}
 
 <div align="center">
 
-**[🌐 ${t('viewInGallery', locale)}](https://youmind.com/seedream-4-dot-5-prompts)** •
+**[🌐 ${t('viewInGallery', locale)}](https://youmind.com/${getLocalePrefix(locale)}/seedream-4-dot-5-prompts)** •
 **[📝 ${t('submitPrompt', locale)}](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ ${t('starRepo', locale)}](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 

@@ -230,6 +230,7 @@ export async function findPromptByGitHubIssue(
   issueNumber: string
 ): Promise<Prompt | null> {
   const query = {
+    limit: 1,
     depth: 2,
     where: {
       "sourceMeta.github_issue": {
