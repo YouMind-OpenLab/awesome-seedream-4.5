@@ -172,11 +172,11 @@ export async function fetchAllPrompts(
     .map((item) => {
       let images: string[] = [];
       if (item.media) {
-        images = item.media.map((m) => m.url || "").filter(Boolean) as string[];
+        images = (item.media as Media[])
+          .map((m) => m.sizes?.small?.url || "")
+          .filter(Boolean) as string[];
       } else {
-        if (item.media) {
-          images = (item.media as Media[]).map((m) => m.sizes?.small?.url || "").filter(Boolean) as string[];
-        } else if(item.sourceMedia) {
+        if (item.sourceMedia) {
           images = item.sourceMedia;
         }
         if (item.video?.thumbnail) {
