@@ -88,9 +88,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **1** |
+| 📝 Total de prompts | **13** |
 | ⭐ Destacado | **0** |
-| 🔄 Última actualización | **miércoles, 10 de diciembre de 2025, 8:15:39 UTC** |
+| 🔄 Última actualización | **miércoles, 10 de diciembre de 2025, 9:43:41 UTC** |
 
 </div>
 
@@ -100,21 +100,18 @@ by {argument name="author" default="Steve Jobs"}
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
-### No. 1: 赛博国潮：刘亦菲
+### No. 1: Póster divertido y educativo para la feria de ciencias infantil
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descripción
 
-融合赛博朋克与国潮元素，以刘亦菲为主角，身着精致刺绣的未来感旗袍，站在雨夜的霓虹灯下。测试模型对复杂光影、湿润材质反射和电影级景深的渲染能力。
+Este prompt genera un póster divertido y educativo para una feria de ciencias infantil. Presenta una colorida ilustración de dibujos animados de niños como científicos, con una tipografía lúdica para hacer que la ciencia sea emocionante y accesible.
 
 #### 📝 Prompt
 
 ```
-{argument name="prompt" default="刘亦菲, 赛博朋克国潮旗袍, 雨夜, 湿润的地面反射, 霓虹灯光, 电影级景深, 丁达尔效应, 8K, 超写实主义, 摄影棚布光, 辛烷渲染"}
-{argument name="negative_prompt" default="低分辨率, 模糊, 畸形, 塑料感, 过于卡通, 缺乏细节"}
-{argument name="style" default="电影级写实"}
+Un póster divertido y educativo para una feria de ciencias infantil. El diseño es una colorida ilustración de dibujos animados con niños vestidos de científicos, mirando vasos de precipitados burbujeantes, telescopios y robots. La tipografía es lúdica y apta para niños. El póster debe hacer que la ciencia parezca emocionante y accesible, animando a los niños a participar. –ar 2:3
 ```
 
 #### 🖼️ Imágenes generadas
@@ -122,17 +119,413 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764687098935_md405b_liuyifei.jpeg" width="600" alt="赛博国潮：刘亦菲 - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359646358_zspn1j_00dc35614217759a1ac037ff108b7f90289c94d0a1d5608a917db3eb67739092" width="600" alt="Póster divertido y educativo para la feria de ciencias infantil - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [Jared](https://x.com/jaredliu_bravo)
+- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
 - **Fuente:** [Twitter Post](null)
-- **Publicado:** 2 de diciembre de 2025
-- **Idiomas:** zh
+- **Publicado:** 10 de diciembre de 2025
+- **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22prompt%22%20default%3D%22%E5%88%98%E4%BA%A6%E8%8F%B2%2C%20%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%9B%BD%E6%BD%AE%E6%97%97%E8%A2%8D%2C%20%E9%9B%A8%E5%A4%9C%2C%20%E6%B9%BF%E6%B6%A6%E7%9A%84%E5%9C%B0%E9%9D%A2%E5%8F%8D%E5%B0%84%2C%20%E9%9C%93%E8%99%B9%E7%81%AF%E5%85%89%2C%20%E7%94%B5%E5%BD%B1%E7%BA%A7%E6%99%AF%E6%B7%B1%2C%20%E4%B8%81%E8%BE%BE%E5%B0%94%E6%95%88%E5%BA%94%2C%208K%2C%20%E8%B6%85%E5%86%99%E5%AE%9E%E4%B8%BB%E4%B9%89%2C%20%E6%91%84%E5%BD%B1%E6%A3%9A%E5%B8%83%E5%85%89%2C%20%E8%BE%9B%E7%83%B7%E6%B8%B2%E6%9F%93%22%7D%0A%7Bargument%20name%3D%22negative_prompt%22%20default%3D%22%E4%BD%8E%E5%88%86%E8%BE%A8%E7%8E%87%2C%20%E6%A8%A1%E7%B3%8A%2C%20%E7%95%B8%E5%BD%A2%2C%20%E5%A1%91%E6%96%99%E6%84%9F%2C%20%E8%BF%87%E4%BA%8E%E5%8D%A1%E9%80%9A%2C%20%E7%BC%BA%E4%B9%8F%E7%BB%86%E8%8A%82%22%7D%0A%7Bargument%20name%3D%22style%22%20default%3D%22%E7%94%B5%E5%BD%B1%E7%BA%A7%E5%86%99%E5%AE%9E%22%7D)**
+**[👉 Pruébalo ahora →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20p%C3%B3ster%20divertido%20y%20educativo%20para%20una%20feria%20de%20ciencias%20infantil.%20El%20dise%C3%B1o%20es%20una%20colorida%20ilustraci%C3%B3n%20de%20dibujos%20animados%20con%20ni%C3%B1os%20vestidos%20de%20cient%C3%ADficos%2C%20mirando%20vasos%20de%20precipitados%20burbujeantes%2C%20telescopios%20y%20robots.%20La%20tipograf%C3%ADa%20es%20l%C3%BAdica%20y%20apta%20para%20ni%C3%B1os.%20El%20p%C3%B3ster%20debe%20hacer%20que%20la%20ciencia%20parezca%20emocionante%20y%20accesible%2C%20animando%20a%20los%20ni%C3%B1os%20a%20participar.%20%E2%80%93ar%202%3A3)**
+
+---
+
+### No. 2: Póster de Rebajas de Moda de Tendencia
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Este prompt genera un póster moderno y llamativo para las rebajas de fin de temporada de una tienda de moda. Utiliza colores atrevidos, tipografía moderna y una modelo elegante con tratamientos creativos para generar urgencia y emoción.
+
+#### 📝 Prompt
+
+```
+Un póster moderno y llamativo para las rebajas de fin de temporada de una tienda de moda. El diseño utiliza colores atrevidos y vibrantes, y una tipografía moderna y vanguardista. El elemento visual principal es una modelo elegante que viste ropa de la tienda, pero la imagen está tratada de forma creativa con pinceladas o elementos de collage. El texto "50% DE DESCUENTO EN TODO" es el elemento más destacado. El póster debe crear una sensación de urgencia y emoción. –ar 3:4
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765359647934_s6cd50_4eb3bcd431d809253c682482e40d34148f4c9fdf5ba65b00c11eaa279fe3230a" width="600" alt="Póster de Rebajas de Moda de Tendencia - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fuente:** [Twitter Post](null)
+- **Publicado:** 10 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20p%C3%B3ster%20moderno%20y%20llamativo%20para%20las%20rebajas%20de%20fin%20de%20temporada%20de%20una%20tienda%20de%20moda.%20El%20dise%C3%B1o%20utiliza%20colores%20atrevidos%20y%20vibrantes%2C%20y%20una%20tipograf%C3%ADa%20moderna%20y%20vanguardista.%20El%20elemento%20visual%20principal%20es%20una%20modelo%20elegante%20que%20viste%20ropa%20de%20la%20tienda%2C%20pero%20la%20imagen%20est%C3%A1%20tratada%20de%20forma%20creativa%20con%20pinceladas%20o%20elementos%20de%20collage.%20El%20texto%20%2250%25%20DE%20DESCUENTO%20EN%20TODO%22%20es%20el%20elemento%20m%C3%A1s%20destacado.%20El%20p%C3%B3ster%20debe%20crear%20una%20sensaci%C3%B3n%20de%20urgencia%20y%20emoci%C3%B3n.%20%E2%80%93ar%203%3A4)**
+
+---
+
+### No. 3: Póster de viaje inspirador de los Alpes suizos
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Este *prompt* genera un póster de viaje inspirador y hermoso de los Alpes suizos. Presenta una fotografía hiperrealista e impresionante de un pueblo alpino con montañas cubiertas de nieve, que evoca el deseo de viajar.
+
+#### 📝 Prompt
+
+```
+Un póster de viaje inspirador y hermoso para visitar los Alpes suizos. La imagen es una fotografía hiperrealista e impresionante de un pintoresco pueblo alpino con montañas cubiertas de nieve al fondo. El texto "SWITZERLAND: The Adventure Awaits" está en una fuente elegante y clásica. El póster debe evocar un fuerte deseo de viajar y hacer que el espectador quiera reservar un viaje de inmediato. –ar 2:3
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765359647153_218ang_18e85e9a2161677e43484cb9cd7b1887218ccf8c936d1d72f58fef6c121a3ea8" width="600" alt="Póster de viaje inspirador de los Alpes suizos - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fuente:** [Twitter Post](null)
+- **Publicado:** 10 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20p%C3%B3ster%20de%20viaje%20inspirador%20y%20hermoso%20para%20visitar%20los%20Alpes%20suizos.%20La%20imagen%20es%20una%20fotograf%C3%ADa%20hiperrealista%20e%20impresionante%20de%20un%20pintoresco%20pueblo%20alpino%20con%20monta%C3%B1as%20cubiertas%20de%20nieve%20al%20fondo.%20El%20texto%20%22SWITZERLAND%3A%20The%20Adventure%20Awaits%22%20est%C3%A1%20en%20una%20fuente%20elegante%20y%20cl%C3%A1sica.%20El%20p%C3%B3ster%20debe%20evocar%20un%20fuerte%20deseo%20de%20viajar%20y%20hacer%20que%20el%20espectador%20quiera%20reservar%20un%20viaje%20de%20inmediato.%20%E2%80%93ar%202%3A3)**
+
+---
+
+### No. 4: Volante eficaz para "Gato perdido"
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Este prompt genera un cartel de "Gato Perdido" eficaz y claro. Incluye una foto grande del gato, texto en negrita e información de contacto con pestañas para arrancar, lo que demuestra la capacidad de crear diseños prácticos y para el mundo real.
+
+#### 📝 Prompt
+
+```
+Un cartel de "Gato perdido" eficaz y claro. El diseño es sencillo y funcional. Presenta una fotografía grande, clara y en color del gato en la parte superior. El titular "GATO PERDIDO" está en una fuente muy grande, en negrita y fácil de leer. Debajo de la foto se encuentran el nombre del gato, su descripción, la última ubicación donde fue visto y la información de contacto del dueño con pestañas desprendibles en la parte inferior. Esto demuestra la capacidad de crear diseños prácticos y para el mundo real. –ar 3:4
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765359674422_t8le7q_a7f1e1c4d786c8a59b6d56bed9f1794953eaf4c91d925c67b07d1ea281ad9f69" width="600" alt="Volante eficaz para "Gato perdido" - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fuente:** [Twitter Post](null)
+- **Publicado:** 10 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20cartel%20de%20%22Gato%20perdido%22%20eficaz%20y%20claro.%20El%20dise%C3%B1o%20es%20sencillo%20y%20funcional.%20Presenta%20una%20fotograf%C3%ADa%20grande%2C%20clara%20y%20en%20color%20del%20gato%20en%20la%20parte%20superior.%20El%20titular%20%22GATO%20PERDIDO%22%20est%C3%A1%20en%20una%20fuente%20muy%20grande%2C%20en%20negrita%20y%20f%C3%A1cil%20de%20leer.%20Debajo%20de%20la%20foto%20se%20encuentran%20el%20nombre%20del%20gato%2C%20su%20descripci%C3%B3n%2C%20la%20%C3%BAltima%20ubicaci%C3%B3n%20donde%20fue%20visto%20y%20la%20informaci%C3%B3n%20de%20contacto%20del%20due%C3%B1o%20con%20pesta%C3%B1as%20desprendibles%20en%20la%20parte%20inferior.%20Esto%20demuestra%20la%20capacidad%20de%20crear%20dise%C3%B1os%20pr%C3%A1cticos%20y%20para%20el%20mundo%20real.%20%E2%80%93ar%203%3A4)**
+
+---
+
+### No. 5: Póster informativo del seminario sobre el cambio climático
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Este *prompt* genera un póster informativo y atractivo para un seminario público sobre el cambio climático. Está diseñado como una mini-infografía con un gráfico central de la Tierra y puntos de datos, con el objetivo de educar eficazmente con un diseño limpio y organizado.
+
+#### 📝 Prompt
+
+```
+Un póster informativo y atractivo para un seminario público sobre el cambio climático. El póster está diseñado como una mini-infografía, con un gráfico central grande que muestra la Tierra con un termómetro, e iconos y puntos de datos más pequeños a su alrededor que explican las causas y los efectos. El diseño es limpio, organizado y tiene como objetivo educar al espectador de forma rápida y eficaz. –ar 3:4
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765359675240_wtti1k_510c61e386a172f76c297cc251ac9821ddd69c51683562b1f031106bbb682648" width="600" alt="Póster informativo del seminario sobre el cambio climático - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fuente:** [Twitter Post](null)
+- **Publicado:** 10 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20p%C3%B3ster%20informativo%20y%20atractivo%20para%20un%20seminario%20p%C3%BAblico%20sobre%20el%20cambio%20clim%C3%A1tico.%20El%20p%C3%B3ster%20est%C3%A1%20dise%C3%B1ado%20como%20una%20mini-infograf%C3%ADa%2C%20con%20un%20gr%C3%A1fico%20central%20grande%20que%20muestra%20la%20Tierra%20con%20un%20term%C3%B3metro%2C%20e%20iconos%20y%20puntos%20de%20datos%20m%C3%A1s%20peque%C3%B1os%20a%20su%20alrededor%20que%20explican%20las%20causas%20y%20los%20efectos.%20El%20dise%C3%B1o%20es%20limpio%2C%20organizado%20y%20tiene%20como%20objetivo%20educar%20al%20espectador%20de%20forma%20r%C3%A1pida%20y%20eficaz.%20%E2%80%93ar%203%3A4)**
+
+---
+
+### No. 6: Anuncio de auriculares inalámbricos elegantes y minimalistas
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Este prompt genera un anuncio de póster elegante y minimalista para unos nuevos auriculares inalámbricos de alta tecnología. Presenta una impresionante renderización en 3D de los auriculares flotando en gravedad cero, centrándose en la belleza del producto con un diseño moderno y sofisticado.
+
+#### 📝 Prompt
+
+```
+Un elegante y minimalista póster publicitario para unos nuevos auriculares inalámbricos de alta tecnología. El póster presenta una impresionante representación 3D de alta resolución de los auriculares, que parecen flotar en un entorno de gravedad cero. El fondo es un degradado simple y limpio. El único texto es el nombre de la marca y el eslogan del producto: "Unleash Your Sound". El diseño es moderno, sofisticado y se centra por completo en la belleza del producto. –ar 2:3
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765359675191_mabnp6_d4ff0ab7b9e83178bdb7e5546de94745d68c03ddaa5d94b504aefe6a50e0d7f4" width="600" alt="Anuncio de auriculares inalámbricos elegantes y minimalistas - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fuente:** [Twitter Post](null)
+- **Publicado:** 10 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20elegante%20y%20minimalista%20p%C3%B3ster%20publicitario%20para%20unos%20nuevos%20auriculares%20inal%C3%A1mbricos%20de%20alta%20tecnolog%C3%ADa.%20El%20p%C3%B3ster%20presenta%20una%20impresionante%20representaci%C3%B3n%203D%20de%20alta%20resoluci%C3%B3n%20de%20los%20auriculares%2C%20que%20parecen%20flotar%20en%20un%20entorno%20de%20gravedad%20cero.%20El%20fondo%20es%20un%20degradado%20simple%20y%20limpio.%20El%20%C3%BAnico%20texto%20es%20el%20nombre%20de%20la%20marca%20y%20el%20eslogan%20del%20producto%3A%20%22Unleash%20Your%20Sound%22.%20El%20dise%C3%B1o%20es%20moderno%2C%20sofisticado%20y%20se%20centra%20por%20completo%20en%20la%20belleza%20del%20producto.%20%E2%80%93ar%202%3A3)**
+
+---
+
+### No. 7: Póster de la carrera benéfica 5K "Energetic"
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Este prompt genera un póster enérgico y motivador para una carrera benéfica de 5K. Presenta una fotografía dinámica de corredores diversos con formas abstractas y coloridas para sugerir movimiento e inspirar inscripciones.
+
+#### 📝 Prompt
+
+```
+Un póster enérgico y motivador para una carrera benéfica de 5K por una buena causa. El diseño presenta una fotografía dinámica de un grupo diverso de personas corriendo, con sonrisas en sus rostros. El fondo tiene formas y líneas abstractas y coloridas que sugieren movimiento y energía. Los detalles del evento son claros y fáciles de leer. El póster debe ser inspirador y animar a la gente a inscribirse. –ar 3:4
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765359698997_0535q8_9b84c623bf6bb66705b99447806c127dd3cec6a9e589365025568b97f69865d0" width="600" alt="Póster de la carrera benéfica 5K "Energetic" - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fuente:** [Twitter Post](null)
+- **Publicado:** 10 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20p%C3%B3ster%20en%C3%A9rgico%20y%20motivador%20para%20una%20carrera%20ben%C3%A9fica%20de%205K%20por%20una%20buena%20causa.%20El%20dise%C3%B1o%20presenta%20una%20fotograf%C3%ADa%20din%C3%A1mica%20de%20un%20grupo%20diverso%20de%20personas%20corriendo%2C%20con%20sonrisas%20en%20sus%20rostros.%20El%20fondo%20tiene%20formas%20y%20l%C3%ADneas%20abstractas%20y%20coloridas%20que%20sugieren%20movimiento%20y%20energ%C3%ADa.%20Los%20detalles%20del%20evento%20son%20claros%20y%20f%C3%A1ciles%20de%20leer.%20El%20p%C3%B3ster%20debe%20ser%20inspirador%20y%20animar%20a%20la%20gente%20a%20inscribirse.%20%E2%80%93ar%203%3A4)**
+
+---
+
+### No. 8: Póster Dramático Minimalista de Hamlet
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Este prompt genera un póster dramático y minimalista para una producción de "Hamlet" de Shakespeare. Presenta una única imagen potente de una calavera con una corona dorada sobre un fondo negro, transmitiendo simbolismo y seriedad.
+
+#### 📝 Prompt
+
+```
+Un póster dramático y minimalista para una producción de "Hamlet" de Shakespeare. El diseño presenta una imagen única y potente: una calavera humana con una corona dorada sobre ella, contra un fondo negro puro. El título "HAMLET" está en una fuente serif clásica y nítida, con las letras ligeramente deterioradas. El diseño es simbólico, moderno y lleno de seriedad. –ar 2:3
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765359699721_02hotm_a51c96ee3424f33d0b56d9c5ecd63f2ec580c0cd121f9eade399c950ed035404" width="600" alt="Póster Dramático Minimalista de Hamlet - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fuente:** [Twitter Post](null)
+- **Publicado:** 10 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20p%C3%B3ster%20dram%C3%A1tico%20y%20minimalista%20para%20una%20producci%C3%B3n%20de%20%22Hamlet%22%20de%20Shakespeare.%20El%20dise%C3%B1o%20presenta%20una%20imagen%20%C3%BAnica%20y%20potente%3A%20una%20calavera%20humana%20con%20una%20corona%20dorada%20sobre%20ella%2C%20contra%20un%20fondo%20negro%20puro.%20El%20t%C3%ADtulo%20%22HAMLET%22%20est%C3%A1%20en%20una%20fuente%20serif%20cl%C3%A1sica%20y%20n%C3%ADtida%2C%20con%20las%20letras%20ligeramente%20deterioradas.%20El%20dise%C3%B1o%20es%20simb%C3%B3lico%2C%20moderno%20y%20lleno%20de%20seriedad.%20%E2%80%93ar%202%3A3)**
+
+---
+
+### No. 9: Encantador cartel rústico para mercado de agricultores
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Este prompt genera un cartel encantador y rústico para un mercado de agricultores local. Presenta una ilustración dibujada a mano de productos frescos y flores, con una tipografía amigable para transmitir una sensación sana y orientada a la comunidad.
+
+#### 📝 Prompt
+
+```
+Un póster encantador y rústico para un mercado de agricultores local. El diseño es una ilustración de estilo amigable y dibujado a mano, que presenta una abundancia de verduras, frutas y flores frescas en una caja de madera. La tipografía es una sans-serif redondeada y amigable. El póster debe transmitir una sensación de salubridad, cercanía y orientación a la comunidad. –ar 3:4
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765359700134_ix6s0n_aac15ea93919e9be4354837fd578b1dd1ab5f5eb0fa46415d47b4c11c9d1ae36" width="600" alt="Encantador cartel rústico para mercado de agricultores - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fuente:** [Twitter Post](null)
+- **Publicado:** 10 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20p%C3%B3ster%20encantador%20y%20r%C3%BAstico%20para%20un%20mercado%20de%20agricultores%20local.%20El%20dise%C3%B1o%20es%20una%20ilustraci%C3%B3n%20de%20estilo%20amigable%20y%20dibujado%20a%20mano%2C%20que%20presenta%20una%20abundancia%20de%20verduras%2C%20frutas%20y%20flores%20frescas%20en%20una%20caja%20de%20madera.%20La%20tipograf%C3%ADa%20es%20una%20sans-serif%20redondeada%20y%20amigable.%20El%20p%C3%B3ster%20debe%20transmitir%20una%20sensaci%C3%B3n%20de%20salubridad%2C%20cercan%C3%ADa%20y%20orientaci%C3%B3n%20a%20la%20comunidad.%20%E2%80%93ar%203%3A4)**
+
+---
+
+### No. 10: Póster peculiar para un festival de cortometrajes independientes
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Este *prompt* genera un póster peculiar y de estilo independiente para un festival de cortometrajes. Utiliza un *collage* de garabatos y fotos *vintage* con tipografía mixta, dándole un toque retro, de fanzine y "hazlo tú mismo" para atraer a un público de cine de autor.
+
+#### 📝 Prompt
+
+```
+Un póster peculiar y de estilo independiente para un festival de cortometrajes. El diseño es un collage de garabatos hechos a mano, tiras de película y fotografías vintage. La tipografía es una mezcla de diferentes fuentes de máquina de escribir y manuscritas, lo que le da un toque DIY, tipo fanzine. La paleta de colores es limitada y tiene un aire retro. El póster debe parecer creativo, poco convencional y atractivo para un público de cine de autor. –ar 2:3
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765359726468_zopie3_4d8e818fd456103fde0de05f3d0f862ec8a451a32e6ec72f0dba56f5346c6fd2" width="600" alt="Póster peculiar para un festival de cortometrajes independientes - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fuente:** [Twitter Post](null)
+- **Publicado:** 10 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20p%C3%B3ster%20peculiar%20y%20de%20estilo%20independiente%20para%20un%20festival%20de%20cortometrajes.%20El%20dise%C3%B1o%20es%20un%20collage%20de%20garabatos%20hechos%20a%20mano%2C%20tiras%20de%20pel%C3%ADcula%20y%20fotograf%C3%ADas%20vintage.%20La%20tipograf%C3%ADa%20es%20una%20mezcla%20de%20diferentes%20fuentes%20de%20m%C3%A1quina%20de%20escribir%20y%20manuscritas%2C%20lo%20que%20le%20da%20un%20toque%20DIY%2C%20tipo%20fanzine.%20La%20paleta%20de%20colores%20es%20limitada%20y%20tiene%20un%20aire%20retro.%20El%20p%C3%B3ster%20debe%20parecer%20creativo%2C%20poco%20convencional%20y%20atractivo%20para%20un%20p%C3%BAblico%20de%20cine%20de%20autor.%20%E2%80%93ar%202%3A3)**
+
+---
+
+### No. 11: Portada de novela negra "El detective de las sombras"
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Este *prompt* genera una portada de libro emocionante y misteriosa para una novela policíaca titulada "El detective de las sombras". Presenta la silueta de un detective en un callejón con niebla y una única farola, lo que demuestra un fuerte control atmosférico para un ambiente *noir*.
+
+#### 📝 Prompt
+
+```
+Una portada de libro emocionante y misteriosa para una novela de crímenes titulada "The Shadow Detective". La portada presenta la silueta de un detective con sombrero fedora y gabardina, de pie en un callejón oscuro y con niebla. La única fuente de luz es una farola solitaria y distante. El título está en una fuente áspera y texturizada que parece haber sido estampada. El ambiente es de cine negro y lleno de suspense, demostrando un fuerte control atmosférico. –ar 2:3
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765359749886_kp53z5_6e8b4aee7f3968c08d89355e02eac75f80081c5a652af5be3043a2f7ddf122f3" width="600" alt="Portada de novela negra "El detective de las sombras" - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fuente:** [Twitter Post](null)
+- **Publicado:** 10 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Una%20portada%20de%20libro%20emocionante%20y%20misteriosa%20para%20una%20novela%20de%20cr%C3%ADmenes%20titulada%20%22The%20Shadow%20Detective%22.%20La%20portada%20presenta%20la%20silueta%20de%20un%20detective%20con%20sombrero%20fedora%20y%20gabardina%2C%20de%20pie%20en%20un%20callej%C3%B3n%20oscuro%20y%20con%20niebla.%20La%20%C3%BAnica%20fuente%20de%20luz%20es%20una%20farola%20solitaria%20y%20distante.%20El%20t%C3%ADtulo%20est%C3%A1%20en%20una%20fuente%20%C3%A1spera%20y%20texturizada%20que%20parece%20haber%20sido%20estampada.%20El%20ambiente%20es%20de%20cine%20negro%20y%20lleno%20de%20suspense%2C%20demostrando%20un%20fuerte%20control%20atmosf%C3%A9rico.%20%E2%80%93ar%202%3A3)**
+
+---
+
+### No. 12: Póster del Museo Japonés Ukiyo-e
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Este prompt genera un póster elegante y artístico para una exposición de grabados japoneses Ukiyo-e en un museo. Presenta un detalle recortado de un grabado famoso y un diseño minimalista con espacio negativo, lo que demuestra conocimiento de la historia del arte y el diseño gráfico.
+
+#### 📝 Prompt
+
+```
+Un póster elegante y artístico para una exposición de grabados japoneses Ukiyo-e en un museo. El diseño presenta un detalle hermoso y de alta resolución de un grabado famoso, como "La gran ola" de Hokusai, pero recortado de forma creativa. La tipografía es una mezcla de una elegante fuente serif inglesa y caligrafía japonesa. El diseño es minimalista y respetuoso con la obra de arte, utilizando mucho espacio negativo. Esto demuestra conocimiento de la historia del arte y habilidades sofisticadas de diseño gráfico. –ar 2:3
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765359780100_qk33pd_beae2d398472f2b3de739d44e5bf89f8efa9c33dfe4296325c296f7d75081a85" width="600" alt="Póster del Museo Japonés Ukiyo-e - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fuente:** [Twitter Post](null)
+- **Publicado:** 10 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20p%C3%B3ster%20elegante%20y%20art%C3%ADstico%20para%20una%20exposici%C3%B3n%20de%20grabados%20japoneses%20Ukiyo-e%20en%20un%20museo.%20El%20dise%C3%B1o%20presenta%20un%20detalle%20hermoso%20y%20de%20alta%20resoluci%C3%B3n%20de%20un%20grabado%20famoso%2C%20como%20%22La%20gran%20ola%22%20de%20Hokusai%2C%20pero%20recortado%20de%20forma%20creativa.%20La%20tipograf%C3%ADa%20es%20una%20mezcla%20de%20una%20elegante%20fuente%20serif%20inglesa%20y%20caligraf%C3%ADa%20japonesa.%20El%20dise%C3%B1o%20es%20minimalista%20y%20respetuoso%20con%20la%20obra%20de%20arte%2C%20utilizando%20mucho%20espacio%20negativo.%20Esto%20demuestra%20conocimiento%20de%20la%20historia%20del%20arte%20y%20habilidades%20sofisticadas%20de%20dise%C3%B1o%20gr%C3%A1fico.%20%E2%80%93ar%202%3A3)**
+
+---
+
+### No. 13: Folleto de reclutamiento de desarrolladores de software
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Este prompt genera un folleto de reclutamiento audaz y directo para una startup que busca desarrolladores de software. Utiliza una fuente sans-serif fuerte, una ilustración abstracta de código que se convierte en el horizonte de una ciudad y una paleta de colores enérgicos y orientados a la tecnología.
+
+#### 📝 Prompt
+
+```
+Un folleto de reclutamiento audaz y directo para una startup que busca desarrolladores de software. El titular "CONSTRUYE EL FUTURO" está en una fuente grande, fuerte y sans-serif. La imagen principal es una ilustración abstracta y estilizada de código transformándose en el horizonte de una ciudad en crecimiento. El logotipo de la empresa y un código QR a la página de solicitud se muestran prominentemente en la parte inferior. La paleta de colores es enérgica y orientada a la tecnología (por ejemplo, azul eléctrico y gris oscuro). –ar 3:4
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765359779471_v1iid4_2be83f81b65155b8bd931d172064c1bc0cc2fb041ac281d6514d194c61e594a6" width="600" alt="Folleto de reclutamiento de desarrolladores de software - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fuente:** [Twitter Post](null)
+- **Publicado:** 10 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20folleto%20de%20reclutamiento%20audaz%20y%20directo%20para%20una%20startup%20que%20busca%20desarrolladores%20de%20software.%20El%20titular%20%22CONSTRUYE%20EL%20FUTURO%22%20est%C3%A1%20en%20una%20fuente%20grande%2C%20fuerte%20y%20sans-serif.%20La%20imagen%20principal%20es%20una%20ilustraci%C3%B3n%20abstracta%20y%20estilizada%20de%20c%C3%B3digo%20transform%C3%A1ndose%20en%20el%20horizonte%20de%20una%20ciudad%20en%20crecimiento.%20El%20logotipo%20de%20la%20empresa%20y%20un%20c%C3%B3digo%20QR%20a%20la%20p%C3%A1gina%20de%20solicitud%20se%20muestran%20prominentemente%20en%20la%20parte%20inferior.%20La%20paleta%20de%20colores%20es%20en%C3%A9rgica%20y%20orientada%20a%20la%20tecnolog%C3%ADa%20(por%20ejemplo%2C%20azul%20el%C3%A9ctrico%20y%20gris%20oscuro).%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -179,6 +572,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-10T08:15:39.063Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-10T09:43:41.986Z</sub>
 
 </div>
