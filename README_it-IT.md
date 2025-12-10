@@ -90,7 +90,7 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 |--------|-------|
 | 📝 Totale prompt | **112** |
 | ⭐ In evidenza | **0** |
-| 🔄 Ultimo aggiornamento | **mercoledì 10 dicembre 2025 alle ore 14:23:51 UTC** |
+| 🔄 Ultimo aggiornamento | **mercoledì 10 dicembre 2025 alle ore 14:34:58 UTC** |
 
 </div>
 
@@ -119,7 +119,7 @@ Un poster divertente ed educativo per una fiera della scienza per bambini. Il de
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359646358_zspn1j_00dc35614217759a1ac037ff108b7f90289c94d0a1d5608a917db3eb67739092" width="600" alt="Divertente poster educativo per la fiera della scienza dei bambini - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359646358_zspn1j_00dc35614217759a1ac037ff108b7f90289c94d0a1d5608a917db3eb67739092-600x900.png" width="600" alt="Divertente poster educativo per la fiera della scienza dei bambini - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -152,7 +152,7 @@ Un poster trendy e accattivante per i saldi di fine stagione di un negozio di mo
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359647934_s6cd50_4eb3bcd431d809253c682482e40d34148f4c9fdf5ba65b00c11eaa279fe3230a" width="600" alt="Poster di Saldi di Moda Trendy - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359647934_s6cd50_4eb3bcd431d809253c682482e40d34148f4c9fdf5ba65b00c11eaa279fe3230a-600x800.png" width="600" alt="Poster di Saldi di Moda Trendy - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -185,7 +185,7 @@ Un poster di viaggio suggestivo e bellissimo per visitare le Alpi svizzere. L'im
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359647153_218ang_18e85e9a2161677e43484cb9cd7b1887218ccf8c936d1d72f58fef6c121a3ea8" width="600" alt="Poster di viaggio ispirazionale sulle Alpi Svizzere - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359647153_218ang_18e85e9a2161677e43484cb9cd7b1887218ccf8c936d1d72f58fef6c121a3ea8-600x900.png" width="600" alt="Poster di viaggio ispirazionale sulle Alpi Svizzere - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -218,7 +218,7 @@ Un volantino efficace e chiaro per un "Gatto Smarrito". Il design è semplice e 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359674422_t8le7q_a7f1e1c4d786c8a59b6d56bed9f1794953eaf4c91d925c67b07d1ea281ad9f69" width="600" alt="Volantino efficace per "Gatto smarrito" - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359674422_t8le7q_a7f1e1c4d786c8a59b6d56bed9f1794953eaf4c91d925c67b07d1ea281ad9f69-600x800.png" width="600" alt="Volantino efficace per "Gatto smarrito" - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -251,7 +251,7 @@ Un poster informativo e coinvolgente per un seminario pubblico sul cambiamento c
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359675240_wtti1k_510c61e386a172f76c297cc251ac9821ddd69c51683562b1f031106bbb682648" width="600" alt="Locandina informativa del seminario sui cambiamenti climatici - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359675240_wtti1k_510c61e386a172f76c297cc251ac9821ddd69c51683562b1f031106bbb682648-600x800.png" width="600" alt="Locandina informativa del seminario sui cambiamenti climatici - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -284,7 +284,7 @@ Un poster pubblicitario elegante e minimalista per le nuove cuffie wireless ad a
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359675191_mabnp6_d4ff0ab7b9e83178bdb7e5546de94745d68c03ddaa5d94b504aefe6a50e0d7f4" width="600" alt="Annuncio cuffie wireless minimaliste ed eleganti - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359675191_mabnp6_d4ff0ab7b9e83178bdb7e5546de94745d68c03ddaa5d94b504aefe6a50e0d7f4-600x900.png" width="600" alt="Annuncio cuffie wireless minimaliste ed eleganti - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -317,7 +317,7 @@ Un poster energico e motivazionale per una corsa di beneficenza di 5 km a favore
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359698997_0535q8_9b84c623bf6bb66705b99447806c127dd3cec6a9e589365025568b97f69865d0" width="600" alt="Locandina della Corsa di Beneficenza 5K "Energetic" - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359698997_0535q8_9b84c623bf6bb66705b99447806c127dd3cec6a9e589365025568b97f69865d0-600x800.png" width="600" alt="Locandina della Corsa di Beneficenza 5K "Energetic" - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -350,7 +350,7 @@ Un poster drammatico e minimalista per una produzione dell'"Amleto" di Shakespea
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359699721_02hotm_a51c96ee3424f33d0b56d9c5ecd63f2ec580c0cd121f9eade399c950ed035404" width="600" alt="Poster di Amleto Drammatico Minimalista - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359699721_02hotm_a51c96ee3424f33d0b56d9c5ecd63f2ec580c0cd121f9eade399c950ed035404-600x900.png" width="600" alt="Poster di Amleto Drammatico Minimalista - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -383,7 +383,7 @@ Un poster affascinante e rustico per un mercato contadino locale. Il design è u
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359700134_ix6s0n_aac15ea93919e9be4354837fd578b1dd1ab5f5eb0fa46415d47b4c11c9d1ae36" width="600" alt="Incantevole poster rustico per il mercato contadino - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359700134_ix6s0n_aac15ea93919e9be4354837fd578b1dd1ab5f5eb0fa46415d47b4c11c9d1ae36-600x800.png" width="600" alt="Incantevole poster rustico per il mercato contadino - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -416,7 +416,7 @@ Un poster stravagante e dallo stile indipendente per un festival di cortometragg
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359726468_zopie3_4d8e818fd456103fde0de05f3d0f862ec8a451a32e6ec72f0dba56f5346c6fd2" width="600" alt="Locandina del Festival del Cortometraggio Indipendente "Quirky" - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359726468_zopie3_4d8e818fd456103fde0de05f3d0f862ec8a451a32e6ec72f0dba56f5346c6fd2-600x900.png" width="600" alt="Locandina del Festival del Cortometraggio Indipendente "Quirky" - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -449,7 +449,7 @@ Un poster sereno e rilassante per un workshop di yoga e meditazione del fine set
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765367961714_t47x0n_313e7deeb6c193d794d71ec8cec044dbc36e20b3f9e0fa338284467031d9e04f" width="600" alt="Locandina del workshop di Serene Yoga & Meditazione - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765367961714_t47x0n_313e7deeb6c193d794d71ec8cec044dbc36e20b3f9e0fa338284467031d9e04f-600x800.png" width="600" alt="Locandina del workshop di Serene Yoga & Meditazione - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -482,7 +482,7 @@ Un volantino delizioso e invitante per l'inaugurazione di un nuovo ristorante it
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765367961890_sii4rm_1f4e43ff4dda6b28373b94aed5aa7bffc4815c1f5d212053ab1a343051b86704" width="600" alt="Volantino per la Grande Inaugurazione del Ristorante Italiano - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765367961890_sii4rm_1f4e43ff4dda6b28373b94aed5aa7bffc4815c1f5d212053ab1a343051b86704-600x750.png" width="600" alt="Volantino per la Grande Inaugurazione del Ristorante Italiano - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -515,7 +515,7 @@ Un poster potente e stimolante per un annuncio di pubblica utilità sull'inquina
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765367960733_h016tz_5ed05bd2ce5bba756b3a380cd7620a25b24a29a495ab05eafe9f2c85b4c08d8a" width="600" alt="Poster PSA sull'inquinamento da plastica - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765367960733_h016tz_5ed05bd2ce5bba756b3a380cd7620a25b24a29a495ab05eafe9f2c85b4c08d8a-600x800.png" width="600" alt="Poster PSA sull'inquinamento da plastica - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -548,7 +548,7 @@ Una copertina di libro emozionante e misteriosa per un romanzo giallo intitolato
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359749886_kp53z5_6e8b4aee7f3968c08d89355e02eac75f80081c5a652af5be3043a2f7ddf122f3" width="600" alt="Copertina del romanzo poliziesco "L'investigatore ombra" - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359749886_kp53z5_6e8b4aee7f3968c08d89355e02eac75f80081c5a652af5be3043a2f7ddf122f3-600x900.png" width="600" alt="Copertina del romanzo poliziesco "L'investigatore ombra" - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -581,7 +581,7 @@ Un poster elegante e artistico per una mostra museale di stampe xilografiche Uki
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359780100_qk33pd_beae2d398472f2b3de739d44e5bf89f8efa9c33dfe4296325c296f7d75081a85" width="600" alt="Poster del Museo Giapponese Ukiyo-e - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359780100_qk33pd_beae2d398472f2b3de739d44e5bf89f8efa9c33dfe4296325c296f7d75081a85-600x900.png" width="600" alt="Poster del Museo Giapponese Ukiyo-e - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -614,7 +614,7 @@ Un volantino di reclutamento audace e diretto per una startup alla ricerca di sv
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359779471_v1iid4_2be83f81b65155b8bd931d172064c1bc0cc2fb041ac281d6514d194c61e594a6" width="600" alt="Volantino per il reclutamento di sviluppatori software - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359779471_v1iid4_2be83f81b65155b8bd931d172064c1bc0cc2fb041ac281d6514d194c61e594a6-600x800.png" width="600" alt="Volantino per il reclutamento di sviluppatori software - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -647,7 +647,7 @@ Un poster vibrante e psichedelico per un festival musicale estivo chiamato "Ethe
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359797691_hgduy7_7f38ccdb2888614aea47dcabcb193265155dc519db24136d6482c0dd6a6c1160" width="600" alt="Poster del Festival di Musica Psichedelica "Ethereal Bloom" - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359797691_hgduy7_7f38ccdb2888614aea47dcabcb193265155dc519db24136d6482c0dd6a6c1160-600x900.png" width="600" alt="Poster del Festival di Musica Psichedelica "Ethereal Bloom" - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -680,7 +680,7 @@ Un poster cinematografico epico per un blockbuster fantascientifico immaginario 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359801504_0xpg0w_1e5e6f6d40dcbf37b3007a60a5143337e0a67b48f0bae155544672a004419bb1" width="600" alt="Locandina cinematografica di fantascienza "CHRONOS" - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359801504_0xpg0w_1e5e6f6d40dcbf37b3007a60a5143337e0a67b48f0bae155544672a004419bb1-600x900.png" width="600" alt="Locandina cinematografica di fantascienza "CHRONOS" - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -713,7 +713,7 @@ Un'anteprima per un tutorial su "Come creare un sito web in 10 minuti". L'immagi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359803888_85aak1_7db4d11cf8cb3d575477d6fcb44c884e843e09a9d1c849534498fc289271574c" width="600" alt="Miniatura del tutorial sulla creazione di siti web - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359803888_85aak1_7db4d11cf8cb3d575477d6fcb44c884e843e09a9d1c849534498fc289271574c-600x337.png" width="600" alt="Miniatura del tutorial sulla creazione di siti web - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -746,7 +746,7 @@ Una miniatura per la sfida "Mangiare solo cibo da distributori automatici per 24
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359826384_5thcf7_cf2681b72434f1f9eb3abcd48a02db5ba77094a0806434a7083b13088ea01ca2" width="600" alt="Miniatura della sfida alimentare del distributore automatico - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359826384_5thcf7_cf2681b72434f1f9eb3abcd48a02db5ba77094a0806434a7083b13088ea01ca2-600x337.png" width="600" alt="Miniatura della sfida alimentare del distributore automatico - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -779,7 +779,7 @@ Un'anteprima per un video di scherzi. L'immagine cattura il momento clou dello s
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359826812_3kmm0z_c27c032b4e0eb4dd230eb1dbc5d907728aef5e86c12c00bd34808d2d640ef7f7" width="600" alt="Miniatura video scherzo - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359826812_3kmm0z_c27c032b4e0eb4dd230eb1dbc5d907728aef5e86c12c00bd34808d2d640ef7f7-600x337.png" width="600" alt="Miniatura video scherzo - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -812,7 +812,7 @@ Una miniatura per un video intitolato "5-Minute Life Hacks". L'immagine è una g
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359826854_zld663_5e728a1a63f054c88f1d7d774ba7d0e36ca40b9fad806abddf954eb7d957ef54" width="600" alt="Miniature "Trucchi di vita da 5 minuti" - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359826854_zld663_5e728a1a63f054c88f1d7d774ba7d0e36ca40b9fad806abddf954eb7d957ef54-600x337.png" width="600" alt="Miniature "Trucchi di vita da 5 minuti" - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -845,7 +845,7 @@ Una miniatura per un video di unboxing di un nuovo e costoso gadget tecnologico.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359851834_un6clb_85a267e1d3130620520e2800c5866185ed2faa39f4085ff237d045b4ef4ffce7" width="600" alt="Miniatura Unboxing Gadget Tecnologico - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359851834_un6clb_85a267e1d3130620520e2800c5866185ed2faa39f4085ff237d045b4ef4ffce7-600x337.png" width="600" alt="Miniatura Unboxing Gadget Tecnologico - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -878,7 +878,7 @@ Una miniatura per un documentario sull'antico Egitto. L'immagine è un rendering
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359853121_adq5sn_fab0eac438d07ba84861e7fabce5dd05b6a36b2183b7b06b72c5ad546aa7df69" width="600" alt="Miniatura del documentario sull'Antico Egitto - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359853121_adq5sn_fab0eac438d07ba84861e7fabce5dd05b6a36b2183b7b06b72c5ad546aa7df69-600x337.png" width="600" alt="Miniatura del documentario sull'Antico Egitto - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -911,7 +911,7 @@ Una miniatura per una recensione di una nuova supercar elettrica. L'auto è most
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359852520_3t2hlv_4514080c766c42a1255a2246ff4b6261d85db0f25a78dd70994fe22caa05f7cb" width="600" alt="Miniatura recensione supercar elettrica - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359852520_3t2hlv_4514080c766c42a1255a2246ff4b6261d85db0f25a78dd70994fe22caa05f7cb-600x337.png" width="600" alt="Miniatura recensione supercar elettrica - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -944,7 +944,7 @@ Una miniatura scura e misteriosa per un documentario true crime. L'immagine è u
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359875601_ti4vut_5ebeba4d9fc7284defb13ff5cbdf69102cae60e95aaa7af3bfd9e512b2a79d2f" width="600" alt="Miniatura del documentario True Crime - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359875601_ti4vut_5ebeba4d9fc7284defb13ff5cbdf69102cae60e95aaa7af3bfd9e512b2a79d2f-600x337.png" width="600" alt="Miniatura del documentario True Crime - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -977,7 +977,7 @@ Un'immagine in miniatura per un video sui risultati di una "Sfida Fitness di 30 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359877133_wfrjxo_71b453d5c7354270702bd21ea6ce5c292083909941c78792940f78f07738b929" width="600" alt="Miniatura dei risultati della sfida fitness di 30 giorni - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359877133_wfrjxo_71b453d5c7354270702bd21ea6ce5c292083909941c78792940f78f07738b929-600x337.png" width="600" alt="Miniatura dei risultati della sfida fitness di 30 giorni - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1010,7 +1010,7 @@ Una miniatura per un video che spiega i buchi neri. L'immagine è una rappresent
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359877066_tmo2mz_8ef67c65974dda9a310ea2835c5dfe9c4503821ef97bdeb9a7fd193f301d5313" width="600" alt="Miniatura della spiegazione del buco nero - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359877066_tmo2mz_8ef67c65974dda9a310ea2835c5dfe9c4503821ef97bdeb9a7fd193f301d5313-600x337.png" width="600" alt="Miniatura della spiegazione del buco nero - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1043,7 +1043,7 @@ Una miniatura per un video di decorazione fai-da-te. L'immagine mostra uno scher
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359900370_9r1704_ab90bfdfcf0d0c7ab2556c996cbd238f4fe239e87325268a10cd40436c3f3634" width="600" alt="Ristrutturazione fai da te della stanza: prima e dopo - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359900370_9r1704_ab90bfdfcf0d0c7ab2556c996cbd238f4fe239e87325268a10cd40436c3f3634-600x337.png" width="600" alt="Ristrutturazione fai da te della stanza: prima e dopo - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1076,7 +1076,7 @@ Una miniatura per un video di ricette su "La Torta al Cioccolato Definitiva". L'
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359901359_1x34it_03121fa70e72330556cbd276f62b40bb3b959dd20737ecf355e76d61e5a3e077" width="600" alt="Miniatura della ricetta della torta al cioccolato definitiva - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359901359_1x34it_03121fa70e72330556cbd276f62b40bb3b959dd20737ecf355e76d61e5a3e077-600x337.png" width="600" alt="Miniatura della ricetta della torta al cioccolato definitiva - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1109,7 +1109,7 @@ Una miniatura per un video di "Minecraft Survival". L'immagine mostra il persona
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765369899639_932wt1_image.png" width="600" alt="Miniatura video di Minecraft Survival - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765369899639_932wt1_image-600x337.png" width="600" alt="Miniatura video di Minecraft Survival - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1142,7 +1142,7 @@ Una miniatura mozzafiato per un vlog di viaggio su Bali. L'immagine è uno scatt
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359903042_30dda6_1b055fabcac0ef74ade652ee5f228fd4eabc9b207be6f70f37a1616a3de931e2" width="600" alt="Miniatura del Vlog di Viaggio a Bali - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359903042_30dda6_1b055fabcac0ef74ade652ee5f228fd4eabc9b207be6f70f37a1616a3de931e2-600x337.png" width="600" alt="Miniatura del Vlog di Viaggio a Bali - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1175,7 +1175,7 @@ Un'immagine in miniatura per una recensione dell'ultimo smartphone. Il telefono 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359924818_vj5g9z_a672cbbb55c04d0fd842612f03751ff6f71209ee26810d0ecb31fb0006abacf0" width="600" alt="Miniatura recensione smartphone - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359924818_vj5g9z_a672cbbb55c04d0fd842612f03751ff6f71209ee26810d0ecb31fb0006abacf0-600x337.png" width="600" alt="Miniatura recensione smartphone - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1208,7 +1208,7 @@ Una miniatura ad alta energia per un video "Try Not to Laugh Challenge". Present
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359926354_hoegcp_68ca62b3e06921c89f49982ed2dc9c4feff4e9435c2c33f98c1c42669ab38f7e" width="600" alt="Miniatura della sfida "Cerca di non ridere" - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359926354_hoegcp_68ca62b3e06921c89f49982ed2dc9c4feff4e9435c2c33f98c1c42669ab38f7e-600x337.png" width="600" alt="Miniatura della sfida "Cerca di non ridere" - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1241,7 +1241,7 @@ Un diagramma di architettura di sistema di alto livello per una moderna applicaz
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359932380_34jgt9_cf89b086154f3db23cb91cf01007b07ff5b0d1d6de917cbdfd872738fc0d5298" width="600" alt="Diagramma dell'Architettura del Sistema di un'Applicazione Web - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359932380_34jgt9_cf89b086154f3db23cb91cf01007b07ff5b0d1d6de917cbdfd872738fc0d5298-600x337.png" width="600" alt="Diagramma dell'Architettura del Sistema di un'Applicazione Web - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1274,7 +1274,7 @@ Una scheda ricetta splendidamente illustrata per preparare la pasta fatta in cas
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359944420_tw6rfy_77721eb71d52cc73d3605105bd8b7a9888b199ad870f6a4296bfc6c56102fd53" width="600" alt="Scheda illustrata della ricetta della pasta fatta in casa - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359944420_tw6rfy_77721eb71d52cc73d3605105bd8b7a9888b199ad870f6a4296bfc6c56102fd53-600x800.png" width="600" alt="Scheda illustrata della ricetta della pasta fatta in casa - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1307,7 +1307,7 @@ Una guida visiva sulla sicurezza sul luogo di lavoro, che illustra la postura co
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359948609_2vso37_0490ff1e27881908c2f57279ed53cb0683a6246fe993c76ed401e66f57f0caac" width="600" alt="Guida alla sicurezza per la postura sul posto di lavoro - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359948609_2vso37_0490ff1e27881908c2f57279ed53cb0683a6246fe993c76ed401e66f57f0caac-600x800.png" width="600" alt="Guida alla sicurezza per la postura sul posto di lavoro - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1340,7 +1340,7 @@ Un diagramma chiaro e semplice che spiega come funziona una stampante 3D (tecnol
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359951657_6x8wiq_a28d98bfdcf6bcfbf29d169ba7af5ea98ab3794f7bd1909ab4b05462414b7772" width="600" alt="Diagramma di funzionamento della stampante 3D - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359951657_6x8wiq_a28d98bfdcf6bcfbf29d169ba7af5ea98ab3794f7bd1909ab4b05462414b7772-600x337.png" width="600" alt="Diagramma di funzionamento della stampante 3D - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1373,7 +1373,7 @@ Una mappa illustrata stilizzata e isometrica di un parco nazionale. La mappa dov
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359970268_rcdthd_bf500cba6499874444cf6ff9375a9c765df1bb571a2b8216c70ffa7a3a283d54" width="600" alt="Mappa isometrica del Parco Nazionale - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359970268_rcdthd_bf500cba6499874444cf6ff9375a9c765df1bb571a2b8216c70ffa7a3a283d54-600x450.png" width="600" alt="Mappa isometrica del Parco Nazionale - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1406,7 +1406,7 @@ Una sezione di un disegno in stile progetto che spiega il concetto di design sol
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359973271_pdbxwc_c6b94b7b550aac22ddcc5cb218e2579891facd7bf4789233eb0581b2ba0c84d9" width="600" alt="Progettazione passiva solare Blueprint - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359973271_pdbxwc_c6b94b7b550aac22ddcc5cb218e2579891facd7bf4789233eb0581b2ba0c84d9-600x337.png" width="600" alt="Progettazione passiva solare Blueprint - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1439,7 +1439,7 @@ Un'illustrazione scientifica dettagliata di una cellula vegetale, nello stile di
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359975492_2deaph_df758e9f5d5ddd765d001220d1412d72984f04eb480958eeb7f9ac08e4275cee" width="600" alt="Illustrazione scientifica di una cellula vegetale - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359975492_2deaph_df758e9f5d5ddd765d001220d1412d72984f04eb480958eeb7f9ac08e4275cee-600x450.png" width="600" alt="Illustrazione scientifica di una cellula vegetale - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1472,7 +1472,7 @@ Una visualizzazione dati bella e informativa per un report sulla deforestazione 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359995792_935v79_451d9e59da9ac0d1e4ab12f3fc35b626497c9a0386c651672c3556e1ec4fc70a" width="600" alt="Visualizzazione dei dati sulla deforestazione globale - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359995792_935v79_451d9e59da9ac0d1e4ab12f3fc35b626497c9a0386c651672c3556e1ec4fc70a-600x337.png" width="600" alt="Visualizzazione dei dati sulla deforestazione globale - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1505,7 +1505,7 @@ Un'illustrazione tecnica in vista esplosa di una fotocamera DSLR. Ogni component
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359997080_1prfza_c8269754000f110a97bf65145ca5373a1fc1fbe87f6b30e334dffbd18bc5b5df" width="600" alt="Illustrazione di una fotocamera DSLR con vista esplosa - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359997080_1prfza_c8269754000f110a97bf65145ca5373a1fc1fbe87f6b30e334dffbd18bc5b5df-600x337.png" width="600" alt="Illustrazione di una fotocamera DSLR con vista esplosa - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1538,7 +1538,7 @@ Una tabella di confronto visiva (un'infografica "vs.") che mette a confronto aut
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359996985_swkfjt_025cf48cdf39f10755df260dea0d9796003eb88ba7ff741c5ef20828050b678b" width="600" alt="Confronto tra auto elettriche e a benzina - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359996985_swkfjt_025cf48cdf39f10755df260dea0d9796003eb88ba7ff741c5ef20828050b678b-600x337.png" width="600" alt="Confronto tra auto elettriche e a benzina - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1571,7 +1571,7 @@ Una guida visiva semplice e passo-passo su "Come preparare la tazza di caffè pe
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360020018_utsoub_569c26ce3c8be204cf2719b1245fa0d66c9364713f37e088e9c7f89b24103f68" width="600" alt="Guida al caffè Pour-Over - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360020018_utsoub_569c26ce3c8be204cf2719b1245fa0d66c9364713f37e088e9c7f89b24103f68-600x1200.png" width="600" alt="Guida al caffè Pour-Over - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1604,7 +1604,7 @@ Un diagramma in sezione 3D di un vulcano, che mostra la sua struttura interna. I
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360021554_hz6eqa_15384c7a700e2f6caf11a1ae450c9b4f2fa7259b6bd2aab631cd7ddbdea697bb" width="600" alt="Diagramma 3D di un vulcano in sezione - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360021554_hz6eqa_15384c7a700e2f6caf11a1ae450c9b4f2fa7259b6bd2aab631cd7ddbdea697bb-600x337.png" width="600" alt="Diagramma 3D di un vulcano in sezione - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1637,7 +1637,7 @@ Un'illustrazione dettagliata in stile lavagna vintage che spiega l'anatomia del 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360021711_vf88g1_375e97890c3e1c912a6be2d5a3238a4fe91a2a3e99abc7e9caeade8d5ebde855" width="600" alt="Anatomia del cuore su lavagna vintage - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360021711_vf88g1_375e97890c3e1c912a6be2d5a3238a4fe91a2a3e99abc7e9caeade8d5ebde855-600x450.png" width="600" alt="Anatomia del cuore su lavagna vintage - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1670,7 +1670,7 @@ Una mappa mentale vibrante e organica incentrata sul tema del "Pensiero Creativo
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360046589_xbdktm_7f8ef516875cb2529572760ff3af83434fa448b108c72ee77fbed2f0d0c31349" width="600" alt="Mappa Mentale Vivace per il Pensiero Creativo - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360046589_xbdktm_7f8ef516875cb2529572760ff3af83434fa448b108c72ee77fbed2f0d0c31349-600x337.png" width="600" alt="Mappa Mentale Vivace per il Pensiero Creativo - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1703,7 +1703,7 @@ Un diagramma di flusso pulito e professionale che illustra il ciclo di vita dell
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360048342_c53zez_ee77452b9f75a5acfcb5d1f9cce49aa48c929b421e9b18173c78f58aaa3340b5" width="600" alt="Diagramma di flusso SDLC professionale - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360048342_c53zez_ee77452b9f75a5acfcb5d1f9cce49aa48c929b421e9b18173c78f58aaa3340b5-600x337.png" width="600" alt="Diagramma di flusso SDLC professionale - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1736,7 +1736,7 @@ Una spiegazione dettagliata, disegnata a mano su una lavagna, del processo di fo
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360049311_aiw2tn_57462cb7394928f1406090ed7f8a63b9f188c3a2475b057361262f1842e3904b" width="600" alt="Spiegazione della fotosintesi alla lavagna - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360049311_aiw2tn_57462cb7394928f1406090ed7f8a63b9f188c3a2475b057361262f1842e3904b-600x337.png" width="600" alt="Spiegazione della fotosintesi alla lavagna - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1769,7 +1769,7 @@ Un'immagine serena e rilassante per un post sulla cura di sé e la salute mental
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360072488_tpymr8_dde65621d97d14063e3d68ed13f389873d2eb1207bb870d484007949cda32fe8" width="600" alt="Bagno Sereno per la Cura di Sé - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360072488_tpymr8_dde65621d97d14063e3d68ed13f389873d2eb1207bb870d484007949cda32fe8-600x400.png" width="600" alt="Bagno Sereno per la Cura di Sé - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1802,7 +1802,7 @@ Una foto di uno studio d'artista disordinato ma stimolante. Tele sono appoggiate
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360073375_zdsx14_642c32b87cf5be86178882a3ce41f082d51ff7403ec7c14a2ff414736abd12fb" width="600" alt="Lo studio disordinato dell'artista - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360073375_zdsx14_642c32b87cf5be86178882a3ce41f082d51ff7403ec7c14a2ff414736abd12fb-600x450.png" width="600" alt="Lo studio disordinato dell'artista - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1835,7 +1835,7 @@ Una foto accogliente e festosa per un post di Instagram a tema natalizio. La sce
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360073433_zgk9cr_4797fcbfa8cd3ff3bf1cb9894770f1dc19960ed270508561f45acbe17ea134e4" width="600" alt="Cioccolata calda natalizia accogliente - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360073433_zgk9cr_4797fcbfa8cd3ff3bf1cb9894770f1dc19960ed270508561f45acbe17ea134e4-600x750.png" width="600" alt="Cioccolata calda natalizia accogliente - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1868,7 +1868,7 @@ Una foto di una postazione da gaming di fascia alta, pronta per una sessione di 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360098499_qow13s_063678853526af502f0b76f143585a8979a45a67dece2321fc4d79bf0da9f83f" width="600" alt="Configurazione di gioco di fascia alta - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360098499_qow13s_063678853526af502f0b76f143585a8979a45a67dece2321fc4d79bf0da9f83f-600x337.png" width="600" alt="Configurazione di gioco di fascia alta - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1901,7 +1901,7 @@ Un'immagine potente e stimolante di un singolo germoglio verde che cresce attrav
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360098798_0ty8mt_27b0b9e3e1c8d2fea5a0be237beb86d21c6c58e79dfea103cc7edb0f15e5f3d0" width="600" alt="Germogliare attraverso la terra arida - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360098798_0ty8mt_27b0b9e3e1c8d2fea5a0be237beb86d21c6c58e79dfea103cc7edb0f15e5f3d0-600x400.png" width="600" alt="Germogliare attraverso la terra arida - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1934,7 +1934,7 @@ Un'inquadratura macro e artistica di una nuova palette di ombretti per la recens
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360099051_05ebmu_d39be6af8bb56f8a40942d1fb704230eb8b901658fd0e7ceaafa68a04f2499d3" width="600" alt="Scatto della palette di ombretti Macro - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360099051_05ebmu_d39be6af8bb56f8a40942d1fb704230eb8b901658fd0e7ceaafa68a04f2499d3-600x337.png" width="600" alt="Scatto della palette di ombretti Macro - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1967,7 +1967,7 @@ Una foto di una collezione di dischi in vinile vintage sparsi su un pavimento di
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360124674_xzhr1p_7d16592f8f1aa02223f82ae42795ae66da069e1af33fe9e63371d52dd47b894c" width="600" alt="Collezione di dischi in vinile vintage - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360124674_xzhr1p_7d16592f8f1aa02223f82ae42795ae66da069e1af33fe9e63371d52dd47b894c-600x600.png" width="600" alt="Collezione di dischi in vinile vintage - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2000,7 +2000,7 @@ Una foto di un angolo lettura splendidamente decorato e luminoso in una casa. L'
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360125025_ciiseo_5860277b77f24e38e81b2792eb00b894a0519067d7b2aa684e0c7c5536380593" width="600" alt="Angolo Lettura Luminoso - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360125025_ciiseo_5860277b77f24e38e81b2792eb00b894a0519067d7b2aa684e0c7c5536380593-600x800.png" width="600" alt="Angolo Lettura Luminoso - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2033,7 +2033,7 @@ Una composizione flat-lay minimalista e chic di un outfit curato per un post "lo
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360125159_i2075w_a0b39b20f4395d55a2eb9c0a526a6f21b39a7b892567c39ee689a98a3d1f2575" width="600" alt="Outfit Minimalista Chic - Composizione Piatta - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360125159_i2075w_a0b39b20f4395d55a2eb9c0a526a6f21b39a7b892567c39ee689a98a3d1f2575-600x750.png" width="600" alt="Outfit Minimalista Chic - Composizione Piatta - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2066,7 +2066,7 @@ Una foto che cattura la vivace vita di strada di un mercato notturno a Taipei. L
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360152044_pk5sb6_e9ddfef112bb3b2bd6c55bfd15e05e2b643bb8e136662189eef61b6b7b729ec6" width="600" alt="Vivace scena notturna del mercato di Taipei - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360152044_pk5sb6_e9ddfef112bb3b2bd6c55bfd15e05e2b643bb8e136662189eef61b6b7b729ec6-600x337.png" width="600" alt="Vivace scena notturna del mercato di Taipei - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2099,7 +2099,7 @@ Una foto mozzafiato dalla prospettiva di qualcuno seduto all'interno di una tend
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360152223_ecnmvk_9bd9adf33a941d866242521ffec8b0294c759982f041b08601e09f200cc991e2" width="600" alt="Vista del paesaggio montano dalla tenda - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360152223_ecnmvk_9bd9adf33a941d866242521ffec8b0294c759982f041b08601e09f200cc991e2-600x400.png" width="600" alt="Vista del paesaggio montano dalla tenda - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2132,7 +2132,7 @@ Una foto romantica e sognante di una coppia che fa un picnic al tramonto in un c
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360152290_ucceii_2e1174d444139a8eb541644c3eb5020576fe4c220017db9e976b341d2a54a149" width="600" alt="Picnic Romantico in un Campo di Lavanda - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360152290_ucceii_2e1174d444139a8eb541644c3eb5020576fe4c220017db9e976b341d2a54a149-600x337.png" width="600" alt="Picnic Romantico in un Campo di Lavanda - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2165,7 +2165,7 @@ Una ripresa dall'alto splendidamente stilizzata di un tavolo da lavoro dove qual
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360179002_wwu76m_70062e7ce488d2b620eee1af3585e26d690b5efc7951939621407713383231e4" width="600" alt="Scatto dall'alto di un'opera di calligrafia - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360179002_wwu76m_70062e7ce488d2b620eee1af3585e26d690b5efc7951939621407713383231e4-600x600.png" width="600" alt="Scatto dall'alto di un'opera di calligrafia - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2198,7 +2198,7 @@ Un'immagine dinamica e potente di un'atleta donna a metà allenamento in una pal
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360179604_xwadaf_4bc42730fac9b6b298ba8f732b6431248ae84dd281657d8709a0c816b1de3304" width="600" alt="Scatto di allenamento dinamico di un'atleta donna - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360179604_xwadaf_4bc42730fac9b6b298ba8f732b6431248ae84dd281657d8709a0c816b1de3304-600x750.png" width="600" alt="Scatto di allenamento dinamico di un'atleta donna - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2231,7 +2231,7 @@ Un primo piano estremamente appetitoso di una pila di soffici pancake per i soci
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360185212_vl0ce8_70017eedaaad9b54e0a49da5a3b8b7de1af4e256b97a1ba157b7b884114968ba" width="600" alt="Pancakes appetitosi – Scatto - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360185212_vl0ce8_70017eedaaad9b54e0a49da5a3b8b7de1af4e256b97a1ba157b7b884114968ba-600x600.png" width="600" alt="Pancakes appetitosi – Scatto - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2264,7 +2264,7 @@ Una foto di street style di un'influencer di moda a Parigi durante la Fashion We
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360204383_1ci042_1b3b9a6717aab1c6f9fc0068aac1becadb4d037b522eb47cf359437d908456a6" width="600" alt="Street Style degli Influencer di Moda a Parigi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360204383_1ci042_1b3b9a6717aab1c6f9fc0068aac1becadb4d037b522eb47cf359437d908456a6-600x800.png" width="600" alt="Street Style degli Influencer di Moda a Parigi - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2297,7 +2297,7 @@ Una foto commovente e spontanea di un cucciolo di golden retriever che gioca in 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360205636_17iyst_f56f471d208f74fe3b796f5ea9e53dd60401af8e47242309fdc7119c652ee5e1" width="600" alt="Cucciolo di Golden Retriever tra le foglie autunnali - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360205636_17iyst_f56f471d208f74fe3b796f5ea9e53dd60401af8e47242309fdc7119c652ee5e1-600x400.png" width="600" alt="Cucciolo di Golden Retriever tra le foglie autunnali - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2330,7 +2330,7 @@ Un'istantanea spontanea e cinematografica di una giovane donna in un'avventura d
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360207630_nsjfk5_fabb02d530b4a43eed2633aeec2c7d448f898236c81c39d909b63fee4b4f792b" width="600" alt="Ripresa cinematografica di un viaggio in solitaria - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360207630_nsjfk5_fabb02d530b4a43eed2633aeec2c7d448f898236c81c39d909b63fee4b4f792b-600x750.png" width="600" alt="Ripresa cinematografica di un viaggio in solitaria - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2364,7 +2364,7 @@ Modifica l'immagine in un ritratto artistico con texture cinematografica a grigl
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360229744_nvm9w5_1765288935135-wud1t9-0217652888936922504cb05148e9a08cc7612c3f2b24e52b75ef9_0.jpeg" width="600" alt="Griglia di opere d'arte cinematografiche a tre pannelli - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360229744_nvm9w5_1765288935135-wud1t9-0217652888936922504cb05148e9a08cc7612c3f2b24e52b75ef9_0-600x800.jpg" width="600" alt="Griglia di opere d'arte cinematografiche a tre pannelli - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2397,7 +2397,7 @@ h0674kz, Hello Kitty che fa esplodere l'ufficio, stile film retrò, grana fine
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360229710_tgjwxf_1765288474005-k41are-0217652884614137b67bbc2a2a9a26108e071e40bb0b084bb4c62_0.jpeg" width="600" alt="Hello Kitty: Caos in Ufficio - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360229710_tgjwxf_1765288474005-k41are-0217652884614137b67bbc2a2a9a26108e071e40bb0b084bb4c62_0-600x600.jpg" width="600" alt="Hello Kitty: Caos in Ufficio - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2430,7 +2430,7 @@ h0674kz, adesivi a stella colorati, una fontana decorata con luminose catene di 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360230270_ezv9cs_1765288370319-dqtbl9-0217652883542227b67bbc2a2a9a26108e071e40bb0b084e528f9_0.jpeg" width="600" alt="Crystal Fountain with Stars - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360230270_ezv9cs_1765288370319-dqtbl9-0217652883542227b67bbc2a2a9a26108e071e40bb0b084e528f9_0-600x600.jpg" width="600" alt="Crystal Fountain with Stars - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2463,7 +2463,7 @@ Geisha (dettagli kimono tradizionali, trucco bianco) che cammina su strada lastr
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360245230_cdsky8_1765275017915-b4oun1-02176527500110899f4740eadd3360aa6250e68d85f7ec7d1ab1c_0.jpeg" width="600" alt="Momento Geisha a Kyoto - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360245230_cdsky8_1765275017915-b4oun1-02176527500110899f4740eadd3360aa6250e68d85f7ec7d1ab1c_0-600x1068.jpg" width="600" alt="Momento Geisha a Kyoto - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2497,7 +2497,7 @@ Un prompt per una notte di festa in città che cattura il Natale a New York. Pre
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360246013_zi91m8_1765275008056-awrlob-02176527499183730d072d337ea6fcc7bbfbe2f0c485be2133621_0.jpeg" width="600" alt="Notte di Natale a New York - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360246013_zi91m8_1765275008056-awrlob-02176527499183730d072d337ea6fcc7bbfbe2f0c485be2133621_0-600x337.jpg" width="600" alt="Notte di Natale a New York - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2530,7 +2530,7 @@ Scena crepuscolare di campeggio in tenda di montagna, dettagli visibili di tenda
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360246893_mtapx3_1765275019542-dn719s-02176527499084515b33ccaa151d3ed7feaaa761bc71c37d80b76_0.jpeg" width="600" alt="Scena di campeggio al crepuscolo - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360246893_mtapx3_1765275019542-dn719s-02176527499084515b33ccaa151d3ed7feaaa761bc71c37d80b76_0-600x337.jpg" width="600" alt="Scena di campeggio al crepuscolo - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2564,7 +2564,7 @@ Primo piano di {argument name="subject" default="donna atletica"} che solleva ma
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360261690_4x4uf4_1765275000507-sqsucj-02176527498905999f4740eadd3360aa6250e68d85f7ec76a5c3d_0.jpeg" width="600" alt="Allenamento Intenso Monocromatico - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360261690_4x4uf4_1765275000507-sqsucj-02176527498905999f4740eadd3360aa6250e68d85f7ec76a5c3d_0-600x600.jpg" width="600" alt="Allenamento Intenso Monocromatico - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2597,7 +2597,7 @@ Interno della Stazione Spaziale Internazionale, ambiente fisico reale, astronaut
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360262884_b88c1d_1765274990209-k4hrrh-02176527497561815b33ccaa151d3ed7feaaa761bc71c37a78d07_0.jpeg" width="600" alt="Interno dell'astronauta ISS - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360262884_b88c1d_1765274990209-k4hrrh-02176527497561815b33ccaa151d3ed7feaaa761bc71c37a78d07_0-600x600.jpg" width="600" alt="Interno dell'astronauta ISS - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2630,7 +2630,7 @@ Visualizzazione del flusso di dati della struttura 3D di una rete neurale, nodi 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360268560_ru3u50_1765274988508-6ncxi9-02176527496911399f4740eadd3360aa6250e68d85f7ec7e96f29_0.jpeg" width="600" alt="Visualizzazione delle Reti Neurali - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360268560_ru3u50_1765274988508-6ncxi9-02176527496911399f4740eadd3360aa6250e68d85f7ec7e96f29_0-600x337.jpg" width="600" alt="Visualizzazione delle Reti Neurali - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2664,7 +2664,7 @@ Panoramica interna di una homestay minimalista giapponese di {argument name="are
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360278768_h291le_1765274957426-7ugun0-02176527494361030d072d337ea6fcc7bbfbe2f0c485be262967b_0.jpeg" width="600" alt="Interni giapponesi Wabi-Sabi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360278768_h291le_1765274957426-7ugun0-02176527494361030d072d337ea6fcc7bbfbe2f0c485be262967b_0-600x257.jpg" width="600" alt="Interni giapponesi Wabi-Sabi - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2698,7 +2698,7 @@ Primo piano di {argument name="product" default="rossetto di alta gamma"} posizi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360278696_3z2znz_1765274938378-ir04ld-02176527492419215b33ccaa151d3ed7feaaa761bc71c372a0d71_0.jpeg" width="600" alt="Fotografia di prodotti di lusso - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360278696_3z2znz_1765274938378-ir04ld-02176527492419215b33ccaa151d3ed7feaaa761bc71c372a0d71_0-600x337.jpg" width="600" alt="Fotografia di prodotti di lusso - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2732,7 +2732,7 @@ Foto concept di un gruppo K-pop {argument name="number of people" default="di qu
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360279863_tz4g4f_1765274910581-tq9tne-02176527489415015b33ccaa151d3ed7feaaa761bc71c37a7cd8b_0.jpeg" width="600" alt="Concept K-Pop Futuristico - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360279863_tz4g4f_1765274910581-tq9tne-02176527489415015b33ccaa151d3ed7feaaa761bc71c37a7cd8b_0-600x337.jpg" width="600" alt="Concept K-Pop Futuristico - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2766,7 +2766,7 @@ Ritratto minimalista a mezzo busto di una {argument name="subject" default="giov
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360294364_xh7py4_1765274895843-7atxql-02176527488562899f4740eadd3360aa6250e68d85f7ec7240623_0.jpeg" width="600" alt="Ritratto Minimalista di Alta Moda - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360294364_xh7py4_1765274895843-7atxql-02176527488562899f4740eadd3360aa6250e68d85f7ec7240623_0-600x600.jpg" width="600" alt="Ritratto Minimalista di Alta Moda - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2800,7 +2800,7 @@ Cattura una scena di battaglia di supereroi ad alta intensità con effetti visiv
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360294446_b2592m_1765274884527-5qoikv-0217652748491047ed3dd5a26da08a73b6b7a28831080928df278_0.jpeg" width="600" alt="Azione dinamica da supereroi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360294446_b2592m_1765274884527-5qoikv-0217652748491047ed3dd5a26da08a73b6b7a28831080928df278_0-600x337.jpg" width="600" alt="Azione dinamica da supereroi - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2834,7 +2834,7 @@ Crea una scena mozzafiato di un concerto in uno stadio che ricorda i grandi tour
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360294924_376i3s_1765274893099-wen28j-02176527488074375aeae14c82856eca08eecb5e75c0575f6b505_0.jpeg" width="600" alt="Atmosfera da concerto allo stadio - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360294924_376i3s_1765274893099-wen28j-02176527488074375aeae14c82856eca08eecb5e75c0575f6b505_0-600x337.jpg" width="600" alt="Atmosfera da concerto allo stadio - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2868,7 +2868,7 @@ Interno della stanza dei sogni di Barbie, pareti {argument name="wall color" def
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360309359_gxt805_1765274866398-qhrtja-02176527483217975aeae14c82856eca08eecb5e75c05752b8142_0.jpeg" width="600" alt="Barbie Dream Room - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360309359_gxt805_1765274866398-qhrtja-02176527483217975aeae14c82856eca08eecb5e75c05752b8142_0-600x600.jpg" width="600" alt="Barbie Dream Room - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2902,7 +2902,7 @@ Elegante {argument name="gender" default="donna"} di {argument name="age" defaul
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360310269_g67vo3_1765274880173-hxchdb-02176527486700575aeae14c82856eca08eecb5e75c057534d7a5_0.jpeg" width="600" alt="Stile di vita della Costiera Amalfitana - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360310269_g67vo3_1765274880173-hxchdb-02176527486700575aeae14c82856eca08eecb5e75c057534d7a5_0-600x400.jpg" width="600" alt="Stile di vita della Costiera Amalfitana - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2936,7 +2936,7 @@ Selfie in stile fotocamera digitale Millennial, con un effetto deliberatamente a
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360310481_xzf6b0_1765274865448-ih2b3j-021765274852656f8f49430e1e3875ff473008eb96b3a39f292b7_0.jpeg" width="600" alt="Selfie con fotocamera digitale Y2K - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360310481_xzf6b0_1765274865448-ih2b3j-021765274852656f8f49430e1e3875ff473008eb96b3a39f292b7_0-600x600.jpg" width="600" alt="Selfie con fotocamera digitale Y2K - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2970,7 +2970,7 @@ Stile pellicola in bianco e nero da 35 mm, un {argument name="character identity
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360330618_p4wiub_1765274852012-pxolfq-021765274832182f8f49430e1e3875ff473008eb96b3a39e28165_0.jpeg" width="600" alt="Ritratto di scienziato cinematografico - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360330618_p4wiub_1765274852012-pxolfq-021765274832182f8f49430e1e3875ff473008eb96b3a39e28165_0-600x257.jpg" width="600" alt="Ritratto di scienziato cinematografico - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3003,7 +3003,7 @@ Poster a tema natalizio con texture in feltro, che utilizza complessivamente una
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360325350_ip9hj7_1765339550598-d2sstp-0217653395383777b67bbc2a2a9a26108e071e40bb0b08477b4fc_0.jpeg" width="600" alt="Poster di Natale "Judy e Nick Felt" - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360325350_ip9hj7_1765339550598-d2sstp-0217653395383777b67bbc2a2a9a26108e071e40bb0b08477b4fc_0-600x800.jpg" width="600" alt="Poster di Natale "Judy e Nick Felt" - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3036,7 +3036,7 @@ Un coniglietto antropomorfo, presentato nello stile visivo di un'istantanea quot
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360328619_oh4j4y_1765339546064-p0sf2g-021765339534403f9825d5f0df17daef396c99db0606054de24f2_0.jpeg" width="600" alt="Selfie del coniglio da ufficio stanco del mondo - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360328619_oh4j4y_1765339546064-p0sf2g-021765339534403f9825d5f0df17daef396c99db0606054de24f2_0-600x600.jpg" width="600" alt="Selfie del coniglio da ufficio stanco del mondo - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3070,7 +3070,7 @@ Design del personaggio IP: versione Q, una piccola volpe rosso-arancio soffice, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360343896_ks24yz_1765339541415-tyft9h-0217653395301927b67bbc2a2a9a26108e071e40bb0b084e8cebf_0.jpeg" width="600" alt="Design del personaggio IP Trendy Little Fox - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360343896_ks24yz_1765339541415-tyft9h-0217653395301927b67bbc2a2a9a26108e071e40bb0b084e8cebf_0-600x600.jpg" width="600" alt="Design del personaggio IP Trendy Little Fox - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3104,7 +3104,7 @@ Poster con font calligrafico "{argument name="poster text" default="Life Goes On
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360344447_ay1svn_1765339531784-ohhx37-0217653395206267b67bbc2a2a9a26108e071e40bb0b0844e93e4_0.jpeg" width="600" alt="Poster con Scritta Corsiva "Endless Vitality" - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360344447_ay1svn_1765339531784-ohhx37-0217653395206267b67bbc2a2a9a26108e071e40bb0b0844e93e4_0-600x800.jpg" width="600" alt="Poster con Scritta Corsiva "Endless Vitality" - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3138,7 +3138,7 @@ Stile di design moderno e minimalista, design di magnete da frigo in smalto a te
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360345227_87dzct_1765339524396-c2vrso-021765339509675732fd601d62b6a7044a0e20965673d99fc2e76_0.jpeg" width="600" alt="Design del magnete da frigo irregolare di Judy e Nick - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360345227_87dzct_1765339524396-c2vrso-021765339509675732fd601d62b6a7044a0e20965673d99fc2e76_0-600x600.jpg" width="600" alt="Design del magnete da frigo irregolare di Judy e Nick - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3172,7 +3172,7 @@ Icona UI, un portafoglio pieno di monete d'oro, una pila di monete d'oro, sulle 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360359275_0kx2gu_1765339517519-f89k34-0217653395048557b67bbc2a2a9a26108e071e40bb0b084742913_0.jpeg" width="600" alt="Icona 3D di portafoglio e monete in vetro - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360359275_0kx2gu_1765339517519-f89k34-0217653395048557b67bbc2a2a9a26108e071e40bb0b084742913_0-600x600.jpg" width="600" alt="Icona 3D di portafoglio e monete in vetro - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3205,7 +3205,7 @@ Questa è un'illustrazione disegnata a mano in versione Q del classico duo di pe
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360360278_3xdcvi_1765339507274-m3vaqc-0217653394969647ed3dd5a26da08a73b6b7a288310809223b101_0.jpeg" width="600" alt="Illustrazione Chibi di Nick e Judy Disegnata a Mano - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360360278_3xdcvi_1765339507274-m3vaqc-0217653394969647ed3dd5a26da08a73b6b7a288310809223b101_0-600x600.jpg" width="600" alt="Illustrazione Chibi di Nick e Judy Disegnata a Mano - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3239,7 +3239,7 @@ Non scambiare i volti, i volti dei personaggi non devono cambiare affatto! Si pr
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360362194_fl5qcm_1765339508978-oe6je3-021765339490813f9825d5f0df17daef396c99db0606054d5e479_0.jpeg" width="600" alt="Selfie dall'alto di tre persone unito - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360362194_fl5qcm_1765339508978-oe6je3-021765339490813f9825d5f0df17daef396c99db0606054d5e479_0-600x600.jpg" width="600" alt="Selfie dall'alto di tre persone unito - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3273,7 +3273,7 @@ Crea una scheda informativa per la ricetta di {argument name="dish name" default
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360374866_rxnciw_1765339485966-e46fx9-021765339462510c799e7b290acded99bf6695874956a9f61f59d_0.jpeg" width="600" alt="Scheda informativa disegnata a mano: Pomodoro e uova saltati in padella - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360374866_rxnciw_1765339485966-e46fx9-021765339462510c799e7b290acded99bf6695874956a9f61f59d_0-600x450.jpg" width="600" alt="Scheda informativa disegnata a mano: Pomodoro e uova saltati in padella - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3307,7 +3307,7 @@ Sfondo nero con testo bianco, calligrafia con tratti collegati chic, elegante e 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360375259_s6jr2i_1765339501783-kxt0et-021765339489400c799e7b290acded99bf6695874956a9f90b493_0.jpeg" width="600" alt="Tipografia del titolo del film Wild Cursive - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360375259_s6jr2i_1765339501783-kxt0et-021765339489400c799e7b290acded99bf6695874956a9f90b493_0-600x600.jpg" width="600" alt="Tipografia del titolo del film Wild Cursive - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3341,7 +3341,7 @@ Schizzo a linee nere, note di {argument name="subject name" default="Progettazio
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360378310_h8l37v_1765339493312-we5btx-02176533946480475aeae14c82856eca08eecb5e75c0575970b2c_0.jpeg" width="600" alt="Note di schizzo di progettazione meccanica - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360378310_h8l37v_1765339493312-we5btx-02176533946480475aeae14c82856eca08eecb5e75c0575970b2c_0-600x600.jpg" width="600" alt="Note di schizzo di progettazione meccanica - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3375,7 +3375,7 @@ Sfondo blu scuro ed elegante, una curva dorata di un grafico in costante aumento
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360390202_td5qct_1765339443943-9svsin-021765339430962f8f49430e1e3875ff473008eb96b3a3922f1fc_0.jpeg" width="600" alt="Poster Golden Curve Wealth Logic - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360390202_td5qct_1765339443943-9svsin-021765339430962f8f49430e1e3875ff473008eb96b3a3922f1fc_0-600x600.jpg" width="600" alt="Poster Golden Curve Wealth Logic - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3408,7 +3408,7 @@ Con una prospettiva altamente tridimensionale, presenta accuratamente il diagram
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360391141_ovuy4h_1765339488473-osj4sc-021765339454032f9825d5f0df17daef396c99db0606054fc66d7_0.jpeg" width="600" alt="Diagramma dell'Architettura della Piattaforma E-Commerce 3D - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360391141_ovuy4h_1765339488473-osj4sc-021765339454032f9825d5f0df17daef396c99db0606054fc66d7_0-600x337.jpg" width="600" alt="Diagramma dell'Architettura della Piattaforma E-Commerce 3D - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3442,7 +3442,7 @@ Design di font artistico di livello magistrale per firme: {argument name="name" 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360394516_gxpvgm_1765339460382-eznpqh-021765339449957f8f49430e1e3875ff473008eb96b3a392ba9d6_0.jpeg" width="600" alt="Ma Wencheng: Design della Firma Artistica - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360394516_gxpvgm_1765339460382-eznpqh-021765339449957f8f49430e1e3875ff473008eb96b3a392ba9d6_0-600x600.jpg" width="600" alt="Ma Wencheng: Design della Firma Artistica - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3475,7 +3475,7 @@ Design dell'interfaccia utente mobile per app di gestione patrimoniale, UI premi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360404555_3v5zdz_1765339459457-jkploz-0217653394477525097524147fba306f3fd5b41c93377027a5329_0.jpeg" width="600" alt="Interfaccia utente dell'app finanziaria in stile C4D (variante) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360404555_3v5zdz_1765339459457-jkploz-0217653394477525097524147fba306f3fd5b41c93377027a5329_0-600x1068.jpg" width="600" alt="Interfaccia utente dell'app finanziaria in stile C4D (variante) - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3508,7 +3508,7 @@ Design dell'interfaccia utente mobile di un'app per la gestione della ricchezza 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360405323_gut77j_1765339448274-3d70yd-0217653394360811e15ac27860f2c8c25bccd5ee2521f9a5adc04_0.jpeg" width="600" alt="UI di un'app finanziaria in stile C4D - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360405323_gut77j_1765339448274-3d70yd-0217653394360811e15ac27860f2c8c25bccd5ee2521f9a5adc04_0-600x1068.jpg" width="600" alt="UI di un'app finanziaria in stile C4D - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3542,7 +3542,7 @@ Nick Wilde e Judy Hopps di Zootopia si scattano un selfie su una spiaggia rosa, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360408170_qygk43_1765339451176-di6d3i-021765339431792f8f49430e1e3875ff473008eb96b3a39602ab2_0.jpeg" width="600" alt="Selfie in stile Instagram di Nick e Judy a Pink Beach - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360408170_qygk43_1765339451176-di6d3i-021765339431792f8f49430e1e3875ff473008eb96b3a39602ab2_0-600x1068.jpg" width="600" alt="Selfie in stile Instagram di Nick e Judy a Pink Beach - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3576,7 +3576,7 @@ Stile di design moderno e minimalista, design di magnete da frigo in smalto a te
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360418782_694ouv_1765339426120-9d2kwb-021765339415014732fd601d62b6a7044a0e20965673d99f6e2fc_0.jpeg" width="600" alt="Zootopia Judy Magnete da Frigorifero in Smalto - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360418782_694ouv_1765339426120-9d2kwb-021765339415014732fd601d62b6a7044a0e20965673d99f6e2fc_0-600x600.jpg" width="600" alt="Zootopia Judy Magnete da Frigorifero in Smalto - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3610,7 +3610,7 @@ Poster promozionale di un prodotto tecnologico, layout testo a sinistra e immagi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360419602_kaflap_1765339429857-eubuen-021765339414965f8f49430e1e3875ff473008eb96b3a3954eec6_0.jpeg" width="600" alt="GEO Tech - Poster promozionale del prodotto - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360419602_kaflap_1765339429857-eubuen-021765339414965f8f49430e1e3875ff473008eb96b3a3954eec6_0-600x1068.jpg" width="600" alt="GEO Tech - Poster promozionale del prodotto - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3644,7 +3644,7 @@ Personaggi di Zootopia, Nick Wilde e Judy Hopps. Nick ha una pelliccia rosso-ara
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360424853_aa4im4_3ff7bf8e75a27eee13984fb677f4cb01d8949df05bbf6a9bc3e3a3f4688c880b" width="600" alt="Selfie di Nick e Judy in stile Xiaohongshu che rompe la quarta parete - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360424853_aa4im4_3ff7bf8e75a27eee13984fb677f4cb01d8949df05bbf6a9bc3e3a3f4688c880b-600x1068.png" width="600" alt="Selfie di Nick e Judy in stile Xiaohongshu che rompe la quarta parete - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3678,7 +3678,7 @@ Nove comuni erbe aromatiche cinesi usate in cucina, disegno al tratto, incisione
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360433911_ehmj82_1765340299572-6opt91-0217653402821028547934892c4038781a87d514f9a9196c3270d_0.jpeg" width="600" alt="Line Art di Erbe Aromatiche Tradizionali Cinesi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360433911_ehmj82_1765340299572-6opt91-0217653402821028547934892c4038781a87d514f9a9196c3270d_0-600x450.jpg" width="600" alt="Line Art di Erbe Aromatiche Tradizionali Cinesi - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3711,7 +3711,7 @@ Una mappa topografica di Hangzhou, con un indicatore di posizione rosso centrato
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360434501_816kxa_1765340306930-vmeass-02176534029138615b33ccaa151d3ed7feaaa761bc71c37d6bb0d_0.jpeg" width="600" alt="Mappa topografica di Hangzhou - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360434501_816kxa_1765340306930-vmeass-02176534029138615b33ccaa151d3ed7feaaa761bc71c37d6bb0d_0-600x450.jpg" width="600" alt="Mappa topografica di Hangzhou - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3744,7 +3744,7 @@ Adotta uno stile illustrativo ibrido tra Moebius e Kim Jung Gi, con uno sfondo b
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360448225_8otize_1765340288295-sovmnh-0217653402735382504cb05148e9a08cc7612c3f2b24e524dcfe7_0.jpeg" width="600" alt="Illustrazione di una band in uno stile ibrido tra Moebius e Kim Jung Gi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360448225_8otize_1765340288295-sovmnh-0217653402735382504cb05148e9a08cc7612c3f2b24e524dcfe7_0-600x450.jpg" width="600" alt="Illustrazione di una band in uno stile ibrido tra Moebius e Kim Jung Gi - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3778,7 +3778,7 @@ Crea un poster informativo grafico intitolato "Guida illustrata ai romanzieri ci
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360449200_ssk71c_1765340288466-2q2mst-021765340250361c5f50319cb4d4388d7836967b82aebe5128460_0.jpeg" width="600" alt="Guida illustrata ai romanzieri cinesi contemporanei - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360449200_ssk71c_1765340288466-2q2mst-021765340250361c5f50319cb4d4388d7836967b82aebe5128460_0-600x800.jpg" width="600" alt="Guida illustrata ai romanzieri cinesi contemporanei - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3812,7 +3812,7 @@ Crea un poster grafico intitolato "Mappa del Cibo Cinese". Il design generale si
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360455020_wgx9v9_1765340270629-wkli3h-02176534024967730d072d337ea6fcc7bbfbe2f0c485be24888b0_0.jpeg" width="600" alt="Infografica Poster Mappa del Cibo Cinese - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360455020_wgx9v9_1765340270629-wkli3h-02176534024967730d072d337ea6fcc7bbfbe2f0c485be24888b0_0-600x800.jpg" width="600" alt="Infografica Poster Mappa del Cibo Cinese - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3869,6 +3869,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-12-10T14:23:51.654Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-12-10T14:34:58.863Z</sub>
 
 </div>

@@ -90,7 +90,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **112** |
 | ⭐ Öne Çıkan | **0** |
-| 🔄 Son Güncelleme | **10 Aralık 2025 Çarşamba 14:23:55 UTC** |
+| 🔄 Son Güncelleme | **10 Aralık 2025 Çarşamba 14:35:02 UTC** |
 
 </div>
 
@@ -119,7 +119,7 @@ Bu bilgi istemi, çocuklara yönelik bir bilim fuarı için eğlenceli ve eğiti
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359646358_zspn1j_00dc35614217759a1ac037ff108b7f90289c94d0a1d5608a917db3eb67739092" width="600" alt="Eğlenceli Eğitici Çocuk Bilim Fuarı Posteri - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359646358_zspn1j_00dc35614217759a1ac037ff108b7f90289c94d0a1d5608a917db3eb67739092-600x900.png" width="600" alt="Eğlenceli Eğitici Çocuk Bilim Fuarı Posteri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -152,7 +152,7 @@ Bir moda mağazasının sezon sonu indirimi için trend ve dikkat çekici bir po
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359647934_s6cd50_4eb3bcd431d809253c682482e40d34148f4c9fdf5ba65b00c11eaa279fe3230a" width="600" alt="Trend Moda İndirimi Afişi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359647934_s6cd50_4eb3bcd431d809253c682482e40d34148f4c9fdf5ba65b00c11eaa279fe3230a-600x800.png" width="600" alt="Trend Moda İndirimi Afişi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -185,7 +185,7 @@ Bu bilgi istemi, İsviçre Alpleri için ilham verici ve güzel bir seyahat post
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359647153_218ang_18e85e9a2161677e43484cb9cd7b1887218ccf8c936d1d72f58fef6c121a3ea8" width="600" alt="İlham Veren İsviçre Alpleri Seyahat Posteri - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359647153_218ang_18e85e9a2161677e43484cb9cd7b1887218ccf8c936d1d72f58fef6c121a3ea8-600x900.png" width="600" alt="İlham Veren İsviçre Alpleri Seyahat Posteri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -218,7 +218,7 @@ Etkili ve anlaşılır bir "Kayıp Kedi" el ilanı. Tasarımı basit ve işlevse
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359674422_t8le7q_a7f1e1c4d786c8a59b6d56bed9f1794953eaf4c91d925c67b07d1ea281ad9f69" width="600" alt="Etkili 'Kayıp Kedi' İlanı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359674422_t8le7q_a7f1e1c4d786c8a59b6d56bed9f1794953eaf4c91d925c67b07d1ea281ad9f69-600x800.png" width="600" alt="Etkili 'Kayıp Kedi' İlanı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -251,7 +251,7 @@ Bu bilgi istemi, iklim değişikliği üzerine halka açık bir seminer için bi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359675240_wtti1k_510c61e386a172f76c297cc251ac9821ddd69c51683562b1f031106bbb682648" width="600" alt="İklim Değişikliği Bilgilendirme Semineri Afişi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359675240_wtti1k_510c61e386a172f76c297cc251ac9821ddd69c51683562b1f031106bbb682648-600x800.png" width="600" alt="İklim Değişikliği Bilgilendirme Semineri Afişi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -284,7 +284,7 @@ Yeni, yüksek teknolojili kablosuz kulaklık için şık ve minimalist bir poste
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359675191_mabnp6_d4ff0ab7b9e83178bdb7e5546de94745d68c03ddaa5d94b504aefe6a50e0d7f4" width="600" alt="Şık, Minimalist Kablosuz Kulaklık Reklamı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359675191_mabnp6_d4ff0ab7b9e83178bdb7e5546de94745d68c03ddaa5d94b504aefe6a50e0d7f4-600x900.png" width="600" alt="Şık, Minimalist Kablosuz Kulaklık Reklamı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -317,7 +317,7 @@ Bu istem, 5K'lık bir yardım koşusu için enerjik ve motive edici bir poster o
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359698997_0535q8_9b84c623bf6bb66705b99447806c127dd3cec6a9e589365025568b97f69865d0" width="600" alt="Enerjik 5K Yardım Koşusu Afişi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359698997_0535q8_9b84c623bf6bb66705b99447806c127dd3cec6a9e589365025568b97f69865d0-600x800.png" width="600" alt="Enerjik 5K Yardım Koşusu Afişi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -350,7 +350,7 @@ Shakespeare'in "Hamlet" prodüksiyonu için dramatik ve minimalist bir poster. T
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359699721_02hotm_a51c96ee3424f33d0b56d9c5ecd63f2ec580c0cd121f9eade399c950ed035404" width="600" alt="Dramatik Minimalist Hamlet Posteri - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359699721_02hotm_a51c96ee3424f33d0b56d9c5ecd63f2ec580c0cd121f9eade399c950ed035404-600x900.png" width="600" alt="Dramatik Minimalist Hamlet Posteri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -383,7 +383,7 @@ Yerel bir çiftçi pazarı için büyüleyici ve rustik bir poster. Tasarım, ah
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359700134_ix6s0n_aac15ea93919e9be4354837fd578b1dd1ab5f5eb0fa46415d47b4c11c9d1ae36" width="600" alt="Büyüleyici Rustik Çiftçi Pazarı Afişi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359700134_ix6s0n_aac15ea93919e9be4354837fd578b1dd1ab5f5eb0fa46415d47b4c11c9d1ae36-600x800.png" width="600" alt="Büyüleyici Rustik Çiftçi Pazarı Afişi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -416,7 +416,7 @@ Bir kısa film festivali için ilginç ve bağımsız tarzda bir poster. Tasarı
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359726468_zopie3_4d8e818fd456103fde0de05f3d0f862ec8a451a32e6ec72f0dba56f5346c6fd2" width="600" alt="Tuhaf Bağımsız Kısa Film Festivali Afişi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359726468_zopie3_4d8e818fd456103fde0de05f3d0f862ec8a451a32e6ec72f0dba56f5346c6fd2-600x900.png" width="600" alt="Tuhaf Bağımsız Kısa Film Festivali Afişi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -449,7 +449,7 @@ Hafta sonu yoga ve meditasyon atölyesi için sakinleştirici ve huzur veren bir
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765367961714_t47x0n_313e7deeb6c193d794d71ec8cec044dbc36e20b3f9e0fa338284467031d9e04f" width="600" alt="Serene Yoga ve Meditasyon Çalıştayı Afişi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765367961714_t47x0n_313e7deeb6c193d794d71ec8cec044dbc36e20b3f9e0fa338284467031d9e04f-600x800.png" width="600" alt="Serene Yoga ve Meditasyon Çalıştayı Afişi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -482,7 +482,7 @@ Yeni bir İtalyan restoranının büyük açılışı için lezzetli ve davetkar
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765367961890_sii4rm_1f4e43ff4dda6b28373b94aed5aa7bffc4815c1f5d212053ab1a343051b86704" width="600" alt="İtalyan Restoranı Büyük Açılış Broşürü - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765367961890_sii4rm_1f4e43ff4dda6b28373b94aed5aa7bffc4815c1f5d212053ab1a343051b86704-600x750.png" width="600" alt="İtalyan Restoranı Büyük Açılış Broşürü - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -515,7 +515,7 @@ Okyanuslardaki plastik kirliliği hakkında bir kamu hizmeti duyurusu için gü�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765367960733_h016tz_5ed05bd2ce5bba756b3a380cd7620a25b24a29a495ab05eafe9f2c85b4c08d8a" width="600" alt="Plastik Kirliliği Kamu Spotu Afişi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765367960733_h016tz_5ed05bd2ce5bba756b3a380cd7620a25b24a29a495ab05eafe9f2c85b4c08d8a-600x800.png" width="600" alt="Plastik Kirliliği Kamu Spotu Afişi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -548,7 +548,7 @@ Bu istem, "Gölge Dedektif" başlıklı bir polisiye roman için heyecan verici 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359749886_kp53z5_6e8b4aee7f3968c08d89355e02eac75f80081c5a652af5be3043a2f7ddf122f3" width="600" alt="Suç Romanı Kitap Kapağı "Gölge Dedektif" - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359749886_kp53z5_6e8b4aee7f3968c08d89355e02eac75f80081c5a652af5be3043a2f7ddf122f3-600x900.png" width="600" alt="Suç Romanı Kitap Kapağı "Gölge Dedektif" - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -581,7 +581,7 @@ Japon Ukiyo-e tahta baskılarının müze sergisi için zarif ve sanatsal bir po
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359780100_qk33pd_beae2d398472f2b3de739d44e5bf89f8efa9c33dfe4296325c296f7d75081a85" width="600" alt="Japon Ukiyo-e Müzesi Posteri - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359780100_qk33pd_beae2d398472f2b3de739d44e5bf89f8efa9c33dfe4296325c296f7d75081a85-600x900.png" width="600" alt="Japon Ukiyo-e Müzesi Posteri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -616,7 +616,7 @@ Bir startup için yazılım geliştiricileri arayan cesur ve doğrudan bir işe 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359779471_v1iid4_2be83f81b65155b8bd931d172064c1bc0cc2fb041ac281d6514d194c61e594a6" width="600" alt="Yazılım Geliştirici İşe Alım Broşürü - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359779471_v1iid4_2be83f81b65155b8bd931d172064c1bc0cc2fb041ac281d6514d194c61e594a6-600x800.png" width="600" alt="Yazılım Geliştirici İşe Alım Broşürü - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -649,7 +649,7 @@ Bu komut, "Ethereal Bloom" adlı bir yaz müzik festivali için canlı, saykodel
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359797691_hgduy7_7f38ccdb2888614aea47dcabcb193265155dc519db24136d6482c0dd6a6c1160" width="600" alt="Saykodelik Müzik Festivali Afişi "Ethereal Bloom" - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359797691_hgduy7_7f38ccdb2888614aea47dcabcb193265155dc519db24136d6482c0dd6a6c1160-600x900.png" width="600" alt="Saykodelik Müzik Festivali Afişi "Ethereal Bloom" - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -682,7 +682,7 @@ Bu istem, "CHRONOS" başlıklı kurgusal bir bilim kurgu gişe rekortmeni için 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359801504_0xpg0w_1e5e6f6d40dcbf37b3007a60a5143337e0a67b48f0bae155544672a004419bb1" width="600" alt="Sinematik Bilim Kurgu Film Afişi "CHRONOS" - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359801504_0xpg0w_1e5e6f6d40dcbf37b3007a60a5143337e0a67b48f0bae155544672a004419bb1-600x900.png" width="600" alt="Sinematik Bilim Kurgu Film Afişi "CHRONOS" - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -715,7 +715,7 @@ Bu istem, "10 Dakikada Nasıl Web Sitesi Kurulur" eğitim videosu için, kendine
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359803888_85aak1_7db4d11cf8cb3d575477d6fcb44c884e843e09a9d1c849534498fc289271574c" width="600" alt="Web Sitesi Oluşturma Eğitimi Küçük Resmi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359803888_85aak1_7db4d11cf8cb3d575477d6fcb44c884e843e09a9d1c849534498fc289271574c-600x337.png" width="600" alt="Web Sitesi Oluşturma Eğitimi Küçük Resmi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -748,7 +748,7 @@ Bu bilgi istemi, "24 Saat Boyunca Sadece Otomat Yiyecekleri Yeme" meydan okumas�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359826384_5thcf7_cf2681b72434f1f9eb3abcd48a02db5ba77094a0806434a7083b13088ea01ca2" width="600" alt="Otomat Yiyecekleri Mücadelesi Küçük Resmi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359826384_5thcf7_cf2681b72434f1f9eb3abcd48a02db5ba77094a0806434a7083b13088ea01ca2-600x337.png" width="600" alt="Otomat Yiyecekleri Mücadelesi Küçük Resmi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -781,7 +781,7 @@ Bir şaka videosu için küçük resim. Görüntü, şakanın doruk noktasını 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359826812_3kmm0z_c27c032b4e0eb4dd230eb1dbc5d907728aef5e86c12c00bd34808d2d640ef7f7" width="600" alt="Şaka Videosu Küçük Resmi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359826812_3kmm0z_c27c032b4e0eb4dd230eb1dbc5d907728aef5e86c12c00bd34808d2d640ef7f7-600x337.png" width="600" alt="Şaka Videosu Küçük Resmi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -814,7 +814,7 @@ Bu istem, "5 Dakikalık Hayat Hileleri" videosu için, net öğretici görseller
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359826854_zld663_5e728a1a63f054c88f1d7d774ba7d0e36ca40b9fad806abddf954eb7d957ef54" width="600" alt="5 Dakikalık Hayat Hileleri Küçük Resmi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359826854_zld663_5e728a1a63f054c88f1d7d774ba7d0e36ca40b9fad806abddf954eb7d957ef54-600x337.png" width="600" alt="5 Dakikalık Hayat Hileleri Küçük Resmi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -847,7 +847,7 @@ Yeni, pahalı bir teknoloji ürününün kutu açılış videosu için bir küç
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359851834_un6clb_85a267e1d3130620520e2800c5866185ed2faa39f4085ff237d045b4ef4ffce7" width="600" alt="Teknoloji Gadget'ı Kutu Açılışı Küçük Resmi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359851834_un6clb_85a267e1d3130620520e2800c5866185ed2faa39f4085ff237d045b4ef4ffce7-600x337.png" width="600" alt="Teknoloji Gadget'ı Kutu Açılışı Küçük Resmi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -880,7 +880,7 @@ Antik Mısır belgeseli için bir küçük resim. Görüntü, Gize'deki Büyük 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359853121_adq5sn_fab0eac438d07ba84861e7fabce5dd05b6a36b2183b7b06b72c5ad546aa7df69" width="600" alt="Antik Mısır Belgeseli Küçük Resmi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359853121_adq5sn_fab0eac438d07ba84861e7fabce5dd05b6a36b2183b7b06b72c5ad546aa7df69-600x337.png" width="600" alt="Antik Mısır Belgeseli Küçük Resmi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -913,7 +913,7 @@ Yeni bir elektrikli süper otomobil incelemesi için bir küçük resim. Otomobi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359852520_3t2hlv_4514080c766c42a1255a2246ff4b6261d85db0f25a78dd70994fe22caa05f7cb" width="600" alt="Elektrikli Süper Otomobil İncelemesi Küçük Resmi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359852520_3t2hlv_4514080c766c42a1255a2246ff4b6261d85db0f25a78dd70994fe22caa05f7cb-600x337.png" width="600" alt="Elektrikli Süper Otomobil İncelemesi Küçük Resmi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -946,7 +946,7 @@ Gerçek bir suç belgeseli için karanlık ve gizemli bir küçük resim. Görü
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359875601_ti4vut_5ebeba4d9fc7284defb13ff5cbdf69102cae60e95aaa7af3bfd9e512b2a79d2f" width="600" alt="Gerçek Suç Belgeseli Küçük Resmi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359875601_ti4vut_5ebeba4d9fc7284defb13ff5cbdf69102cae60e95aaa7af3bfd9e512b2a79d2f-600x337.png" width="600" alt="Gerçek Suç Belgeseli Küçük Resmi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -979,7 +979,7 @@ Bu istem, bir "30 Günlük Fitness Mücadelesi" sonuçları videosu için, YouTu
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359877133_wfrjxo_71b453d5c7354270702bd21ea6ce5c292083909941c78792940f78f07738b929" width="600" alt="30 Günlük Fitness Mücadelesi Sonuçları Küçük Resmi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359877133_wfrjxo_71b453d5c7354270702bd21ea6ce5c292083909941c78792940f78f07738b929-600x337.png" width="600" alt="30 Günlük Fitness Mücadelesi Sonuçları Küçük Resmi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1012,7 +1012,7 @@ Kara delikleri açıklayan bir video için küçük resim. Görüntü, bir kara 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359877066_tmo2mz_8ef67c65974dda9a310ea2835c5dfe9c4503821ef97bdeb9a7fd193f301d5313" width="600" alt="Kara Delik Açıklaması Küçük Resmi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359877066_tmo2mz_8ef67c65974dda9a310ea2835c5dfe9c4503821ef97bdeb9a7fd193f301d5313-600x337.png" width="600" alt="Kara Delik Açıklaması Küçük Resmi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1045,7 +1045,7 @@ Bir kendin yap ev dekorasyonu videosu için küçük resim. Görselde "öncesi v
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359900370_9r1704_ab90bfdfcf0d0c7ab2556c996cbd238f4fe239e87325268a10cd40436c3f3634" width="600" alt="Kendin Yap Oda Dönüşümü: Öncesi ve Sonrası - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359900370_9r1704_ab90bfdfcf0d0c7ab2556c996cbd238f4fe239e87325268a10cd40436c3f3634-600x337.png" width="600" alt="Kendin Yap Oda Dönüşümü: Öncesi ve Sonrası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1078,7 +1078,7 @@ Bu istem, "Enfes Çikolatalı Kek" tarifi videosu için bir YouTube küçük res
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359901359_1x34it_03121fa70e72330556cbd276f62b40bb3b959dd20737ecf355e76d61e5a3e077" width="600" alt="Enfes Çikolatalı Kek Tarifi Küçük Resmi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359901359_1x34it_03121fa70e72330556cbd276f62b40bb3b959dd20737ecf355e76d61e5a3e077-600x337.png" width="600" alt="Enfes Çikolatalı Kek Tarifi Küçük Resmi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1111,7 +1111,7 @@ Bir "Minecraft Survival" videosu için küçük resim. Görüntüde, oyuncunun k
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765369899639_932wt1_image.png" width="600" alt="Minecraft Hayatta Kalma Videosu Küçük Resmi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765369899639_932wt1_image-600x337.png" width="600" alt="Minecraft Hayatta Kalma Videosu Küçük Resmi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1144,7 +1144,7 @@ Bali hakkında bir seyahat vlog'u için çarpıcı bir küçük resim. Görünt�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359903042_30dda6_1b055fabcac0ef74ade652ee5f228fd4eabc9b207be6f70f37a1616a3de931e2" width="600" alt="Bali Seyahat Vlog'u Küçük Resmi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359903042_30dda6_1b055fabcac0ef74ade652ee5f228fd4eabc9b207be6f70f37a1616a3de931e2-600x337.png" width="600" alt="Bali Seyahat Vlog'u Küçük Resmi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1177,7 +1177,7 @@ En yeni akıllı telefonun incelemesi için bir küçük resim. Telefon, şık e
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359924818_vj5g9z_a672cbbb55c04d0fd842612f03751ff6f71209ee26810d0ecb31fb0006abacf0" width="600" alt="Akıllı Telefon İncelemesi Küçük Resmi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359924818_vj5g9z_a672cbbb55c04d0fd842612f03751ff6f71209ee26810d0ecb31fb0006abacf0-600x337.png" width="600" alt="Akıllı Telefon İncelemesi Küçük Resmi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1210,7 +1210,7 @@ Bu istem, abartılı bir şekilde ağlayan-gülen bir YouTuber ve cesur metin i�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359926354_hoegcp_68ca62b3e06921c89f49982ed2dc9c4feff4e9435c2c33f98c1c42669ab38f7e" width="600" alt="Gülmeme Meydan Okuması Küçük Resmi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359926354_hoegcp_68ca62b3e06921c89f49982ed2dc9c4feff4e9435c2c33f98c1c42669ab38f7e-600x337.png" width="600" alt="Gülmeme Meydan Okuması Küçük Resmi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1243,7 +1243,7 @@ Paydaşlara yönelik bir sunum için modern bir web uygulamasının üst düzey 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359932380_34jgt9_cf89b086154f3db23cb91cf01007b07ff5b0d1d6de917cbdfd872738fc0d5298" width="600" alt="Web Uygulaması Sistem Mimari Diyagramı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359932380_34jgt9_cf89b086154f3db23cb91cf01007b07ff5b0d1d6de917cbdfd872738fc0d5298-600x337.png" width="600" alt="Web Uygulaması Sistem Mimari Diyagramı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1276,7 +1276,7 @@ Ev yapımı makarna yapmak için güzelce resmedilmiş bir tarif kartı. Üst ya
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359944420_tw6rfy_77721eb71d52cc73d3605105bd8b7a9888b199ad870f6a4296bfc6c56102fd53" width="600" alt="Resimli Ev Yapımı Makarna Tarifi Kartı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359944420_tw6rfy_77721eb71d52cc73d3605105bd8b7a9888b199ad870f6a4296bfc6c56102fd53-600x800.png" width="600" alt="Resimli Ev Yapımı Makarna Tarifi Kartı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1309,7 +1309,7 @@ Bu bilgi istemi, sırt ağrısını önlemek için doğru masa duruşu için gö
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359948609_2vso37_0490ff1e27881908c2f57279ed53cb0683a6246fe993c76ed401e66f57f0caac" width="600" alt="İşyeri Duruş Güvenliği Rehberi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359948609_2vso37_0490ff1e27881908c2f57279ed53cb0683a6246fe993c76ed401e66f57f0caac-600x800.png" width="600" alt="İşyeri Duruş Güvenliği Rehberi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1342,7 +1342,7 @@ Bir 3D yazıcının (FDM teknolojisi) nasıl çalıştığını açıklayan net 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359951657_6x8wiq_a28d98bfdcf6bcfbf29d169ba7af5ea98ab3794f7bd1909ab4b05462414b7772" width="600" alt="3D Yazıcının Çalışma Diyagramı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359951657_6x8wiq_a28d98bfdcf6bcfbf29d169ba7af5ea98ab3794f7bd1909ab4b05462414b7772-600x337.png" width="600" alt="3D Yazıcının Çalışma Diyagramı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1375,7 +1375,7 @@ Bir milli parkın stilize edilmiş, izometrik illüstrasyon haritası. Harita, �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359970268_rcdthd_bf500cba6499874444cf6ff9375a9c765df1bb571a2b8216c70ffa7a3a283d54" width="600" alt="İzometrik Milli Park Haritası - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359970268_rcdthd_bf500cba6499874444cf6ff9375a9c765df1bb571a2b8216c70ffa7a3a283d54-600x450.png" width="600" alt="İzometrik Milli Park Haritası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1408,7 +1408,7 @@ Bir evin pasif güneş tasarımı konseptini açıklayan, plan tarzı bir çizim
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359973271_pdbxwc_c6b94b7b550aac22ddcc5cb218e2579891facd7bf4789233eb0581b2ba0c84d9" width="600" alt="Blueprint Pasif Güneş Tasarımı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359973271_pdbxwc_c6b94b7b550aac22ddcc5cb218e2579891facd7bf4789233eb0581b2ba0c84d9-600x337.png" width="600" alt="Blueprint Pasif Güneş Tasarımı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1441,7 +1441,7 @@ Modern bir biyoloji ders kitabının tarzında, bir bitki hücresinin detaylı, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359975492_2deaph_df758e9f5d5ddd765d001220d1412d72984f04eb480958eeb7f9ac08e4275cee" width="600" alt="Bilimsel Bitki Hücresi İllüstrasyonu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359975492_2deaph_df758e9f5d5ddd765d001220d1412d72984f04eb480958eeb7f9ac08e4275cee-600x450.png" width="600" alt="Bilimsel Bitki Hücresi İllüstrasyonu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1474,7 +1474,7 @@ Küresel orman tahribatı raporu için güzel ve bilgilendirici bir veri görsel
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359995792_935v79_451d9e59da9ac0d1e4ab12f3fc35b626497c9a0386c651672c3556e1ec4fc70a" width="600" alt="Küresel Ormansızlaşma Veri Görselleştirmesi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359995792_935v79_451d9e59da9ac0d1e4ab12f3fc35b626497c9a0386c651672c3556e1ec4fc70a-600x337.png" width="600" alt="Küresel Ormansızlaşma Veri Görselleştirmesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1507,7 +1507,7 @@ Bir DSLR fotoğraf makinesinin patlatılmış görünüm teknik çizimi. Fotoğr
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359997080_1prfza_c8269754000f110a97bf65145ca5373a1fc1fbe87f6b30e334dffbd18bc5b5df" width="600" alt="Patlatılmış Görünüm DSLR Fotoğraf Makinesi İllüstrasyonu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359997080_1prfza_c8269754000f110a97bf65145ca5373a1fc1fbe87f6b30e334dffbd18bc5b5df-600x337.png" width="600" alt="Patlatılmış Görünüm DSLR Fotoğraf Makinesi İllüstrasyonu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1540,7 +1540,7 @@ Elektrikli arabalar ve benzinli arabaları karşılaştıran görsel bir karşı
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359996985_swkfjt_025cf48cdf39f10755df260dea0d9796003eb88ba7ff741c5ef20828050b678b" width="600" alt="Elektrikli Arabalar ile Benzinli Arabaların Karşılaştırması - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765359996985_swkfjt_025cf48cdf39f10755df260dea0d9796003eb88ba7ff741c5ef20828050b678b-600x337.png" width="600" alt="Elektrikli Arabalar ile Benzinli Arabaların Karşılaştırması - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1573,7 +1573,7 @@ Bu bilgi istemi, "Pour-Over Yöntemiyle Mükemmel Bir Fincan Kahve Nasıl Demlen
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360020018_utsoub_569c26ce3c8be204cf2719b1245fa0d66c9364713f37e088e9c7f89b24103f68" width="600" alt="Pour-Over Kahve Rehberi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360020018_utsoub_569c26ce3c8be204cf2719b1245fa0d66c9364713f37e088e9c7f89b24103f68-600x1200.png" width="600" alt="Pour-Over Kahve Rehberi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1606,7 +1606,7 @@ Bir yanardağın iç yapısını gösteren 3 boyutlu kesit diyagramı. Diyagramd
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360021554_hz6eqa_15384c7a700e2f6caf11a1ae450c9b4f2fa7259b6bd2aab631cd7ddbdea697bb" width="600" alt="3D Kesit Yanardağ Diyagramı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360021554_hz6eqa_15384c7a700e2f6caf11a1ae450c9b4f2fa7259b6bd2aab631cd7ddbdea697bb-600x337.png" width="600" alt="3D Kesit Yanardağ Diyagramı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1639,7 +1639,7 @@ Bu bilgi istemi, insan kalbinin anatomisini açıklayan ayrıntılı, eski tarz 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360021711_vf88g1_375e97890c3e1c912a6be2d5a3238a4fe91a2a3e99abc7e9caeade8d5ebde855" width="600" alt="Vintage Kara Tahta Kalp Anatomisi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360021711_vf88g1_375e97890c3e1c912a6be2d5a3238a4fe91a2a3e99abc7e9caeade8d5ebde855-600x450.png" width="600" alt="Vintage Kara Tahta Kalp Anatomisi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1672,7 +1672,7 @@ Bu istem, "Yaratıcı Düşünme" üzerine odaklanmış canlı ve organik bir zi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360046589_xbdktm_7f8ef516875cb2529572760ff3af83434fa448b108c72ee77fbed2f0d0c31349" width="600" alt="Yaratıcı Düşünme için Canlı Zihin Haritası - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360046589_xbdktm_7f8ef516875cb2529572760ff3af83434fa448b108c72ee77fbed2f0d0c31349-600x337.png" width="600" alt="Yaratıcı Düşünme için Canlı Zihin Haritası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1705,7 +1705,7 @@ Yazılım geliştirme yaşam döngüsünü (SDLC) gösteren temiz ve profesyonel
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360048342_c53zez_ee77452b9f75a5acfcb5d1f9cce49aa48c929b421e9b18173c78f58aaa3340b5" width="600" alt="Profesyonel SDLC Akış Şeması - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360048342_c53zez_ee77452b9f75a5acfcb5d1f9cce49aa48c929b421e9b18173c78f58aaa3340b5-600x337.png" width="600" alt="Profesyonel SDLC Akış Şeması - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1738,7 +1738,7 @@ Lise biyoloji dersi için tasarlanmış, fotosentez sürecinin detaylı, elle ç
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360049311_aiw2tn_57462cb7394928f1406090ed7f8a63b9f188c3a2475b057361262f1842e3904b" width="600" alt="Beyaz Tahta Fotosentez Açıklaması - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360049311_aiw2tn_57462cb7394928f1406090ed7f8a63b9f188c3a2475b057361262f1842e3904b-600x337.png" width="600" alt="Beyaz Tahta Fotosentez Açıklaması - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1771,7 +1771,7 @@ Kendine bakım ve ruh sağlığı hakkında bir gönderi için sakinleştirici v
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360072488_tpymr8_dde65621d97d14063e3d68ed13f389873d2eb1207bb870d484007949cda32fe8" width="600" alt="Kendine Bakım İçin Huzurlu Bir Banyo - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360072488_tpymr8_dde65621d97d14063e3d68ed13f389873d2eb1207bb870d484007949cda32fe8-600x400.png" width="600" alt="Kendine Bakım İçin Huzurlu Bir Banyo - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1804,7 +1804,7 @@ Bir sanatçının dağınık ama ilham verici stüdyosunun fotoğrafı. Duvara y
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360073375_zdsx14_642c32b87cf5be86178882a3ce41f082d51ff7403ec7c14a2ff414736abd12fb" width="600" alt="Sanatçının Dağınık Stüdyosu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360073375_zdsx14_642c32b87cf5be86178882a3ce41f082d51ff7403ec7c14a2ff414736abd12fb-600x450.png" width="600" alt="Sanatçının Dağınık Stüdyosu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1837,7 +1837,7 @@ Noel temalı bir Instagram gönderisi için sıcak ve şenlikli bir fotoğraf. S
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360073433_zgk9cr_4797fcbfa8cd3ff3bf1cb9894770f1dc19960ed270508561f45acbe17ea134e4" width="600" alt="Sıcak Noel Çikolatası - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360073433_zgk9cr_4797fcbfa8cd3ff3bf1cb9894770f1dc19960ed270508561f45acbe17ea134e4-600x750.png" width="600" alt="Sıcak Noel Çikolatası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1870,7 +1870,7 @@ Yüksek kaliteli bir oyun kurulumunun, yayın oturumu için hazır haldeki foto�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360098499_qow13s_063678853526af502f0b76f143585a8979a45a67dece2321fc4d79bf0da9f83f" width="600" alt="Üst Düzey Oyun Kurulumu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360098499_qow13s_063678853526af502f0b76f143585a8979a45a67dece2321fc4d79bf0da9f83f-600x337.png" width="600" alt="Üst Düzey Oyun Kurulumu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1903,7 +1903,7 @@ Kuru, çorak topraktaki bir çatlaktan büyüyen tek, yeşil bir filizin güçl�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360098798_0ty8mt_27b0b9e3e1c8d2fea5a0be237beb86d21c6c58e79dfea103cc7edb0f15e5f3d0" width="600" alt="Kuru Topraktan Filizlenmek - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360098798_0ty8mt_27b0b9e3e1c8d2fea5a0be237beb86d21c6c58e79dfea103cc7edb0f15e5f3d0-600x400.png" width="600" alt="Kuru Topraktan Filizlenmek - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1936,7 +1936,7 @@ Bir güzellik blogger'ının incelemesi için yeni bir far paletinin makro, sana
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360099051_05ebmu_d39be6af8bb56f8a40942d1fb704230eb8b901658fd0e7ceaafa68a04f2499d3" width="600" alt="Macro Far Paleti Çekimi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360099051_05ebmu_d39be6af8bb56f8a40942d1fb704230eb8b901658fd0e7ceaafa68a04f2499d3-600x337.png" width="600" alt="Macro Far Paleti Çekimi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1969,7 +1969,7 @@ Köşede bir pikap bulunan, ahşap bir zemine dağılmış vintage plak koleksiy
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360124674_xzhr1p_7d16592f8f1aa02223f82ae42795ae66da069e1af33fe9e63371d52dd47b894c" width="600" alt="Vintage Plak Koleksiyonu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360124674_xzhr1p_7d16592f8f1aa02223f82ae42795ae66da069e1af33fe9e63371d52dd47b894c-600x600.png" width="600" alt="Vintage Plak Koleksiyonu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2002,7 +2002,7 @@ Evde güzelce dekore edilmiş, ışık dolu bir okuma köşesinin fotoğrafı. K
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360125025_ciiseo_5860277b77f24e38e81b2792eb00b894a0519067d7b2aa684e0c7c5536380593" width="600" alt="Işık Dolu Okuma Köşesi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360125025_ciiseo_5860277b77f24e38e81b2792eb00b894a0519067d7b2aa684e0c7c5536380593-600x800.png" width="600" alt="Işık Dolu Okuma Köşesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2035,7 +2035,7 @@ Bu istem, "günün kombini" gönderisi için derlenmiş bir kıyafetin minimalis
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360125159_i2075w_a0b39b20f4395d55a2eb9c0a526a6f21b39a7b892567c39ee689a98a3d1f2575" width="600" alt="Minimalist Şık Kıyafet Düz Serim - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360125159_i2075w_a0b39b20f4395d55a2eb9c0a526a6f21b39a7b892567c39ee689a98a3d1f2575-600x750.png" width="600" alt="Minimalist Şık Kıyafet Düz Serim - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2068,7 +2068,7 @@ Taipei'deki bir gece pazarının hareketli sokak yaşamını yakalayan bir foto�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360152044_pk5sb6_e9ddfef112bb3b2bd6c55bfd15e05e2b643bb8e136662189eef61b6b7b729ec6" width="600" alt="Taipei'in Canlı Gece Pazarı Sahnesi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360152044_pk5sb6_e9ddfef112bb3b2bd6c55bfd15e05e2b643bb8e136662189eef61b6b7b729ec6-600x337.png" width="600" alt="Taipei'in Canlı Gece Pazarı Sahnesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2101,7 +2101,7 @@ Bir çadırın içinde oturan birinin bakış açısından, şafakta büyüleyic
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360152223_ecnmvk_9bd9adf33a941d866242521ffec8b0294c759982f041b08601e09f200cc991e2" width="600" alt="Dağ Manzaralı Çadır Görünümü - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360152223_ecnmvk_9bd9adf33a941d866242521ffec8b0294c759982f041b08601e09f200cc991e2-600x400.png" width="600" alt="Dağ Manzaralı Çadır Görünümü - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2134,7 +2134,7 @@ Fransa'nın Provence bölgesindeki bir lavanta tarlasında gün batımında pikn
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360152290_ucceii_2e1174d444139a8eb541644c3eb5020576fe4c220017db9e976b341d2a54a149" width="600" alt="Lavanta Tarlasında Romantik Piknik - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360152290_ucceii_2e1174d444139a8eb541644c3eb5020576fe4c220017db9e976b341d2a54a149-600x337.png" width="600" alt="Lavanta Tarlasında Romantik Piknik - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2167,7 +2167,7 @@ Birinin kaligrafi çalıştığı, güzelce düzenlenmiş bir el işi masasını
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360179002_wwu76m_70062e7ce488d2b620eee1af3585e26d690b5efc7951939621407713383231e4" width="600" alt="Yukarıdan Kaligrafi El Sanatları Çekimi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360179002_wwu76m_70062e7ce488d2b620eee1af3585e26d690b5efc7951939621407713383231e4-600x600.png" width="600" alt="Yukarıdan Kaligrafi El Sanatları Çekimi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2200,7 +2200,7 @@ Bu bilgi istemi, şehirdeki bir spor salonunda ağırlık kaldıran kadın bir s
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360179604_xwadaf_4bc42730fac9b6b298ba8f732b6431248ae84dd281657d8709a0c816b1de3304" width="600" alt="Dinamik Kadın Sporcu Antrenman Çekimi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360179604_xwadaf_4bc42730fac9b6b298ba8f732b6431248ae84dd281657d8709a0c816b1de3304-600x750.png" width="600" alt="Dinamik Kadın Sporcu Antrenman Çekimi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2233,7 +2233,7 @@ Bir yemek blogger'ının sosyal medyası için son derece iştah açıcı, yakı
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360185212_vl0ce8_70017eedaaad9b54e0a49da5a3b8b7de1af4e256b97a1ba157b7b884114968ba" width="600" alt="İştah Açıcı Krepler - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360185212_vl0ce8_70017eedaaad9b54e0a49da5a3b8b7de1af4e256b97a1ba157b7b884114968ba-600x600.png" width="600" alt="İştah Açıcı Krepler - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2266,7 +2266,7 @@ Paris Moda Haftası sırasında Paris'te bir moda influencer'ının sokak stili 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360204383_1ci042_1b3b9a6717aab1c6f9fc0068aac1becadb4d037b522eb47cf359437d908456a6" width="600" alt="Paris Moda Fenomeni Sokak Stili - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360204383_1ci042_1b3b9a6717aab1c6f9fc0068aac1becadb4d037b522eb47cf359437d908456a6-600x800.png" width="600" alt="Paris Moda Fenomeni Sokak Stili - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2299,7 +2299,7 @@ Sonbahar yapraklarıyla dolu bir tarlada oynayan altın retriever yavrusunun iç
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360205636_17iyst_f56f471d208f74fe3b796f5ea9e53dd60401af8e47242309fdc7119c652ee5e1" width="600" alt="Sonbahar Yaprakları Arasında Golden Retriever Yavrusu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360205636_17iyst_f56f471d208f74fe3b796f5ea9e53dd60401af8e47242309fdc7119c652ee5e1-600x400.png" width="600" alt="Sonbahar Yaprakları Arasında Golden Retriever Yavrusu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2332,7 +2332,7 @@ Tek başına seyahat macerasında olan genç bir kadının, hareket halindeki bi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360207630_nsjfk5_fabb02d530b4a43eed2633aeec2c7d448f898236c81c39d909b63fee4b4f792b" width="600" alt="Sinematik Yalnız Seyahat Çekimi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360207630_nsjfk5_fabb02d530b4a43eed2633aeec2c7d448f898236c81c39d909b63fee4b4f792b-600x750.png" width="600" alt="Sinematik Yalnız Seyahat Çekimi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2366,7 +2366,7 @@ Görüntüyü eşit üç panelli ızgara film dokulu sanatsal bir portreye dön�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360229744_nvm9w5_1765288935135-wud1t9-0217652888936922504cb05148e9a08cc7612c3f2b24e52b75ef9_0.jpeg" width="600" alt="Üç Panelli Film Sanatı Izgarası - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360229744_nvm9w5_1765288935135-wud1t9-0217652888936922504cb05148e9a08cc7612c3f2b24e52b75ef9_0-600x800.jpg" width="600" alt="Üç Panelli Film Sanatı Izgarası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2399,7 +2399,7 @@ h0674kz, hello kitty ofisi havaya uçuruyor, retro film tarzı, ince grenli
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360229710_tgjwxf_1765288474005-k41are-0217652884614137b67bbc2a2a9a26108e071e40bb0b084bb4c62_0.jpeg" width="600" alt="Hello Kitty Ofis Kaosu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360229710_tgjwxf_1765288474005-k41are-0217652884614137b67bbc2a2a9a26108e071e40bb0b084bb4c62_0-600x600.jpg" width="600" alt="Hello Kitty Ofis Kaosu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2432,7 +2432,7 @@ h0674kz, renkli yıldız çıkartmaları, parlak kristal boncuk zincirlerle süs
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360230270_ezv9cs_1765288370319-dqtbl9-0217652883542227b67bbc2a2a9a26108e071e40bb0b084e528f9_0.jpeg" width="600" alt="Yıldızlı Kristal Fıskiye - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360230270_ezv9cs_1765288370319-dqtbl9-0217652883542227b67bbc2a2a9a26108e071e40bb0b084e528f9_0-600x600.jpg" width="600" alt="Yıldızlı Kristal Fıskiye - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2465,7 +2465,7 @@ Gion'un taş döşeli yolunda yürüyen geyşa (geleneksel kimono detayları, be
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360245230_cdsky8_1765275017915-b4oun1-02176527500110899f4740eadd3360aa6250e68d85f7ec7d1ab1c_0.jpeg" width="600" alt="Kyoto Geyşa Anı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360245230_cdsky8_1765275017915-b4oun1-02176527500110899f4740eadd3360aa6250e68d85f7ec7d1ab1c_0-600x1068.jpg" width="600" alt="Kyoto Geyşa Anı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2499,7 +2499,7 @@ New York'ta Noel'i yakalayan şenlikli bir şehir gecesi istemi. Rockefeller ağ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360246013_zi91m8_1765275008056-awrlob-02176527499183730d072d337ea6fcc7bbfbe2f0c485be2133621_0.jpeg" width="600" alt="NYC Noel Gecesi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360246013_zi91m8_1765275008056-awrlob-02176527499183730d072d337ea6fcc7bbfbe2f0c485be2133621_0-600x337.jpg" width="600" alt="NYC Noel Gecesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2532,7 +2532,7 @@ Dağ çadırı kamp alanı alacakaranlık sahnesi, profesyonel dış mekan çad�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360246893_mtapx3_1765275019542-dn719s-02176527499084515b33ccaa151d3ed7feaaa761bc71c37d80b76_0.jpeg" width="600" alt="Alacakaranlık Kamp Sahnesi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360246893_mtapx3_1765275019542-dn719s-02176527499084515b33ccaa151d3ed7feaaa761bc71c37d80b76_0-600x337.jpg" width="600" alt="Alacakaranlık Kamp Sahnesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2566,7 +2566,7 @@ Direnç antrenmanı sırasında dambıl kaldıran {argument name="subject" defau
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360261690_4x4uf4_1765275000507-sqsucj-02176527498905999f4740eadd3360aa6250e68d85f7ec76a5c3d_0.jpeg" width="600" alt="Yoğun Egzersiz Monokrom - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360261690_4x4uf4_1765275000507-sqsucj-02176527498905999f4740eadd3360aa6250e68d85f7ec76a5c3d_0-600x600.jpg" width="600" alt="Yoğun Egzersiz Monokrom - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2599,7 +2599,7 @@ Uluslararası Uzay İstasyonu iç gerçek fiziksel ortam, astronot (NASA uzay gi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360262884_b88c1d_1765274990209-k4hrrh-02176527497561815b33ccaa151d3ed7feaaa761bc71c37a78d07_0.jpeg" width="600" alt="ISS Astronot İç Mekanı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360262884_b88c1d_1765274990209-k4hrrh-02176527497561815b33ccaa151d3ed7feaaa761bc71c37a78d07_0-600x600.jpg" width="600" alt="ISS Astronot İç Mekanı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2632,7 +2632,7 @@ Sinir ağı 3D yapı veri akışı görselleştirmesi, matris halinde düzenlenm
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360268560_ru3u50_1765274988508-6ncxi9-02176527496911399f4740eadd3360aa6250e68d85f7ec7e96f29_0.jpeg" width="600" alt="Sinir Ağı Görselleştirme - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360268560_ru3u50_1765274988508-6ncxi9-02176527496911399f4740eadd3360aa6250e68d85f7ec7e96f29_0-600x337.jpg" width="600" alt="Sinir Ağı Görselleştirme - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2666,7 +2666,7 @@ Japon minimalizmine odaklanan sakin bir iç tasarım istemi. Tatami ve sıkışt
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360278768_h291le_1765274957426-7ugun0-02176527494361030d072d337ea6fcc7bbfbe2f0c485be262967b_0.jpeg" width="600" alt="Wabi-Sabi Japon İç Mekanı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360278768_h291le_1765274957426-7ugun0-02176527494361030d072d337ea6fcc7bbfbe2f0c485be262967b_0-600x257.jpg" width="600" alt="Wabi-Sabi Japon İç Mekanı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2700,7 +2700,7 @@ Siyah cilalı mermer tezgah üzerine yerleştirilmiş {argument name="product" d
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360278696_3z2znz_1765274938378-ir04ld-02176527492419215b33ccaa151d3ed7feaaa761bc71c372a0d71_0.jpeg" width="600" alt="Lüks Ürün Fotoğrafçılığı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360278696_3z2znz_1765274938378-ir04ld-02176527492419215b33ccaa151d3ed7feaaa761bc71c372a0d71_0-600x337.jpg" width="600" alt="Lüks Ürün Fotoğrafçılığı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2734,7 +2734,7 @@ K-pop {argument name="number of people" default="four-member"} grup konsept foto
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360279863_tz4g4f_1765274910581-tq9tne-02176527489415015b33ccaa151d3ed7feaaa761bc71c37a7cd8b_0.jpeg" width="600" alt="Fütüristik K-Pop Konsepti - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360279863_tz4g4f_1765274910581-tq9tne-02176527489415015b33ccaa151d3ed7feaaa761bc71c37a7cd8b_0-600x337.jpg" width="600" alt="Fütüristik K-Pop Konsepti - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2768,7 +2768,7 @@ Modern albüm kapaklarından ilham alan çarpıcı, minimalist bir portre istemi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360294364_xh7py4_1765274895843-7atxql-02176527488562899f4740eadd3360aa6250e68d85f7ec7240623_0.jpeg" width="600" alt="Minimalist Yüksek Moda Portresi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360294364_xh7py4_1765274895843-7atxql-02176527488562899f4740eadd3360aa6250e68d85f7ec7240623_0-600x600.jpg" width="600" alt="Minimalist Yüksek Moda Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2802,7 +2802,7 @@ Film kalitesinde görsel efektlerle yüksek tempolu bir süper kahraman savaş s
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360294446_b2592m_1765274884527-5qoikv-0217652748491047ed3dd5a26da08a73b6b7a28831080928df278_0.jpeg" width="600" alt="Dinamik Süper Kahraman Aksiyonu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360294446_b2592m_1765274884527-5qoikv-0217652748491047ed3dd5a26da08a73b6b7a28831080928df278_0-600x337.jpg" width="600" alt="Dinamik Süper Kahraman Aksiyonu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2836,7 +2836,7 @@ Büyük pop turnelerini anımsatan nefes kesici bir stadyum konser sahnesi yarat
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360294924_376i3s_1765274893099-wen28j-02176527488074375aeae14c82856eca08eecb5e75c0575f6b505_0.jpeg" width="600" alt="Stadyum Konser Atmosferi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360294924_376i3s_1765274893099-wen28j-02176527488074375aeae14c82856eca08eecb5e75c0575f6b505_0-600x337.jpg" width="600" alt="Stadyum Konser Atmosferi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2870,7 +2870,7 @@ Barbie rüya oda iç mekanı, {argument name="wall color" default="pink"} duvarl
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360309359_gxt805_1765274866398-qhrtja-02176527483217975aeae14c82856eca08eecb5e75c05752b8142_0.jpeg" width="600" alt="Barbie Rüya Odası - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360309359_gxt805_1765274866398-qhrtja-02176527483217975aeae14c82856eca08eecb5e75c05752b8142_0-600x600.jpg" width="600" alt="Barbie Rüya Odası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2904,7 +2904,7 @@ Amalfi, İtalya'da bir villanın terasında, rüzgarda uçuşan ekru Fransız ke
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360310269_g67vo3_1765274880173-hxchdb-02176527486700575aeae14c82856eca08eecb5e75c057534d7a5_0.jpeg" width="600" alt="Amalfi Sahili Yaşam Tarzı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360310269_g67vo3_1765274880173-hxchdb-02176527486700575aeae14c82856eca08eecb5e75c057534d7a5_0-600x400.jpg" width="600" alt="Amalfi Sahili Yaşam Tarzı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2938,7 +2938,7 @@ Milenyum dijital fotoğraf makinesi tarzı selfie, kasıtlı düşük çözünü
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360310481_xzf6b0_1765274865448-ih2b3j-021765274852656f8f49430e1e3875ff473008eb96b3a39f292b7_0.jpeg" width="600" alt="Y2K Dijital Kamera Selfiesi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360310481_xzf6b0_1765274865448-ih2b3j-021765274852656f8f49430e1e3875ff473008eb96b3a39f292b7_0-600x600.jpg" width="600" alt="Y2K Dijital Kamera Selfiesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2972,7 +2972,7 @@ Christopher Nolan'ın biyografik tarzını anımsatan dramatik siyah beyaz bir f
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360330618_p4wiub_1765274852012-pxolfq-021765274832182f8f49430e1e3875ff473008eb96b3a39e28165_0.jpeg" width="600" alt="Sinematik Bilim İnsanı Portresi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360330618_p4wiub_1765274852012-pxolfq-021765274832182f8f49430e1e3875ff473008eb96b3a39e28165_0-600x257.jpg" width="600" alt="Sinematik Bilim İnsanı Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3005,7 +3005,7 @@ Keçe dokulu Noel temalı poster, genel olarak sıcak ve iyileştirici yün keç
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360325350_ip9hj7_1765339550598-d2sstp-0217653395383777b67bbc2a2a9a26108e071e40bb0b08477b4fc_0.jpeg" width="600" alt="Judy ve Nick Keçe Noel Posteri - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360325350_ip9hj7_1765339550598-d2sstp-0217653395383777b67bbc2a2a9a26108e071e40bb0b08477b4fc_0-600x800.jpg" width="600" alt="Judy ve Nick Keçe Noel Posteri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3038,7 +3038,7 @@ Günlük bir enstantane görsel tarzında sunulan, insan biçimli küçük bir t
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360328619_oh4j4y_1765339546064-p0sf2g-021765339534403f9825d5f0df17daef396c99db0606054de24f2_0.jpeg" width="600" alt="Dünyadan Bıkmış Ofis Tavşanı Selfiesi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360328619_oh4j4y_1765339546064-p0sf2g-021765339534403f9825d5f0df17daef396c99db0606054de24f2_0-600x600.jpg" width="600" alt="Dünyadan Bıkmış Ofis Tavşanı Selfiesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3072,7 +3072,7 @@ IP karakter tasarımı: Q-versiyon, tüylü, kırmızımsı-turuncu küçük bir
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360343896_ks24yz_1765339541415-tyft9h-0217653395301927b67bbc2a2a9a26108e071e40bb0b084e8cebf_0.jpeg" width="600" alt="Trendy Little Fox IP Karakter Tasarımı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360343896_ks24yz_1765339541415-tyft9h-0217653395301927b67bbc2a2a9a26108e071e40bb0b084e8cebf_0-600x600.jpg" width="600" alt="Trendy Little Fox IP Karakter Tasarımı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3106,7 +3106,7 @@ Kaligrafi yazı tipi posteri "{argument name="poster text" default="Life Goes On
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360344447_ay1svn_1765339531784-ohhx37-0217653395206267b67bbc2a2a9a26108e071e40bb0b0844e93e4_0.jpeg" width="600" alt="Sonsuz Canlılık El Yazısı Poster - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360344447_ay1svn_1765339531784-ohhx37-0217653395206267b67bbc2a2a9a26108e071e40bb0b0844e93e4_0-600x800.jpg" width="600" alt="Sonsuz Canlılık El Yazısı Poster - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3140,7 +3140,7 @@ Modern minimalist tasarım stili, Zootopia temalı emaye buzdolabı mıknatısı
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360345227_87dzct_1765339524396-c2vrso-021765339509675732fd601d62b6a7044a0e20965673d99fc2e76_0.jpeg" width="600" alt="Judy ve Nick Düzensiz Buzdolabı Magnet Tasarımı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360345227_87dzct_1765339524396-c2vrso-021765339509675732fd601d62b6a7044a0e20965673d99fc2e76_0-600x600.jpg" width="600" alt="Judy ve Nick Düzensiz Buzdolabı Magnet Tasarımı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3174,7 +3174,7 @@ Kullanıcı arayüzü simgesi, altın paralarla dolu bir cüzdan, bir yığın a
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360359275_0kx2gu_1765339517519-f89k34-0217653395048557b67bbc2a2a9a26108e071e40bb0b084742913_0.jpeg" width="600" alt="3D Cam Cüzdan ve Madeni Para Simgesi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360359275_0kx2gu_1765339517519-f89k34-0217653395048557b67bbc2a2a9a26108e071e40bb0b084742913_0-600x600.jpg" width="600" alt="3D Cam Cüzdan ve Madeni Para Simgesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3207,7 +3207,7 @@ Bu, Disney'in "Zootopia" adlı animasyon filmindeki klasik karakter ikilisi tilk
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360360278_3xdcvi_1765339507274-m3vaqc-0217653394969647ed3dd5a26da08a73b6b7a288310809223b101_0.jpeg" width="600" alt="Nick ve Judy Chibi El Çizimi İllüstrasyon - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360360278_3xdcvi_1765339507274-m3vaqc-0217653394969647ed3dd5a26da08a73b6b7a288310809223b101_0-600x600.jpg" width="600" alt="Nick ve Judy Chibi El Çizimi İllüstrasyon - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3241,7 +3241,7 @@ Yüzleri değiştirmeyin, karakterlerin yüzleri kesinlikle değişmemeli! Lütf
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360362194_fl5qcm_1765339508978-oe6je3-021765339490813f9825d5f0df17daef396c99db0606054d5e479_0.jpeg" width="600" alt="Üç Kişilik Birleştirilmiş Yukarıdan Aşağıya Selfie - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360362194_fl5qcm_1765339508978-oe6je3-021765339490813f9825d5f0df17daef396c99db0606054d5e479_0-600x600.jpg" width="600" alt="Üç Kişilik Birleştirilmiş Yukarıdan Aşağıya Selfie - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3275,7 +3275,7 @@ Bu bilgi istemi, eğlenceli öğretim materyalleri veya günlük yaşam kayıtla
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360374866_rxnciw_1765339485966-e46fx9-021765339462510c799e7b290acded99bf6695874956a9f61f59d_0.jpeg" width="600" alt="Domatesli ve Yumurtalı Sote El Çizimi Bilgi Kartı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360374866_rxnciw_1765339485966-e46fx9-021765339462510c799e7b290acded99bf6695874956a9f61f59d_0-600x450.jpg" width="600" alt="Domatesli ve Yumurtalı Sote El Çizimi Bilgi Kartı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3309,7 +3309,7 @@ Siyah arka plan üzerinde beyaz metin, kaligrafi bağlantılı vuruşlar şık, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360375259_s6jr2i_1765339501783-kxt0et-021765339489400c799e7b290acded99bf6695874956a9f90b493_0.jpeg" width="600" alt="Wild Cursive Film Başlığı Tipografisi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360375259_s6jr2i_1765339501783-kxt0et-021765339489400c799e7b290acded99bf6695874956a9f90b493_0-600x600.jpg" width="600" alt="Wild Cursive Film Başlığı Tipografisi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3343,7 +3343,7 @@ Siyah çizgi eskizi, {argument name="subject name" default="Mekanik Tasarım"} n
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360378310_h8l37v_1765339493312-we5btx-02176533946480475aeae14c82856eca08eecb5e75c0575970b2c_0.jpeg" width="600" alt="Mekanik Tasarım Eskiz Notları - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360378310_h8l37v_1765339493312-we5btx-02176533946480475aeae14c82856eca08eecb5e75c0575970b2c_0-600x600.jpg" width="600" alt="Mekanik Tasarım Eskiz Notları - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3377,7 +3377,7 @@ Koyu mavi zarif bir arka plan, sahneyi kesen istikrarlı bir şekilde yükselen 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360390202_td5qct_1765339443943-9svsin-021765339430962f8f49430e1e3875ff473008eb96b3a3922f1fc_0.jpeg" width="600" alt="Golden Curve Wealth Logic Posteri - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360390202_td5qct_1765339443943-9svsin-021765339430962f8f49430e1e3875ff473008eb96b3a3922f1fc_0-600x600.jpg" width="600" alt="Golden Curve Wealth Logic Posteri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3410,7 +3410,7 @@ Yüksek derecede üç boyutlu bir bakış açısıyla, bir satış platformunun 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360391141_ovuy4h_1765339488473-osj4sc-021765339454032f9825d5f0df17daef396c99db0606054fc66d7_0.jpeg" width="600" alt="3D E-Ticaret Platformu Mimari Diyagramı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360391141_ovuy4h_1765339488473-osj4sc-021765339454032f9825d5f0df17daef396c99db0606054fc66d7_0-600x337.jpg" width="600" alt="3D E-Ticaret Platformu Mimari Diyagramı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3444,7 +3444,7 @@ Usta seviyesinde sanatsal imza yazı tipi tasarımı: {argument name="name" defa
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360394516_gxpvgm_1765339460382-eznpqh-021765339449957f8f49430e1e3875ff473008eb96b3a392ba9d6_0.jpeg" width="600" alt="Ma Wencheng Sanatsal İmza Tasarımı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360394516_gxpvgm_1765339460382-eznpqh-021765339449957f8f49430e1e3875ff473008eb96b3a392ba9d6_0-600x600.jpg" width="600" alt="Ma Wencheng Sanatsal İmza Tasarımı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3477,7 +3477,7 @@ Finansal varlık yönetimi uygulaması mobil kullanıcı arayüzü tasarımı, C
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360404555_3v5zdz_1765339459457-jkploz-0217653394477525097524147fba306f3fd5b41c93377027a5329_0.jpeg" width="600" alt="C4D Tarzı Finans Uygulaması Kullanıcı Arayüzü (Varyant) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360404555_3v5zdz_1765339459457-jkploz-0217653394477525097524147fba306f3fd5b41c93377027a5329_0-600x1068.jpg" width="600" alt="C4D Tarzı Finans Uygulaması Kullanıcı Arayüzü (Varyant) - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3510,7 +3510,7 @@ Finansal varlık yönetimi uygulaması mobil kullanıcı arayüzü tasarımı, C
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360405323_gut77j_1765339448274-3d70yd-0217653394360811e15ac27860f2c8c25bccd5ee2521f9a5adc04_0.jpeg" width="600" alt="C4D Tarzı Finans Uygulaması Kullanıcı Arayüzü - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360405323_gut77j_1765339448274-3d70yd-0217653394360811e15ac27860f2c8c25bccd5ee2521f9a5adc04_0-600x1068.jpg" width="600" alt="C4D Tarzı Finans Uygulaması Kullanıcı Arayüzü - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3544,7 +3544,7 @@ Zootopia'dan Nick Wilde ve Judy Hopps pembe bir kumsalda selfie çekerken, Nick 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360408170_qygk43_1765339451176-di6d3i-021765339431792f8f49430e1e3875ff473008eb96b3a39602ab2_0.jpeg" width="600" alt="Nick ve Judy Pembe Plaj Instagram Tarzı Selfie - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360408170_qygk43_1765339451176-di6d3i-021765339431792f8f49430e1e3875ff473008eb96b3a39602ab2_0-600x1068.jpg" width="600" alt="Nick ve Judy Pembe Plaj Instagram Tarzı Selfie - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3578,7 +3578,7 @@ Modern minimalist tasarım stili, Zootopia temalı emaye buzdolabı magneti tasa
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360418782_694ouv_1765339426120-9d2kwb-021765339415014732fd601d62b6a7044a0e20965673d99f6e2fc_0.jpeg" width="600" alt="Zootopia Judy Emaye Buzdolabı Magneti - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360418782_694ouv_1765339426120-9d2kwb-021765339415014732fd601d62b6a7044a0e20965673d99f6e2fc_0-600x600.jpg" width="600" alt="Zootopia Judy Emaye Buzdolabı Magneti - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3612,7 +3612,7 @@ Teknoloji ürün tanıtım afişi, solda metin sağda görsel düzeni, narin koy
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360419602_kaflap_1765339429857-eubuen-021765339414965f8f49430e1e3875ff473008eb96b3a3954eec6_0.jpeg" width="600" alt="GEO Tech Ürün Tanıtım Afişi - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360419602_kaflap_1765339429857-eubuen-021765339414965f8f49430e1e3875ff473008eb96b3a3954eec6_0-600x1068.jpg" width="600" alt="GEO Tech Ürün Tanıtım Afişi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3646,7 +3646,7 @@ Zootopia karakterleri Nick Wilde ve Judy Hopps. Nick turuncu-kırmızı kürklü
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360424853_aa4im4_3ff7bf8e75a27eee13984fb677f4cb01d8949df05bbf6a9bc3e3a3f4688c880b" width="600" alt="Nick ve Judy Xiaohongshu Tarzı Dördüncü Duvarı Yıkan Selfie - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360424853_aa4im4_3ff7bf8e75a27eee13984fb677f4cb01d8949df05bbf6a9bc3e3a3f4688c880b-600x1068.png" width="600" alt="Nick ve Judy Xiaohongshu Tarzı Dördüncü Duvarı Yıkan Selfie - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3680,7 +3680,7 @@ Yemek pişirmede kullanılan dokuz yaygın Çin baharatı, çizgi çizimi, grav�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360433911_ehmj82_1765340299572-6opt91-0217653402821028547934892c4038781a87d514f9a9196c3270d_0.jpeg" width="600" alt="Geleneksel Çin Baharat Otlarının Çizgi Sanatı - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360433911_ehmj82_1765340299572-6opt91-0217653402821028547934892c4038781a87d514f9a9196c3270d_0-600x450.jpg" width="600" alt="Geleneksel Çin Baharat Otlarının Çizgi Sanatı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3713,7 +3713,7 @@ Ortasında kırmızı bir konum işaretçisi bulunan Hangzhou'nun topografik har
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360434501_816kxa_1765340306930-vmeass-02176534029138615b33ccaa151d3ed7feaaa761bc71c37d6bb0d_0.jpeg" width="600" alt="Hangzhou Topografik Haritası - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360434501_816kxa_1765340306930-vmeass-02176534029138615b33ccaa151d3ed7feaaa761bc71c37d6bb0d_0-600x450.jpg" width="600" alt="Hangzhou Topografik Haritası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3746,7 +3746,7 @@ Moebius ve Kim Jung Gi'nin hibrit illüstrasyon stilini benimseyin; beyaz minima
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360448225_8otize_1765340288295-sovmnh-0217653402735382504cb05148e9a08cc7612c3f2b24e524dcfe7_0.jpeg" width="600" alt="Moebius ve Kim Jung Gi'nin Hibrit Tarzında Grup İllüstrasyonu - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360448225_8otize_1765340288295-sovmnh-0217653402735382504cb05148e9a08cc7612c3f2b24e524dcfe7_0-600x450.jpg" width="600" alt="Moebius ve Kim Jung Gi'nin Hibrit Tarzında Grup İllüstrasyonu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3795,7 +3795,7 @@ Ana başlık "Çağdaş Çinli Romancılar Resimli Rehberi" olup, edebi bir pop�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360449200_ssk71c_1765340288466-2q2mst-021765340250361c5f50319cb4d4388d7836967b82aebe5128460_0.jpeg" width="600" alt="Çağdaş Çinli Romancılar İçin Resimli Bir Rehber - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360449200_ssk71c_1765340288466-2q2mst-021765340250361c5f50319cb4d4388d7836967b82aebe5128460_0-600x800.jpg" width="600" alt="Çağdaş Çinli Romancılar İçin Resimli Bir Rehber - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3829,7 +3829,7 @@ Bu bilgi grafiği istemi, Çin haritasına dayalı bir poster oluşturmak üzere
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360455020_wgx9v9_1765340270629-wkli3h-02176534024967730d072d337ea6fcc7bbfbe2f0c485be24888b0_0.jpeg" width="600" alt="Çin Yemek Haritası Bilgilendirici Poster - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765360455020_wgx9v9_1765340270629-wkli3h-02176534024967730d072d337ea6fcc7bbfbe2f0c485be24888b0_0-600x800.jpg" width="600" alt="Çin Yemek Haritası Bilgilendirici Poster - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3886,6 +3886,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-10T14:23:55.228Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-10T14:35:02.506Z</sub>
 
 </div>
