@@ -22,13 +22,13 @@
 
 <div align="center">
 
-![Cover](public/images/seedream-4.5-prompts-cover-en.png)
+![Cover](https://marketing-assets.youmind.com/campaigns/seedream-4-dot-5-prompts-cover.jpeg)
 
-![List](public/images/seedream-4.5-prompts-list-en.png)
+![List](https://marketing-assets.youmind.com/campaigns/seedream-4-dot-5-prompts-list.png)
 
 </div>
 
-**[👉 YouMind Seedream 4.5 Galerisine Göz Atın](https://youmind.com/seedream-4-dot-5-prompts)**
+**[👉 YouMind Seedream 4.5 Galerisine Göz Atın](https://youmind.com/tr-TR/seedream-4-dot-5-prompts)**
 
 Neden galerimizi kullanmalısınız?
 
@@ -88,15 +88,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-<<<<<<< HEAD
-| 📝 Toplam İstem | **108** |
+| 📝 Toplam İstem | **112** |
 | ⭐ Öne Çıkan | **0** |
-| 🔄 Son Güncelleme | **10 Aralık 2025 Çarşamba 09:55:06 UTC** |
-=======
-| 📝 Toplam İstem | **111** |
-| ⭐ Öne Çıkan | **0** |
-| 🔄 Son Güncelleme | **10 Aralık 2025 Çarşamba 12:21:15 UTC** |
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+| 🔄 Son Güncelleme | **10 Aralık 2025 Çarşamba 14:22:00 UTC** |
 
 </div>
 
@@ -135,7 +129,7 @@ Bu bilgi istemi, çocuklara yönelik bir bilim fuarı için eğlenceli ve eğiti
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%C3%87ocuk%20bilim%20fuar%C4%B1%20i%C3%A7in%20e%C4%9Flenceli%20ve%20e%C4%9Fitici%20bir%20poster.%20Tasar%C4%B1m%2C%20bilim%20insan%C4%B1%20k%C4%B1l%C4%B1%C4%9F%C4%B1na%20girmi%C5%9F%2C%20kaynayan%20beherlere%2C%20teleskoplara%20ve%20robotlara%20bakan%20%C3%A7ocuklar%C4%B1n%20yer%20ald%C4%B1%C4%9F%C4%B1%20renkli%20bir%20%C3%A7izgi%20film%20ill%C3%BCstrasyonudur.%20Tipografi%20e%C4%9Flenceli%20ve%20%C3%A7ocuk%20dostudur.%20Poster%2C%20bilimi%20heyecan%20verici%20ve%20eri%C5%9Filebilir%20g%C3%B6stermeli%2C%20%C3%A7ocuklar%C4%B1%20kat%C4%B1lmaya%20te%C5%9Fvik%20etmelidir.%20%E2%80%93ar%202%3A3)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%C3%87ocuk%20bilim%20fuar%C4%B1%20i%C3%A7in%20e%C4%9Flenceli%20ve%20e%C4%9Fitici%20bir%20poster.%20Tasar%C4%B1m%2C%20bilim%20insan%C4%B1%20k%C4%B1l%C4%B1%C4%9F%C4%B1na%20girmi%C5%9F%2C%20kaynayan%20beherlere%2C%20teleskoplara%20ve%20robotlara%20bakan%20%C3%A7ocuklar%C4%B1n%20yer%20ald%C4%B1%C4%9F%C4%B1%20renkli%20bir%20%C3%A7izgi%20film%20ill%C3%BCstrasyonudur.%20Tipografi%20e%C4%9Flenceli%20ve%20%C3%A7ocuk%20dostudur.%20Poster%2C%20bilimi%20heyecan%20verici%20ve%20eri%C5%9Filebilir%20g%C3%B6stermeli%2C%20%C3%A7ocuklar%C4%B1%20kat%C4%B1lmaya%20te%C5%9Fvik%20etmelidir.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -168,7 +162,7 @@ Bir moda mağazasının sezon sonu indirimi için trend ve dikkat çekici bir po
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Bir%20moda%20ma%C4%9Fazas%C4%B1n%C4%B1n%20sezon%20sonu%20indirimi%20i%C3%A7in%20trend%20ve%20dikkat%20%C3%A7ekici%20bir%20poster.%20Tasar%C4%B1m%2C%20cesur%2C%20canl%C4%B1%20renkler%20ve%20modern%2C%20keskin%20bir%20tipografi%20kullan%C4%B1yor.%20Ana%20g%C3%B6rsel%2C%20ma%C4%9Fazan%C4%B1n%20k%C4%B1yafetlerini%20giyen%20%C5%9F%C4%B1k%20bir%20model%2C%20ancak%20g%C3%B6r%C3%BCnt%C3%BC%20boya%20darbeleri%20veya%20kolaj%20%C3%B6%C4%9Feleriyle%20yarat%C4%B1c%C4%B1%20bir%20%C5%9Fekilde%20i%C5%9Flenmi%C5%9F.%20%22HER%20%C5%9EEYDE%20%2550%20%C4%B0ND%C4%B0R%C4%B0M%22%20metni%20en%20belirgin%20%C3%B6%C4%9Fe.%20Poster%2C%20aciliyet%20ve%20heyecan%20duygusu%20yaratmal%C4%B1.%20%E2%80%93ar%203%3A4)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Bir%20moda%20ma%C4%9Fazas%C4%B1n%C4%B1n%20sezon%20sonu%20indirimi%20i%C3%A7in%20trend%20ve%20dikkat%20%C3%A7ekici%20bir%20poster.%20Tasar%C4%B1m%2C%20cesur%2C%20canl%C4%B1%20renkler%20ve%20modern%2C%20keskin%20bir%20tipografi%20kullan%C4%B1yor.%20Ana%20g%C3%B6rsel%2C%20ma%C4%9Fazan%C4%B1n%20k%C4%B1yafetlerini%20giyen%20%C5%9F%C4%B1k%20bir%20model%2C%20ancak%20g%C3%B6r%C3%BCnt%C3%BC%20boya%20darbeleri%20veya%20kolaj%20%C3%B6%C4%9Feleriyle%20yarat%C4%B1c%C4%B1%20bir%20%C5%9Fekilde%20i%C5%9Flenmi%C5%9F.%20%22HER%20%C5%9EEYDE%20%2550%20%C4%B0ND%C4%B0R%C4%B0M%22%20metni%20en%20belirgin%20%C3%B6%C4%9Fe.%20Poster%2C%20aciliyet%20ve%20heyecan%20duygusu%20yaratmal%C4%B1.%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -201,7 +195,7 @@ Bu bilgi istemi, İsviçre Alpleri için ilham verici ve güzel bir seyahat post
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%C4%B0svi%C3%A7re%20Alpleri'ni%20ziyaret%20etmek%20i%C3%A7in%20ilham%20verici%20ve%20g%C3%BCzel%20bir%20seyahat%20posteri.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20arka%20planda%20karla%20kapl%C4%B1%20da%C4%9Flar%C4%B1n%20oldu%C4%9Fu%20pitoresk%20bir%20Alp%20k%C3%B6y%C3%BCn%C3%BCn%20nefes%20kesici%2C%20hiper-ger%C3%A7ek%C3%A7i%20bir%20foto%C4%9Fraf%C4%B1d%C4%B1r.%20%22SWITZERLAND%3A%20The%20Adventure%20Awaits%22%20metni%20zarif%2C%20klasik%20bir%20yaz%C4%B1%20tipindedir.%20Poster%2C%20g%C3%BC%C3%A7l%C3%BC%20bir%20seyahat%20etme%20arzusu%20uyand%C4%B1rmal%C4%B1%20ve%20izleyiciye%20hemen%20bir%20gezi%20rezervasyonu%20yapt%C4%B1rmak%20istemelidir.%20%E2%80%93ar%202%3A3)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%C4%B0svi%C3%A7re%20Alpleri'ni%20ziyaret%20etmek%20i%C3%A7in%20ilham%20verici%20ve%20g%C3%BCzel%20bir%20seyahat%20posteri.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20arka%20planda%20karla%20kapl%C4%B1%20da%C4%9Flar%C4%B1n%20oldu%C4%9Fu%20pitoresk%20bir%20Alp%20k%C3%B6y%C3%BCn%C3%BCn%20nefes%20kesici%2C%20hiper-ger%C3%A7ek%C3%A7i%20bir%20foto%C4%9Fraf%C4%B1d%C4%B1r.%20%22SWITZERLAND%3A%20The%20Adventure%20Awaits%22%20metni%20zarif%2C%20klasik%20bir%20yaz%C4%B1%20tipindedir.%20Poster%2C%20g%C3%BC%C3%A7l%C3%BC%20bir%20seyahat%20etme%20arzusu%20uyand%C4%B1rmal%C4%B1%20ve%20izleyiciye%20hemen%20bir%20gezi%20rezervasyonu%20yapt%C4%B1rmak%20istemelidir.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -234,7 +228,7 @@ Etkili ve anlaşılır bir "Kayıp Kedi" el ilanı. Tasarımı basit ve işlevse
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Etkili%20ve%20anla%C5%9F%C4%B1l%C4%B1r%20bir%20%22Kay%C4%B1p%20Kedi%22%20el%20ilan%C4%B1.%20Tasar%C4%B1m%C4%B1%20basit%20ve%20i%C5%9Flevsel.%20%C3%9Cst%20k%C4%B1s%C4%B1mda%20kedinin%20b%C3%BCy%C3%BCk%2C%20net%2C%20renkli%20bir%20foto%C4%9Fraf%C4%B1%20yer%20al%C4%B1yor.%20%22KAYIP%20KED%C4%B0%22%20ba%C5%9Fl%C4%B1%C4%9F%C4%B1%20%C3%A7ok%20b%C3%BCy%C3%BCk%2C%20kal%C4%B1n%20ve%20kolay%20okunur%20bir%20yaz%C4%B1%20tipinde.%20Foto%C4%9Fraf%C4%B1n%20alt%C4%B1nda%20kedinin%20ad%C4%B1%2C%20a%C3%A7%C4%B1klamas%C4%B1%2C%20en%20son%20g%C3%B6r%C3%BCld%C3%BC%C4%9F%C3%BC%20yer%20ve%20sahibinin%20ileti%C5%9Fim%20bilgileri%2C%20alt%20k%C4%B1s%C4%B1mda%20ise%20kopar%C4%B1labilir%20sekmeler%20bulunuyor.%20Bu%2C%20pratik%2C%20ger%C3%A7ek%20d%C3%BCnya%20tasar%C4%B1mlar%C4%B1%20olu%C5%9Fturma%20yetene%C4%9Fini%20g%C3%B6steriyor.%20%E2%80%93ar%203%3A4)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Etkili%20ve%20anla%C5%9F%C4%B1l%C4%B1r%20bir%20%22Kay%C4%B1p%20Kedi%22%20el%20ilan%C4%B1.%20Tasar%C4%B1m%C4%B1%20basit%20ve%20i%C5%9Flevsel.%20%C3%9Cst%20k%C4%B1s%C4%B1mda%20kedinin%20b%C3%BCy%C3%BCk%2C%20net%2C%20renkli%20bir%20foto%C4%9Fraf%C4%B1%20yer%20al%C4%B1yor.%20%22KAYIP%20KED%C4%B0%22%20ba%C5%9Fl%C4%B1%C4%9F%C4%B1%20%C3%A7ok%20b%C3%BCy%C3%BCk%2C%20kal%C4%B1n%20ve%20kolay%20okunur%20bir%20yaz%C4%B1%20tipinde.%20Foto%C4%9Fraf%C4%B1n%20alt%C4%B1nda%20kedinin%20ad%C4%B1%2C%20a%C3%A7%C4%B1klamas%C4%B1%2C%20en%20son%20g%C3%B6r%C3%BCld%C3%BC%C4%9F%C3%BC%20yer%20ve%20sahibinin%20ileti%C5%9Fim%20bilgileri%2C%20alt%20k%C4%B1s%C4%B1mda%20ise%20kopar%C4%B1labilir%20sekmeler%20bulunuyor.%20Bu%2C%20pratik%2C%20ger%C3%A7ek%20d%C3%BCnya%20tasar%C4%B1mlar%C4%B1%20olu%C5%9Fturma%20yetene%C4%9Fini%20g%C3%B6steriyor.%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -267,7 +261,7 @@ Bu bilgi istemi, iklim değişikliği üzerine halka açık bir seminer için bi
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%C4%B0klim%20de%C4%9Fi%C5%9Fikli%C4%9Fi%20%C3%BCzerine%20halka%20a%C3%A7%C4%B1k%20bir%20seminer%20i%C3%A7in%20bilgilendirici%20ve%20ilgi%20%C3%A7ekici%20bir%20poster.%20Poster%2C%20ortas%C4%B1nda%20termometreli%20b%C3%BCy%C3%BCk%20bir%20d%C3%BCnya%20grafi%C4%9Fi%20ve%20etraf%C4%B1nda%20nedenleri%20ve%20etkileri%20a%C3%A7%C4%B1klayan%20daha%20k%C3%BC%C3%A7%C3%BCk%20simgeler%20ve%20veri%20noktalar%C4%B1%20bulunan%20mini%20bir%20infografik%20olarak%20tasarlanm%C4%B1%C5%9Ft%C4%B1r.%20Tasar%C4%B1m%20temiz%2C%20d%C3%BCzenli%20ve%20izleyiciyi%20h%C4%B1zl%C4%B1%20ve%20etkili%20bir%20%C5%9Fekilde%20e%C4%9Fitmeyi%20ama%C3%A7lamaktad%C4%B1r.%20%E2%80%93ar%203%3A4)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%C4%B0klim%20de%C4%9Fi%C5%9Fikli%C4%9Fi%20%C3%BCzerine%20halka%20a%C3%A7%C4%B1k%20bir%20seminer%20i%C3%A7in%20bilgilendirici%20ve%20ilgi%20%C3%A7ekici%20bir%20poster.%20Poster%2C%20ortas%C4%B1nda%20termometreli%20b%C3%BCy%C3%BCk%20bir%20d%C3%BCnya%20grafi%C4%9Fi%20ve%20etraf%C4%B1nda%20nedenleri%20ve%20etkileri%20a%C3%A7%C4%B1klayan%20daha%20k%C3%BC%C3%A7%C3%BCk%20simgeler%20ve%20veri%20noktalar%C4%B1%20bulunan%20mini%20bir%20infografik%20olarak%20tasarlanm%C4%B1%C5%9Ft%C4%B1r.%20Tasar%C4%B1m%20temiz%2C%20d%C3%BCzenli%20ve%20izleyiciyi%20h%C4%B1zl%C4%B1%20ve%20etkili%20bir%20%C5%9Fekilde%20e%C4%9Fitmeyi%20ama%C3%A7lamaktad%C4%B1r.%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -300,7 +294,7 @@ Yeni, yüksek teknolojili kablosuz kulaklık için şık ve minimalist bir poste
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Yeni%2C%20y%C3%BCksek%20teknolojili%20kablosuz%20kulakl%C4%B1k%20i%C3%A7in%20%C5%9F%C4%B1k%20ve%20minimalist%20bir%20poster%20reklam%C4%B1.%20Poster%2C%20s%C4%B1f%C4%B1r%20yer%C3%A7ekimi%20ortam%C4%B1nda%20s%C3%BCz%C3%BCl%C3%BCyormu%C5%9F%20gibi%20g%C3%B6r%C3%BCnen%2C%20kulakl%C4%B1%C4%9F%C4%B1n%20%C3%A7arp%C4%B1c%C4%B1%2C%20y%C3%BCksek%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCkl%C3%BC%20bir%203D%20render'%C4%B1n%C4%B1%20i%C3%A7eriyor.%20Arka%20plan%20basit%2C%20temiz%20bir%20gradyan.%20Tek%20metin%2C%20marka%20ad%C4%B1%20ve%20%C3%BCr%C3%BCn%20slogan%C4%B1%3A%20%22Sesini%20Serbest%20B%C4%B1rak.%22%20Tasar%C4%B1m%20modern%2C%20sofistike%20ve%20tamamen%20%C3%BCr%C3%BCn%C3%BCn%20g%C3%BCzelli%C4%9Fine%20odaklan%C4%B1yor.%20%E2%80%93ar%202%3A3)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Yeni%2C%20y%C3%BCksek%20teknolojili%20kablosuz%20kulakl%C4%B1k%20i%C3%A7in%20%C5%9F%C4%B1k%20ve%20minimalist%20bir%20poster%20reklam%C4%B1.%20Poster%2C%20s%C4%B1f%C4%B1r%20yer%C3%A7ekimi%20ortam%C4%B1nda%20s%C3%BCz%C3%BCl%C3%BCyormu%C5%9F%20gibi%20g%C3%B6r%C3%BCnen%2C%20kulakl%C4%B1%C4%9F%C4%B1n%20%C3%A7arp%C4%B1c%C4%B1%2C%20y%C3%BCksek%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCkl%C3%BC%20bir%203D%20render'%C4%B1n%C4%B1%20i%C3%A7eriyor.%20Arka%20plan%20basit%2C%20temiz%20bir%20gradyan.%20Tek%20metin%2C%20marka%20ad%C4%B1%20ve%20%C3%BCr%C3%BCn%20slogan%C4%B1%3A%20%22Sesini%20Serbest%20B%C4%B1rak.%22%20Tasar%C4%B1m%20modern%2C%20sofistike%20ve%20tamamen%20%C3%BCr%C3%BCn%C3%BCn%20g%C3%BCzelli%C4%9Fine%20odaklan%C4%B1yor.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -333,7 +327,7 @@ Bu istem, 5K'lık bir yardım koşusu için enerjik ve motive edici bir poster o
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%C4%B0yi%20bir%20ama%C3%A7%20i%C3%A7in%20d%C3%BCzenlenen%205K%20yard%C4%B1m%20ko%C5%9Fusu%20i%C3%A7in%20enerjik%20ve%20motive%20edici%20bir%20poster.%20Tasar%C4%B1mda%2C%20y%C3%BCzlerinde%20g%C3%BCl%C3%BCmsemelerle%20ko%C5%9Fan%20%C3%A7e%C5%9Fitli%20bir%20insan%20grubunun%20dinamik%20bir%20foto%C4%9Fraf%C4%B1%20yer%20al%C4%B1yor.%20Arka%20planda%20hareket%20ve%20enerjiyi%20%C3%A7a%C4%9Fr%C4%B1%C5%9Ft%C4%B1ran%20soyut%2C%20renkli%20%C5%9Fekiller%20ve%20%C3%A7izgiler%20bulunuyor.%20Etkinlik%20detaylar%C4%B1%20a%C3%A7%C4%B1k%20ve%20kolay%20okunabilir.%20Poster%20ilham%20verici%20olmal%C4%B1%20ve%20insanlar%C4%B1%20kaydolmaya%20te%C5%9Fvik%20etmelidir.%20%E2%80%93ar%203%3A4)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%C4%B0yi%20bir%20ama%C3%A7%20i%C3%A7in%20d%C3%BCzenlenen%205K%20yard%C4%B1m%20ko%C5%9Fusu%20i%C3%A7in%20enerjik%20ve%20motive%20edici%20bir%20poster.%20Tasar%C4%B1mda%2C%20y%C3%BCzlerinde%20g%C3%BCl%C3%BCmsemelerle%20ko%C5%9Fan%20%C3%A7e%C5%9Fitli%20bir%20insan%20grubunun%20dinamik%20bir%20foto%C4%9Fraf%C4%B1%20yer%20al%C4%B1yor.%20Arka%20planda%20hareket%20ve%20enerjiyi%20%C3%A7a%C4%9Fr%C4%B1%C5%9Ft%C4%B1ran%20soyut%2C%20renkli%20%C5%9Fekiller%20ve%20%C3%A7izgiler%20bulunuyor.%20Etkinlik%20detaylar%C4%B1%20a%C3%A7%C4%B1k%20ve%20kolay%20okunabilir.%20Poster%20ilham%20verici%20olmal%C4%B1%20ve%20insanlar%C4%B1%20kaydolmaya%20te%C5%9Fvik%20etmelidir.%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -366,7 +360,7 @@ Shakespeare'in "Hamlet" prodüksiyonu için dramatik ve minimalist bir poster. T
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Shakespeare'in%20%22Hamlet%22%20prod%C3%BCksiyonu%20i%C3%A7in%20dramatik%20ve%20minimalist%20bir%20poster.%20Tasar%C4%B1m%20tek%2C%20g%C3%BC%C3%A7l%C3%BC%20bir%20g%C3%B6rsel%20i%C3%A7eriyor%3A%20siyah%2C%20keskin%20bir%20arka%20plan%20%C3%BCzerinde%2C%20%C3%BCzerinde%20alt%C4%B1n%20bir%20ta%C3%A7%20bulunan%20insan%20kafatas%C4%B1.%20%22HAMLET%22%20ba%C5%9Fl%C4%B1%C4%9F%C4%B1%20klasik%2C%20keskin%20bir%20serif%20yaz%C4%B1%20tipinde%20ve%20harfler%20hafif%C3%A7e%20%C3%A7%C3%BCr%C3%BCm%C3%BC%C5%9F%20g%C3%B6r%C3%BCn%C3%BCyor.%20Tasar%C4%B1m%20sembolik%2C%20modern%20ve%20ciddiyet%20dolu.%20%E2%80%93ar%202%3A3)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Shakespeare'in%20%22Hamlet%22%20prod%C3%BCksiyonu%20i%C3%A7in%20dramatik%20ve%20minimalist%20bir%20poster.%20Tasar%C4%B1m%20tek%2C%20g%C3%BC%C3%A7l%C3%BC%20bir%20g%C3%B6rsel%20i%C3%A7eriyor%3A%20siyah%2C%20keskin%20bir%20arka%20plan%20%C3%BCzerinde%2C%20%C3%BCzerinde%20alt%C4%B1n%20bir%20ta%C3%A7%20bulunan%20insan%20kafatas%C4%B1.%20%22HAMLET%22%20ba%C5%9Fl%C4%B1%C4%9F%C4%B1%20klasik%2C%20keskin%20bir%20serif%20yaz%C4%B1%20tipinde%20ve%20harfler%20hafif%C3%A7e%20%C3%A7%C3%BCr%C3%BCm%C3%BC%C5%9F%20g%C3%B6r%C3%BCn%C3%BCyor.%20Tasar%C4%B1m%20sembolik%2C%20modern%20ve%20ciddiyet%20dolu.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -399,7 +393,7 @@ Yerel bir çiftçi pazarı için büyüleyici ve rustik bir poster. Tasarım, ah
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Yerel%20bir%20%C3%A7ift%C3%A7i%20pazar%C4%B1%20i%C3%A7in%20b%C3%BCy%C3%BCleyici%20ve%20rustik%20bir%20poster.%20Tasar%C4%B1m%2C%20ah%C5%9Fap%20bir%20kasada%20taze%20sebzeler%2C%20meyveler%20ve%20%C3%A7i%C3%A7eklerin%20bollu%C4%9Funu%20i%C3%A7eren%2C%20samimi%2C%20elle%20%C3%A7izilmi%C5%9F%20tarzda%20bir%20ill%C3%BCstrasyondur.%20Tipografi%2C%20samimi%2C%20yuvarlak%20hatl%C4%B1%20bir%20sans-serif'tir.%20Poster%2C%20sa%C4%9Fl%C4%B1kl%C4%B1%2C%20yerel%20ve%20topluluk%20odakl%C4%B1%20bir%20his%20vermelidir.%20%E2%80%93ar%203%3A4)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Yerel%20bir%20%C3%A7ift%C3%A7i%20pazar%C4%B1%20i%C3%A7in%20b%C3%BCy%C3%BCleyici%20ve%20rustik%20bir%20poster.%20Tasar%C4%B1m%2C%20ah%C5%9Fap%20bir%20kasada%20taze%20sebzeler%2C%20meyveler%20ve%20%C3%A7i%C3%A7eklerin%20bollu%C4%9Funu%20i%C3%A7eren%2C%20samimi%2C%20elle%20%C3%A7izilmi%C5%9F%20tarzda%20bir%20ill%C3%BCstrasyondur.%20Tipografi%2C%20samimi%2C%20yuvarlak%20hatl%C4%B1%20bir%20sans-serif'tir.%20Poster%2C%20sa%C4%9Fl%C4%B1kl%C4%B1%2C%20yerel%20ve%20topluluk%20odakl%C4%B1%20bir%20his%20vermelidir.%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -432,7 +426,7 @@ Bir kısa film festivali için ilginç ve bağımsız tarzda bir poster. Tasarı
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Bir%20k%C4%B1sa%20film%20festivali%20i%C3%A7in%20ilgin%C3%A7%20ve%20ba%C4%9F%C4%B1ms%C4%B1z%20tarzda%20bir%20poster.%20Tasar%C4%B1m%2C%20elle%20%C3%A7izilmi%C5%9F%20karalamalar%2C%20film%20%C5%9Feritleri%20ve%20eski%20foto%C4%9Fraflar%C4%B1n%20bir%20kolaj%C4%B1d%C4%B1r.%20Tipografi%2C%20farkl%C4%B1%20daktilo%20ve%20el%20yaz%C4%B1s%C4%B1%20yaz%C4%B1%20tiplerinin%20bir%20kar%C4%B1%C5%9F%C4%B1m%C4%B1%20olup%2C%20kendin%20yap%2C%20zine%20benzeri%20bir%20his%20vermektedir.%20Renk%20paleti%20s%C4%B1n%C4%B1rl%C4%B1d%C4%B1r%20ve%20retro%20bir%20havaya%20sahiptir.%20Poster%20yarat%C4%B1c%C4%B1%2C%20al%C4%B1%C5%9F%C4%B1lmad%C4%B1k%20g%C3%B6r%C3%BCnmeli%20ve%20sanat%20filmi%20izleyicilerine%20hitap%20etmelidir.%20%E2%80%93ar%202%3A3)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Bir%20k%C4%B1sa%20film%20festivali%20i%C3%A7in%20ilgin%C3%A7%20ve%20ba%C4%9F%C4%B1ms%C4%B1z%20tarzda%20bir%20poster.%20Tasar%C4%B1m%2C%20elle%20%C3%A7izilmi%C5%9F%20karalamalar%2C%20film%20%C5%9Feritleri%20ve%20eski%20foto%C4%9Fraflar%C4%B1n%20bir%20kolaj%C4%B1d%C4%B1r.%20Tipografi%2C%20farkl%C4%B1%20daktilo%20ve%20el%20yaz%C4%B1s%C4%B1%20yaz%C4%B1%20tiplerinin%20bir%20kar%C4%B1%C5%9F%C4%B1m%C4%B1%20olup%2C%20kendin%20yap%2C%20zine%20benzeri%20bir%20his%20vermektedir.%20Renk%20paleti%20s%C4%B1n%C4%B1rl%C4%B1d%C4%B1r%20ve%20retro%20bir%20havaya%20sahiptir.%20Poster%20yarat%C4%B1c%C4%B1%2C%20al%C4%B1%C5%9F%C4%B1lmad%C4%B1k%20g%C3%B6r%C3%BCnmeli%20ve%20sanat%20filmi%20izleyicilerine%20hitap%20etmelidir.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -465,7 +459,7 @@ Hafta sonu yoga ve meditasyon atölyesi için sakinleştirici ve huzur veren bir
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Hafta%20sonu%20yoga%20ve%20meditasyon%20at%C3%B6lyesi%20i%C3%A7in%20sakinle%C5%9Ftirici%20ve%20huzur%20veren%20bir%20poster.%20Ana%20g%C3%B6rsel%2C%20g%C3%BCn%20do%C4%9Fumunda%20bir%20sahilde%20huzurlu%20bir%20yoga%20pozisyonunda%20duran%20bir%20ki%C5%9Finin%20g%C3%BCzel%2C%20yumu%C5%9Fak%20odakl%C4%B1%20foto%C4%9Fraf%C4%B1.%20Renk%20paleti%20yumu%C5%9Fak%20pastel%20tonlardan%20(pembe%2C%20turuncu%2C%20a%C3%A7%C4%B1k%20mavi)%20olu%C5%9Fuyor.%20Tipografi%2C%20nazik%20ve%20ak%C4%B1c%C4%B1%20bir%20el%20yaz%C4%B1s%C4%B1%20fontu.%20Poster%2C%20huzur%2C%20esenlik%20ve%20ki%C5%9Fisel%20bak%C4%B1m%20duygular%C4%B1n%C4%B1%20uyand%C4%B1rmal%C4%B1d%C4%B1r.%20%E2%80%93ar%203%3A4)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Hafta%20sonu%20yoga%20ve%20meditasyon%20at%C3%B6lyesi%20i%C3%A7in%20sakinle%C5%9Ftirici%20ve%20huzur%20veren%20bir%20poster.%20Ana%20g%C3%B6rsel%2C%20g%C3%BCn%20do%C4%9Fumunda%20bir%20sahilde%20huzurlu%20bir%20yoga%20pozisyonunda%20duran%20bir%20ki%C5%9Finin%20g%C3%BCzel%2C%20yumu%C5%9Fak%20odakl%C4%B1%20foto%C4%9Fraf%C4%B1.%20Renk%20paleti%20yumu%C5%9Fak%20pastel%20tonlardan%20(pembe%2C%20turuncu%2C%20a%C3%A7%C4%B1k%20mavi)%20olu%C5%9Fuyor.%20Tipografi%2C%20nazik%20ve%20ak%C4%B1c%C4%B1%20bir%20el%20yaz%C4%B1s%C4%B1%20fontu.%20Poster%2C%20huzur%2C%20esenlik%20ve%20ki%C5%9Fisel%20bak%C4%B1m%20duygular%C4%B1n%C4%B1%20uyand%C4%B1rmal%C4%B1d%C4%B1r.%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -498,7 +492,7 @@ Yeni bir İtalyan restoranının büyük açılışı için lezzetli ve davetkar
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Yeni%20bir%20%C4%B0talyan%20restoran%C4%B1n%C4%B1n%20b%C3%BCy%C3%BCk%20a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1%20i%C3%A7in%20lezzetli%20ve%20davetkar%20bir%20el%20ilan%C4%B1.%20Ana%20g%C3%B6rsel%2C%20%C4%B0talyan%20yemekleriyle%20dolu%20bir%20masan%C4%B1n%20(pizza%2C%20bir%20kase%20makarna%2C%20bir%20kadeh%20k%C4%B1rm%C4%B1z%C4%B1%20%C5%9Farap%20ve%20taze%20fesle%C4%9Fen)%20g%C3%BCzel%2C%20rustik%20bir%20d%C3%BCz%20%C3%A7ekim%20foto%C4%9Fraf%C4%B1.%20Restoran%C4%B1n%20ad%C4%B1%20s%C4%B1cak%2C%20el%20yaz%C4%B1s%C4%B1%20bir%20yaz%C4%B1%20tipinde.%20A%C3%A7%C4%B1l%C4%B1%C5%9F%20tarihi%20ve%20adresi%20a%C3%A7%C4%B1k%C3%A7a%20g%C3%B6r%C3%BClebiliyor.%20Genel%20his%20s%C4%B1cak%2C%20otantik%20ve%20i%C5%9Ftah%20a%C3%A7%C4%B1c%C4%B1.%20%E2%80%93ar%204%3A5)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Yeni%20bir%20%C4%B0talyan%20restoran%C4%B1n%C4%B1n%20b%C3%BCy%C3%BCk%20a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1%20i%C3%A7in%20lezzetli%20ve%20davetkar%20bir%20el%20ilan%C4%B1.%20Ana%20g%C3%B6rsel%2C%20%C4%B0talyan%20yemekleriyle%20dolu%20bir%20masan%C4%B1n%20(pizza%2C%20bir%20kase%20makarna%2C%20bir%20kadeh%20k%C4%B1rm%C4%B1z%C4%B1%20%C5%9Farap%20ve%20taze%20fesle%C4%9Fen)%20g%C3%BCzel%2C%20rustik%20bir%20d%C3%BCz%20%C3%A7ekim%20foto%C4%9Fraf%C4%B1.%20Restoran%C4%B1n%20ad%C4%B1%20s%C4%B1cak%2C%20el%20yaz%C4%B1s%C4%B1%20bir%20yaz%C4%B1%20tipinde.%20A%C3%A7%C4%B1l%C4%B1%C5%9F%20tarihi%20ve%20adresi%20a%C3%A7%C4%B1k%C3%A7a%20g%C3%B6r%C3%BClebiliyor.%20Genel%20his%20s%C4%B1cak%2C%20otantik%20ve%20i%C5%9Ftah%20a%C3%A7%C4%B1c%C4%B1.%20%E2%80%93ar%204%3A5)**
 
 ---
 
@@ -531,7 +525,7 @@ Okyanuslardaki plastik kirliliği hakkında bir kamu hizmeti duyurusu için gü�
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Okyanuslardaki%20plastik%20kirlili%C4%9Fi%20hakk%C4%B1nda%20bir%20kamu%20hizmeti%20duyurusu%20i%C3%A7in%20g%C3%BC%C3%A7l%C3%BC%20ve%20d%C3%BC%C5%9F%C3%BCnd%C3%BCr%C3%BCc%C3%BC%20bir%20poster.%20G%C3%B6rsel%2C%20su%20yerine%20plastik%20torba%20ve%20%C5%9Fi%C5%9Fe%20denizinde%20y%C3%BCzen%20bir%20deniz%20kaplumba%C4%9Fas%C4%B1n%C4%B1n%20ger%C3%A7ek%C3%BCst%C3%BC%20ve%20h%C3%BCz%C3%BCnl%C3%BC%20bir%20tasviridir.%20%22%C4%B0stedi%C4%9Finiz%20okyanus%20bu%20mu%3F%22%20slogan%C4%B1%20altta%20yer%20almaktad%C4%B1r.%20G%C3%B6rsel%2C%20duygusal%20bir%20tepki%20uyand%C4%B1rmak%20ve%20fark%C4%B1ndal%C4%B1k%20yaratmak%20amac%C4%B1yla%20ger%C3%A7ek%C3%A7i%20ve%20etkileyici%20olmal%C4%B1d%C4%B1r.%20%E2%80%93ar%203%3A4)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Okyanuslardaki%20plastik%20kirlili%C4%9Fi%20hakk%C4%B1nda%20bir%20kamu%20hizmeti%20duyurusu%20i%C3%A7in%20g%C3%BC%C3%A7l%C3%BC%20ve%20d%C3%BC%C5%9F%C3%BCnd%C3%BCr%C3%BCc%C3%BC%20bir%20poster.%20G%C3%B6rsel%2C%20su%20yerine%20plastik%20torba%20ve%20%C5%9Fi%C5%9Fe%20denizinde%20y%C3%BCzen%20bir%20deniz%20kaplumba%C4%9Fas%C4%B1n%C4%B1n%20ger%C3%A7ek%C3%BCst%C3%BC%20ve%20h%C3%BCz%C3%BCnl%C3%BC%20bir%20tasviridir.%20%22%C4%B0stedi%C4%9Finiz%20okyanus%20bu%20mu%3F%22%20slogan%C4%B1%20altta%20yer%20almaktad%C4%B1r.%20G%C3%B6rsel%2C%20duygusal%20bir%20tepki%20uyand%C4%B1rmak%20ve%20fark%C4%B1ndal%C4%B1k%20yaratmak%20amac%C4%B1yla%20ger%C3%A7ek%C3%A7i%20ve%20etkileyici%20olmal%C4%B1d%C4%B1r.%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -564,7 +558,7 @@ Bu istem, "Gölge Dedektif" başlıklı bir polisiye roman için heyecan verici 
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%22G%C3%B6lge%20Dedektif%22%20ba%C5%9Fl%C4%B1kl%C4%B1%20bir%20polisiye%20roman%C4%B1%20i%C3%A7in%20heyecan%20verici%20ve%20gizemli%20bir%20kitap%20kapa%C4%9F%C4%B1.%20Kapakta%2C%20karanl%C4%B1k%2C%20sisli%20bir%20ara%20sokakta%20duran%2C%20f%C3%B6tr%20%C5%9Fapkal%C4%B1%20ve%20tren%C3%A7kotlu%20bir%20dedektifin%20sil%C3%BCeti%20yer%20al%C4%B1yor.%20Tek%20%C4%B1%C5%9F%C4%B1k%20kayna%C4%9F%C4%B1%2C%20uzakta%20duran%20tek%20bir%20sokak%20lambas%C4%B1.%20Ba%C5%9Fl%C4%B1k%2C%20sanki%20damgalanm%C4%B1%C5%9F%20gibi%20g%C3%B6r%C3%BCnen%2C%20grenli%2C%20dokulu%20bir%20yaz%C4%B1%20tipinde.%20Ruh%20hali%20kara%20film%20tarz%C4%B1nda%20ve%20gerilim%20dolu%2C%20g%C3%BC%C3%A7l%C3%BC%20bir%20atmosfer%20kontrol%C3%BC%20sergiliyor.%20%E2%80%93ar%202%3A3)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%22G%C3%B6lge%20Dedektif%22%20ba%C5%9Fl%C4%B1kl%C4%B1%20bir%20polisiye%20roman%C4%B1%20i%C3%A7in%20heyecan%20verici%20ve%20gizemli%20bir%20kitap%20kapa%C4%9F%C4%B1.%20Kapakta%2C%20karanl%C4%B1k%2C%20sisli%20bir%20ara%20sokakta%20duran%2C%20f%C3%B6tr%20%C5%9Fapkal%C4%B1%20ve%20tren%C3%A7kotlu%20bir%20dedektifin%20sil%C3%BCeti%20yer%20al%C4%B1yor.%20Tek%20%C4%B1%C5%9F%C4%B1k%20kayna%C4%9F%C4%B1%2C%20uzakta%20duran%20tek%20bir%20sokak%20lambas%C4%B1.%20Ba%C5%9Fl%C4%B1k%2C%20sanki%20damgalanm%C4%B1%C5%9F%20gibi%20g%C3%B6r%C3%BCnen%2C%20grenli%2C%20dokulu%20bir%20yaz%C4%B1%20tipinde.%20Ruh%20hali%20kara%20film%20tarz%C4%B1nda%20ve%20gerilim%20dolu%2C%20g%C3%BC%C3%A7l%C3%BC%20bir%20atmosfer%20kontrol%C3%BC%20sergiliyor.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -597,7 +591,7 @@ Japon Ukiyo-e tahta baskılarının müze sergisi için zarif ve sanatsal bir po
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Japon%20Ukiyo-e%20tahta%20bask%C4%B1lar%C4%B1n%C4%B1n%20m%C3%BCze%20sergisi%20i%C3%A7in%20zarif%20ve%20sanatsal%20bir%20poster.%20Tasar%C4%B1m%2C%20Hokusai'nin%20%22B%C3%BCy%C3%BCk%20Dalga%22s%C4%B1%20gibi%20%C3%BCnl%C3%BC%20bir%20bask%C4%B1dan%20g%C3%BCzel%2C%20y%C3%BCksek%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCkl%C3%BC%20bir%20detay%C4%B1%20yarat%C4%B1c%C4%B1%20bir%20%C5%9Fekilde%20k%C4%B1rp%C4%B1lm%C4%B1%C5%9F%20olarak%20i%C3%A7eriyor.%20Tipografi%2C%20zarif%20bir%20%C4%B0ngiliz%20serif%20yaz%C4%B1%20tipi%20ile%20Japon%20kaligrafisinin%20bir%20kar%C4%B1%C5%9F%C4%B1m%C4%B1d%C4%B1r.%20D%C3%BCzen%20minimalist%20ve%20sanat%20eserine%20sayg%C4%B1l%C4%B1%20olup%2C%20bol%20miktarda%20negatif%20alan%20kullan%C4%B1r.%20Bu%2C%20sanat%20tarihi%20bilgisi%20ve%20sofistike%20grafik%20tasar%C4%B1m%20becerilerini%20sergiler.%20%E2%80%93ar%202%3A3)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Japon%20Ukiyo-e%20tahta%20bask%C4%B1lar%C4%B1n%C4%B1n%20m%C3%BCze%20sergisi%20i%C3%A7in%20zarif%20ve%20sanatsal%20bir%20poster.%20Tasar%C4%B1m%2C%20Hokusai'nin%20%22B%C3%BCy%C3%BCk%20Dalga%22s%C4%B1%20gibi%20%C3%BCnl%C3%BC%20bir%20bask%C4%B1dan%20g%C3%BCzel%2C%20y%C3%BCksek%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCkl%C3%BC%20bir%20detay%C4%B1%20yarat%C4%B1c%C4%B1%20bir%20%C5%9Fekilde%20k%C4%B1rp%C4%B1lm%C4%B1%C5%9F%20olarak%20i%C3%A7eriyor.%20Tipografi%2C%20zarif%20bir%20%C4%B0ngiliz%20serif%20yaz%C4%B1%20tipi%20ile%20Japon%20kaligrafisinin%20bir%20kar%C4%B1%C5%9F%C4%B1m%C4%B1d%C4%B1r.%20D%C3%BCzen%20minimalist%20ve%20sanat%20eserine%20sayg%C4%B1l%C4%B1%20olup%2C%20bol%20miktarda%20negatif%20alan%20kullan%C4%B1r.%20Bu%2C%20sanat%20tarihi%20bilgisi%20ve%20sofistike%20grafik%20tasar%C4%B1m%20becerilerini%20sergiler.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -632,7 +626,7 @@ Bir startup için yazılım geliştiricileri arayan cesur ve doğrudan bir işe 
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Gelece%C4%9Fi%20%C4%B0n%C5%9Fa%20Et%0A%0ABir%20startup%20i%C3%A7in%20yaz%C4%B1l%C4%B1m%20geli%C5%9Ftiricileri%20arayan%20cesur%20ve%20do%C4%9Frudan%20bir%20i%C5%9Fe%20al%C4%B1m%20bro%C5%9F%C3%BCr%C3%BC.%20%22GELECE%C4%9E%C4%B0%20%C4%B0N%C5%9EA%20ET%22%20ba%C5%9Fl%C4%B1%C4%9F%C4%B1%20b%C3%BCy%C3%BCk%2C%20g%C3%BC%C3%A7l%C3%BC%2C%20sans-serif%20bir%20yaz%C4%B1%20tipindedir.%20Ana%20g%C3%B6rsel%2C%20b%C3%BCy%C3%BCyen%20bir%20%C5%9Fehir%20sil%C3%BCetine%20d%C3%B6n%C3%BC%C5%9Fen%20kodun%20soyut%2C%20stilize%20edilmi%C5%9F%20bir%20ill%C3%BCstrasyonudur.%20%C5%9Eirket%20logosu%20ve%20ba%C5%9Fvuru%20sayfas%C4%B1na%20y%C3%B6nlendiren%20bir%20QR%20kodu%20alt%20k%C4%B1s%C4%B1mda%20belirgin%20bir%20%C5%9Fekilde%20g%C3%B6sterilmi%C5%9Ftir.%20Renk%20paleti%20enerjik%20ve%20teknoloji%20odakl%C4%B1d%C4%B1r%20(%C3%B6rn.%20elektrik%20mavisi%20ve%20koyu%20gri).%20%E2%80%93ar%203%3A4)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Gelece%C4%9Fi%20%C4%B0n%C5%9Fa%20Et%0A%0ABir%20startup%20i%C3%A7in%20yaz%C4%B1l%C4%B1m%20geli%C5%9Ftiricileri%20arayan%20cesur%20ve%20do%C4%9Frudan%20bir%20i%C5%9Fe%20al%C4%B1m%20bro%C5%9F%C3%BCr%C3%BC.%20%22GELECE%C4%9E%C4%B0%20%C4%B0N%C5%9EA%20ET%22%20ba%C5%9Fl%C4%B1%C4%9F%C4%B1%20b%C3%BCy%C3%BCk%2C%20g%C3%BC%C3%A7l%C3%BC%2C%20sans-serif%20bir%20yaz%C4%B1%20tipindedir.%20Ana%20g%C3%B6rsel%2C%20b%C3%BCy%C3%BCyen%20bir%20%C5%9Fehir%20sil%C3%BCetine%20d%C3%B6n%C3%BC%C5%9Fen%20kodun%20soyut%2C%20stilize%20edilmi%C5%9F%20bir%20ill%C3%BCstrasyonudur.%20%C5%9Eirket%20logosu%20ve%20ba%C5%9Fvuru%20sayfas%C4%B1na%20y%C3%B6nlendiren%20bir%20QR%20kodu%20alt%20k%C4%B1s%C4%B1mda%20belirgin%20bir%20%C5%9Fekilde%20g%C3%B6sterilmi%C5%9Ftir.%20Renk%20paleti%20enerjik%20ve%20teknoloji%20odakl%C4%B1d%C4%B1r%20(%C3%B6rn.%20elektrik%20mavisi%20ve%20koyu%20gri).%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -665,7 +659,7 @@ Bu komut, "Ethereal Bloom" adlı bir yaz müzik festivali için canlı, saykodel
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%22Ethereal%20Bloom%22%20adl%C4%B1%20bir%20yaz%20m%C3%BCzik%20festivali%20i%C3%A7in%20canl%C4%B1%2C%20saykodelik%20bir%20poster.%20Tasar%C4%B1m%2C%20devasa%2C%20parlayan%20mantarlar%2C%20tuhaf%20fantastik%20yarat%C4%B1klar%20ve%20soyut%20geometrik%20desenlerin%20i%C3%A7%20i%C3%A7e%20ge%C3%A7ti%C4%9Fi%20ger%C3%A7ek%C3%BCst%C3%BC%20bir%20renk%20patlamas%C4%B1d%C4%B1r.%20Festival%20kadrosu%2C%20dalgal%C4%B1%2C%20bozuk%20bir%20yaz%C4%B1%20tipiyle%20sanat%20eserine%20entegre%20edilmi%C5%9Ftir.%20Genel%20ruh%20hali%20b%C3%BCy%C3%BCl%C3%BC%2C%20enerjik%20ve%20uhrevidir%3B%20karma%C5%9F%C4%B1k%2C%20yarat%C4%B1c%C4%B1%20ve%20t%C3%BCre%20%C3%B6zg%C3%BC%20g%C3%B6rseller%20yaratma%20yetene%C4%9Fini%20sergilemektedir.%20%E2%80%93ar%202%3A3)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%22Ethereal%20Bloom%22%20adl%C4%B1%20bir%20yaz%20m%C3%BCzik%20festivali%20i%C3%A7in%20canl%C4%B1%2C%20saykodelik%20bir%20poster.%20Tasar%C4%B1m%2C%20devasa%2C%20parlayan%20mantarlar%2C%20tuhaf%20fantastik%20yarat%C4%B1klar%20ve%20soyut%20geometrik%20desenlerin%20i%C3%A7%20i%C3%A7e%20ge%C3%A7ti%C4%9Fi%20ger%C3%A7ek%C3%BCst%C3%BC%20bir%20renk%20patlamas%C4%B1d%C4%B1r.%20Festival%20kadrosu%2C%20dalgal%C4%B1%2C%20bozuk%20bir%20yaz%C4%B1%20tipiyle%20sanat%20eserine%20entegre%20edilmi%C5%9Ftir.%20Genel%20ruh%20hali%20b%C3%BCy%C3%BCl%C3%BC%2C%20enerjik%20ve%20uhrevidir%3B%20karma%C5%9F%C4%B1k%2C%20yarat%C4%B1c%C4%B1%20ve%20t%C3%BCre%20%C3%B6zg%C3%BC%20g%C3%B6rseller%20yaratma%20yetene%C4%9Fini%20sergilemektedir.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -698,7 +692,7 @@ Bu istem, "CHRONOS" başlıklı kurgusal bir bilim kurgu gişe rekortmeni için 
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%22CHRONOS%22%20ba%C5%9Fl%C4%B1kl%C4%B1%20kurgusal%20bir%20bilim%20kurgu%20gi%C5%9Fe%20rekortmeni%20i%C3%A7in%20sinematik%2C%20destans%C4%B1%20bir%20film%20afi%C5%9Fi.%20Afi%C5%9Fte%2C%20uzayda%20devasa%2C%20girdap%20gibi%20d%C3%B6nen%20bir%20kara%20deli%C4%9Fe%20bakan%2C%20y%C4%B1pranm%C4%B1%C5%9F%20bir%20astronot%20olan%20ana%20kahraman%20yer%20al%C4%B1yor.%20Kask%C4%B1n%C4%B1n%20viz%C3%B6r%C3%BCnde%20gizemli%20bir%20uzayl%C4%B1%20eserinin%20yans%C4%B1mas%C4%B1%20g%C3%B6r%C3%BCl%C3%BCyor.%20Tipografi%20cesur%2C%20metalik%20ve%20modern.%20%22Zaman%20d%C3%BC%C5%9Fmand%C4%B1r%22%20slogan%C4%B1%20altta%20konumland%C4%B1r%C4%B1lm%C4%B1%C5%9F.%20Bu%2C%20geli%C5%9Fmi%C5%9F%20sinematik%20ayd%C4%B1nlatma%2C%20kompozisyon%20ve%20birden%20fazla%20karma%C5%9F%C4%B1k%20%C3%B6%C4%9Feyi%20sorunsuz%20bir%20%C5%9Fekilde%20harmanlama%20yetene%C4%9Fi%20gerektiriyor.%20%E2%80%93ar%202%3A3)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%22CHRONOS%22%20ba%C5%9Fl%C4%B1kl%C4%B1%20kurgusal%20bir%20bilim%20kurgu%20gi%C5%9Fe%20rekortmeni%20i%C3%A7in%20sinematik%2C%20destans%C4%B1%20bir%20film%20afi%C5%9Fi.%20Afi%C5%9Fte%2C%20uzayda%20devasa%2C%20girdap%20gibi%20d%C3%B6nen%20bir%20kara%20deli%C4%9Fe%20bakan%2C%20y%C4%B1pranm%C4%B1%C5%9F%20bir%20astronot%20olan%20ana%20kahraman%20yer%20al%C4%B1yor.%20Kask%C4%B1n%C4%B1n%20viz%C3%B6r%C3%BCnde%20gizemli%20bir%20uzayl%C4%B1%20eserinin%20yans%C4%B1mas%C4%B1%20g%C3%B6r%C3%BCl%C3%BCyor.%20Tipografi%20cesur%2C%20metalik%20ve%20modern.%20%22Zaman%20d%C3%BC%C5%9Fmand%C4%B1r%22%20slogan%C4%B1%20altta%20konumland%C4%B1r%C4%B1lm%C4%B1%C5%9F.%20Bu%2C%20geli%C5%9Fmi%C5%9F%20sinematik%20ayd%C4%B1nlatma%2C%20kompozisyon%20ve%20birden%20fazla%20karma%C5%9F%C4%B1k%20%C3%B6%C4%9Feyi%20sorunsuz%20bir%20%C5%9Fekilde%20harmanlama%20yetene%C4%9Fi%20gerektiriyor.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -731,15 +725,11 @@ Bu istem, "10 Dakikada Nasıl Web Sitesi Kurulur" eğitim videosu için, kendine
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%2210%20Dakikada%20Nas%C4%B1l%20Web%20Sitesi%20Kurulur%22%20konulu%20bir%20e%C4%9Fitim%20videosu%20k%C3%BC%C3%A7%C3%BCk%20resmi.%20G%C3%B6r%C3%BCnt%C3%BCde%2C%20%C3%BCzerinde%20g%C3%BCzel%2C%20profesyonel%20g%C3%B6r%C3%BCn%C3%BCml%C3%BC%20bir%20web%20sitesi%20bulunan%20bir%20bilgisayar%20ekran%C4%B1%20g%C3%B6steriliyor.%20Ekranda%20%2210%20Dakika%22%20yazan%20b%C3%BCy%C3%BCk%20bir%20saat%20simgesi%20%C3%BCst%20%C3%BCste%20bindirilmi%C5%9F.%20YouTuber%20k%C3%B6%C5%9Fede%2C%20ekrana%20i%C5%9Faret%20ederek%20g%C3%BCl%C3%BCms%C3%BCyor%2C%20kendinden%20emin%20ve%20yard%C4%B1msever%20g%C3%B6r%C3%BCn%C3%BCyor.%20Metin%20a%C3%A7%C4%B1k%20ve%20h%C4%B1zl%C4%B1%2C%20kolay%20bir%20%C3%A7%C3%B6z%C3%BCm%20vaat%20ediyor.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%2210%20Dakikada%20Nas%C4%B1l%20Web%20Sitesi%20Kurulur%22%20konulu%20bir%20e%C4%9Fitim%20videosu%20k%C3%BC%C3%A7%C3%BCk%20resmi.%20G%C3%B6r%C3%BCnt%C3%BCde%2C%20%C3%BCzerinde%20g%C3%BCzel%2C%20profesyonel%20g%C3%B6r%C3%BCn%C3%BCml%C3%BC%20bir%20web%20sitesi%20bulunan%20bir%20bilgisayar%20ekran%C4%B1%20g%C3%B6steriliyor.%20Ekranda%20%2210%20Dakika%22%20yazan%20b%C3%BCy%C3%BCk%20bir%20saat%20simgesi%20%C3%BCst%20%C3%BCste%20bindirilmi%C5%9F.%20YouTuber%20k%C3%B6%C5%9Fede%2C%20ekrana%20i%C5%9Faret%20ederek%20g%C3%BCl%C3%BCms%C3%BCyor%2C%20kendinden%20emin%20ve%20yard%C4%B1msever%20g%C3%B6r%C3%BCn%C3%BCyor.%20Metin%20a%C3%A7%C4%B1k%20ve%20h%C4%B1zl%C4%B1%2C%20kolay%20bir%20%C3%A7%C3%B6z%C3%BCm%20vaat%20ediyor.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 17: Otomat Yiyecekleri Mücadelesi Küçük Resmi
-=======
 ### No. 20: Otomat Yiyecekleri Mücadelesi Küçük Resmi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -768,15 +758,11 @@ Bu bilgi istemi, "24 Saat Boyunca Sadece Otomat Yiyecekleri Yeme" meydan okumas�
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%2224%20Saat%20Sadece%20Otomat%20Yiyecekleri%20Yeme%22%20meydan%20okumas%C4%B1%20i%C3%A7in%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20G%C3%B6rselde%20YouTuber%2C%20yerde%20oturmu%C5%9F%2C%20etraf%C4%B1%20otomatlardan%20al%C4%B1nm%C4%B1%C5%9F%20devasa%20bir%20renkli%20at%C4%B1%C5%9Ft%C4%B1rmal%C4%B1k%20ve%20i%C3%A7ecek%20y%C4%B1%C4%9F%C4%B1n%C4%B1yla%20%C3%A7evrili.%20Y%C3%BCz%C3%BCnde%20ac%C4%B1%20dolu%20ama%20komik%20bir%20ifade%20var.%20%22BUNA%20P%C4%B0%C5%9EMANIM%22%20yaz%C4%B1s%C4%B1%20kal%C4%B1n%2C%20y%C4%B1pranm%C4%B1%C5%9F%20bir%20yaz%C4%B1%20tipinde.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%2224%20Saat%20Sadece%20Otomat%20Yiyecekleri%20Yeme%22%20meydan%20okumas%C4%B1%20i%C3%A7in%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20G%C3%B6rselde%20YouTuber%2C%20yerde%20oturmu%C5%9F%2C%20etraf%C4%B1%20otomatlardan%20al%C4%B1nm%C4%B1%C5%9F%20devasa%20bir%20renkli%20at%C4%B1%C5%9Ft%C4%B1rmal%C4%B1k%20ve%20i%C3%A7ecek%20y%C4%B1%C4%9F%C4%B1n%C4%B1yla%20%C3%A7evrili.%20Y%C3%BCz%C3%BCnde%20ac%C4%B1%20dolu%20ama%20komik%20bir%20ifade%20var.%20%22BUNA%20P%C4%B0%C5%9EMANIM%22%20yaz%C4%B1s%C4%B1%20kal%C4%B1n%2C%20y%C4%B1pranm%C4%B1%C5%9F%20bir%20yaz%C4%B1%20tipinde.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 18: Şaka Videosu Küçük Resmi
-=======
 ### No. 21: Şaka Videosu Küçük Resmi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -805,15 +791,11 @@ Bir şaka videosu için küçük resim. Görüntü, şakanın doruk noktasını 
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Bir%20%C5%9Faka%20videosu%20i%C3%A7in%20k%C3%BC%C3%A7%C3%BCk%20resim.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20%C5%9Fakan%C4%B1n%20doruk%20noktas%C4%B1n%C4%B1%20yakal%C4%B1yor%3A%20%C5%9Fakalanan%20ki%C5%9Fi%20%C3%A7%C4%B1%C4%9Fl%C4%B1k%20at%C4%B1yor%20veya%20%C5%9Fa%C5%9Fk%C4%B1nl%C4%B1kla%20z%C4%B1pl%C4%B1yor.%20%C5%9Eakay%C4%B1%20kuran%20YouTuber%20arka%20planda%20g%C3%BCl%C3%BCyor.%20Sahne%20kaotik%20ve%20komik.%20%C5%9Eakalanan%20ki%C5%9Finin%20y%C3%BCz%C3%BCn%C3%BCn%20etraf%C4%B1na%2C%20tepkisini%20vurgulamak%20i%C3%A7in%20k%C4%B1rm%C4%B1z%C4%B1%20bir%20daire%20%C3%A7izilmi%C5%9F.%20%22He%20FREAKED%20OUT!%22%20metni%20titrek%2C%20elle%20%C3%A7izilmi%C5%9F%20bir%20yaz%C4%B1%20tipinde.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Bir%20%C5%9Faka%20videosu%20i%C3%A7in%20k%C3%BC%C3%A7%C3%BCk%20resim.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20%C5%9Fakan%C4%B1n%20doruk%20noktas%C4%B1n%C4%B1%20yakal%C4%B1yor%3A%20%C5%9Fakalanan%20ki%C5%9Fi%20%C3%A7%C4%B1%C4%9Fl%C4%B1k%20at%C4%B1yor%20veya%20%C5%9Fa%C5%9Fk%C4%B1nl%C4%B1kla%20z%C4%B1pl%C4%B1yor.%20%C5%9Eakay%C4%B1%20kuran%20YouTuber%20arka%20planda%20g%C3%BCl%C3%BCyor.%20Sahne%20kaotik%20ve%20komik.%20%C5%9Eakalanan%20ki%C5%9Finin%20y%C3%BCz%C3%BCn%C3%BCn%20etraf%C4%B1na%2C%20tepkisini%20vurgulamak%20i%C3%A7in%20k%C4%B1rm%C4%B1z%C4%B1%20bir%20daire%20%C3%A7izilmi%C5%9F.%20%22He%20FREAKED%20OUT!%22%20metni%20titrek%2C%20elle%20%C3%A7izilmi%C5%9F%20bir%20yaz%C4%B1%20tipinde.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 19: 5 Dakikalık Hayat Hileleri Küçük Resmi
-=======
 ### No. 22: 5 Dakikalık Hayat Hileleri Küçük Resmi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -842,15 +824,11 @@ Bu istem, "5 Dakikalık Hayat Hileleri" videosu için, net öğretici görseller
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%225%20Dakikal%C4%B1k%20Hayat%20Hileleri%22%20videosu%20i%C3%A7in%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20G%C3%B6rsel%2C%20g%C3%B6sterilen%20d%C3%B6rt%20farkl%C4%B1%20hilenin%20(%C3%B6rne%C4%9Fin%2C%20yumurta%20sar%C4%B1s%C4%B1n%C4%B1%20ay%C4%B1rmak%20i%C3%A7in%20bir%20%C5%9Fi%C5%9Fe%20kullanmak)%20bir%20%C4%B1zgaras%C4%B1d%C4%B1r.%20Her%20g%C3%B6rsel%20net%20ve%20anla%C5%9F%C4%B1lmas%C4%B1%20kolayd%C4%B1r.%20YouTuber%2C%20%C4%B1zgaran%C4%B1n%20ortas%C4%B1nda%20ba%C5%9Fparma%C4%9F%C4%B1n%C4%B1%20yukar%C4%B1%20kald%C4%B1rm%C4%B1%C5%9F%20%C5%9Fekilde%20duruyor.%20%225%22%20say%C4%B1s%C4%B1%20%C3%A7ok%20b%C3%BCy%C3%BCk%20ve%20belirgin%20bir%20%C5%9Fekilde%20yerle%C5%9Ftirilmi%C5%9F.%20Bu%2C%20net%2C%20%C3%B6%C4%9Fretici%20g%C3%B6rseller%20olu%C5%9Fturmay%C4%B1%20gerektirir.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%225%20Dakikal%C4%B1k%20Hayat%20Hileleri%22%20videosu%20i%C3%A7in%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20G%C3%B6rsel%2C%20g%C3%B6sterilen%20d%C3%B6rt%20farkl%C4%B1%20hilenin%20(%C3%B6rne%C4%9Fin%2C%20yumurta%20sar%C4%B1s%C4%B1n%C4%B1%20ay%C4%B1rmak%20i%C3%A7in%20bir%20%C5%9Fi%C5%9Fe%20kullanmak)%20bir%20%C4%B1zgaras%C4%B1d%C4%B1r.%20Her%20g%C3%B6rsel%20net%20ve%20anla%C5%9F%C4%B1lmas%C4%B1%20kolayd%C4%B1r.%20YouTuber%2C%20%C4%B1zgaran%C4%B1n%20ortas%C4%B1nda%20ba%C5%9Fparma%C4%9F%C4%B1n%C4%B1%20yukar%C4%B1%20kald%C4%B1rm%C4%B1%C5%9F%20%C5%9Fekilde%20duruyor.%20%225%22%20say%C4%B1s%C4%B1%20%C3%A7ok%20b%C3%BCy%C3%BCk%20ve%20belirgin%20bir%20%C5%9Fekilde%20yerle%C5%9Ftirilmi%C5%9F.%20Bu%2C%20net%2C%20%C3%B6%C4%9Fretici%20g%C3%B6rseller%20olu%C5%9Fturmay%C4%B1%20gerektirir.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 20: Teknoloji Gadget'ı Kutu Açılışı Küçük Resmi
-=======
 ### No. 23: Teknoloji Gadget'ı Kutu Açılışı Küçük Resmi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -879,15 +857,11 @@ Yeni, pahalı bir teknoloji ürününün kutu açılış videosu için bir küç
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Yeni%2C%20pahal%C4%B1%20bir%20teknoloji%20%C3%BCr%C3%BCn%C3%BCn%C3%BCn%20kutu%20a%C3%A7%C4%B1l%C4%B1%C5%9F%20videosu%20i%C3%A7in%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20Kutu%20a%C3%A7%C4%B1k%20ve%20i%C3%A7inden%20parlak%2C%20b%C3%BCy%C3%BCl%C3%BC%20bir%20%C4%B1%C5%9F%C4%B1k%20yay%C4%B1l%C4%B1yor.%20YouTuber%2C%20saf%20bir%20merak%20ve%20heyecanla%20kutunun%20i%C3%A7ine%20bak%C4%B1yor.%20%C3%9Cr%C3%BCn%C3%BCn%20kendisi%20tam%20olarak%20g%C3%B6r%C3%BCnm%C3%BCyor%2C%20bu%20da%20merak%20uyand%C4%B1r%C4%B1yor.%20%22%C4%B0%C3%A7indekine%20%C4%B0nanam%C4%B1yorum!%22%20yaz%C4%B1s%C4%B1%20kal%C4%B1n%2C%20heyecan%20verici%20bir%20yaz%C4%B1%20tipinde.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Yeni%2C%20pahal%C4%B1%20bir%20teknoloji%20%C3%BCr%C3%BCn%C3%BCn%C3%BCn%20kutu%20a%C3%A7%C4%B1l%C4%B1%C5%9F%20videosu%20i%C3%A7in%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20Kutu%20a%C3%A7%C4%B1k%20ve%20i%C3%A7inden%20parlak%2C%20b%C3%BCy%C3%BCl%C3%BC%20bir%20%C4%B1%C5%9F%C4%B1k%20yay%C4%B1l%C4%B1yor.%20YouTuber%2C%20saf%20bir%20merak%20ve%20heyecanla%20kutunun%20i%C3%A7ine%20bak%C4%B1yor.%20%C3%9Cr%C3%BCn%C3%BCn%20kendisi%20tam%20olarak%20g%C3%B6r%C3%BCnm%C3%BCyor%2C%20bu%20da%20merak%20uyand%C4%B1r%C4%B1yor.%20%22%C4%B0%C3%A7indekine%20%C4%B0nanam%C4%B1yorum!%22%20yaz%C4%B1s%C4%B1%20kal%C4%B1n%2C%20heyecan%20verici%20bir%20yaz%C4%B1%20tipinde.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 21: Antik Mısır Belgeseli Küçük Resmi
-=======
 ### No. 24: Antik Mısır Belgeseli Küçük Resmi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -916,15 +890,11 @@ Antik Mısır belgeseli için bir küçük resim. Görüntü, Gize'deki Büyük 
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Antik%20M%C4%B1s%C4%B1r%20belgeseli%20i%C3%A7in%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20Gize'deki%20B%C3%BCy%C3%BCk%20Piramitler'in%20g%C3%BCn%20bat%C4%B1m%C4%B1nda%20sinematik%2C%20fotoger%C3%A7ek%C3%A7i%20bir%20tasviridir.%20G%C3%BCne%C5%9F%20piramitlerin%20arkas%C4%B1nda%20batarak%20g%C3%BCzel%20bir%20sil%C3%BCet%20olu%C5%9Fturuyor.%20%C3%96n%20planda%2C%20piramitlere%20bakan%20bir%20arkeolo%C4%9Fun%20sil%C3%BCeti%20var.%20Ba%C5%9Fl%C4%B1k%2C%20antik%20hiyeroglifleri%20taklit%20eden%20bir%20yaz%C4%B1%20tipinde.%20Bu%2C%20zengin%20d%C3%BCnya%20bilgisini%20ve%20sinematik%20i%C5%9Flemeyi%20sergiliyor.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Antik%20M%C4%B1s%C4%B1r%20belgeseli%20i%C3%A7in%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20Gize'deki%20B%C3%BCy%C3%BCk%20Piramitler'in%20g%C3%BCn%20bat%C4%B1m%C4%B1nda%20sinematik%2C%20fotoger%C3%A7ek%C3%A7i%20bir%20tasviridir.%20G%C3%BCne%C5%9F%20piramitlerin%20arkas%C4%B1nda%20batarak%20g%C3%BCzel%20bir%20sil%C3%BCet%20olu%C5%9Fturuyor.%20%C3%96n%20planda%2C%20piramitlere%20bakan%20bir%20arkeolo%C4%9Fun%20sil%C3%BCeti%20var.%20Ba%C5%9Fl%C4%B1k%2C%20antik%20hiyeroglifleri%20taklit%20eden%20bir%20yaz%C4%B1%20tipinde.%20Bu%2C%20zengin%20d%C3%BCnya%20bilgisini%20ve%20sinematik%20i%C5%9Flemeyi%20sergiliyor.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 22: Elektrikli Süper Otomobil İncelemesi Küçük Resmi
-=======
 ### No. 25: Elektrikli Süper Otomobil İncelemesi Küçük Resmi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -953,15 +923,11 @@ Yeni bir elektrikli süper otomobil incelemesi için bir küçük resim. Otomobi
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Yeni%20bir%20elektrikli%20s%C3%BCper%20otomobil%20incelemesi%20i%C3%A7in%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20Otomobil%2C%20g%C3%BC%C3%A7l%C3%BC%20ve%20agresif%20g%C3%B6r%C3%BCnmesini%20sa%C4%9Flayan%20al%C3%A7ak%2C%20dramatik%20bir%20a%C3%A7%C4%B1dan%20g%C3%B6steriliyor.%20Farlar%20a%C3%A7%C4%B1k%20ve%20arka%20plan%2C%20gece%20bir%20%C5%9Fehrin%20bulan%C4%B1k%20hareketli%20%C3%A7ekimi.%20YouTuber%2C%20otomobilin%20yan%C4%B1nda%20g%C3%B6zleri%20falta%C5%9F%C4%B1%20gibi%20a%C3%A7%C4%B1lm%C4%B1%C5%9F%2C%20%22akl%C4%B1%20ba%C5%9F%C4%B1ndan%20gitmi%C5%9F%22%20bir%20ifadeyle%20duruyor.%20%22Gelecek%20BURADA!%22%20metni%20%C5%9F%C4%B1k%2C%20modern%20bir%20yaz%C4%B1%20tipinde.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Yeni%20bir%20elektrikli%20s%C3%BCper%20otomobil%20incelemesi%20i%C3%A7in%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20Otomobil%2C%20g%C3%BC%C3%A7l%C3%BC%20ve%20agresif%20g%C3%B6r%C3%BCnmesini%20sa%C4%9Flayan%20al%C3%A7ak%2C%20dramatik%20bir%20a%C3%A7%C4%B1dan%20g%C3%B6steriliyor.%20Farlar%20a%C3%A7%C4%B1k%20ve%20arka%20plan%2C%20gece%20bir%20%C5%9Fehrin%20bulan%C4%B1k%20hareketli%20%C3%A7ekimi.%20YouTuber%2C%20otomobilin%20yan%C4%B1nda%20g%C3%B6zleri%20falta%C5%9F%C4%B1%20gibi%20a%C3%A7%C4%B1lm%C4%B1%C5%9F%2C%20%22akl%C4%B1%20ba%C5%9F%C4%B1ndan%20gitmi%C5%9F%22%20bir%20ifadeyle%20duruyor.%20%22Gelecek%20BURADA!%22%20metni%20%C5%9F%C4%B1k%2C%20modern%20bir%20yaz%C4%B1%20tipinde.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 23: Gerçek Suç Belgeseli Küçük Resmi
-=======
 ### No. 26: Gerçek Suç Belgeseli Küçük Resmi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -990,15 +956,11 @@ Gerçek bir suç belgeseli için karanlık ve gizemli bir küçük resim. Görü
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Ger%C3%A7ek%20bir%20su%C3%A7%20belgeseli%20i%C3%A7in%20karanl%C4%B1k%20ve%20gizemli%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20bir%20dedektifin%20masas%C4%B1nda%20tek%20bir%20lamba%20ile%20ayd%C4%B1nlat%C4%B1lm%C4%B1%C5%9F%20%C3%B6nemli%20bir%20kan%C4%B1t%20par%C3%A7as%C4%B1n%C4%B1n%20(%C3%B6rne%C4%9Fin%2C%20bir%20mektup)%20karamsar%2C%20siyah%20beyaz%20bir%20foto%C4%9Fraf%C4%B1d%C4%B1r.%20G%C3%B6r%C3%BCnt%C3%BCn%C3%BCn%20%C3%BCzerine%20b%C3%BCy%C3%BCk%2C%20k%C4%B1rm%C4%B1z%C4%B1%20bir%20soru%20i%C5%9Fareti%20damgalanm%C4%B1%C5%9Ft%C4%B1r.%20YouTuber'%C4%B1n%20y%C3%BCz%C3%BC%20g%C3%B6r%C3%BCnm%C3%BCyor%2C%20bu%20da%20gizemi%20art%C4%B1r%C4%B1yor.%20Ba%C5%9Fl%C4%B1k%20klasik%20bir%20daktilo%20yaz%C4%B1%20tipindedir.%20Bu%2C%20ruh%20hali%20ve%20atmosfer%20%C3%BCzerinde%20g%C3%BC%C3%A7l%C3%BC%20bir%20kontrol%20oldu%C4%9Funu%20g%C3%B6steriyor.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Ger%C3%A7ek%20bir%20su%C3%A7%20belgeseli%20i%C3%A7in%20karanl%C4%B1k%20ve%20gizemli%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20bir%20dedektifin%20masas%C4%B1nda%20tek%20bir%20lamba%20ile%20ayd%C4%B1nlat%C4%B1lm%C4%B1%C5%9F%20%C3%B6nemli%20bir%20kan%C4%B1t%20par%C3%A7as%C4%B1n%C4%B1n%20(%C3%B6rne%C4%9Fin%2C%20bir%20mektup)%20karamsar%2C%20siyah%20beyaz%20bir%20foto%C4%9Fraf%C4%B1d%C4%B1r.%20G%C3%B6r%C3%BCnt%C3%BCn%C3%BCn%20%C3%BCzerine%20b%C3%BCy%C3%BCk%2C%20k%C4%B1rm%C4%B1z%C4%B1%20bir%20soru%20i%C5%9Fareti%20damgalanm%C4%B1%C5%9Ft%C4%B1r.%20YouTuber'%C4%B1n%20y%C3%BCz%C3%BC%20g%C3%B6r%C3%BCnm%C3%BCyor%2C%20bu%20da%20gizemi%20art%C4%B1r%C4%B1yor.%20Ba%C5%9Fl%C4%B1k%20klasik%20bir%20daktilo%20yaz%C4%B1%20tipindedir.%20Bu%2C%20ruh%20hali%20ve%20atmosfer%20%C3%BCzerinde%20g%C3%BC%C3%A7l%C3%BC%20bir%20kontrol%20oldu%C4%9Funu%20g%C3%B6steriyor.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 24: 30 Günlük Fitness Mücadelesi Sonuçları Küçük Resmi
-=======
 ### No. 27: 30 Günlük Fitness Mücadelesi Sonuçları Küçük Resmi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1027,15 +989,11 @@ Bu istem, bir "30 Günlük Fitness Mücadelesi" sonuçları videosu için, YouTu
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%2230%20G%C3%BCnl%C3%BCk%20Fitness%20M%C3%BCcadelesi%22%20sonu%C3%A7%20videosu%20i%C3%A7in%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20YouTuber'%C4%B1n%201.%20g%C3%BCn%20ve%2030.%20g%C3%BCndeki%20fizi%C4%9Fini%20g%C3%B6steren%20b%C3%B6l%C3%BCnm%C3%BC%C5%9F%20ekranl%C4%B1%20bir%20g%C3%B6rsel.%20D%C3%B6n%C3%BC%C5%9F%C3%BCm%20a%C3%A7%C4%B1k%20ve%20etkileyici.%20YouTuber%2C%2030.%20g%C3%BCn%20foto%C4%9Fraf%C4%B1nda%20kendine%20g%C3%BCvenen%20bir%20ifadeyle%20kaslar%C4%B1n%C4%B1%20s%C4%B1k%C4%B1yor.%20%2230%20G%C3%BCnde%20%C4%B0NANILMAZ%20De%C4%9Fi%C5%9Fimim!%22%20metni%20kal%C4%B1n%2C%20atletik%20bir%20yaz%C4%B1%20tipinde.%20Bu%2C%20g%C3%B6rseller%20aras%C4%B1nda%20y%C3%BCksek%20konu%20tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%20gerektirir.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%2230%20G%C3%BCnl%C3%BCk%20Fitness%20M%C3%BCcadelesi%22%20sonu%C3%A7%20videosu%20i%C3%A7in%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20YouTuber'%C4%B1n%201.%20g%C3%BCn%20ve%2030.%20g%C3%BCndeki%20fizi%C4%9Fini%20g%C3%B6steren%20b%C3%B6l%C3%BCnm%C3%BC%C5%9F%20ekranl%C4%B1%20bir%20g%C3%B6rsel.%20D%C3%B6n%C3%BC%C5%9F%C3%BCm%20a%C3%A7%C4%B1k%20ve%20etkileyici.%20YouTuber%2C%2030.%20g%C3%BCn%20foto%C4%9Fraf%C4%B1nda%20kendine%20g%C3%BCvenen%20bir%20ifadeyle%20kaslar%C4%B1n%C4%B1%20s%C4%B1k%C4%B1yor.%20%2230%20G%C3%BCnde%20%C4%B0NANILMAZ%20De%C4%9Fi%C5%9Fimim!%22%20metni%20kal%C4%B1n%2C%20atletik%20bir%20yaz%C4%B1%20tipinde.%20Bu%2C%20g%C3%B6rseller%20aras%C4%B1nda%20y%C3%BCksek%20konu%20tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%20gerektirir.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 25: Kara Delik Açıklaması Küçük Resmi
-=======
 ### No. 28: Kara Delik Açıklaması Küçük Resmi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1064,15 +1022,11 @@ Kara delikleri açıklayan bir video için küçük resim. Görüntü, bir kara 
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Kara%20delikleri%20a%C3%A7%C4%B1klayan%20bir%20video%20i%C3%A7in%20k%C3%BC%C3%A7%C3%BCk%20resim.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20bir%20kara%20deli%C4%9Fin%20bilimsel%20olarak%20do%C4%9Fru%20ve%20g%C3%B6rsel%20olarak%20%C3%A7arp%C4%B1c%C4%B1%20bir%20tasviri%20olup%2C%20y%C4%B1%C4%9F%C4%B1lma%20diskini%20ve%20k%C3%BCtle%C3%A7ekimsel%20mercekleme%20etkisini%20g%C3%B6stermektedir.%20B%C3%BCy%C3%BCk%2C%20beyaz%20bir%20ok%20tekilli%C4%9Fi%20i%C5%9Faret%20etmektedir.%20YouTuber'%C4%B1n%20y%C3%BCz%C3%BC%20k%C3%B6%C5%9Fede%2C%20%C5%9Fa%C5%9Fk%C4%B1n%20bir%20ifadeyle%20durmaktad%C4%B1r.%20%22Kara%20Deli%C4%9Fin%20%C4%B0%C3%87%C4%B0NDE%20Ne%20Var%3F%22%20ba%C5%9Fl%C4%B1%C4%9F%C4%B1%20f%C3%BCt%C3%BCristik%20bir%20yaz%C4%B1%20tipindedir.%20Bu%2C%20karma%C5%9F%C4%B1k%20bilimsel%20fenomenleri%20do%C4%9Fru%20bir%20%C5%9Fekilde%20i%C5%9Fleme%20yetene%C4%9Fini%20sergilemektedir.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Kara%20delikleri%20a%C3%A7%C4%B1klayan%20bir%20video%20i%C3%A7in%20k%C3%BC%C3%A7%C3%BCk%20resim.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20bir%20kara%20deli%C4%9Fin%20bilimsel%20olarak%20do%C4%9Fru%20ve%20g%C3%B6rsel%20olarak%20%C3%A7arp%C4%B1c%C4%B1%20bir%20tasviri%20olup%2C%20y%C4%B1%C4%9F%C4%B1lma%20diskini%20ve%20k%C3%BCtle%C3%A7ekimsel%20mercekleme%20etkisini%20g%C3%B6stermektedir.%20B%C3%BCy%C3%BCk%2C%20beyaz%20bir%20ok%20tekilli%C4%9Fi%20i%C5%9Faret%20etmektedir.%20YouTuber'%C4%B1n%20y%C3%BCz%C3%BC%20k%C3%B6%C5%9Fede%2C%20%C5%9Fa%C5%9Fk%C4%B1n%20bir%20ifadeyle%20durmaktad%C4%B1r.%20%22Kara%20Deli%C4%9Fin%20%C4%B0%C3%87%C4%B0NDE%20Ne%20Var%3F%22%20ba%C5%9Fl%C4%B1%C4%9F%C4%B1%20f%C3%BCt%C3%BCristik%20bir%20yaz%C4%B1%20tipindedir.%20Bu%2C%20karma%C5%9F%C4%B1k%20bilimsel%20fenomenleri%20do%C4%9Fru%20bir%20%C5%9Fekilde%20i%C5%9Fleme%20yetene%C4%9Fini%20sergilemektedir.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 26: Kendin Yap Oda Dönüşümü: Öncesi ve Sonrası
-=======
 ### No. 29: Kendin Yap Oda Dönüşümü: Öncesi ve Sonrası
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1101,15 +1055,11 @@ Bir kendin yap ev dekorasyonu videosu için küçük resim. Görselde "öncesi v
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Bir%20kendin%20yap%20ev%20dekorasyonu%20videosu%20i%C3%A7in%20k%C3%BC%C3%A7%C3%BCk%20resim.%20G%C3%B6rselde%20%22%C3%B6ncesi%20ve%20sonras%C4%B1%22%20%C5%9Feklinde%20b%C3%B6l%C3%BCnm%C3%BC%C5%9F%20bir%20ekran%20yer%20al%C4%B1yor.%20%22%C3%96ncesi%22%20taraf%C4%B1nda%20sade%2C%20s%C4%B1k%C4%B1c%C4%B1%20bir%20oda%20g%C3%B6steriliyor.%20%22Sonras%C4%B1%22%20taraf%C4%B1nda%20ise%20ayn%C4%B1%20oda%20%C5%9F%C4%B1k%2C%20rahat%20bir%20alana%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BClm%C3%BC%C5%9F.%20YouTuber%20ortada%2C%20%22sonras%C4%B1%22%20taraf%C4%B1n%C4%B1%20gururlu%20bir%20g%C3%BCl%C3%BCmsemeyle%20i%C5%9Faret%20ediyor.%20%22B%C3%BCt%C3%A7e%20Dostu%20Oda%20Yenileme!%22%20metni%20belirgin%20bir%20%C5%9Fekilde%20g%C3%B6steriliyor.%20Bu%2C%20y%C3%BCksek%20tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%20ve%20d%C3%B6n%C3%BC%C5%9F%C3%BCmleri%20g%C3%B6sterme%20yetene%C4%9Fini%20sergiliyor.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Bir%20kendin%20yap%20ev%20dekorasyonu%20videosu%20i%C3%A7in%20k%C3%BC%C3%A7%C3%BCk%20resim.%20G%C3%B6rselde%20%22%C3%B6ncesi%20ve%20sonras%C4%B1%22%20%C5%9Feklinde%20b%C3%B6l%C3%BCnm%C3%BC%C5%9F%20bir%20ekran%20yer%20al%C4%B1yor.%20%22%C3%96ncesi%22%20taraf%C4%B1nda%20sade%2C%20s%C4%B1k%C4%B1c%C4%B1%20bir%20oda%20g%C3%B6steriliyor.%20%22Sonras%C4%B1%22%20taraf%C4%B1nda%20ise%20ayn%C4%B1%20oda%20%C5%9F%C4%B1k%2C%20rahat%20bir%20alana%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BClm%C3%BC%C5%9F.%20YouTuber%20ortada%2C%20%22sonras%C4%B1%22%20taraf%C4%B1n%C4%B1%20gururlu%20bir%20g%C3%BCl%C3%BCmsemeyle%20i%C5%9Faret%20ediyor.%20%22B%C3%BCt%C3%A7e%20Dostu%20Oda%20Yenileme!%22%20metni%20belirgin%20bir%20%C5%9Fekilde%20g%C3%B6steriliyor.%20Bu%2C%20y%C3%BCksek%20tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%20ve%20d%C3%B6n%C3%BC%C5%9F%C3%BCmleri%20g%C3%B6sterme%20yetene%C4%9Fini%20sergiliyor.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 27: Enfes Çikolatalı Kek Tarifi Küçük Resmi
-=======
 ### No. 30: Enfes Çikolatalı Kek Tarifi Küçük Resmi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1138,15 +1088,44 @@ Bu istem, "Enfes Çikolatalı Kek" tarifi videosu için bir YouTube küçük res
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%22Enfes%20%C3%87ikolatal%C4%B1%20Kek%22%20tarifi%20videosu%20i%C3%A7in%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20G%C3%B6rselde%2C%20bir%20%C3%A7atala%20tak%C4%B1l%C4%B1%20kek%20diliminin%20a%C4%9F%C4%B1z%20suland%C4%B1ran%20bir%20yak%C4%B1n%20%C3%A7ekimi%20var%2C%20erimi%C5%9F%20%C3%A7ikolata%20ak%C4%B1yor.%20Arka%20planda%20g%C3%BCzelce%20s%C3%BCslenmi%C5%9F%2C%20b%C3%BCt%C3%BCn%20bir%20kek%20bulunuyor.%20Ayd%C4%B1nlatma%20s%C4%B1cak%20ve%20lezzetli.%20Kal%C4%B1n%2C%20zarif%20metinde%20%22%C4%B0htiyac%C4%B1n%C4%B1z%20Olan%20TEK%20%C3%87ikolatal%C4%B1%20Kek%20Tarifi%22%20yaz%C4%B1yor.%20Bu%2C%20g%C3%BC%C3%A7l%C3%BC%20bir%20yeme%20iste%C4%9Fi%20uyand%C4%B1rmak%20i%C3%A7in%20hiper-ger%C3%A7ek%C3%A7i%20yemek%20render'%C4%B1%20gerektiriyor.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%22Enfes%20%C3%87ikolatal%C4%B1%20Kek%22%20tarifi%20videosu%20i%C3%A7in%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20G%C3%B6rselde%2C%20bir%20%C3%A7atala%20tak%C4%B1l%C4%B1%20kek%20diliminin%20a%C4%9F%C4%B1z%20suland%C4%B1ran%20bir%20yak%C4%B1n%20%C3%A7ekimi%20var%2C%20erimi%C5%9F%20%C3%A7ikolata%20ak%C4%B1yor.%20Arka%20planda%20g%C3%BCzelce%20s%C3%BCslenmi%C5%9F%2C%20b%C3%BCt%C3%BCn%20bir%20kek%20bulunuyor.%20Ayd%C4%B1nlatma%20s%C4%B1cak%20ve%20lezzetli.%20Kal%C4%B1n%2C%20zarif%20metinde%20%22%C4%B0htiyac%C4%B1n%C4%B1z%20Olan%20TEK%20%C3%87ikolatal%C4%B1%20Kek%20Tarifi%22%20yaz%C4%B1yor.%20Bu%2C%20g%C3%BC%C3%A7l%C3%BC%20bir%20yeme%20iste%C4%9Fi%20uyand%C4%B1rmak%20i%C3%A7in%20hiper-ger%C3%A7ek%C3%A7i%20yemek%20render'%C4%B1%20gerektiriyor.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 28: Bali Seyahat Vlog'u Küçük Resmi
-=======
-### No. 31: Bali Seyahat Vlog'u Küçük Resmi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 31: Minecraft Hayatta Kalma Videosu Küçük Resmi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Bu istem, "Minecraft Hayatta Kalma" videosu için, oyuncunun zombiler ve sarmaşıklarla savaştığı, arka planda korkunç bir sarmaşığın olduğu bir YouTube küçük resmi oluşturur. Dramatik, aksiyon dolu sahneler yaratmak için oyun estetiği bilgisi gerektirir.
+
+#### 📝 İstem
+
+```
+Bir "Minecraft Survival" videosu için küçük resim. Görüntüde, oyuncunun karakteri elmas zırh içinde, geceleri devasa bir zombi ve creeper sürüsüyle cesurca savaşıyor. Arka planda patlamak üzere olan devasa, korkunç bir Creeper beliriyor. "HER ŞEYİMİ NEREDEYSE KAYBETTİM!" yazısı bloklu, Minecraft tarzı bir yazı tipinde. Bu, belirli oyun estetiği bilgisi ve dramatik, aksiyon dolu sahneler yaratma yeteneği gerektirir. –ar 16:9
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765369899639_932wt1_image.png" width="600" alt="Minecraft Hayatta Kalma Videosu Küçük Resmi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 10 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Bir%20%22Minecraft%20Survival%22%20videosu%20i%C3%A7in%20k%C3%BC%C3%A7%C3%BCk%20resim.%20G%C3%B6r%C3%BCnt%C3%BCde%2C%20oyuncunun%20karakteri%20elmas%20z%C4%B1rh%20i%C3%A7inde%2C%20geceleri%20devasa%20bir%20zombi%20ve%20creeper%20s%C3%BCr%C3%BCs%C3%BCyle%20cesurca%20sava%C5%9F%C4%B1yor.%20Arka%20planda%20patlamak%20%C3%BCzere%20olan%20devasa%2C%20korkun%C3%A7%20bir%20Creeper%20beliriyor.%20%22HER%20%C5%9EEY%C4%B0M%C4%B0%20NEREDEYSE%20KAYBETT%C4%B0M!%22%20yaz%C4%B1s%C4%B1%20bloklu%2C%20Minecraft%20tarz%C4%B1%20bir%20yaz%C4%B1%20tipinde.%20Bu%2C%20belirli%20oyun%20esteti%C4%9Fi%20bilgisi%20ve%20dramatik%2C%20aksiyon%20dolu%20sahneler%20yaratma%20yetene%C4%9Fi%20gerektirir.%20%E2%80%93ar%2016%3A9)**
+
+---
+
+### No. 32: Bali Seyahat Vlog'u Küçük Resmi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1175,15 +1154,11 @@ Bali hakkında bir seyahat vlog'u için çarpıcı bir küçük resim. Görünt�
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Bali%20hakk%C4%B1nda%20bir%20seyahat%20vlog'u%20i%C3%A7in%20%C3%A7arp%C4%B1c%C4%B1%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20yemye%C5%9Fil%20bir%20ormana%20bakan%2C%20kristal%20berrakl%C4%B1%C4%9F%C4%B1nda%20bir%20sonsuzluk%20havuzunda%20y%C3%BCzen%20YouTuber'%C4%B1n%20g%C3%BCzel%2C%20canl%C4%B1%20bir%20%C3%A7ekimi.%20Renkler%20a%C5%9F%C4%B1r%C4%B1%20doygun%2C%20bu%20da%20suyu%20inan%C4%B1lmaz%20derecede%20mavi%20ve%20orman%C4%B1%20yo%C4%9Fun%20bir%20%C5%9Fekilde%20ye%C5%9Fil%20g%C3%B6steriyor.%20%22CENNET%C4%B0%20BULDUM!%22%20video%20ba%C5%9Fl%C4%B1%C4%9F%C4%B1%2C%20sade%2C%20beyaz%20bir%20yaz%C4%B1%20tipinde.%20Bu%2C%20ilham%20verici%20i%C3%A7erikler%20i%C3%A7in%20geli%C5%9Fmi%C5%9F%20%C3%A7evresel%20render%20ve%20renk%20kontrol%C3%BCn%C3%BC%20sergiliyor.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Bali%20hakk%C4%B1nda%20bir%20seyahat%20vlog'u%20i%C3%A7in%20%C3%A7arp%C4%B1c%C4%B1%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20yemye%C5%9Fil%20bir%20ormana%20bakan%2C%20kristal%20berrakl%C4%B1%C4%9F%C4%B1nda%20bir%20sonsuzluk%20havuzunda%20y%C3%BCzen%20YouTuber'%C4%B1n%20g%C3%BCzel%2C%20canl%C4%B1%20bir%20%C3%A7ekimi.%20Renkler%20a%C5%9F%C4%B1r%C4%B1%20doygun%2C%20bu%20da%20suyu%20inan%C4%B1lmaz%20derecede%20mavi%20ve%20orman%C4%B1%20yo%C4%9Fun%20bir%20%C5%9Fekilde%20ye%C5%9Fil%20g%C3%B6steriyor.%20%22CENNET%C4%B0%20BULDUM!%22%20video%20ba%C5%9Fl%C4%B1%C4%9F%C4%B1%2C%20sade%2C%20beyaz%20bir%20yaz%C4%B1%20tipinde.%20Bu%2C%20ilham%20verici%20i%C3%A7erikler%20i%C3%A7in%20geli%C5%9Fmi%C5%9F%20%C3%A7evresel%20render%20ve%20renk%20kontrol%C3%BCn%C3%BC%20sergiliyor.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 29: Akıllı Telefon İncelemesi Küçük Resmi
-=======
-### No. 32: Akıllı Telefon İncelemesi Küçük Resmi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 33: Akıllı Telefon İncelemesi Küçük Resmi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1212,15 +1187,11 @@ En yeni akıllı telefonun incelemesi için bir küçük resim. Telefon, şık e
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=En%20yeni%20ak%C4%B1ll%C4%B1%20telefonun%20incelemesi%20i%C3%A7in%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20Telefon%2C%20%C5%9F%C4%B1k%20ekran%C4%B1n%C4%B1%20ve%20kamera%20dizisini%20g%C3%B6sterecek%20%C5%9Fekilde%20a%C3%A7%C4%B1l%C4%B1%20olarak%20bir%20elde%20tutuluyor.%20Telefonun%20bir%20taraf%C4%B1nda%20b%C3%BCy%C3%BCk%20ye%C5%9Fil%20bir%20onay%20i%C5%9Fareti%20simgesi%3B%20di%C4%9Fer%20taraf%C4%B1nda%20ise%20b%C3%BCy%C3%BCk%20k%C4%B1rm%C4%B1z%C4%B1%20bir%20X%20simgesi%20bulunuyor.%20YouTuber'%C4%B1n%20y%C3%BCz%C3%BC%20k%C3%B6%C5%9Fede%2C%20%C5%9Fa%C5%9Fk%C4%B1n%20ve%20s%C3%BCrpriz%20bir%20ifadeyle%20duruyor.%20Arka%20plan%20temiz%2C%20teknolojik%20bir%20%C4%B1zgara%20deseni.%20Bu%2C%20hassas%20%C3%BCr%C3%BCn%20render'%C4%B1n%C4%B1%20ve%20net%20bir%20%22vs.%22%20anlat%C4%B1s%C4%B1%20olu%C5%9Fturma%20yetene%C4%9Fini%20g%C3%B6steriyor.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=En%20yeni%20ak%C4%B1ll%C4%B1%20telefonun%20incelemesi%20i%C3%A7in%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20Telefon%2C%20%C5%9F%C4%B1k%20ekran%C4%B1n%C4%B1%20ve%20kamera%20dizisini%20g%C3%B6sterecek%20%C5%9Fekilde%20a%C3%A7%C4%B1l%C4%B1%20olarak%20bir%20elde%20tutuluyor.%20Telefonun%20bir%20taraf%C4%B1nda%20b%C3%BCy%C3%BCk%20ye%C5%9Fil%20bir%20onay%20i%C5%9Fareti%20simgesi%3B%20di%C4%9Fer%20taraf%C4%B1nda%20ise%20b%C3%BCy%C3%BCk%20k%C4%B1rm%C4%B1z%C4%B1%20bir%20X%20simgesi%20bulunuyor.%20YouTuber'%C4%B1n%20y%C3%BCz%C3%BC%20k%C3%B6%C5%9Fede%2C%20%C5%9Fa%C5%9Fk%C4%B1n%20ve%20s%C3%BCrpriz%20bir%20ifadeyle%20duruyor.%20Arka%20plan%20temiz%2C%20teknolojik%20bir%20%C4%B1zgara%20deseni.%20Bu%2C%20hassas%20%C3%BCr%C3%BCn%20render'%C4%B1n%C4%B1%20ve%20net%20bir%20%22vs.%22%20anlat%C4%B1s%C4%B1%20olu%C5%9Fturma%20yetene%C4%9Fini%20g%C3%B6steriyor.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 30: Gülmeme Meydan Okuması Küçük Resmi
-=======
-### No. 33: Gülmeme Meydan Okuması Küçük Resmi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 34: Gülmeme Meydan Okuması Küçük Resmi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1249,15 +1220,11 @@ Bu istem, abartılı bir şekilde ağlayan-gülen bir YouTuber ve cesur metin i�
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%22G%C3%BClmeme%20Meydan%20Okumas%C4%B1%22%20videosu%20i%C3%A7in%20y%C3%BCksek%20enerjili%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20A%C5%9F%C4%B1r%C4%B1%20derecede%20abart%C4%B1l%C4%B1%2C%20a%C4%9Flamaktan%20g%C3%BClen%20bir%20ifadeye%20sahip%20bir%20YouTuber'%C4%B1n%20yak%C4%B1n%20%C3%A7ekimini%20ve%20g%C3%B6zlerinden%20ya%C5%9Flar%20f%C4%B1%C5%9Fk%C4%B1rd%C4%B1%C4%9F%C4%B1n%C4%B1%20g%C3%B6steriyor.%20Arka%20plan%2C%20sar%C4%B1%20ve%20turuncunun%20parlak%2C%20patlay%C4%B1c%C4%B1%20radyal%20gradyan%C4%B1d%C4%B1r.%20Siyah%20ana%20hatl%C4%B1%20kal%C4%B1n%2C%20beyaz%20metin%20%22%C4%B0M-KAN-SIZ!%22%20diyor.%20Bu%2C%20belirli%2C%20abart%C4%B1l%C4%B1%20duygular%20ve%20y%C3%BCksek%20etkili%20metin%20olu%C5%9Fturma%20yetene%C4%9Fi%20gerektirir.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%22G%C3%BClmeme%20Meydan%20Okumas%C4%B1%22%20videosu%20i%C3%A7in%20y%C3%BCksek%20enerjili%20bir%20k%C3%BC%C3%A7%C3%BCk%20resim.%20A%C5%9F%C4%B1r%C4%B1%20derecede%20abart%C4%B1l%C4%B1%2C%20a%C4%9Flamaktan%20g%C3%BClen%20bir%20ifadeye%20sahip%20bir%20YouTuber'%C4%B1n%20yak%C4%B1n%20%C3%A7ekimini%20ve%20g%C3%B6zlerinden%20ya%C5%9Flar%20f%C4%B1%C5%9Fk%C4%B1rd%C4%B1%C4%9F%C4%B1n%C4%B1%20g%C3%B6steriyor.%20Arka%20plan%2C%20sar%C4%B1%20ve%20turuncunun%20parlak%2C%20patlay%C4%B1c%C4%B1%20radyal%20gradyan%C4%B1d%C4%B1r.%20Siyah%20ana%20hatl%C4%B1%20kal%C4%B1n%2C%20beyaz%20metin%20%22%C4%B0M-KAN-SIZ!%22%20diyor.%20Bu%2C%20belirli%2C%20abart%C4%B1l%C4%B1%20duygular%20ve%20y%C3%BCksek%20etkili%20metin%20olu%C5%9Fturma%20yetene%C4%9Fi%20gerektirir.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 31: Web Uygulaması Sistem Mimari Diyagramı
-=======
-### No. 34: Web Uygulaması Sistem Mimari Diyagramı
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 35: Web Uygulaması Sistem Mimari Diyagramı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1286,15 +1253,11 @@ Paydaşlara yönelik bir sunum için modern bir web uygulamasının üst düzey 
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Payda%C5%9Flara%20y%C3%B6nelik%20bir%20sunum%20i%C3%A7in%20modern%20bir%20web%20uygulamas%C4%B1n%C4%B1n%20%C3%BCst%20d%C3%BCzey%20sistem%20mimarisi%20diyagram%C4%B1.%20Diyagramda%20kullan%C4%B1c%C4%B1n%C4%B1n%20taray%C4%B1c%C4%B1s%C4%B1%2C%20y%C3%BCk%20dengeleyici%2C%20web%20sunucular%C4%B1%2C%20veritaban%C4%B1%20ve%20%C3%BC%C3%A7%C3%BCnc%C3%BC%20taraf%20API'leri%20gibi%20farkl%C4%B1%20bile%C5%9Fenleri%20temsil%20etmek%20i%C3%A7in%20simgeler%20kullan%C4%B1lmal%C4%B1d%C4%B1r.%20Aralar%C4%B1ndaki%20ba%C4%9Flant%C4%B1lar%20veri%20ak%C4%B1%C5%9F%C4%B1n%C4%B1%20g%C3%B6stermelidir.%20Stil%20temiz%2C%20profesyonel%20ve%20teknik%20olmayan%20bir%20kitle%20i%C3%A7in%20bile%20kolay%20anla%C5%9F%C4%B1l%C4%B1r%20olmal%C4%B1%2C%20karma%C5%9F%C4%B1k%20teknik%20bilgileri%20net%20bir%20%C5%9Fekilde%20sunma%20yetene%C4%9Fini%20sergilemelidir.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Payda%C5%9Flara%20y%C3%B6nelik%20bir%20sunum%20i%C3%A7in%20modern%20bir%20web%20uygulamas%C4%B1n%C4%B1n%20%C3%BCst%20d%C3%BCzey%20sistem%20mimarisi%20diyagram%C4%B1.%20Diyagramda%20kullan%C4%B1c%C4%B1n%C4%B1n%20taray%C4%B1c%C4%B1s%C4%B1%2C%20y%C3%BCk%20dengeleyici%2C%20web%20sunucular%C4%B1%2C%20veritaban%C4%B1%20ve%20%C3%BC%C3%A7%C3%BCnc%C3%BC%20taraf%20API'leri%20gibi%20farkl%C4%B1%20bile%C5%9Fenleri%20temsil%20etmek%20i%C3%A7in%20simgeler%20kullan%C4%B1lmal%C4%B1d%C4%B1r.%20Aralar%C4%B1ndaki%20ba%C4%9Flant%C4%B1lar%20veri%20ak%C4%B1%C5%9F%C4%B1n%C4%B1%20g%C3%B6stermelidir.%20Stil%20temiz%2C%20profesyonel%20ve%20teknik%20olmayan%20bir%20kitle%20i%C3%A7in%20bile%20kolay%20anla%C5%9F%C4%B1l%C4%B1r%20olmal%C4%B1%2C%20karma%C5%9F%C4%B1k%20teknik%20bilgileri%20net%20bir%20%C5%9Fekilde%20sunma%20yetene%C4%9Fini%20sergilemelidir.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 32: Resimli Ev Yapımı Makarna Tarifi Kartı
-=======
-### No. 35: Resimli Ev Yapımı Makarna Tarifi Kartı
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 36: Resimli Ev Yapımı Makarna Tarifi Kartı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1323,15 +1286,11 @@ Ev yapımı makarna yapmak için güzelce resmedilmiş bir tarif kartı. Üst ya
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Ev%20yap%C4%B1m%C4%B1%20makarna%20yapmak%20i%C3%A7in%20g%C3%BCzelce%20resmedilmi%C5%9F%20bir%20tarif%20kart%C4%B1.%20%C3%9Cst%20yar%C4%B1s%C4%B1%2C%20bitmi%C5%9F%20yeme%C4%9Fin%20(%C3%B6rne%C4%9Fin%2C%20fesle%C4%9Fenli%20fettuccine)%20b%C3%BCy%C3%BCleyici%20bir%20ill%C3%BCstrasyonudur.%20Alt%20yar%C4%B1s%C4%B1%2C%20her%20bir%20malzeme%20(un%2C%20yumurta%2C%20tuz)%20i%C3%A7in%20k%C3%BC%C3%A7%C3%BCk%20simgelerle%20malzemeleri%20ve%20ad%C4%B1mlar%C4%B1%20listeler.%20Tarz%C4%B1%2C%20el%20yaz%C4%B1s%C4%B1yla%20yaz%C4%B1lm%C4%B1%C5%9F%20bir%20aile%20yemek%20kitab%C4%B1ndan%20bir%20sayfa%20gibi%20s%C4%B1cak%20ve%20rustiktir.%20%E2%80%93ar%203%3A4)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Ev%20yap%C4%B1m%C4%B1%20makarna%20yapmak%20i%C3%A7in%20g%C3%BCzelce%20resmedilmi%C5%9F%20bir%20tarif%20kart%C4%B1.%20%C3%9Cst%20yar%C4%B1s%C4%B1%2C%20bitmi%C5%9F%20yeme%C4%9Fin%20(%C3%B6rne%C4%9Fin%2C%20fesle%C4%9Fenli%20fettuccine)%20b%C3%BCy%C3%BCleyici%20bir%20ill%C3%BCstrasyonudur.%20Alt%20yar%C4%B1s%C4%B1%2C%20her%20bir%20malzeme%20(un%2C%20yumurta%2C%20tuz)%20i%C3%A7in%20k%C3%BC%C3%A7%C3%BCk%20simgelerle%20malzemeleri%20ve%20ad%C4%B1mlar%C4%B1%20listeler.%20Tarz%C4%B1%2C%20el%20yaz%C4%B1s%C4%B1yla%20yaz%C4%B1lm%C4%B1%C5%9F%20bir%20aile%20yemek%20kitab%C4%B1ndan%20bir%20sayfa%20gibi%20s%C4%B1cak%20ve%20rustiktir.%20%E2%80%93ar%203%3A4)**
 
 ---
 
-<<<<<<< HEAD
-### No. 33: İşyeri Duruş Güvenliği Rehberi
-=======
-### No. 36: İşyeri Duruş Güvenliği Rehberi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 37: İşyeri Duruş Güvenliği Rehberi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1360,15 +1319,11 @@ Bu bilgi istemi, sırt ağrısını önlemek için doğru masa duruşu için gö
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%C4%B0%C5%9Fyerinde%20s%C4%B1rt%20a%C4%9Fr%C4%B1s%C4%B1ndan%20ka%C3%A7%C4%B1nmak%20i%C3%A7in%20masada%20do%C4%9Fru%20oturma%20duru%C5%9Funu%20g%C3%B6steren%20g%C3%B6rsel%20bir%20g%C3%BCvenlik%20rehberi.%20%C4%B0nfografik%20iki%20fig%C3%BCr%20i%C3%A7ermelidir%3A%20biri%20yanl%C4%B1%C5%9F%2C%20kambur%20bir%20duru%C5%9Fta%20k%C4%B1rm%C4%B1z%C4%B1%20X%20i%C5%9Faretleriyle%2C%20di%C4%9Feri%20ise%20do%C4%9Fru%2C%20ergonomik%20bir%20duru%C5%9Fta%20ye%C5%9Fil%20onay%20i%C5%9Faretleriyle.%20Kurumsal%20e%C4%9Fitim%20materyalleri%20i%C3%A7in%20uygun%2C%20basit%2C%20net%20ve%20evrensel%20olarak%20anla%C5%9F%C4%B1l%C4%B1r%20bir%20tarzda%20olmal%C4%B1d%C4%B1r.%20%E2%80%93ar%203%3A4)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%C4%B0%C5%9Fyerinde%20s%C4%B1rt%20a%C4%9Fr%C4%B1s%C4%B1ndan%20ka%C3%A7%C4%B1nmak%20i%C3%A7in%20masada%20do%C4%9Fru%20oturma%20duru%C5%9Funu%20g%C3%B6steren%20g%C3%B6rsel%20bir%20g%C3%BCvenlik%20rehberi.%20%C4%B0nfografik%20iki%20fig%C3%BCr%20i%C3%A7ermelidir%3A%20biri%20yanl%C4%B1%C5%9F%2C%20kambur%20bir%20duru%C5%9Fta%20k%C4%B1rm%C4%B1z%C4%B1%20X%20i%C5%9Faretleriyle%2C%20di%C4%9Feri%20ise%20do%C4%9Fru%2C%20ergonomik%20bir%20duru%C5%9Fta%20ye%C5%9Fil%20onay%20i%C5%9Faretleriyle.%20Kurumsal%20e%C4%9Fitim%20materyalleri%20i%C3%A7in%20uygun%2C%20basit%2C%20net%20ve%20evrensel%20olarak%20anla%C5%9F%C4%B1l%C4%B1r%20bir%20tarzda%20olmal%C4%B1d%C4%B1r.%20%E2%80%93ar%203%3A4)**
 
 ---
 
-<<<<<<< HEAD
-### No. 34: 3D Yazıcının Çalışma Diyagramı
-=======
-### No. 37: 3D Yazıcının Çalışma Diyagramı
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 38: 3D Yazıcının Çalışma Diyagramı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1397,15 +1352,11 @@ Bir 3D yazıcının (FDM teknolojisi) nasıl çalıştığını açıklayan net 
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Bir%203D%20yaz%C4%B1c%C4%B1n%C4%B1n%20(FDM%20teknolojisi)%20nas%C4%B1l%20%C3%A7al%C4%B1%C5%9Ft%C4%B1%C4%9F%C4%B1n%C4%B1%20a%C3%A7%C4%B1klayan%20net%20ve%20basit%20bir%20diyagram.%20Diyagramda%20filaman%C4%B1n%20ekstr%C3%BCdere%20beslenmesi%2C%20%C4%B1s%C4%B1tma%20eleman%C4%B1%20ve%20malzemenin%20bir%20nesne%20olu%C5%9Fturmak%20i%C3%A7in%20katman%20katman%20noz%C3%BClden%20b%C4%B1rak%C4%B1lmas%C4%B1%20g%C3%B6sterilmelidir.%20Stil%2C%20karma%C5%9F%C4%B1k%20teknolojiyi%20basit%C3%A7e%20a%C3%A7%C4%B1klama%20yetene%C4%9Fini%20g%C3%B6steren%2C%20s%C3%BCre%C3%A7%20ak%C4%B1%C5%9F%C4%B1n%C4%B1%20g%C3%B6steren%20oklarla%20temiz%2C%203D%20benzeri%20bir%20ill%C3%BCstrasyon%20olmal%C4%B1d%C4%B1r.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Bir%203D%20yaz%C4%B1c%C4%B1n%C4%B1n%20(FDM%20teknolojisi)%20nas%C4%B1l%20%C3%A7al%C4%B1%C5%9Ft%C4%B1%C4%9F%C4%B1n%C4%B1%20a%C3%A7%C4%B1klayan%20net%20ve%20basit%20bir%20diyagram.%20Diyagramda%20filaman%C4%B1n%20ekstr%C3%BCdere%20beslenmesi%2C%20%C4%B1s%C4%B1tma%20eleman%C4%B1%20ve%20malzemenin%20bir%20nesne%20olu%C5%9Fturmak%20i%C3%A7in%20katman%20katman%20noz%C3%BClden%20b%C4%B1rak%C4%B1lmas%C4%B1%20g%C3%B6sterilmelidir.%20Stil%2C%20karma%C5%9F%C4%B1k%20teknolojiyi%20basit%C3%A7e%20a%C3%A7%C4%B1klama%20yetene%C4%9Fini%20g%C3%B6steren%2C%20s%C3%BCre%C3%A7%20ak%C4%B1%C5%9F%C4%B1n%C4%B1%20g%C3%B6steren%20oklarla%20temiz%2C%203D%20benzeri%20bir%20ill%C3%BCstrasyon%20olmal%C4%B1d%C4%B1r.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 35: İzometrik Milli Park Haritası
-=======
-### No. 38: İzometrik Milli Park Haritası
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 39: İzometrik Milli Park Haritası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1434,15 +1385,11 @@ Bir milli parkın stilize edilmiş, izometrik illüstrasyon haritası. Harita, �
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Bir%20milli%20park%C4%B1n%20stilize%20edilmi%C5%9F%2C%20izometrik%20ill%C3%BCstrasyon%20haritas%C4%B1.%20Harita%2C%20%C3%B6nemli%20parkurlar%C4%B1%2C%20%C3%B6nemli%20noktalar%C4%B1%20(%C5%9Felaleler%20ve%20seyir%20noktalar%C4%B1%20gibi)%2C%20ziyaret%C3%A7i%20merkezlerini%20ve%20kamp%20alanlar%C4%B1n%C4%B1%20vurgulamal%C4%B1d%C4%B1r.%20Parkta%20ya%C5%9Fayan%20k%C3%BC%C3%A7%C3%BCk%20hayvan%20ill%C3%BCstrasyonlar%C4%B1yla%20samimi%20ve%20davetkar%20bir%20tarzda%20olmal%C4%B1d%C4%B1r.%20Bu%2C%20co%C4%9Frafi%20do%C4%9Fruluk%20ile%20sanatsal%20ill%C3%BCstrasyonun%20bir%20kar%C4%B1%C5%9F%C4%B1m%C4%B1n%C4%B1%20gerektiren%20bir%20park%20bro%C5%9F%C3%BCr%C3%BC%20veya%20web%20sitesi%20i%C3%A7indir.%20%E2%80%93ar%204%3A3)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Bir%20milli%20park%C4%B1n%20stilize%20edilmi%C5%9F%2C%20izometrik%20ill%C3%BCstrasyon%20haritas%C4%B1.%20Harita%2C%20%C3%B6nemli%20parkurlar%C4%B1%2C%20%C3%B6nemli%20noktalar%C4%B1%20(%C5%9Felaleler%20ve%20seyir%20noktalar%C4%B1%20gibi)%2C%20ziyaret%C3%A7i%20merkezlerini%20ve%20kamp%20alanlar%C4%B1n%C4%B1%20vurgulamal%C4%B1d%C4%B1r.%20Parkta%20ya%C5%9Fayan%20k%C3%BC%C3%A7%C3%BCk%20hayvan%20ill%C3%BCstrasyonlar%C4%B1yla%20samimi%20ve%20davetkar%20bir%20tarzda%20olmal%C4%B1d%C4%B1r.%20Bu%2C%20co%C4%9Frafi%20do%C4%9Fruluk%20ile%20sanatsal%20ill%C3%BCstrasyonun%20bir%20kar%C4%B1%C5%9F%C4%B1m%C4%B1n%C4%B1%20gerektiren%20bir%20park%20bro%C5%9F%C3%BCr%C3%BC%20veya%20web%20sitesi%20i%C3%A7indir.%20%E2%80%93ar%204%3A3)**
 
 ---
 
-<<<<<<< HEAD
-### No. 36: Blueprint Pasif Güneş Tasarımı
-=======
-### No. 39: Blueprint Pasif Güneş Tasarımı
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 40: Blueprint Pasif Güneş Tasarımı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1471,15 +1418,11 @@ Bir evin pasif güneş tasarımı konseptini açıklayan, plan tarzı bir çizim
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Bir%20evin%20pasif%20g%C3%BCne%C5%9F%20tasar%C4%B1m%C4%B1%20konseptini%20a%C3%A7%C4%B1klayan%2C%20plan%20tarz%C4%B1%20bir%20%C3%A7izimin%20bir%20b%C3%B6l%C3%BCm%C3%BC.%20%C3%87izim%2C%20k%C4%B1%C5%9F%C4%B1n%20ve%20yaz%C4%B1n%20g%C3%BCne%C5%9F%20a%C3%A7%C4%B1s%C4%B1n%C4%B1n%20pencere%20yerle%C5%9Fimi%20ve%20sa%C3%A7aklar%20arac%C4%B1l%C4%B1%C4%9F%C4%B1yla%20evin%20%C4%B1s%C4%B1tma%20ve%20so%C4%9Futmas%C4%B1n%C4%B1%20nas%C4%B1l%20etkiledi%C4%9Fini%20g%C3%B6steren%2C%20mavi%20zemin%20%C3%BCzerine%20beyaz%20%C3%A7izgiler%20kullanmal%C4%B1d%C4%B1r.%20Bu%2C%20teknik%20do%C4%9Fruluk%20ve%20mimari%20ve%20fizik%20prensiplerinin%20anla%C5%9F%C4%B1lmas%C4%B1n%C4%B1%20gerektirir.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Bir%20evin%20pasif%20g%C3%BCne%C5%9F%20tasar%C4%B1m%C4%B1%20konseptini%20a%C3%A7%C4%B1klayan%2C%20plan%20tarz%C4%B1%20bir%20%C3%A7izimin%20bir%20b%C3%B6l%C3%BCm%C3%BC.%20%C3%87izim%2C%20k%C4%B1%C5%9F%C4%B1n%20ve%20yaz%C4%B1n%20g%C3%BCne%C5%9F%20a%C3%A7%C4%B1s%C4%B1n%C4%B1n%20pencere%20yerle%C5%9Fimi%20ve%20sa%C3%A7aklar%20arac%C4%B1l%C4%B1%C4%9F%C4%B1yla%20evin%20%C4%B1s%C4%B1tma%20ve%20so%C4%9Futmas%C4%B1n%C4%B1%20nas%C4%B1l%20etkiledi%C4%9Fini%20g%C3%B6steren%2C%20mavi%20zemin%20%C3%BCzerine%20beyaz%20%C3%A7izgiler%20kullanmal%C4%B1d%C4%B1r.%20Bu%2C%20teknik%20do%C4%9Fruluk%20ve%20mimari%20ve%20fizik%20prensiplerinin%20anla%C5%9F%C4%B1lmas%C4%B1n%C4%B1%20gerektirir.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 37: Bilimsel Bitki Hücresi İllüstrasyonu
-=======
-### No. 40: Bilimsel Bitki Hücresi İllüstrasyonu
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 41: Bilimsel Bitki Hücresi İllüstrasyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1508,15 +1451,11 @@ Modern bir biyoloji ders kitabının tarzında, bir bitki hücresinin detaylı, 
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Modern%20bir%20biyoloji%20ders%20kitab%C4%B1n%C4%B1n%20tarz%C4%B1nda%2C%20bir%20bitki%20h%C3%BCcresinin%20detayl%C4%B1%2C%20bilimsel%20bir%20ill%C3%BCstrasyonu.%20%C4%B0ll%C3%BCstrasyon%2C%20h%C3%BCcre%20duvar%C4%B1n%C4%B1%2C%20h%C3%BCcre%20zar%C4%B1n%C4%B1%2C%20%C3%A7ekirde%C4%9Fi%2C%20kloroplastlar%C4%B1%20ve%20di%C4%9Fer%20organelleri%20a%C3%A7%C4%B1k%C3%A7a%20g%C3%B6steren%20ve%20etiketleyen%203%20boyutlu%20bir%20kesit%20olmal%C4%B1d%C4%B1r.%20Her%20organel%20i%C3%A7in%20renkler%20net%20ve%20belirgin%20olmal%C4%B1d%C4%B1r.%20Bu%2C%20bilimsel%20e%C4%9Fitim%20i%C3%A7in%20do%C4%9Fru%2C%20bilgiye%20dayal%C4%B1%20bir%20g%C3%B6rselle%C5%9Ftirme%20gerektirir.%20%E2%80%93ar%204%3A3)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Modern%20bir%20biyoloji%20ders%20kitab%C4%B1n%C4%B1n%20tarz%C4%B1nda%2C%20bir%20bitki%20h%C3%BCcresinin%20detayl%C4%B1%2C%20bilimsel%20bir%20ill%C3%BCstrasyonu.%20%C4%B0ll%C3%BCstrasyon%2C%20h%C3%BCcre%20duvar%C4%B1n%C4%B1%2C%20h%C3%BCcre%20zar%C4%B1n%C4%B1%2C%20%C3%A7ekirde%C4%9Fi%2C%20kloroplastlar%C4%B1%20ve%20di%C4%9Fer%20organelleri%20a%C3%A7%C4%B1k%C3%A7a%20g%C3%B6steren%20ve%20etiketleyen%203%20boyutlu%20bir%20kesit%20olmal%C4%B1d%C4%B1r.%20Her%20organel%20i%C3%A7in%20renkler%20net%20ve%20belirgin%20olmal%C4%B1d%C4%B1r.%20Bu%2C%20bilimsel%20e%C4%9Fitim%20i%C3%A7in%20do%C4%9Fru%2C%20bilgiye%20dayal%C4%B1%20bir%20g%C3%B6rselle%C5%9Ftirme%20gerektirir.%20%E2%80%93ar%204%3A3)**
 
 ---
 
-<<<<<<< HEAD
-### No. 38: Küresel Ormansızlaşma Veri Görselleştirmesi
-=======
-### No. 41: Küresel Ormansızlaşma Veri Görselleştirmesi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 42: Küresel Ormansızlaşma Veri Görselleştirmesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1545,15 +1484,11 @@ Küresel orman tahribatı raporu için güzel ve bilgilendirici bir veri görsel
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=K%C3%BCresel%20orman%20tahribat%C4%B1%20raporu%20i%C3%A7in%20g%C3%BCzel%20ve%20bilgilendirici%20bir%20veri%20g%C3%B6rselle%C5%9Ftirmesi.%20Ana%20g%C3%B6rsel%2C%20%C3%BClkelerin%20orman%20kayb%C4%B1%20oranlar%C4%B1na%20g%C3%B6re%20renklendirildi%C4%9Fi%20bir%20d%C3%BCnya%20haritas%C4%B1%20veya%20yaprak%20say%C4%B1s%C4%B1n%C4%B1n%20kalan%20orman%20%C3%B6rt%C3%BCs%C3%BCn%C3%BC%20temsil%20etti%C4%9Fi%20bir%20dizi%20stilize%20edilmi%C5%9F%20a%C4%9Fa%C3%A7%20grafi%C4%9Fi%20olabilir.%20Tasar%C4%B1m%2C%20sadece%20kuru%20bir%20grafik%20olmak%20yerine%20etkileyici%20ve%20duygusal%20olarak%20yank%C4%B1%20uyand%C4%B1ran%2C%20verileri%20ilgi%20%C3%A7ekici%20bir%20g%C3%B6rsel%20hikayeye%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCrme%20yetene%C4%9Fini%20g%C3%B6steren%20bir%20nitelikte%20olmal%C4%B1d%C4%B1r.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=K%C3%BCresel%20orman%20tahribat%C4%B1%20raporu%20i%C3%A7in%20g%C3%BCzel%20ve%20bilgilendirici%20bir%20veri%20g%C3%B6rselle%C5%9Ftirmesi.%20Ana%20g%C3%B6rsel%2C%20%C3%BClkelerin%20orman%20kayb%C4%B1%20oranlar%C4%B1na%20g%C3%B6re%20renklendirildi%C4%9Fi%20bir%20d%C3%BCnya%20haritas%C4%B1%20veya%20yaprak%20say%C4%B1s%C4%B1n%C4%B1n%20kalan%20orman%20%C3%B6rt%C3%BCs%C3%BCn%C3%BC%20temsil%20etti%C4%9Fi%20bir%20dizi%20stilize%20edilmi%C5%9F%20a%C4%9Fa%C3%A7%20grafi%C4%9Fi%20olabilir.%20Tasar%C4%B1m%2C%20sadece%20kuru%20bir%20grafik%20olmak%20yerine%20etkileyici%20ve%20duygusal%20olarak%20yank%C4%B1%20uyand%C4%B1ran%2C%20verileri%20ilgi%20%C3%A7ekici%20bir%20g%C3%B6rsel%20hikayeye%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCrme%20yetene%C4%9Fini%20g%C3%B6steren%20bir%20nitelikte%20olmal%C4%B1d%C4%B1r.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 39: Patlatılmış Görünüm DSLR Fotoğraf Makinesi İllüstrasyonu
-=======
-### No. 42: Patlatılmış Görünüm DSLR Fotoğraf Makinesi İllüstrasyonu
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 43: Patlatılmış Görünüm DSLR Fotoğraf Makinesi İllüstrasyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1582,15 +1517,11 @@ Bir DSLR fotoğraf makinesinin patlatılmış görünüm teknik çizimi. Fotoğr
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Bir%20DSLR%20foto%C4%9Fraf%20makinesinin%20patlat%C4%B1lm%C4%B1%C5%9F%20g%C3%B6r%C3%BCn%C3%BCm%20teknik%20%C3%A7izimi.%20Foto%C4%9Fraf%20makinesinin%20her%20bir%20bile%C5%9Feni%20(lens%2C%20g%C3%B6vde%2C%20sens%C3%B6r%2C%20ayna%2C%20pil)%20ayr%C4%B1%20ancak%20hizal%C4%B1%20olmal%C4%B1%20ve%20birbirine%20nas%C4%B1l%20uydu%C4%9Funu%20g%C3%B6stermelidir.%20Stil%2C%20anahtar%20par%C3%A7alar%20i%C3%A7in%20etiketlenmi%C5%9F%2C%20temiz%2C%20hassas%20bir%203D%20render%20olmal%C4%B1d%C4%B1r.%20Bu%2C%20geli%C5%9Fmi%C5%9F%20uzamsal%20anlay%C4%B1%C5%9F%C4%B1%20ve%20m%C3%BChendislik%20ve%20%C3%BCr%C3%BCn%20tasar%C4%B1m%C4%B1%20i%C3%A7in%20karma%C5%9F%C4%B1k%20teknik%20diyagramlar%20olu%C5%9Fturma%20yetene%C4%9Fini%20g%C3%B6sterir.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Bir%20DSLR%20foto%C4%9Fraf%20makinesinin%20patlat%C4%B1lm%C4%B1%C5%9F%20g%C3%B6r%C3%BCn%C3%BCm%20teknik%20%C3%A7izimi.%20Foto%C4%9Fraf%20makinesinin%20her%20bir%20bile%C5%9Feni%20(lens%2C%20g%C3%B6vde%2C%20sens%C3%B6r%2C%20ayna%2C%20pil)%20ayr%C4%B1%20ancak%20hizal%C4%B1%20olmal%C4%B1%20ve%20birbirine%20nas%C4%B1l%20uydu%C4%9Funu%20g%C3%B6stermelidir.%20Stil%2C%20anahtar%20par%C3%A7alar%20i%C3%A7in%20etiketlenmi%C5%9F%2C%20temiz%2C%20hassas%20bir%203D%20render%20olmal%C4%B1d%C4%B1r.%20Bu%2C%20geli%C5%9Fmi%C5%9F%20uzamsal%20anlay%C4%B1%C5%9F%C4%B1%20ve%20m%C3%BChendislik%20ve%20%C3%BCr%C3%BCn%20tasar%C4%B1m%C4%B1%20i%C3%A7in%20karma%C5%9F%C4%B1k%20teknik%20diyagramlar%20olu%C5%9Fturma%20yetene%C4%9Fini%20g%C3%B6sterir.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 40: Elektrikli Arabalar ile Benzinli Arabaların Karşılaştırması
-=======
-### No. 43: Elektrikli Arabalar ile Benzinli Arabaların Karşılaştırması
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 44: Elektrikli Arabalar ile Benzinli Arabaların Karşılaştırması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1619,15 +1550,11 @@ Elektrikli arabalar ve benzinli arabaları karşılaştıran görsel bir karşı
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Elektrikli%20arabalar%20ve%20benzinli%20arabalar%C4%B1%20kar%C5%9F%C4%B1la%C5%9Ft%C4%B1ran%20g%C3%B6rsel%20bir%20kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma%20tablosu%20(%22vs.%22%20infografi%C4%9Fi).%20Tablo%2C%20Yak%C4%B1t%20Maliyeti%2C%20%C3%87evresel%20Etki%2C%20Bak%C4%B1m%20ve%20Performans%20gibi%20fakt%C3%B6rler%20%C3%BCzerinden%20kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma%20yapan%20simgeler%20ve%20k%C4%B1sa%20metinlerle%20iki%20s%C3%BCtuna%20sahip%20olmal%C4%B1d%C4%B1r.%20Tasar%C4%B1m%2C%20kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmal%C4%B1%20verileri%20g%C3%B6rsel%20olarak%20d%C3%BCzenleme%20ve%20sunma%20yetene%C4%9Fini%20g%C3%B6steren%2C%20temiz%2C%20modern%20ve%20bir%20bak%C4%B1%C5%9Fta%20kolayca%20anla%C5%9F%C4%B1l%C4%B1r%20olmal%C4%B1d%C4%B1r.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Elektrikli%20arabalar%20ve%20benzinli%20arabalar%C4%B1%20kar%C5%9F%C4%B1la%C5%9Ft%C4%B1ran%20g%C3%B6rsel%20bir%20kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma%20tablosu%20(%22vs.%22%20infografi%C4%9Fi).%20Tablo%2C%20Yak%C4%B1t%20Maliyeti%2C%20%C3%87evresel%20Etki%2C%20Bak%C4%B1m%20ve%20Performans%20gibi%20fakt%C3%B6rler%20%C3%BCzerinden%20kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma%20yapan%20simgeler%20ve%20k%C4%B1sa%20metinlerle%20iki%20s%C3%BCtuna%20sahip%20olmal%C4%B1d%C4%B1r.%20Tasar%C4%B1m%2C%20kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmal%C4%B1%20verileri%20g%C3%B6rsel%20olarak%20d%C3%BCzenleme%20ve%20sunma%20yetene%C4%9Fini%20g%C3%B6steren%2C%20temiz%2C%20modern%20ve%20bir%20bak%C4%B1%C5%9Fta%20kolayca%20anla%C5%9F%C4%B1l%C4%B1r%20olmal%C4%B1d%C4%B1r.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 41: Pour-Over Kahve Rehberi
-=======
-### No. 44: Pour-Over Kahve Rehberi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 45: Pour-Over Kahve Rehberi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1656,15 +1583,11 @@ Bu bilgi istemi, "Pour-Over Yöntemiyle Mükemmel Bir Fincan Kahve Nasıl Demlen
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%22Pour-Over%20Y%C3%B6ntemiyle%20M%C3%BCkemmel%20Kahve%20Nas%C4%B1l%20Demlenir%22%20ba%C5%9Fl%C4%B1kl%C4%B1%20basit%2C%20ad%C4%B1m%20ad%C4%B1m%20g%C3%B6rsel%20bir%20rehber.%20Bilgi%20grafi%C4%9Fi%206-8%20ad%C4%B1mdan%20olu%C5%9Fmal%C4%B1%2C%20her%20ad%C4%B1mda%20sade%20bir%20simge%20ve%20k%C4%B1sa%2C%20net%20bir%20talimat%20bulunmal%C4%B1d%C4%B1r%20(%C3%B6rn.%20%221.%20Suyu%20Kaynat%C4%B1n%22%2C%20%222.%20%C3%87ekirdekleri%20%C3%96%C4%9F%C3%BCt%C3%BCn%22).%20Stil%20minimalist%20ve%20simge%20tabanl%C4%B1%20olmal%C4%B1%2C%20s%C4%B1cak%20bir%20renk%20paleti%20kullan%C4%B1lmal%C4%B1d%C4%B1r.%20Bu%2C%20bir%20ya%C5%9Fam%20tarz%C4%B1%20blogu%20veya%20kafe%20i%C3%A7in%20olup%2C%20net%2C%20s%C4%B1ral%C4%B1%20g%C3%B6rsel%20talimatlar%20gerektirmektedir.%20%E2%80%93ar%201%3A2)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%22Pour-Over%20Y%C3%B6ntemiyle%20M%C3%BCkemmel%20Kahve%20Nas%C4%B1l%20Demlenir%22%20ba%C5%9Fl%C4%B1kl%C4%B1%20basit%2C%20ad%C4%B1m%20ad%C4%B1m%20g%C3%B6rsel%20bir%20rehber.%20Bilgi%20grafi%C4%9Fi%206-8%20ad%C4%B1mdan%20olu%C5%9Fmal%C4%B1%2C%20her%20ad%C4%B1mda%20sade%20bir%20simge%20ve%20k%C4%B1sa%2C%20net%20bir%20talimat%20bulunmal%C4%B1d%C4%B1r%20(%C3%B6rn.%20%221.%20Suyu%20Kaynat%C4%B1n%22%2C%20%222.%20%C3%87ekirdekleri%20%C3%96%C4%9F%C3%BCt%C3%BCn%22).%20Stil%20minimalist%20ve%20simge%20tabanl%C4%B1%20olmal%C4%B1%2C%20s%C4%B1cak%20bir%20renk%20paleti%20kullan%C4%B1lmal%C4%B1d%C4%B1r.%20Bu%2C%20bir%20ya%C5%9Fam%20tarz%C4%B1%20blogu%20veya%20kafe%20i%C3%A7in%20olup%2C%20net%2C%20s%C4%B1ral%C4%B1%20g%C3%B6rsel%20talimatlar%20gerektirmektedir.%20%E2%80%93ar%201%3A2)**
 
 ---
 
-<<<<<<< HEAD
-### No. 42: 3D Kesit Yanardağ Diyagramı
-=======
-### No. 45: 3D Kesit Yanardağ Diyagramı
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 46: 3D Kesit Yanardağ Diyagramı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1693,15 +1616,11 @@ Bir yanardağın iç yapısını gösteren 3 boyutlu kesit diyagramı. Diyagramd
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Bir%20yanarda%C4%9F%C4%B1n%20i%C3%A7%20yap%C4%B1s%C4%B1n%C4%B1%20g%C3%B6steren%203%20boyutlu%20kesit%20diyagram%C4%B1.%20Diyagramda%20magma%20odas%C4%B1%2C%20baca%2C%20bo%C4%9Faz%2C%20krater%20ile%20k%C3%BCl%20ve%20lav%20tabakalar%C4%B1%20a%C3%A7%C4%B1k%C3%A7a%20etiketlenmelidir.%20Stil%2C%20kaya%20ve%20magma%20i%C3%A7in%20ger%C3%A7ek%C3%A7i%20dokulara%20sahip%2C%20temiz%2C%20teknik%20bir%20ill%C3%BCstrasyon%20olmal%C4%B1d%C4%B1r.%20Bu%2C%20e%C4%9Fitim%20ama%C3%A7l%C4%B1%20do%C4%9Fru%2C%20bilime%20dayal%C4%B1%20g%C3%B6rseller%20olu%C5%9Fturma%20yetene%C4%9Fini%20g%C3%B6sterir%20ve%20g%C3%BC%C3%A7l%C3%BC%20uzamsal%20ve%20bilimsel%20muhakeme%20gerektirir.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Bir%20yanarda%C4%9F%C4%B1n%20i%C3%A7%20yap%C4%B1s%C4%B1n%C4%B1%20g%C3%B6steren%203%20boyutlu%20kesit%20diyagram%C4%B1.%20Diyagramda%20magma%20odas%C4%B1%2C%20baca%2C%20bo%C4%9Faz%2C%20krater%20ile%20k%C3%BCl%20ve%20lav%20tabakalar%C4%B1%20a%C3%A7%C4%B1k%C3%A7a%20etiketlenmelidir.%20Stil%2C%20kaya%20ve%20magma%20i%C3%A7in%20ger%C3%A7ek%C3%A7i%20dokulara%20sahip%2C%20temiz%2C%20teknik%20bir%20ill%C3%BCstrasyon%20olmal%C4%B1d%C4%B1r.%20Bu%2C%20e%C4%9Fitim%20ama%C3%A7l%C4%B1%20do%C4%9Fru%2C%20bilime%20dayal%C4%B1%20g%C3%B6rseller%20olu%C5%9Fturma%20yetene%C4%9Fini%20g%C3%B6sterir%20ve%20g%C3%BC%C3%A7l%C3%BC%20uzamsal%20ve%20bilimsel%20muhakeme%20gerektirir.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 43: Vintage Kara Tahta Kalp Anatomisi
-=======
-### No. 46: Vintage Kara Tahta Kalp Anatomisi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 47: Vintage Kara Tahta Kalp Anatomisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1730,15 +1649,11 @@ Bu bilgi istemi, insan kalbinin anatomisini açıklayan ayrıntılı, eski tarz 
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%C4%B0nsan%20kalbinin%20anatomisini%20a%C3%A7%C4%B1klayan%2C%20detayl%C4%B1%2C%20klasik%20tarzda%20bir%20karatahta%20%C3%A7izimi.%20%C3%87izim%2C%20beyaz%20ve%20renkli%20tebe%C5%9Firle%20ger%C3%A7ek%C3%A7i%2C%20bilimsel%20bir%20tarzda%20yap%C4%B1lmal%C4%B1.%20Kalbin%20t%C3%BCm%20farkl%C4%B1%20k%C4%B1s%C4%B1mlar%C4%B1%20(kar%C4%B1nc%C4%B1klar%2C%20kulak%C3%A7%C4%B1klar%2C%20kapak%C3%A7%C4%B1klar)%20zarif%2C%20el%20yaz%C4%B1s%C4%B1%20bir%20fontla%20a%C3%A7%C4%B1k%C3%A7a%20etiketlenmeli.%20Karatahtan%C4%B1n%20dokusu%20ve%20tebe%C5%9Fir%20tozu%20g%C3%B6r%C3%BCn%C3%BCr%20olmal%C4%B1%2C%20zengin%2C%20bilgiye%20dayal%C4%B1%20bir%20render%20yetene%C4%9Fini%20sergilemeli.%20%E2%80%93ar%204%3A3)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%C4%B0nsan%20kalbinin%20anatomisini%20a%C3%A7%C4%B1klayan%2C%20detayl%C4%B1%2C%20klasik%20tarzda%20bir%20karatahta%20%C3%A7izimi.%20%C3%87izim%2C%20beyaz%20ve%20renkli%20tebe%C5%9Firle%20ger%C3%A7ek%C3%A7i%2C%20bilimsel%20bir%20tarzda%20yap%C4%B1lmal%C4%B1.%20Kalbin%20t%C3%BCm%20farkl%C4%B1%20k%C4%B1s%C4%B1mlar%C4%B1%20(kar%C4%B1nc%C4%B1klar%2C%20kulak%C3%A7%C4%B1klar%2C%20kapak%C3%A7%C4%B1klar)%20zarif%2C%20el%20yaz%C4%B1s%C4%B1%20bir%20fontla%20a%C3%A7%C4%B1k%C3%A7a%20etiketlenmeli.%20Karatahtan%C4%B1n%20dokusu%20ve%20tebe%C5%9Fir%20tozu%20g%C3%B6r%C3%BCn%C3%BCr%20olmal%C4%B1%2C%20zengin%2C%20bilgiye%20dayal%C4%B1%20bir%20render%20yetene%C4%9Fini%20sergilemeli.%20%E2%80%93ar%204%3A3)**
 
 ---
 
-<<<<<<< HEAD
-### No. 44: Yaratıcı Düşünme için Canlı Zihin Haritası
-=======
-### No. 47: Yaratıcı Düşünme için Canlı Zihin Haritası
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 48: Yaratıcı Düşünme için Canlı Zihin Haritası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1767,15 +1682,11 @@ Bu istem, "Yaratıcı Düşünme" üzerine odaklanmış canlı ve organik bir zi
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%22Yarat%C4%B1c%C4%B1%20D%C3%BC%C5%9F%C3%BCnme%22%20konusu%20etraf%C4%B1nda%20merkezlenmi%C5%9F%20canl%C4%B1%20ve%20organik%20bir%20zihin%20haritas%C4%B1.%20Ana%20fikir%20bulut%20benzeri%20bir%20%C5%9Fekilde%20olup%2C%20%22Beyin%20F%C4%B1rt%C4%B1nas%C4%B1%22%2C%20%22Fark%C4%B1ndal%C4%B1k%22%2C%20%22Iraksak%20D%C3%BC%C5%9F%C3%BCnme%22%20ve%20%22%C4%B0%C5%9Fbirli%C4%9Fi%22%20gibi%20alt%20konulara%20uzanan%20dallar%C4%B1%20vard%C4%B1r.%20Her%20dal%C4%B1n%20kendine%20%C3%B6zg%C3%BC%20bir%20rengi%20olmal%C4%B1%20ve%20k%C3%BC%C3%A7%C3%BCk%2C%20ilgili%20bir%20simgeyle%20(%C3%B6rne%C4%9Fin%2C%20fikirler%20i%C3%A7in%20bir%20ampul)%20e%C5%9Flik%20etmelidir.%20Metin%2C%20e%C4%9Fitim%20ve%20beyin%20f%C4%B1rt%C4%B1nas%C4%B1%20ama%C3%A7l%C4%B1%20bir%20arac%C4%B1%20sergileyen%2C%20samimi%2C%20el%20yaz%C4%B1s%C4%B1%20bir%20yaz%C4%B1%20tipinde%20olmal%C4%B1d%C4%B1r.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%22Yarat%C4%B1c%C4%B1%20D%C3%BC%C5%9F%C3%BCnme%22%20konusu%20etraf%C4%B1nda%20merkezlenmi%C5%9F%20canl%C4%B1%20ve%20organik%20bir%20zihin%20haritas%C4%B1.%20Ana%20fikir%20bulut%20benzeri%20bir%20%C5%9Fekilde%20olup%2C%20%22Beyin%20F%C4%B1rt%C4%B1nas%C4%B1%22%2C%20%22Fark%C4%B1ndal%C4%B1k%22%2C%20%22Iraksak%20D%C3%BC%C5%9F%C3%BCnme%22%20ve%20%22%C4%B0%C5%9Fbirli%C4%9Fi%22%20gibi%20alt%20konulara%20uzanan%20dallar%C4%B1%20vard%C4%B1r.%20Her%20dal%C4%B1n%20kendine%20%C3%B6zg%C3%BC%20bir%20rengi%20olmal%C4%B1%20ve%20k%C3%BC%C3%A7%C3%BCk%2C%20ilgili%20bir%20simgeyle%20(%C3%B6rne%C4%9Fin%2C%20fikirler%20i%C3%A7in%20bir%20ampul)%20e%C5%9Flik%20etmelidir.%20Metin%2C%20e%C4%9Fitim%20ve%20beyin%20f%C4%B1rt%C4%B1nas%C4%B1%20ama%C3%A7l%C4%B1%20bir%20arac%C4%B1%20sergileyen%2C%20samimi%2C%20el%20yaz%C4%B1s%C4%B1%20bir%20yaz%C4%B1%20tipinde%20olmal%C4%B1d%C4%B1r.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 45: Profesyonel SDLC Akış Şeması
-=======
-### No. 48: Profesyonel SDLC Akış Şeması
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 49: Profesyonel SDLC Akış Şeması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1804,15 +1715,11 @@ Yazılım geliştirme yaşam döngüsünü (SDLC) gösteren temiz ve profesyonel
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Yaz%C4%B1l%C4%B1m%20geli%C5%9Ftirme%20ya%C5%9Fam%20d%C3%B6ng%C3%BCs%C3%BCn%C3%BC%20(SDLC)%20g%C3%B6steren%20temiz%20ve%20profesyonel%20bir%20ak%C4%B1%C5%9F%20%C5%9Femas%C4%B1.%20%C5%9Eema%2C%20Planlama%2C%20Tasar%C4%B1m%2C%20Geli%C5%9Ftirme%2C%20Test%20Etme%2C%20Da%C4%9F%C4%B1t%C4%B1m%20ve%20Bak%C4%B1m%20gibi%20a%C5%9Famalar%C4%B1%20i%C3%A7ermeli%20ve%20bunlar%20farkl%C4%B1%20%C5%9Fekillerle%20(dikd%C3%B6rtgenler%2C%20kararlar%20i%C3%A7in%20elmaslar)%20temsil%20edilmelidir.%20Ba%C4%9Flant%C4%B1%20%C3%A7izgileri%20net%20ok%20ba%C5%9Flar%C4%B1na%20sahip%20olmal%C4%B1d%C4%B1r.%20Renk%20paleti%20kurumsal%20ve%20minimalist%20(maviler%20ve%20griler)%20olmal%C4%B1%2C%20teknik%20ve%20i%C5%9F%20ba%C4%9Flamlar%C4%B1%20i%C3%A7in%20net%2C%20yap%C4%B1land%C4%B1r%C4%B1lm%C4%B1%C5%9F%20diyagramlar%20olu%C5%9Fturma%20yetene%C4%9Fini%20g%C3%B6stermelidir.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Yaz%C4%B1l%C4%B1m%20geli%C5%9Ftirme%20ya%C5%9Fam%20d%C3%B6ng%C3%BCs%C3%BCn%C3%BC%20(SDLC)%20g%C3%B6steren%20temiz%20ve%20profesyonel%20bir%20ak%C4%B1%C5%9F%20%C5%9Femas%C4%B1.%20%C5%9Eema%2C%20Planlama%2C%20Tasar%C4%B1m%2C%20Geli%C5%9Ftirme%2C%20Test%20Etme%2C%20Da%C4%9F%C4%B1t%C4%B1m%20ve%20Bak%C4%B1m%20gibi%20a%C5%9Famalar%C4%B1%20i%C3%A7ermeli%20ve%20bunlar%20farkl%C4%B1%20%C5%9Fekillerle%20(dikd%C3%B6rtgenler%2C%20kararlar%20i%C3%A7in%20elmaslar)%20temsil%20edilmelidir.%20Ba%C4%9Flant%C4%B1%20%C3%A7izgileri%20net%20ok%20ba%C5%9Flar%C4%B1na%20sahip%20olmal%C4%B1d%C4%B1r.%20Renk%20paleti%20kurumsal%20ve%20minimalist%20(maviler%20ve%20griler)%20olmal%C4%B1%2C%20teknik%20ve%20i%C5%9F%20ba%C4%9Flamlar%C4%B1%20i%C3%A7in%20net%2C%20yap%C4%B1land%C4%B1r%C4%B1lm%C4%B1%C5%9F%20diyagramlar%20olu%C5%9Fturma%20yetene%C4%9Fini%20g%C3%B6stermelidir.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 46: Beyaz Tahta Fotosentez Açıklaması
-=======
-### No. 49: Beyaz Tahta Fotosentez Açıklaması
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 50: Beyaz Tahta Fotosentez Açıklaması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1841,15 +1748,11 @@ Lise biyoloji dersi için tasarlanmış, fotosentez sürecinin detaylı, elle ç
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Lise%20biyoloji%20dersi%20i%C3%A7in%20tasarlanm%C4%B1%C5%9F%2C%20fotosentez%20s%C3%BCrecinin%20detayl%C4%B1%2C%20elle%20%C3%A7izilmi%C5%9F%20bir%20beyaz%20tahta%20a%C3%A7%C4%B1klamas%C4%B1.%20Diyagramda%20basit%20simgeler%20(bir%20g%C3%BCne%C5%9F%2C%20bir%20bitki%2C%20su%20damlac%C4%B1klar%C4%B1%2C%20CO2%2FO2%20molek%C3%BClleri)%20ve%20net%2C%20el%20yaz%C4%B1s%C4%B1%20etiketler%20kullan%C4%B1lmal%C4%B1d%C4%B1r.%20Oklar%2C%20enerji%20ve%20madde%20ak%C4%B1%C5%9F%C4%B1n%C4%B1%20a%C3%A7%C4%B1k%C3%A7a%20g%C3%B6stermelidir.%20Stil%2C%20ger%C3%A7ek%20bir%20%C3%B6%C4%9Fretmenin%20beyaz%20tahta%20%C3%A7izimini%20taklit%20ederek%20temiz%20ve%20takip%20etmesi%20kolay%20olmal%C4%B1%2C%20g%C3%BC%C3%A7l%C3%BC%20bilgi%20tabanl%C4%B1%20g%C3%B6rsel%20ak%C4%B1l%20y%C3%BCr%C3%BCtme%20ve%20e%C4%9Fitim%20uygulamas%C4%B1n%C4%B1%20sergilemelidir.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Lise%20biyoloji%20dersi%20i%C3%A7in%20tasarlanm%C4%B1%C5%9F%2C%20fotosentez%20s%C3%BCrecinin%20detayl%C4%B1%2C%20elle%20%C3%A7izilmi%C5%9F%20bir%20beyaz%20tahta%20a%C3%A7%C4%B1klamas%C4%B1.%20Diyagramda%20basit%20simgeler%20(bir%20g%C3%BCne%C5%9F%2C%20bir%20bitki%2C%20su%20damlac%C4%B1klar%C4%B1%2C%20CO2%2FO2%20molek%C3%BClleri)%20ve%20net%2C%20el%20yaz%C4%B1s%C4%B1%20etiketler%20kullan%C4%B1lmal%C4%B1d%C4%B1r.%20Oklar%2C%20enerji%20ve%20madde%20ak%C4%B1%C5%9F%C4%B1n%C4%B1%20a%C3%A7%C4%B1k%C3%A7a%20g%C3%B6stermelidir.%20Stil%2C%20ger%C3%A7ek%20bir%20%C3%B6%C4%9Fretmenin%20beyaz%20tahta%20%C3%A7izimini%20taklit%20ederek%20temiz%20ve%20takip%20etmesi%20kolay%20olmal%C4%B1%2C%20g%C3%BC%C3%A7l%C3%BC%20bilgi%20tabanl%C4%B1%20g%C3%B6rsel%20ak%C4%B1l%20y%C3%BCr%C3%BCtme%20ve%20e%C4%9Fitim%20uygulamas%C4%B1n%C4%B1%20sergilemelidir.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 47: Kendine Bakım İçin Huzurlu Bir Banyo
-=======
-### No. 50: Kendine Bakım İçin Huzurlu Bir Banyo
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 51: Kendine Bakım İçin Huzurlu Bir Banyo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1878,15 +1781,11 @@ Kendine bakım ve ruh sağlığı hakkında bir gönderi için sakinleştirici v
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Kendine%20bak%C4%B1m%20ve%20ruh%20sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20hakk%C4%B1nda%20bir%20g%C3%B6nderi%20i%C3%A7in%20sakinle%C5%9Ftirici%20ve%20huzur%20veren%20bir%20g%C3%B6rsel.%20Sahnede%2C%20%C3%BCzerinde%20%C3%A7i%C3%A7ek%20yapraklar%C4%B1%20y%C3%BCzen%2C%20g%C3%BCzelce%20haz%C4%B1rlanm%C4%B1%C5%9F%20bir%20banyo%20k%C3%BCveti%20var.%20K%C3%BCvetin%20%C3%BCzerinde%20duran%20ah%C5%9Fap%20bir%20tepside%20bir%20kitap%20ve%20bir%20fincan%20%C3%A7ay%20bulunuyor.%20Oda%20mumlarla%20ayd%C4%B1nlat%C4%B1lm%C4%B1%C5%9F%2C%20s%C4%B1cak%20ve%20rahatlat%C4%B1c%C4%B1%20bir%20atmosfer%20yarat%C4%B1yor.%20G%C3%B6rsel%2C%20geli%C5%9Fmi%C5%9F%20ayd%C4%B1nlatma%20ve%20atmosferik%20renderlama%20ile%20rahatlamaya%20ve%20gev%C5%9Femeye%20g%C3%B6rsel%20bir%20davet%20olmal%C4%B1.%20%E2%80%93ar%203%3A2)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Kendine%20bak%C4%B1m%20ve%20ruh%20sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20hakk%C4%B1nda%20bir%20g%C3%B6nderi%20i%C3%A7in%20sakinle%C5%9Ftirici%20ve%20huzur%20veren%20bir%20g%C3%B6rsel.%20Sahnede%2C%20%C3%BCzerinde%20%C3%A7i%C3%A7ek%20yapraklar%C4%B1%20y%C3%BCzen%2C%20g%C3%BCzelce%20haz%C4%B1rlanm%C4%B1%C5%9F%20bir%20banyo%20k%C3%BCveti%20var.%20K%C3%BCvetin%20%C3%BCzerinde%20duran%20ah%C5%9Fap%20bir%20tepside%20bir%20kitap%20ve%20bir%20fincan%20%C3%A7ay%20bulunuyor.%20Oda%20mumlarla%20ayd%C4%B1nlat%C4%B1lm%C4%B1%C5%9F%2C%20s%C4%B1cak%20ve%20rahatlat%C4%B1c%C4%B1%20bir%20atmosfer%20yarat%C4%B1yor.%20G%C3%B6rsel%2C%20geli%C5%9Fmi%C5%9F%20ayd%C4%B1nlatma%20ve%20atmosferik%20renderlama%20ile%20rahatlamaya%20ve%20gev%C5%9Femeye%20g%C3%B6rsel%20bir%20davet%20olmal%C4%B1.%20%E2%80%93ar%203%3A2)**
 
 ---
 
-<<<<<<< HEAD
-### No. 48: Sanatçının Dağınık Stüdyosu
-=======
-### No. 51: Sanatçının Dağınık Stüdyosu
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 52: Sanatçının Dağınık Stüdyosu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1915,15 +1814,11 @@ Bir sanatçının dağınık ama ilham verici stüdyosunun fotoğrafı. Duvara y
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Bir%20sanat%C3%A7%C4%B1n%C4%B1n%20da%C4%9F%C4%B1n%C4%B1k%20ama%20ilham%20verici%20st%C3%BCdyosunun%20foto%C4%9Fraf%C4%B1.%20Duvara%20yaslanm%C4%B1%C5%9F%20tuvaller%20var%2C%20baz%C4%B1lar%C4%B1%20bitmi%C5%9F%2C%20baz%C4%B1lar%C4%B1%20yap%C4%B1m%20a%C5%9Famas%C4%B1nda.%20Boya%20f%C4%B1r%C3%A7as%C4%B1%20kavanozlar%C4%B1%2C%20boya%20t%C3%BCpleri%20ve%20paletler%20etrafa%20da%C4%9F%C4%B1lm%C4%B1%C5%9F%20durumda.%20Zemin%20boya%20s%C4%B1%C3%A7ram%C4%B1%C5%9F.%20Geni%C5%9F%2C%20kuzeye%20bakan%20bir%20pencereden%20do%C4%9Fal%20%C4%B1%C5%9F%C4%B1k%20geliyor.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20karma%C5%9F%C4%B1k%2C%20kaotik%20sahneleri%20y%C3%BCksek%20derecede%20ger%C3%A7ek%C3%A7ilik%20ve%20tutarl%C4%B1l%C4%B1kla%20i%C5%9Fleme%20yetene%C4%9Fini%20sergileyerek%20yarat%C4%B1c%C4%B1%20s%C3%BCreci%20kutlamal%C4%B1d%C4%B1r.%20%E2%80%93ar%204%3A3)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Bir%20sanat%C3%A7%C4%B1n%C4%B1n%20da%C4%9F%C4%B1n%C4%B1k%20ama%20ilham%20verici%20st%C3%BCdyosunun%20foto%C4%9Fraf%C4%B1.%20Duvara%20yaslanm%C4%B1%C5%9F%20tuvaller%20var%2C%20baz%C4%B1lar%C4%B1%20bitmi%C5%9F%2C%20baz%C4%B1lar%C4%B1%20yap%C4%B1m%20a%C5%9Famas%C4%B1nda.%20Boya%20f%C4%B1r%C3%A7as%C4%B1%20kavanozlar%C4%B1%2C%20boya%20t%C3%BCpleri%20ve%20paletler%20etrafa%20da%C4%9F%C4%B1lm%C4%B1%C5%9F%20durumda.%20Zemin%20boya%20s%C4%B1%C3%A7ram%C4%B1%C5%9F.%20Geni%C5%9F%2C%20kuzeye%20bakan%20bir%20pencereden%20do%C4%9Fal%20%C4%B1%C5%9F%C4%B1k%20geliyor.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20karma%C5%9F%C4%B1k%2C%20kaotik%20sahneleri%20y%C3%BCksek%20derecede%20ger%C3%A7ek%C3%A7ilik%20ve%20tutarl%C4%B1l%C4%B1kla%20i%C5%9Fleme%20yetene%C4%9Fini%20sergileyerek%20yarat%C4%B1c%C4%B1%20s%C3%BCreci%20kutlamal%C4%B1d%C4%B1r.%20%E2%80%93ar%204%3A3)**
 
 ---
 
-<<<<<<< HEAD
-### No. 49: Sıcak Noel Çikolatası
-=======
-### No. 52: Sıcak Noel Çikolatası
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 53: Sıcak Noel Çikolatası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1952,15 +1847,11 @@ Noel temalı bir Instagram gönderisi için sıcak ve şenlikli bir fotoğraf. S
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Noel%20temal%C4%B1%20bir%20Instagram%20g%C3%B6nderisi%20i%C3%A7in%20s%C4%B1cak%20ve%20%C5%9Fenlikli%20bir%20foto%C4%9Fraf.%20Sahne%2C%20birinin%20krem%20%C5%9Fantili%20ve%20baston%20%C5%9Fekerli%20b%C3%BCy%C3%BCk%20bir%20s%C4%B1cak%20%C3%A7ikolata%20kupas%C4%B1n%C4%B1%20tuttu%C4%9Fu%20yak%C4%B1n%20%C3%A7ekimden%20olu%C5%9Fuyor.%20Arka%20planda%2C%20p%C4%B1r%C4%B1lt%C4%B1l%C4%B1%20%C4%B1%C5%9F%C4%B1klar%C4%B1%20olan%20bir%20Noel%20a%C4%9Fac%C4%B1%20hafif%C3%A7e%20bulan%C4%B1kla%C5%9Ft%C4%B1r%C4%B1lm%C4%B1%C5%9F.%20Ki%C5%9Fi%2C%20kal%C4%B1n%2C%20%C3%B6rg%C3%BCl%C3%BC%20bir%20kazak%20giyiyor.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20alan%20derinli%C4%9Fi%20ve%20ruh%20hali%20%C3%BCzerinde%20g%C3%BC%C3%A7l%C3%BC%20bir%20kontrol%20sergileyerek%20s%C4%B1cakl%C4%B1k%2C%20rahatl%C4%B1k%20ve%20tatil%20ne%C5%9Fesi%20duygular%C4%B1%20uyand%C4%B1rmal%C4%B1d%C4%B1r.%20%E2%80%93ar%204%3A5)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Noel%20temal%C4%B1%20bir%20Instagram%20g%C3%B6nderisi%20i%C3%A7in%20s%C4%B1cak%20ve%20%C5%9Fenlikli%20bir%20foto%C4%9Fraf.%20Sahne%2C%20birinin%20krem%20%C5%9Fantili%20ve%20baston%20%C5%9Fekerli%20b%C3%BCy%C3%BCk%20bir%20s%C4%B1cak%20%C3%A7ikolata%20kupas%C4%B1n%C4%B1%20tuttu%C4%9Fu%20yak%C4%B1n%20%C3%A7ekimden%20olu%C5%9Fuyor.%20Arka%20planda%2C%20p%C4%B1r%C4%B1lt%C4%B1l%C4%B1%20%C4%B1%C5%9F%C4%B1klar%C4%B1%20olan%20bir%20Noel%20a%C4%9Fac%C4%B1%20hafif%C3%A7e%20bulan%C4%B1kla%C5%9Ft%C4%B1r%C4%B1lm%C4%B1%C5%9F.%20Ki%C5%9Fi%2C%20kal%C4%B1n%2C%20%C3%B6rg%C3%BCl%C3%BC%20bir%20kazak%20giyiyor.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20alan%20derinli%C4%9Fi%20ve%20ruh%20hali%20%C3%BCzerinde%20g%C3%BC%C3%A7l%C3%BC%20bir%20kontrol%20sergileyerek%20s%C4%B1cakl%C4%B1k%2C%20rahatl%C4%B1k%20ve%20tatil%20ne%C5%9Fesi%20duygular%C4%B1%20uyand%C4%B1rmal%C4%B1d%C4%B1r.%20%E2%80%93ar%204%3A5)**
 
 ---
 
-<<<<<<< HEAD
-### No. 50: Üst Düzey Oyun Kurulumu
-=======
-### No. 53: Üst Düzey Oyun Kurulumu
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 54: Üst Düzey Oyun Kurulumu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1989,15 +1880,11 @@ Yüksek kaliteli bir oyun kurulumunun, yayın oturumu için hazır haldeki foto�
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Y%C3%BCksek%20kaliteli%20bir%20oyun%20kurulumunun%2C%20yay%C4%B1n%20oturumu%20i%C3%A7in%20haz%C4%B1r%20haldeki%20foto%C4%9Fraf%C4%B1.%20Kurulumda%20RGB%20ayd%C4%B1nlatmal%C4%B1%20g%C3%BC%C3%A7l%C3%BC%20bir%20bilgisayar%2C%20canl%C4%B1%20bir%20oyun%20sahnesi%20g%C3%B6steren%20birden%20fazla%20monit%C3%B6r%2C%20profesyonel%20bir%20mikrofon%20ve%20%C5%9F%C4%B1k%20bir%20oyuncu%20koltu%C4%9Fu%20bulunuyor.%20Oda%20karanl%C4%B1k%20ve%20tek%20%C4%B1%C5%9F%C4%B1k%20ekranlardan%20ve%20RGB%20ayd%C4%B1nlatmadan%20gelerek%20f%C3%BCt%C3%BCristik%20ve%20s%C3%BCr%C3%BCkleyici%20bir%20atmosfer%20yarat%C4%B1yor.%20Bu%2C%20alt%20k%C3%BClt%C3%BCrlerin%20ve%20onlar%C4%B1n%20%C3%B6zel%20estetik%20anlay%C4%B1%C5%9Flar%C4%B1n%C4%B1n%20kavrand%C4%B1%C4%9F%C4%B1n%C4%B1%20g%C3%B6steriyor.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Y%C3%BCksek%20kaliteli%20bir%20oyun%20kurulumunun%2C%20yay%C4%B1n%20oturumu%20i%C3%A7in%20haz%C4%B1r%20haldeki%20foto%C4%9Fraf%C4%B1.%20Kurulumda%20RGB%20ayd%C4%B1nlatmal%C4%B1%20g%C3%BC%C3%A7l%C3%BC%20bir%20bilgisayar%2C%20canl%C4%B1%20bir%20oyun%20sahnesi%20g%C3%B6steren%20birden%20fazla%20monit%C3%B6r%2C%20profesyonel%20bir%20mikrofon%20ve%20%C5%9F%C4%B1k%20bir%20oyuncu%20koltu%C4%9Fu%20bulunuyor.%20Oda%20karanl%C4%B1k%20ve%20tek%20%C4%B1%C5%9F%C4%B1k%20ekranlardan%20ve%20RGB%20ayd%C4%B1nlatmadan%20gelerek%20f%C3%BCt%C3%BCristik%20ve%20s%C3%BCr%C3%BCkleyici%20bir%20atmosfer%20yarat%C4%B1yor.%20Bu%2C%20alt%20k%C3%BClt%C3%BCrlerin%20ve%20onlar%C4%B1n%20%C3%B6zel%20estetik%20anlay%C4%B1%C5%9Flar%C4%B1n%C4%B1n%20kavrand%C4%B1%C4%9F%C4%B1n%C4%B1%20g%C3%B6steriyor.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 51: Kuru Topraktan Filizlenmek
-=======
-### No. 54: Kuru Topraktan Filizlenmek
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 55: Kuru Topraktan Filizlenmek
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2026,15 +1913,11 @@ Kuru, çorak topraktaki bir çatlaktan büyüyen tek, yeşil bir filizin güçl�
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Kuru%2C%20%C3%A7orak%20topraktaki%20bir%20%C3%A7atlaktan%20b%C3%BCy%C3%BCyen%20tek%2C%20ye%C5%9Fil%20bir%20filizin%20g%C3%BC%C3%A7l%C3%BC%20ve%20d%C3%BC%C5%9F%C3%BCnd%C3%BCr%C3%BCc%C3%BC%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.%20G%C3%B6r%C3%BCnt%C3%BC%20yak%C4%B1n%20%C3%A7ekim%20olup%2C%20odak%20noktas%C4%B1%20narin%20filizdir.%20Ayd%C4%B1nlatma%20dramatik%20olup%2C%20tek%20bir%20%C4%B1%C5%9F%C4%B1k%20huzmesi%20filizi%20ayd%C4%B1nlatmaktad%C4%B1r.%20G%C3%B6r%C3%BCnt%C3%BC%20umudu%2C%20dayan%C4%B1kl%C4%B1l%C4%B1%C4%9F%C4%B1%20ve%20%C3%A7evrenin%20korunmas%C4%B1n%C4%B1n%20%C3%B6nemini%20sembolize%20etmeli%2C%20karma%C5%9F%C4%B1k%20kavramlar%C4%B1%20g%C3%B6rsel%20olarak%20aktarma%20yetene%C4%9Fini%20sergilemelidir.%20%E2%80%93ar%203%3A2)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Kuru%2C%20%C3%A7orak%20topraktaki%20bir%20%C3%A7atlaktan%20b%C3%BCy%C3%BCyen%20tek%2C%20ye%C5%9Fil%20bir%20filizin%20g%C3%BC%C3%A7l%C3%BC%20ve%20d%C3%BC%C5%9F%C3%BCnd%C3%BCr%C3%BCc%C3%BC%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.%20G%C3%B6r%C3%BCnt%C3%BC%20yak%C4%B1n%20%C3%A7ekim%20olup%2C%20odak%20noktas%C4%B1%20narin%20filizdir.%20Ayd%C4%B1nlatma%20dramatik%20olup%2C%20tek%20bir%20%C4%B1%C5%9F%C4%B1k%20huzmesi%20filizi%20ayd%C4%B1nlatmaktad%C4%B1r.%20G%C3%B6r%C3%BCnt%C3%BC%20umudu%2C%20dayan%C4%B1kl%C4%B1l%C4%B1%C4%9F%C4%B1%20ve%20%C3%A7evrenin%20korunmas%C4%B1n%C4%B1n%20%C3%B6nemini%20sembolize%20etmeli%2C%20karma%C5%9F%C4%B1k%20kavramlar%C4%B1%20g%C3%B6rsel%20olarak%20aktarma%20yetene%C4%9Fini%20sergilemelidir.%20%E2%80%93ar%203%3A2)**
 
 ---
 
-<<<<<<< HEAD
-### No. 52: Macro Far Paleti Çekimi
-=======
-### No. 55: Macro Far Paleti Çekimi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 56: Macro Far Paleti Çekimi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2063,15 +1946,11 @@ Bir güzellik blogger'ının incelemesi için yeni bir far paletinin makro, sana
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Bir%20g%C3%BCzellik%20blogger'%C4%B1n%C4%B1n%20incelemesi%20i%C3%A7in%20yeni%20bir%20far%20paletinin%20makro%2C%20sanatsal%20%C3%A7ekimi.%20%C3%87ekim%2C%20farkl%C4%B1%20far%20tozlar%C4%B1n%C4%B1n%20dokusuna%20odaklan%C4%B1yor%3B%20bir%20f%C4%B1r%C3%A7a%20renklerden%20birinin%20%C3%BCzerinden%20ge%C3%A7erek%20k%C3%BC%C3%A7%C3%BCk%20bir%20pigmentli%20toz%20bulutu%20kald%C4%B1r%C4%B1yor.%20Ayd%C4%B1nlatma%20temiz%20ve%20parlak%2C%20%C3%BCr%C3%BCn%C3%BCn%20ger%C3%A7ek%20renklerini%20ve%20%C4%B1%C5%9F%C4%B1lt%C4%B1s%C4%B1n%C4%B1%20g%C3%B6steriyor.%20Bu%2C%20dokular%C4%B1n%20ve%20par%C3%A7ac%C4%B1klar%C4%B1n%20olu%C5%9Fturulmas%C4%B1nda%20a%C5%9F%C4%B1r%C4%B1%20detay%20ve%20hassasiyet%20gerektirir.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Bir%20g%C3%BCzellik%20blogger'%C4%B1n%C4%B1n%20incelemesi%20i%C3%A7in%20yeni%20bir%20far%20paletinin%20makro%2C%20sanatsal%20%C3%A7ekimi.%20%C3%87ekim%2C%20farkl%C4%B1%20far%20tozlar%C4%B1n%C4%B1n%20dokusuna%20odaklan%C4%B1yor%3B%20bir%20f%C4%B1r%C3%A7a%20renklerden%20birinin%20%C3%BCzerinden%20ge%C3%A7erek%20k%C3%BC%C3%A7%C3%BCk%20bir%20pigmentli%20toz%20bulutu%20kald%C4%B1r%C4%B1yor.%20Ayd%C4%B1nlatma%20temiz%20ve%20parlak%2C%20%C3%BCr%C3%BCn%C3%BCn%20ger%C3%A7ek%20renklerini%20ve%20%C4%B1%C5%9F%C4%B1lt%C4%B1s%C4%B1n%C4%B1%20g%C3%B6steriyor.%20Bu%2C%20dokular%C4%B1n%20ve%20par%C3%A7ac%C4%B1klar%C4%B1n%20olu%C5%9Fturulmas%C4%B1nda%20a%C5%9F%C4%B1r%C4%B1%20detay%20ve%20hassasiyet%20gerektirir.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 53: Vintage Plak Koleksiyonu
-=======
-### No. 56: Vintage Plak Koleksiyonu
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 57: Vintage Plak Koleksiyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2100,15 +1979,11 @@ Köşede bir pikap bulunan, ahşap bir zemine dağılmış vintage plak koleksiy
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=K%C3%B6%C5%9Fede%20bir%20pikap%20bulunan%2C%20ah%C5%9Fap%20bir%20zemine%20da%C4%9F%C4%B1lm%C4%B1%C5%9F%20vintage%20plak%20koleksiyonunun%20foto%C4%9Fraf%C4%B1.%20Odak%20noktas%C4%B1%2C%20birka%C3%A7%20ikonik%20alb%C3%BCm%C3%BCn%20kapak%20resminde.%20Ayd%C4%B1nlatma%20s%C4%B1cak%20ve%20nostaljik%2C%20hafif%20bir%20vinyet%20efekti%20var.%20G%C3%B6rsel%2C%20m%C3%BCzi%C4%9Fe%20olan%20sevgiyi%20ve%20plak%20dinlemenin%20somut%20deneyimini%20%C3%A7a%C4%9Fr%C4%B1%C5%9Ft%C4%B1rmal%C4%B1%2C%20k%C3%BClt%C3%BCrel%20eserler%20hakk%C4%B1ndaki%20bilgiyi%20sergilemeli.%20%E2%80%93ar%201%3A1)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=K%C3%B6%C5%9Fede%20bir%20pikap%20bulunan%2C%20ah%C5%9Fap%20bir%20zemine%20da%C4%9F%C4%B1lm%C4%B1%C5%9F%20vintage%20plak%20koleksiyonunun%20foto%C4%9Fraf%C4%B1.%20Odak%20noktas%C4%B1%2C%20birka%C3%A7%20ikonik%20alb%C3%BCm%C3%BCn%20kapak%20resminde.%20Ayd%C4%B1nlatma%20s%C4%B1cak%20ve%20nostaljik%2C%20hafif%20bir%20vinyet%20efekti%20var.%20G%C3%B6rsel%2C%20m%C3%BCzi%C4%9Fe%20olan%20sevgiyi%20ve%20plak%20dinlemenin%20somut%20deneyimini%20%C3%A7a%C4%9Fr%C4%B1%C5%9Ft%C4%B1rmal%C4%B1%2C%20k%C3%BClt%C3%BCrel%20eserler%20hakk%C4%B1ndaki%20bilgiyi%20sergilemeli.%20%E2%80%93ar%201%3A1)**
 
 ---
 
-<<<<<<< HEAD
-### No. 54: Işık Dolu Okuma Köşesi
-=======
-### No. 57: Işık Dolu Okuma Köşesi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 58: Işık Dolu Okuma Köşesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2137,15 +2012,11 @@ Evde güzelce dekore edilmiş, ışık dolu bir okuma köşesinin fotoğrafı. K
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Evde%20g%C3%BCzelce%20dekore%20edilmi%C5%9F%2C%20%C4%B1%C5%9F%C4%B1k%20dolu%20bir%20okuma%20k%C3%B6%C5%9Fesinin%20foto%C4%9Fraf%C4%B1.%20K%C3%B6%C5%9Fede%20rahat%20bir%20koltuk%2C%20iyi%20donan%C4%B1ml%C4%B1%20bir%20kitapl%C4%B1k%2C%20yumu%C5%9Fak%20bir%20hal%C4%B1%20ve%20b%C3%BCy%C3%BCk%20bir%20bitki%20bulunuyor.%20%C3%96%C4%9Fleden%20sonra%20g%C3%BCne%C5%9Fi%20pencereden%20i%C3%A7eri%20s%C3%BCz%C3%BClerek%20s%C4%B1cak%20ve%20davetkar%20bir%20alan%20yarat%C4%B1yor.%20G%C3%B6rsel%2C%20insanlara%20kendi%20rahat%20k%C3%B6%C5%9Felerini%20yaratmalar%C4%B1%20i%C3%A7in%20ilham%20vermeli%2C%20ger%C3%A7ek%C3%A7i%20i%C3%A7%20ayd%C4%B1nlatmay%C4%B1%20ve%20g%C3%BC%C3%A7l%C3%BC%20bir%20mekan%20hissini%20sergilemelidir.%20%E2%80%93ar%203%3A4)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Evde%20g%C3%BCzelce%20dekore%20edilmi%C5%9F%2C%20%C4%B1%C5%9F%C4%B1k%20dolu%20bir%20okuma%20k%C3%B6%C5%9Fesinin%20foto%C4%9Fraf%C4%B1.%20K%C3%B6%C5%9Fede%20rahat%20bir%20koltuk%2C%20iyi%20donan%C4%B1ml%C4%B1%20bir%20kitapl%C4%B1k%2C%20yumu%C5%9Fak%20bir%20hal%C4%B1%20ve%20b%C3%BCy%C3%BCk%20bir%20bitki%20bulunuyor.%20%C3%96%C4%9Fleden%20sonra%20g%C3%BCne%C5%9Fi%20pencereden%20i%C3%A7eri%20s%C3%BCz%C3%BClerek%20s%C4%B1cak%20ve%20davetkar%20bir%20alan%20yarat%C4%B1yor.%20G%C3%B6rsel%2C%20insanlara%20kendi%20rahat%20k%C3%B6%C5%9Felerini%20yaratmalar%C4%B1%20i%C3%A7in%20ilham%20vermeli%2C%20ger%C3%A7ek%C3%A7i%20i%C3%A7%20ayd%C4%B1nlatmay%C4%B1%20ve%20g%C3%BC%C3%A7l%C3%BC%20bir%20mekan%20hissini%20sergilemelidir.%20%E2%80%93ar%203%3A4)**
 
 ---
 
-<<<<<<< HEAD
-### No. 55: Minimalist Şık Kıyafet Düz Serim
-=======
-### No. 58: Minimalist Şık Kıyafet Düz Serim
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 59: Minimalist Şık Kıyafet Düz Serim
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2174,15 +2045,11 @@ Bu istem, "günün kombini" gönderisi için derlenmiş bir kıyafetin minimalis
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%22G%C3%BCn%C3%BCn%20kombini%22%20g%C3%B6nderisi%20i%C3%A7in%20%C3%B6zenle%20se%C3%A7ilmi%C5%9F%2C%20minimalist%20ve%20%C5%9F%C4%B1k%20bir%20d%C3%BCz%20serim%20foto%C4%9Fraf%C4%B1.%20Kombin%2C%20bir%20adet%20vintage%20jean%20pantolon%2C%20beyaz%20keten%20bir%20g%C3%B6mlek%2C%20bir%20%C3%A7ift%20deri%20sandalet%2C%20has%C4%B1r%20bir%20%C5%9Fapka%20ve%20zarif%20alt%C4%B1n%20tak%C4%B1lardan%20olu%C5%9Fuyor.%20%C3%96%C4%9Feler%2C%20temiz%2C%20beyaz%20ah%C5%9Fap%20bir%20zemine%20d%C3%BCzenli%20bir%20%C5%9Fekilde%20yerle%C5%9Ftirilmi%C5%9F.%20Ayd%C4%B1nlatma%20do%C4%9Fal%20ve%20yumu%C5%9Fak.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20nesnelerin%20hassas%20yerle%C5%9Fimini%20ve%20doku%20olu%C5%9Fturmay%C4%B1%20g%C3%B6steren%2C%20temiz%2C%20%C5%9F%C4%B1k%20ve%20ilham%20verici%20olmal%C4%B1.%20%E2%80%93ar%204%3A5)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%22G%C3%BCn%C3%BCn%20kombini%22%20g%C3%B6nderisi%20i%C3%A7in%20%C3%B6zenle%20se%C3%A7ilmi%C5%9F%2C%20minimalist%20ve%20%C5%9F%C4%B1k%20bir%20d%C3%BCz%20serim%20foto%C4%9Fraf%C4%B1.%20Kombin%2C%20bir%20adet%20vintage%20jean%20pantolon%2C%20beyaz%20keten%20bir%20g%C3%B6mlek%2C%20bir%20%C3%A7ift%20deri%20sandalet%2C%20has%C4%B1r%20bir%20%C5%9Fapka%20ve%20zarif%20alt%C4%B1n%20tak%C4%B1lardan%20olu%C5%9Fuyor.%20%C3%96%C4%9Feler%2C%20temiz%2C%20beyaz%20ah%C5%9Fap%20bir%20zemine%20d%C3%BCzenli%20bir%20%C5%9Fekilde%20yerle%C5%9Ftirilmi%C5%9F.%20Ayd%C4%B1nlatma%20do%C4%9Fal%20ve%20yumu%C5%9Fak.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20nesnelerin%20hassas%20yerle%C5%9Fimini%20ve%20doku%20olu%C5%9Fturmay%C4%B1%20g%C3%B6steren%2C%20temiz%2C%20%C5%9F%C4%B1k%20ve%20ilham%20verici%20olmal%C4%B1.%20%E2%80%93ar%204%3A5)**
 
 ---
 
-<<<<<<< HEAD
-### No. 56: Taipei'in Canlı Gece Pazarı Sahnesi
-=======
-### No. 59: Taipei'in Canlı Gece Pazarı Sahnesi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 60: Taipei'in Canlı Gece Pazarı Sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2211,15 +2078,11 @@ Taipei'deki bir gece pazarının hareketli sokak yaşamını yakalayan bir foto�
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Taipei'deki%20bir%20gece%20pazar%C4%B1n%C4%B1n%20hareketli%20sokak%20ya%C5%9Fam%C4%B1n%C4%B1%20yakalayan%20bir%20foto%C4%9Fraf.%20Sahne%20insanlarla%20dolu%20ve%20hava%20yemek%20tezgahlar%C4%B1ndan%20%C3%A7%C4%B1kan%20buharla%20kapl%C4%B1.%20Pazar%2C%20k%C4%B1rm%C4%B1z%C4%B1%20fenerler%20ve%20floresan%20%C4%B1%C5%9F%C4%B1klar%C4%B1n%20kaotik%20ama%20g%C3%BCzel%20bir%20kar%C4%B1%C5%9F%C4%B1m%C4%B1yla%20ayd%C4%B1nlat%C4%B1lm%C4%B1%C5%9F.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20y%C3%BCksek%20sahne%20tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%20ve%20zengin%20d%C3%BCnya%20bilgisiyle%20mekan%C4%B1n%20otantik%20atmosferini%20yakalayarak%20enerji%20ve%20detay%20dolu%20olmal%C4%B1.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Taipei'deki%20bir%20gece%20pazar%C4%B1n%C4%B1n%20hareketli%20sokak%20ya%C5%9Fam%C4%B1n%C4%B1%20yakalayan%20bir%20foto%C4%9Fraf.%20Sahne%20insanlarla%20dolu%20ve%20hava%20yemek%20tezgahlar%C4%B1ndan%20%C3%A7%C4%B1kan%20buharla%20kapl%C4%B1.%20Pazar%2C%20k%C4%B1rm%C4%B1z%C4%B1%20fenerler%20ve%20floresan%20%C4%B1%C5%9F%C4%B1klar%C4%B1n%20kaotik%20ama%20g%C3%BCzel%20bir%20kar%C4%B1%C5%9F%C4%B1m%C4%B1yla%20ayd%C4%B1nlat%C4%B1lm%C4%B1%C5%9F.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20y%C3%BCksek%20sahne%20tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%20ve%20zengin%20d%C3%BCnya%20bilgisiyle%20mekan%C4%B1n%20otantik%20atmosferini%20yakalayarak%20enerji%20ve%20detay%20dolu%20olmal%C4%B1.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 57: Dağ Manzaralı Çadır Görünümü
-=======
-### No. 60: Dağ Manzaralı Çadır Görünümü
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 61: Dağ Manzaralı Çadır Görünümü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2248,15 +2111,11 @@ Bir çadırın içinde oturan birinin bakış açısından, şafakta büyüleyic
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Bir%20%C3%A7ad%C4%B1r%C4%B1n%20i%C3%A7inde%20oturan%20birinin%20bak%C4%B1%C5%9F%20a%C3%A7%C4%B1s%C4%B1ndan%2C%20%C5%9Fafakta%20b%C3%BCy%C3%BCleyici%20bir%20da%C4%9F%20manzaras%C4%B1na%20bakan%20nefes%20kesici%20bir%20foto%C4%9Fraf.%20%C3%87ad%C4%B1r%C4%B1n%20a%C3%A7%C4%B1kl%C4%B1%C4%9F%C4%B1%2C%20kristal%20berrakl%C4%B1%C4%9F%C4%B1nda%20bir%20alp%20g%C3%B6l%C3%BC%20ve%20g%C3%BCne%C5%9Fin%20ilk%20%C4%B1%C5%9F%C4%B1klar%C4%B1n%C4%B1%20yakalayan%20karla%20kapl%C4%B1%20zirvelerin%20manzaras%C4%B1n%C4%B1%20%C3%A7er%C3%A7eveliyor.%20%C3%87ad%C4%B1r%C4%B1n%20i%C3%A7i%2C%20bir%20uyku%20tulumu%20ve%20metal%20bir%20kamp%20kupas%C4%B1yla%20rahat%20bir%20g%C3%B6r%C3%BCn%C3%BCme%20sahip.%20Bu%2C%20karma%C5%9F%C4%B1k%20mekansal%20anlay%C4%B1%C5%9F%20ve%20i%C3%A7%20ve%20d%C4%B1%C5%9F%20sahneleri%20sorunsuz%20bir%20%C5%9Fekilde%20harmanlama%20yetene%C4%9Fi%20gerektirir.%20%E2%80%93ar%203%3A2)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Bir%20%C3%A7ad%C4%B1r%C4%B1n%20i%C3%A7inde%20oturan%20birinin%20bak%C4%B1%C5%9F%20a%C3%A7%C4%B1s%C4%B1ndan%2C%20%C5%9Fafakta%20b%C3%BCy%C3%BCleyici%20bir%20da%C4%9F%20manzaras%C4%B1na%20bakan%20nefes%20kesici%20bir%20foto%C4%9Fraf.%20%C3%87ad%C4%B1r%C4%B1n%20a%C3%A7%C4%B1kl%C4%B1%C4%9F%C4%B1%2C%20kristal%20berrakl%C4%B1%C4%9F%C4%B1nda%20bir%20alp%20g%C3%B6l%C3%BC%20ve%20g%C3%BCne%C5%9Fin%20ilk%20%C4%B1%C5%9F%C4%B1klar%C4%B1n%C4%B1%20yakalayan%20karla%20kapl%C4%B1%20zirvelerin%20manzaras%C4%B1n%C4%B1%20%C3%A7er%C3%A7eveliyor.%20%C3%87ad%C4%B1r%C4%B1n%20i%C3%A7i%2C%20bir%20uyku%20tulumu%20ve%20metal%20bir%20kamp%20kupas%C4%B1yla%20rahat%20bir%20g%C3%B6r%C3%BCn%C3%BCme%20sahip.%20Bu%2C%20karma%C5%9F%C4%B1k%20mekansal%20anlay%C4%B1%C5%9F%20ve%20i%C3%A7%20ve%20d%C4%B1%C5%9F%20sahneleri%20sorunsuz%20bir%20%C5%9Fekilde%20harmanlama%20yetene%C4%9Fi%20gerektirir.%20%E2%80%93ar%203%3A2)**
 
 ---
 
-<<<<<<< HEAD
-### No. 58: Lavanta Tarlasında Romantik Piknik
-=======
-### No. 61: Lavanta Tarlasında Romantik Piknik
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 62: Lavanta Tarlasında Romantik Piknik
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2285,15 +2144,11 @@ Fransa'nın Provence bölgesindeki bir lavanta tarlasında gün batımında pikn
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Fransa'n%C4%B1n%20Provence%20b%C3%B6lgesindeki%20bir%20lavanta%20tarlas%C4%B1nda%20g%C3%BCn%20bat%C4%B1m%C4%B1nda%20piknik%20yapan%20romantik%20ve%20r%C3%BCya%20gibi%20bir%20%C3%A7iftin%20foto%C4%9Fraf%C4%B1.%20G%C3%BCl%C3%BC%C5%9F%C3%BCyorlar%20ve%20bir%20%C5%9Fi%C5%9Fe%20%C5%9Farap%20payla%C5%9F%C4%B1yorlar.%20Batan%20g%C3%BCne%C5%9F%20g%C3%BCzel%2C%20s%C4%B1cak%20bir%20parlama%20ve%20uzun%20g%C3%B6lgeler%20yarat%C4%B1yor.%20Hava%2C%20lavantadan%20gelen%20yumu%C5%9Fak%2C%20mor%20bir%20pusla%20dolu.%20G%C3%B6r%C3%BCnt%C3%BC%20samimi%20ve%20b%C3%BCy%C3%BCl%C3%BC%20hissettirmeli%2C%20geli%C5%9Fmi%C5%9F%20%C3%A7evresel%20render'%C4%B1%20ve%20%C3%B6zneler%20aras%C4%B1ndaki%20duygusal%20tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%20sergilemeli.%20%E2%80%93ar%2016%3A9)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Fransa'n%C4%B1n%20Provence%20b%C3%B6lgesindeki%20bir%20lavanta%20tarlas%C4%B1nda%20g%C3%BCn%20bat%C4%B1m%C4%B1nda%20piknik%20yapan%20romantik%20ve%20r%C3%BCya%20gibi%20bir%20%C3%A7iftin%20foto%C4%9Fraf%C4%B1.%20G%C3%BCl%C3%BC%C5%9F%C3%BCyorlar%20ve%20bir%20%C5%9Fi%C5%9Fe%20%C5%9Farap%20payla%C5%9F%C4%B1yorlar.%20Batan%20g%C3%BCne%C5%9F%20g%C3%BCzel%2C%20s%C4%B1cak%20bir%20parlama%20ve%20uzun%20g%C3%B6lgeler%20yarat%C4%B1yor.%20Hava%2C%20lavantadan%20gelen%20yumu%C5%9Fak%2C%20mor%20bir%20pusla%20dolu.%20G%C3%B6r%C3%BCnt%C3%BC%20samimi%20ve%20b%C3%BCy%C3%BCl%C3%BC%20hissettirmeli%2C%20geli%C5%9Fmi%C5%9F%20%C3%A7evresel%20render'%C4%B1%20ve%20%C3%B6zneler%20aras%C4%B1ndaki%20duygusal%20tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%20sergilemeli.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 59: Yukarıdan Kaligrafi El Sanatları Çekimi
-=======
-### No. 62: Yukarıdan Kaligrafi El Sanatları Çekimi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 63: Yukarıdan Kaligrafi El Sanatları Çekimi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2322,15 +2177,11 @@ Birinin kaligrafi çalıştığı, güzelce düzenlenmiş bir el işi masasını
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Birinin%20kaligrafi%20%C3%A7al%C4%B1%C5%9Ft%C4%B1%C4%9F%C4%B1%2C%20g%C3%BCzelce%20d%C3%BCzenlenmi%C5%9F%20bir%20el%20i%C5%9Fi%20masas%C4%B1n%C4%B1n%20yukar%C4%B1dan%20%C3%A7ekilmi%C5%9F%20bir%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.%20Sahnede%20bir%20%C5%9Fi%C5%9Fe%20siyah%20m%C3%BCrekkep%2C%20bir%20divit%20kalem%2C%20zarif%20yaz%C4%B1larla%20s%C3%BCslenmi%C5%9F%20y%C3%BCksek%20kaliteli%20bir%20ka%C4%9F%C4%B1t%20ve%20dekorasyon%20i%C3%A7in%20birka%C3%A7%20kuru%20%C3%A7i%C3%A7ek%20bulunuyor.%20Ayd%C4%B1nlatma%20yumu%C5%9Fak%20ve%20kaligrafi%20%C3%BCzerine%20odaklanm%C4%B1%C5%9F.%20G%C3%B6r%C3%BCnt%C3%BC%20sakin%20ve%20ilham%20verici%20olmal%C4%B1%2C%20yarat%C4%B1c%C4%B1%20bir%20hobi%20sahibinin%20Instagram%20ak%C4%B1%C5%9F%C4%B1%20i%C3%A7in%20m%C3%BCkemmel%2C%20ince%20detaylar%C4%B1%20ve%20nesne%20yerle%C5%9Fimini%20sergilemeli.%20%E2%80%93ar%201%3A1)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Birinin%20kaligrafi%20%C3%A7al%C4%B1%C5%9Ft%C4%B1%C4%9F%C4%B1%2C%20g%C3%BCzelce%20d%C3%BCzenlenmi%C5%9F%20bir%20el%20i%C5%9Fi%20masas%C4%B1n%C4%B1n%20yukar%C4%B1dan%20%C3%A7ekilmi%C5%9F%20bir%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.%20Sahnede%20bir%20%C5%9Fi%C5%9Fe%20siyah%20m%C3%BCrekkep%2C%20bir%20divit%20kalem%2C%20zarif%20yaz%C4%B1larla%20s%C3%BCslenmi%C5%9F%20y%C3%BCksek%20kaliteli%20bir%20ka%C4%9F%C4%B1t%20ve%20dekorasyon%20i%C3%A7in%20birka%C3%A7%20kuru%20%C3%A7i%C3%A7ek%20bulunuyor.%20Ayd%C4%B1nlatma%20yumu%C5%9Fak%20ve%20kaligrafi%20%C3%BCzerine%20odaklanm%C4%B1%C5%9F.%20G%C3%B6r%C3%BCnt%C3%BC%20sakin%20ve%20ilham%20verici%20olmal%C4%B1%2C%20yarat%C4%B1c%C4%B1%20bir%20hobi%20sahibinin%20Instagram%20ak%C4%B1%C5%9F%C4%B1%20i%C3%A7in%20m%C3%BCkemmel%2C%20ince%20detaylar%C4%B1%20ve%20nesne%20yerle%C5%9Fimini%20sergilemeli.%20%E2%80%93ar%201%3A1)**
 
 ---
 
-<<<<<<< HEAD
-### No. 60: Dinamik Kadın Sporcu Antrenman Çekimi
-=======
-### No. 63: Dinamik Kadın Sporcu Antrenman Çekimi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 64: Dinamik Kadın Sporcu Antrenman Çekimi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2359,15 +2210,11 @@ Bu bilgi istemi, şehirdeki bir spor salonunda ağırlık kaldıran kadın bir s
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%C5%9Eehir%20merkezindeki%20cesur%20bir%20spor%20salonunda%20antrenman%C4%B1n%C4%B1n%20ortas%C4%B1nda%20olan%20kad%C4%B1n%20bir%20sporcunun%20dinamik%20ve%20g%C3%BC%C3%A7l%C3%BC%20bir%20%C3%A7ekimi.%20A%C4%9F%C4%B1r%20bir%20halter%20kald%C4%B1r%C4%B1yor%20ve%20kaslar%C4%B1%20belirgin%20ve%20gergin.%20Ayd%C4%B1nlatma%20dramatik%20ve%20y%C3%BCksek%20kontrastl%C4%B1%3B%20b%C3%BCy%C3%BCk%20bir%20pencereden%20s%C3%BCz%C3%BClen%20%C4%B1%C5%9F%C4%B1k%2C%20havadaki%20toz%20par%C3%A7ac%C4%B1klar%C4%B1n%C4%B1%20vurguluyor.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20do%C4%9Fru%20anatomik%20i%C5%9Fleme%20ve%20atmosferik%20ayd%C4%B1nlatma%20ile%20g%C3%BCc%C3%BC%2C%20kararl%C4%B1l%C4%B1%C4%9F%C4%B1%20ve%20ham%20enerjiyi%20yans%C4%B1tmal%C4%B1.%20%E2%80%93ar%204%3A5)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%C5%9Eehir%20merkezindeki%20cesur%20bir%20spor%20salonunda%20antrenman%C4%B1n%C4%B1n%20ortas%C4%B1nda%20olan%20kad%C4%B1n%20bir%20sporcunun%20dinamik%20ve%20g%C3%BC%C3%A7l%C3%BC%20bir%20%C3%A7ekimi.%20A%C4%9F%C4%B1r%20bir%20halter%20kald%C4%B1r%C4%B1yor%20ve%20kaslar%C4%B1%20belirgin%20ve%20gergin.%20Ayd%C4%B1nlatma%20dramatik%20ve%20y%C3%BCksek%20kontrastl%C4%B1%3B%20b%C3%BCy%C3%BCk%20bir%20pencereden%20s%C3%BCz%C3%BClen%20%C4%B1%C5%9F%C4%B1k%2C%20havadaki%20toz%20par%C3%A7ac%C4%B1klar%C4%B1n%C4%B1%20vurguluyor.%20G%C3%B6r%C3%BCnt%C3%BC%2C%20do%C4%9Fru%20anatomik%20i%C5%9Fleme%20ve%20atmosferik%20ayd%C4%B1nlatma%20ile%20g%C3%BCc%C3%BC%2C%20kararl%C4%B1l%C4%B1%C4%9F%C4%B1%20ve%20ham%20enerjiyi%20yans%C4%B1tmal%C4%B1.%20%E2%80%93ar%204%3A5)**
 
 ---
 
-<<<<<<< HEAD
-### No. 61: İştah Açıcı Krepler
-=======
-### No. 64: İştah Açıcı Krepler
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 65: İştah Açıcı Krepler
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2396,15 +2243,11 @@ Bir yemek blogger'ının sosyal medyası için son derece iştah açıcı, yakı
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Bir%20yemek%20blogger'%C4%B1n%C4%B1n%20sosyal%20medyas%C4%B1%20i%C3%A7in%20son%20derece%20i%C5%9Ftah%20a%C3%A7%C4%B1c%C4%B1%2C%20yak%C4%B1ndan%20%C3%A7ekilmi%C5%9F%2C%20%C3%BCst%20%C3%BCste%20dizilmi%C5%9F%20kabar%C4%B1k%20kreplerin%20foto%C4%9Fraf%C4%B1.%20Kreplerin%20%C3%BCzerine%20ak%C3%A7aa%C4%9Fa%C3%A7%20%C5%9Furubu%20gezdirilmi%C5%9F%2C%20eriyen%20bir%20par%C3%A7a%20tereya%C4%9F%C4%B1%20konulmu%C5%9F%20ve%20taze%20yaban%20mersini%20ve%20ahududu%20ile%20s%C3%BCslenmi%C5%9F.%20Kreplerden%20hafif%C3%A7e%20buhar%20y%C3%BCkseliyor%20olmal%C4%B1.%20Ayd%C4%B1nlatma%20s%C4%B1cak%20ve%20davetkar%20olmal%C4%B1%2C%20yeme%C4%9Fi%20kar%C5%9F%C4%B1%20konulmaz%20g%C3%B6stermeli.%20Odak%20noktas%C4%B1%20kreplerin%20dokusunda%20ve%20parlayan%20%C5%9Furupta%20keskin%20olmal%C4%B1%2C%20hiper-ger%C3%A7ek%C3%A7i%20yemek%20render'%C4%B1n%C4%B1%20sergilemeli.%20%E2%80%93ar%201%3A1)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Bir%20yemek%20blogger'%C4%B1n%C4%B1n%20sosyal%20medyas%C4%B1%20i%C3%A7in%20son%20derece%20i%C5%9Ftah%20a%C3%A7%C4%B1c%C4%B1%2C%20yak%C4%B1ndan%20%C3%A7ekilmi%C5%9F%2C%20%C3%BCst%20%C3%BCste%20dizilmi%C5%9F%20kabar%C4%B1k%20kreplerin%20foto%C4%9Fraf%C4%B1.%20Kreplerin%20%C3%BCzerine%20ak%C3%A7aa%C4%9Fa%C3%A7%20%C5%9Furubu%20gezdirilmi%C5%9F%2C%20eriyen%20bir%20par%C3%A7a%20tereya%C4%9F%C4%B1%20konulmu%C5%9F%20ve%20taze%20yaban%20mersini%20ve%20ahududu%20ile%20s%C3%BCslenmi%C5%9F.%20Kreplerden%20hafif%C3%A7e%20buhar%20y%C3%BCkseliyor%20olmal%C4%B1.%20Ayd%C4%B1nlatma%20s%C4%B1cak%20ve%20davetkar%20olmal%C4%B1%2C%20yeme%C4%9Fi%20kar%C5%9F%C4%B1%20konulmaz%20g%C3%B6stermeli.%20Odak%20noktas%C4%B1%20kreplerin%20dokusunda%20ve%20parlayan%20%C5%9Furupta%20keskin%20olmal%C4%B1%2C%20hiper-ger%C3%A7ek%C3%A7i%20yemek%20render'%C4%B1n%C4%B1%20sergilemeli.%20%E2%80%93ar%201%3A1)**
 
 ---
 
-<<<<<<< HEAD
-### No. 62: Paris Moda Fenomeni Sokak Stili
-=======
-### No. 65: Paris Moda Fenomeni Sokak Stili
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 66: Paris Moda Fenomeni Sokak Stili
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2433,15 +2276,11 @@ Paris Moda Haftası sırasında Paris'te bir moda influencer'ının sokak stili 
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Paris%20Moda%20Haftas%C4%B1%20s%C4%B1ras%C4%B1nda%20Paris'te%20bir%20moda%20influencer'%C4%B1n%C4%B1n%20sokak%20stili%20foto%C4%9Fraf%C4%B1.%20Avangart%20bir%20k%C4%B1yafet%20giymi%C5%9F%20ve%20Louvre%20Piramidi'nin%20%C3%B6n%C3%BCnde%20kendinden%20emin%20bir%20%C5%9Fekilde%20poz%20veriyor.%20Odak%20noktas%C4%B1n%C4%B1%20%C3%BCzerinde%20tutmak%20i%C3%A7in%20arka%20plan%20hafif%C3%A7e%20bulan%C4%B1kla%C5%9Ft%C4%B1r%C4%B1lm%C4%B1%C5%9F%2C%20ancak%20ikonik%20konum%20hala%20tan%C4%B1nabilir.%20Ayd%C4%B1nlatma%2C%20Paris'e%20%C3%B6zg%C3%BC%2C%20bulutlu%20ama%20parlak%20olmal%C4%B1%3B%20bu%2C%20yumu%C5%9Fak%20g%C3%B6lgeler%20olu%C5%9Fturur%20ve%20k%C4%B1yafetinin%20renklerini%20ve%20dokular%C4%B1n%C4%B1%20ortaya%20%C3%A7%C4%B1kar%C4%B1r.%20Bu%2C%20konu%20detaylar%C4%B1nda%20y%C3%BCksek%20tutarl%C4%B1l%C4%B1k%20ve%20do%C4%9Fru%20%C3%A7evresel%20ba%C4%9Flam%20gerektirir.%20%E2%80%93ar%203%3A4)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Paris%20Moda%20Haftas%C4%B1%20s%C4%B1ras%C4%B1nda%20Paris'te%20bir%20moda%20influencer'%C4%B1n%C4%B1n%20sokak%20stili%20foto%C4%9Fraf%C4%B1.%20Avangart%20bir%20k%C4%B1yafet%20giymi%C5%9F%20ve%20Louvre%20Piramidi'nin%20%C3%B6n%C3%BCnde%20kendinden%20emin%20bir%20%C5%9Fekilde%20poz%20veriyor.%20Odak%20noktas%C4%B1n%C4%B1%20%C3%BCzerinde%20tutmak%20i%C3%A7in%20arka%20plan%20hafif%C3%A7e%20bulan%C4%B1kla%C5%9Ft%C4%B1r%C4%B1lm%C4%B1%C5%9F%2C%20ancak%20ikonik%20konum%20hala%20tan%C4%B1nabilir.%20Ayd%C4%B1nlatma%2C%20Paris'e%20%C3%B6zg%C3%BC%2C%20bulutlu%20ama%20parlak%20olmal%C4%B1%3B%20bu%2C%20yumu%C5%9Fak%20g%C3%B6lgeler%20olu%C5%9Fturur%20ve%20k%C4%B1yafetinin%20renklerini%20ve%20dokular%C4%B1n%C4%B1%20ortaya%20%C3%A7%C4%B1kar%C4%B1r.%20Bu%2C%20konu%20detaylar%C4%B1nda%20y%C3%BCksek%20tutarl%C4%B1l%C4%B1k%20ve%20do%C4%9Fru%20%C3%A7evresel%20ba%C4%9Flam%20gerektirir.%20%E2%80%93ar%203%3A4)**
 
 ---
 
-<<<<<<< HEAD
-### No. 63: Sonbahar Yaprakları Arasında Golden Retriever Yavrusu
-=======
-### No. 66: Sonbahar Yaprakları Arasında Golden Retriever Yavrusu
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 67: Sonbahar Yaprakları Arasında Golden Retriever Yavrusu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2470,15 +2309,11 @@ Sonbahar yapraklarıyla dolu bir tarlada oynayan altın retriever yavrusunun iç
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Sonbahar%20yapraklar%C4%B1yla%20dolu%20bir%20tarlada%20oynayan%20alt%C4%B1n%20retriever%20yavrusunun%20i%C3%A7%20a%C3%A7%C4%B1c%C4%B1%2C%20samimi%20bir%20foto%C4%9Fraf%C4%B1.%20Yavru%2C%20havada%20u%C3%A7u%C5%9Fan%20yapraklarla%20z%C4%B1plarken%20ne%C5%9Feli%20bir%20ifadeye%20sahip.%20%C3%96%C4%9Fleden%20sonra%20g%C3%BCne%C5%9Fi%2C%20sahneyi%20s%C4%B1cak%20ve%20b%C3%BCy%C3%BCl%C3%BC%20k%C4%B1lan%20g%C3%BCzel%20bir%20alt%C4%B1n%20rengi%20arka%20%C4%B1%C5%9F%C4%B1k%20olu%C5%9Fturmal%C4%B1.%20Odak%2C%20yavrunun%20g%C3%B6zlerinde%20m%C3%BCkemmel%20bir%20%C5%9Fekilde%20olmal%C4%B1%20ve%20oyunbaz%20ruhunu%20yakalamal%C4%B1d%C4%B1r.%20Bu%2C%20hayvanlardaki%20dinamik%20eylemi%20ve%20duyguyu%20i%C5%9Fleme%20yetene%C4%9Fini%20g%C3%B6sterir.%20%E2%80%93ar%203%3A2)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Sonbahar%20yapraklar%C4%B1yla%20dolu%20bir%20tarlada%20oynayan%20alt%C4%B1n%20retriever%20yavrusunun%20i%C3%A7%20a%C3%A7%C4%B1c%C4%B1%2C%20samimi%20bir%20foto%C4%9Fraf%C4%B1.%20Yavru%2C%20havada%20u%C3%A7u%C5%9Fan%20yapraklarla%20z%C4%B1plarken%20ne%C5%9Feli%20bir%20ifadeye%20sahip.%20%C3%96%C4%9Fleden%20sonra%20g%C3%BCne%C5%9Fi%2C%20sahneyi%20s%C4%B1cak%20ve%20b%C3%BCy%C3%BCl%C3%BC%20k%C4%B1lan%20g%C3%BCzel%20bir%20alt%C4%B1n%20rengi%20arka%20%C4%B1%C5%9F%C4%B1k%20olu%C5%9Fturmal%C4%B1.%20Odak%2C%20yavrunun%20g%C3%B6zlerinde%20m%C3%BCkemmel%20bir%20%C5%9Fekilde%20olmal%C4%B1%20ve%20oyunbaz%20ruhunu%20yakalamal%C4%B1d%C4%B1r.%20Bu%2C%20hayvanlardaki%20dinamik%20eylemi%20ve%20duyguyu%20i%C5%9Fleme%20yetene%C4%9Fini%20g%C3%B6sterir.%20%E2%80%93ar%203%3A2)**
 
 ---
 
-<<<<<<< HEAD
-### No. 64: Sinematik Yalnız Seyahat Çekimi
-=======
-### No. 67: Sinematik Yalnız Seyahat Çekimi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 68: Sinematik Yalnız Seyahat Çekimi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2507,15 +2342,11 @@ Tek başına seyahat macerasında olan genç bir kadının, hareket halindeki bi
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Tek%20ba%C5%9F%C4%B1na%20seyahat%20maceras%C4%B1nda%20olan%20gen%C3%A7%20bir%20kad%C4%B1n%C4%B1n%2C%20hareket%20halindeki%20bir%20trenin%20penceresinin%20kenar%C4%B1nda%20oturdu%C4%9Fu%20samimi%2C%20sinematik%20bir%20%C3%A7ekim.%20Yuvarlanan%20ye%C5%9Fil%20tepelerin%20ve%20sisli%20da%C4%9Flar%C4%B1n%20olu%C5%9Fturdu%C4%9Fu%20ge%C3%A7en%20manzaraya%20d%C3%BC%C5%9F%C3%BCnceli%20bir%20%C5%9Fekilde%20bak%C4%B1yor.%20Trenin%20i%C3%A7%20k%C4%B1sm%C4%B1n%C4%B1n%20yans%C4%B1mas%C4%B1%20pencerede%20hafif%C3%A7e%20g%C3%B6r%C3%BClebiliyor.%20Renk%20derecelendirmesi%2C%20gezgin%20ruhunu%20ve%20i%C3%A7%20g%C3%B6zlemi%20%C3%A7a%C4%9Fr%C4%B1%C5%9Ft%C4%B1rmak%20i%C3%A7in%20hafif%20bir%20film%20greniyle%20karamsar%20ve%20atmosferik%20olmal%C4%B1.%20Bu%2C%20bir%20seyahat%20blog%20yazar%C4%B1n%C4%B1n%20g%C3%B6nderisi%20i%C3%A7in%20geli%C5%9Fmi%C5%9F%20ayd%C4%B1nlatma%2C%20yans%C4%B1ma%20ve%20ruh%20hali%20kontrol%C3%BCn%C3%BC%20g%C3%B6sterir.%20%E2%80%93ar%204%3A5)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Tek%20ba%C5%9F%C4%B1na%20seyahat%20maceras%C4%B1nda%20olan%20gen%C3%A7%20bir%20kad%C4%B1n%C4%B1n%2C%20hareket%20halindeki%20bir%20trenin%20penceresinin%20kenar%C4%B1nda%20oturdu%C4%9Fu%20samimi%2C%20sinematik%20bir%20%C3%A7ekim.%20Yuvarlanan%20ye%C5%9Fil%20tepelerin%20ve%20sisli%20da%C4%9Flar%C4%B1n%20olu%C5%9Fturdu%C4%9Fu%20ge%C3%A7en%20manzaraya%20d%C3%BC%C5%9F%C3%BCnceli%20bir%20%C5%9Fekilde%20bak%C4%B1yor.%20Trenin%20i%C3%A7%20k%C4%B1sm%C4%B1n%C4%B1n%20yans%C4%B1mas%C4%B1%20pencerede%20hafif%C3%A7e%20g%C3%B6r%C3%BClebiliyor.%20Renk%20derecelendirmesi%2C%20gezgin%20ruhunu%20ve%20i%C3%A7%20g%C3%B6zlemi%20%C3%A7a%C4%9Fr%C4%B1%C5%9Ft%C4%B1rmak%20i%C3%A7in%20hafif%20bir%20film%20greniyle%20karamsar%20ve%20atmosferik%20olmal%C4%B1.%20Bu%2C%20bir%20seyahat%20blog%20yazar%C4%B1n%C4%B1n%20g%C3%B6nderisi%20i%C3%A7in%20geli%C5%9Fmi%C5%9F%20ayd%C4%B1nlatma%2C%20yans%C4%B1ma%20ve%20ruh%20hali%20kontrol%C3%BCn%C3%BC%20g%C3%B6sterir.%20%E2%80%93ar%204%3A5)**
 
 ---
 
-<<<<<<< HEAD
-### No. 65: Üç Panelli Film Sanatı Izgarası
-=======
-### No. 68: Üç Panelli Film Sanatı Izgarası
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 69: Üç Panelli Film Sanatı Izgarası
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2545,15 +2376,11 @@ Görüntüyü eşit üç panelli ızgara film dokulu sanatsal bir portreye dön�
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=G%C3%B6r%C3%BCnt%C3%BCy%C3%BC%20e%C5%9Fit%20%C3%BC%C3%A7%20panelli%20%C4%B1zgara%20film%20dokulu%20sanatsal%20bir%20portreye%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCn.%20Sahne%20ye%C5%9Fil%20bir%20%C3%B6%C4%9Fleden%20sonra.%20G%C3%BCne%C5%9F%20parlak%20bir%20%C5%9Fekilde%20parl%C4%B1yor.%20Resimdeki%20karakter%20referans%20g%C3%B6rselle%20tutarl%C4%B1%2C%20%7Bargument%20name%3D%22clothing%22%20default%3D%22beyaz%20bir%20elbise%22%7D%20giyiyor.%20%C4%B0lk%20%C3%A7ekim%2C%20a%C5%9F%C4%B1r%C4%B1%20pozlanm%C4%B1%C5%9F%2C%20ye%C5%9Fil%20bir%20Monet%20bah%C3%A7esinde%2C%20karakterin%20elinde%20%7Bargument%20name%3D%22item%22%20default%3D%22muhte%C5%9Fem%20bir%20buket%22%7D%20tutarak%20%7Bargument%20name%3D%22direction%22%20default%3D%22sa%C4%9Fa%22%7D%20do%C4%9Fru%20ko%C5%9Ftu%C4%9Fu%20yandan%20%C3%A7ekilmi%C5%9F%20bir%20orta%20%C3%A7ekim.%20%C4%B0kinci%20%C3%A7ekim%2C%20buketin%20a%C5%9F%C4%B1r%C4%B1%20pozlanm%C4%B1%C5%9F%2C%20dinamik%20bulan%C4%B1kl%C4%B1kla%20%C3%A7ekildi%C4%9Fi%20bir%20yak%C4%B1n%20%C3%A7ekim.%20%C3%9C%C3%A7%C3%BCnc%C3%BC%20%C3%A7ekim%2C%20karakterin%20b%C3%BCy%C3%BCk%20bir%20yak%C4%B1n%20%C3%A7ekimi%2C%20karakterin%20ko%C5%9Farkenki%20profili%2C%20sa%C4%9Fa%20d%C3%B6n%C3%BCk%2C%20a%C5%9F%C4%B1r%C4%B1%20pozlanm%C4%B1%C5%9F%2C%20dinamik%20bulan%C4%B1kl%C4%B1k%2C%20arka%20plan%20ye%C5%9Fil%20bir%20bah%C3%A7e%2C%20karaktere%20g%C3%B6z%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%20vererek%20karakterin%20ifadesinin%20bir%20melankoli%20ve%20umut%20hissi%20getirmesini%20sa%C4%9Fl%C4%B1yor.%20Portre%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1%C4%9F%C4%B1%2C%20g%C3%BC%C3%A7l%C3%BC%2C%20do%C4%9Frudan%20fla%C5%9F%20efektli%20g%C3%B6r%C3%BCnt%C3%BC%20olu%C5%9Fturma%20stili%3A%20vurgu%20modu%2C%20%C3%B6n%20plan%20pozlamas%C4%B1%2C%20s%C3%BCrrealizm%2C%20%C4%B1%C5%9F%C4%B1k%20ve%20g%C3%B6lge%20atmosferi%2C%20ince%20par%C4%B1ldayan%20%C4%B1%C5%9F%C4%B1k%20ve%20g%C3%B6lge%2C%20r%C3%BCya%20gibi%20film%20dokusu%2C%20dinamik%20bulan%C4%B1kl%C4%B1k%2C%20yava%C5%9F%20enstantane%20efekti%2C%20pozitif%20ve%20negatif%20film%2C%20soyulabilir%20film%2C%20minimalizm%2C%20ekstrem%20kompozisyon%2C%20vinyet%2C%20%C4%B1%C5%9F%C4%B1k%20s%C4%B1z%C4%B1nt%C4%B1s%C4%B1.%20Altyaz%C4%B1lar%20alt%20ortada%20yer%20al%C4%B1yor%2C%20%C3%BC%C3%A7%20panelli%20%C4%B1zgara%20tek%20bir%20resimde%20sentezlenmi%C5%9F.%20Oran%203%3A4.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=G%C3%B6r%C3%BCnt%C3%BCy%C3%BC%20e%C5%9Fit%20%C3%BC%C3%A7%20panelli%20%C4%B1zgara%20film%20dokulu%20sanatsal%20bir%20portreye%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCn.%20Sahne%20ye%C5%9Fil%20bir%20%C3%B6%C4%9Fleden%20sonra.%20G%C3%BCne%C5%9F%20parlak%20bir%20%C5%9Fekilde%20parl%C4%B1yor.%20Resimdeki%20karakter%20referans%20g%C3%B6rselle%20tutarl%C4%B1%2C%20%7Bargument%20name%3D%22clothing%22%20default%3D%22beyaz%20bir%20elbise%22%7D%20giyiyor.%20%C4%B0lk%20%C3%A7ekim%2C%20a%C5%9F%C4%B1r%C4%B1%20pozlanm%C4%B1%C5%9F%2C%20ye%C5%9Fil%20bir%20Monet%20bah%C3%A7esinde%2C%20karakterin%20elinde%20%7Bargument%20name%3D%22item%22%20default%3D%22muhte%C5%9Fem%20bir%20buket%22%7D%20tutarak%20%7Bargument%20name%3D%22direction%22%20default%3D%22sa%C4%9Fa%22%7D%20do%C4%9Fru%20ko%C5%9Ftu%C4%9Fu%20yandan%20%C3%A7ekilmi%C5%9F%20bir%20orta%20%C3%A7ekim.%20%C4%B0kinci%20%C3%A7ekim%2C%20buketin%20a%C5%9F%C4%B1r%C4%B1%20pozlanm%C4%B1%C5%9F%2C%20dinamik%20bulan%C4%B1kl%C4%B1kla%20%C3%A7ekildi%C4%9Fi%20bir%20yak%C4%B1n%20%C3%A7ekim.%20%C3%9C%C3%A7%C3%BCnc%C3%BC%20%C3%A7ekim%2C%20karakterin%20b%C3%BCy%C3%BCk%20bir%20yak%C4%B1n%20%C3%A7ekimi%2C%20karakterin%20ko%C5%9Farkenki%20profili%2C%20sa%C4%9Fa%20d%C3%B6n%C3%BCk%2C%20a%C5%9F%C4%B1r%C4%B1%20pozlanm%C4%B1%C5%9F%2C%20dinamik%20bulan%C4%B1kl%C4%B1k%2C%20arka%20plan%20ye%C5%9Fil%20bir%20bah%C3%A7e%2C%20karaktere%20g%C3%B6z%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%20vererek%20karakterin%20ifadesinin%20bir%20melankoli%20ve%20umut%20hissi%20getirmesini%20sa%C4%9Fl%C4%B1yor.%20Portre%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1%C4%9F%C4%B1%2C%20g%C3%BC%C3%A7l%C3%BC%2C%20do%C4%9Frudan%20fla%C5%9F%20efektli%20g%C3%B6r%C3%BCnt%C3%BC%20olu%C5%9Fturma%20stili%3A%20vurgu%20modu%2C%20%C3%B6n%20plan%20pozlamas%C4%B1%2C%20s%C3%BCrrealizm%2C%20%C4%B1%C5%9F%C4%B1k%20ve%20g%C3%B6lge%20atmosferi%2C%20ince%20par%C4%B1ldayan%20%C4%B1%C5%9F%C4%B1k%20ve%20g%C3%B6lge%2C%20r%C3%BCya%20gibi%20film%20dokusu%2C%20dinamik%20bulan%C4%B1kl%C4%B1k%2C%20yava%C5%9F%20enstantane%20efekti%2C%20pozitif%20ve%20negatif%20film%2C%20soyulabilir%20film%2C%20minimalizm%2C%20ekstrem%20kompozisyon%2C%20vinyet%2C%20%C4%B1%C5%9F%C4%B1k%20s%C4%B1z%C4%B1nt%C4%B1s%C4%B1.%20Altyaz%C4%B1lar%20alt%20ortada%20yer%20al%C4%B1yor%2C%20%C3%BC%C3%A7%20panelli%20%C4%B1zgara%20tek%20bir%20resimde%20sentezlenmi%C5%9F.%20Oran%203%3A4.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 66: Hello Kitty Ofis Kaosu
-=======
-### No. 69: Hello Kitty Ofis Kaosu
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 70: Hello Kitty Ofis Kaosu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2582,15 +2409,11 @@ h0674kz, hello kitty ofisi havaya uçuruyor, retro film tarzı, ince grenli
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=h0674kz%2C%20hello%20kitty%20ofisi%20havaya%20u%C3%A7uruyor%2C%20retro%20film%20tarz%C4%B1%2C%20ince%20grenli)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=h0674kz%2C%20hello%20kitty%20ofisi%20havaya%20u%C3%A7uruyor%2C%20retro%20film%20tarz%C4%B1%2C%20ince%20grenli)**
 
 ---
 
-<<<<<<< HEAD
-### No. 67: Yıldızlı Kristal Fıskiye
-=======
-### No. 70: Yıldızlı Kristal Fıskiye
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 71: Yıldızlı Kristal Fıskiye
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2619,15 +2442,11 @@ h0674kz, renkli yıldız çıkartmaları, parlak kristal boncuk zincirlerle süs
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=h0674kz%2C%20renkli%20y%C4%B1ld%C4%B1z%20%C3%A7%C4%B1kartmalar%C4%B1%2C%20parlak%20kristal%20boncuk%20zincirlerle%20s%C3%BCslenmi%C5%9F%20bir%20f%C4%B1skiye%2C%20retro%20film%20tarz%C4%B1%2C%20ince%20grenlilik)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=h0674kz%2C%20renkli%20y%C4%B1ld%C4%B1z%20%C3%A7%C4%B1kartmalar%C4%B1%2C%20parlak%20kristal%20boncuk%20zincirlerle%20s%C3%BCslenmi%C5%9F%20bir%20f%C4%B1skiye%2C%20retro%20film%20tarz%C4%B1%2C%20ince%20grenlilik)**
 
 ---
 
-<<<<<<< HEAD
-### No. 68: Kyoto Geyşa Anı
-=======
-### No. 71: Kyoto Geyşa Anı
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 72: Kyoto Geyşa Anı
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2656,15 +2475,11 @@ Gion'un taş döşeli yolunda yürüyen geyşa (geleneksel kimono detayları, be
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Gion'un%20ta%C5%9F%20d%C3%B6%C5%9Feli%20yolunda%20y%C3%BCr%C3%BCyen%20gey%C5%9Fa%20(geleneksel%20kimono%20detaylar%C4%B1%2C%20beyaz%20makyaj)%2C%20her%20iki%20yanda%20tam%20a%C3%A7m%C4%B1%C5%9F%20Yoshino%20kiraz%20a%C4%9Fa%C3%A7lar%C4%B1%2C%20dinamik%20bir%20%C5%9Fekilde%20d%C3%BC%C5%9Fen%20pembe%20yapraklar%2C%20yumu%C5%9Fak%20da%C4%9F%C4%B1n%C4%B1k%20%C4%B1%C5%9F%C4%B1k%20(bulutlu%20g%C3%BCn%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%20kalitesi)%2C%20Japon%20film%20esteti%C4%9Fi%20(Hirokazu%20Kore-eda%20tarz%C4%B1)%2C%20s%C4%B1%C4%9F%20alan%20derinli%C4%9Fi%2050mm%20arka%20plan%C4%B1%20bulan%C4%B1kla%C5%9Ft%C4%B1r%C4%B1yor%2C%20film%20tonu%20(Fujifilm%20Pro%20400H%20sim%C3%BClasyonu)%2C%20sakin%20Zen%20atmosferi%2C%20mobil%20duvar%20ka%C4%9F%C4%B1d%C4%B1%20i%C3%A7in%20uygun%20dikey%20kompozisyon)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Gion'un%20ta%C5%9F%20d%C3%B6%C5%9Feli%20yolunda%20y%C3%BCr%C3%BCyen%20gey%C5%9Fa%20(geleneksel%20kimono%20detaylar%C4%B1%2C%20beyaz%20makyaj)%2C%20her%20iki%20yanda%20tam%20a%C3%A7m%C4%B1%C5%9F%20Yoshino%20kiraz%20a%C4%9Fa%C3%A7lar%C4%B1%2C%20dinamik%20bir%20%C5%9Fekilde%20d%C3%BC%C5%9Fen%20pembe%20yapraklar%2C%20yumu%C5%9Fak%20da%C4%9F%C4%B1n%C4%B1k%20%C4%B1%C5%9F%C4%B1k%20(bulutlu%20g%C3%BCn%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%20kalitesi)%2C%20Japon%20film%20esteti%C4%9Fi%20(Hirokazu%20Kore-eda%20tarz%C4%B1)%2C%20s%C4%B1%C4%9F%20alan%20derinli%C4%9Fi%2050mm%20arka%20plan%C4%B1%20bulan%C4%B1kla%C5%9Ft%C4%B1r%C4%B1yor%2C%20film%20tonu%20(Fujifilm%20Pro%20400H%20sim%C3%BClasyonu)%2C%20sakin%20Zen%20atmosferi%2C%20mobil%20duvar%20ka%C4%9F%C4%B1d%C4%B1%20i%C3%A7in%20uygun%20dikey%20kompozisyon)**
 
 ---
 
-<<<<<<< HEAD
-### No. 69: NYC Noel Gecesi
-=======
-### No. 72: NYC Noel Gecesi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 73: NYC Noel Gecesi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2694,15 +2509,11 @@ New York'ta Noel'i yakalayan şenlikli bir şehir gecesi istemi. Rockefeller ağ
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22location%22%20default%3D%22New%20York%20Fifth%20Avenue%22%7D%20Noel%20gecesi%20sahnesi%2C%20Rockefeller%20Center'da%20renkli%20%C4%B1%C5%9F%C4%B1klarla%20kapl%C4%B1%2020%20metrelik%20dev%20Noel%20a%C4%9Fac%C4%B1%2C%20kar%20taneleri%20d%C3%BC%C5%9F%C3%BCyor%20(alan%20derinli%C4%9Fi%20%C4%B1%C5%9F%C4%B1k%20noktalar%C4%B1na%20bulan%C4%B1kla%C5%9Fm%C4%B1%C5%9F)%2C%20caddenin%20her%20iki%20yan%C4%B1ndaki%20d%C3%BCkkan%20vitrinlerinden%20gelen%20s%C4%B1cak%20%C4%B1%C5%9F%C4%B1klar%2C%20k%C4%B1%C5%9Fl%C4%B1k%20giysiler%20giymi%C5%9F%20yayalar%C4%B1n%20sil%C3%BCetleri%2C%20s%C4%B1cak%20tonlar%20ile%20so%C4%9Fuk%20mavi%20karl%C4%B1%20gece%20aras%C4%B1ndaki%20kontrast%2C%20g%C3%BC%C3%A7l%C3%BC%20%C5%9Fenlik%20atmosferi%2C%20%C5%9Fehir%20gece%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1%C4%9F%C4%B1%202%20saniye%20uzun%20pozlama%20ile%20%C4%B1%C5%9F%C4%B1k%20izleri%20yakalanm%C4%B1%C5%9F%2C%20sinema%20kalitesinde%20renk%20d%C3%BCzenlemesi%2C%2016%3A9%20kartpostal%20kompozisyonu)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22location%22%20default%3D%22New%20York%20Fifth%20Avenue%22%7D%20Noel%20gecesi%20sahnesi%2C%20Rockefeller%20Center'da%20renkli%20%C4%B1%C5%9F%C4%B1klarla%20kapl%C4%B1%2020%20metrelik%20dev%20Noel%20a%C4%9Fac%C4%B1%2C%20kar%20taneleri%20d%C3%BC%C5%9F%C3%BCyor%20(alan%20derinli%C4%9Fi%20%C4%B1%C5%9F%C4%B1k%20noktalar%C4%B1na%20bulan%C4%B1kla%C5%9Fm%C4%B1%C5%9F)%2C%20caddenin%20her%20iki%20yan%C4%B1ndaki%20d%C3%BCkkan%20vitrinlerinden%20gelen%20s%C4%B1cak%20%C4%B1%C5%9F%C4%B1klar%2C%20k%C4%B1%C5%9Fl%C4%B1k%20giysiler%20giymi%C5%9F%20yayalar%C4%B1n%20sil%C3%BCetleri%2C%20s%C4%B1cak%20tonlar%20ile%20so%C4%9Fuk%20mavi%20karl%C4%B1%20gece%20aras%C4%B1ndaki%20kontrast%2C%20g%C3%BC%C3%A7l%C3%BC%20%C5%9Fenlik%20atmosferi%2C%20%C5%9Fehir%20gece%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1%C4%9F%C4%B1%202%20saniye%20uzun%20pozlama%20ile%20%C4%B1%C5%9F%C4%B1k%20izleri%20yakalanm%C4%B1%C5%9F%2C%20sinema%20kalitesinde%20renk%20d%C3%BCzenlemesi%2C%2016%3A9%20kartpostal%20kompozisyonu)**
 
 ---
 
-<<<<<<< HEAD
-### No. 70: Alacakaranlık Kamp Sahnesi
-=======
-### No. 73: Alacakaranlık Kamp Sahnesi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 74: Alacakaranlık Kamp Sahnesi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2731,15 +2542,11 @@ Dağ çadırı kamp alanı alacakaranlık sahnesi, profesyonel dış mekan çad�
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Da%C4%9F%20%C3%A7ad%C4%B1r%C4%B1%20kamp%20alan%C4%B1%20alacakaranl%C4%B1k%20sahnesi%2C%20profesyonel%20d%C4%B1%C5%9F%20mekan%20%C3%A7ad%C4%B1r%C4%B1%20(The%20North%20Face)%20detaylar%C4%B1%20g%C3%B6r%C3%BCn%C3%BCr%2C%20%C3%B6n%20planda%20kamp%20ate%C5%9Fi%20alevleri%20dans%20ediyor%2C%20arka%20planda%20y%C4%B1ld%C4%B1zl%C4%B1%20g%C3%B6ky%C3%BCz%C3%BC%20galaksisi%20net%20(uzun%20pozlama%20istifleme)%2C%20rahat%20kamp%20sandalyeleri%2C%20ah%C5%9Fap%20masada%20buhar%C4%B1%20t%C3%BCten%20s%C4%B1cak%20i%C3%A7ecekler%2C%202800K%20s%C4%B1cak%20ton%20atmosfer%20yarat%C4%B1yor%2C%20d%C4%B1%C5%9F%20mekan%20ya%C5%9Fam%20tarz%C4%B1%20estetik%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1k%2C%20sahneyi%20g%C3%B6steren%2024mm%20geni%C5%9F%20a%C3%A7%C4%B1l%C4%B1%20lens%2C%20National%20Geographic%20tarz%C4%B1%2C%2016%3A9%20yatay%20kompozisyon)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Da%C4%9F%20%C3%A7ad%C4%B1r%C4%B1%20kamp%20alan%C4%B1%20alacakaranl%C4%B1k%20sahnesi%2C%20profesyonel%20d%C4%B1%C5%9F%20mekan%20%C3%A7ad%C4%B1r%C4%B1%20(The%20North%20Face)%20detaylar%C4%B1%20g%C3%B6r%C3%BCn%C3%BCr%2C%20%C3%B6n%20planda%20kamp%20ate%C5%9Fi%20alevleri%20dans%20ediyor%2C%20arka%20planda%20y%C4%B1ld%C4%B1zl%C4%B1%20g%C3%B6ky%C3%BCz%C3%BC%20galaksisi%20net%20(uzun%20pozlama%20istifleme)%2C%20rahat%20kamp%20sandalyeleri%2C%20ah%C5%9Fap%20masada%20buhar%C4%B1%20t%C3%BCten%20s%C4%B1cak%20i%C3%A7ecekler%2C%202800K%20s%C4%B1cak%20ton%20atmosfer%20yarat%C4%B1yor%2C%20d%C4%B1%C5%9F%20mekan%20ya%C5%9Fam%20tarz%C4%B1%20estetik%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1k%2C%20sahneyi%20g%C3%B6steren%2024mm%20geni%C5%9F%20a%C3%A7%C4%B1l%C4%B1%20lens%2C%20National%20Geographic%20tarz%C4%B1%2C%2016%3A9%20yatay%20kompozisyon)**
 
 ---
 
-<<<<<<< HEAD
-### No. 71: Yoğun Egzersiz Monokrom
-=======
-### No. 74: Yoğun Egzersiz Monokrom
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 75: Yoğun Egzersiz Monokrom
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2769,15 +2576,11 @@ Direnç antrenmanı sırasında dambıl kaldıran {argument name="subject" defau
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Diren%C3%A7%20antrenman%C4%B1%20s%C4%B1ras%C4%B1nda%20damb%C4%B1l%20kald%C4%B1ran%20%7Bargument%20name%3D%22subject%22%20default%3D%22atletik%20bir%20kad%C4%B1n%C4%B1n%22%7D%20yak%C4%B1n%20%C3%A7ekimi%2C%20belirgin%20kas%20hatlar%C4%B1%2C%20ciltte%20yans%C4%B1yan%20ter%20damlalar%C4%B1%2C%2090%20derece%20soldan%20sert%20vuran%20dramatik%20yan%20%C4%B1%C5%9F%C4%B1k%2C%20arka%20plandaki%20ekipman%20bulan%C4%B1k%2C%20g%C3%BCc%C3%BC%20art%C4%B1ran%20siyah%20beyaz%20y%C3%BCksek%20kontrast%20tonu%2C%20spor%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1%C4%9F%C4%B1%20y%C3%BCksek%20enstantane%20h%C4%B1z%C4%B1%201%2F1000%20saniye%20dondurma%2C%20Nike%20reklam%20seviyesinde%20g%C3%B6rsel%2C%20kare%201%3A1%20kompozisyon%2C%20dokuyu%20art%C4%B1ran%20kenar%20keskinle%C5%9Ftirme)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Diren%C3%A7%20antrenman%C4%B1%20s%C4%B1ras%C4%B1nda%20damb%C4%B1l%20kald%C4%B1ran%20%7Bargument%20name%3D%22subject%22%20default%3D%22atletik%20bir%20kad%C4%B1n%C4%B1n%22%7D%20yak%C4%B1n%20%C3%A7ekimi%2C%20belirgin%20kas%20hatlar%C4%B1%2C%20ciltte%20yans%C4%B1yan%20ter%20damlalar%C4%B1%2C%2090%20derece%20soldan%20sert%20vuran%20dramatik%20yan%20%C4%B1%C5%9F%C4%B1k%2C%20arka%20plandaki%20ekipman%20bulan%C4%B1k%2C%20g%C3%BCc%C3%BC%20art%C4%B1ran%20siyah%20beyaz%20y%C3%BCksek%20kontrast%20tonu%2C%20spor%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1%C4%9F%C4%B1%20y%C3%BCksek%20enstantane%20h%C4%B1z%C4%B1%201%2F1000%20saniye%20dondurma%2C%20Nike%20reklam%20seviyesinde%20g%C3%B6rsel%2C%20kare%201%3A1%20kompozisyon%2C%20dokuyu%20art%C4%B1ran%20kenar%20keskinle%C5%9Ftirme)**
 
 ---
 
-<<<<<<< HEAD
-### No. 72: ISS Astronot İç Mekanı
-=======
-### No. 75: ISS Astronot İç Mekanı
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 76: ISS Astronot İç Mekanı
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2806,15 +2609,11 @@ Uluslararası Uzay İstasyonu iç gerçek fiziksel ortam, astronot (NASA uzay gi
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Uluslararas%C4%B1%20Uzay%20%C4%B0stasyonu%20i%C3%A7%20ger%C3%A7ek%20fiziksel%20ortam%2C%20astronot%20(NASA%20uzay%20giysisi%20detaylar%C4%B1)%20a%C4%9F%C4%B1rl%C4%B1ks%C4%B1z%20y%C3%BCzen%20durumda%2C%20d%C4%B1%C5%9Far%C4%B1da%20g%C3%B6r%C3%BCnen%20portholeden%20D%C3%BCnya'n%C4%B1n%20mavi%20atmosferi%2C%20i%C3%A7erideki%20ekipman%20g%C3%B6sterge%20%C4%B1%C5%9F%C4%B1klar%C4%B1%20ortam%20ayd%C4%B1nlatmas%C4%B1%20sa%C4%9Fl%C4%B1yor%2C%20metal%20b%C3%B6lme%20a%C5%9F%C4%B1nma%20dokusu%20ger%C3%A7ek%C3%A7i%2C%20bilimsel%20enstr%C3%BCman%20detaylar%C4%B1%20do%C4%9Fru%2C%20NASA%20resmi%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1k%20stili%2C%20dar%20alan%C4%B1%20yakalayan%2016mm%20geni%C5%9F%20a%C3%A7%C4%B1l%C4%B1%20lens%2C%20ger%C3%A7ek%20fiziksel%20ayd%C4%B1nlatma%20sim%C3%BClasyonu)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Uluslararas%C4%B1%20Uzay%20%C4%B0stasyonu%20i%C3%A7%20ger%C3%A7ek%20fiziksel%20ortam%2C%20astronot%20(NASA%20uzay%20giysisi%20detaylar%C4%B1)%20a%C4%9F%C4%B1rl%C4%B1ks%C4%B1z%20y%C3%BCzen%20durumda%2C%20d%C4%B1%C5%9Far%C4%B1da%20g%C3%B6r%C3%BCnen%20portholeden%20D%C3%BCnya'n%C4%B1n%20mavi%20atmosferi%2C%20i%C3%A7erideki%20ekipman%20g%C3%B6sterge%20%C4%B1%C5%9F%C4%B1klar%C4%B1%20ortam%20ayd%C4%B1nlatmas%C4%B1%20sa%C4%9Fl%C4%B1yor%2C%20metal%20b%C3%B6lme%20a%C5%9F%C4%B1nma%20dokusu%20ger%C3%A7ek%C3%A7i%2C%20bilimsel%20enstr%C3%BCman%20detaylar%C4%B1%20do%C4%9Fru%2C%20NASA%20resmi%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1k%20stili%2C%20dar%20alan%C4%B1%20yakalayan%2016mm%20geni%C5%9F%20a%C3%A7%C4%B1l%C4%B1%20lens%2C%20ger%C3%A7ek%20fiziksel%20ayd%C4%B1nlatma%20sim%C3%BClasyonu)**
 
 ---
 
-<<<<<<< HEAD
-### No. 73: Sinir Ağı Görselleştirme
-=======
-### No. 76: Sinir Ağı Görselleştirme
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 77: Sinir Ağı Görselleştirme
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2843,15 +2642,11 @@ Sinir ağı 3D yapı veri akışı görselleştirmesi, matris halinde düzenlenm
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Sinir%20a%C4%9F%C4%B1%203D%20yap%C4%B1%20veri%20ak%C4%B1%C5%9F%C4%B1%20g%C3%B6rselle%C5%9Ftirmesi%2C%20matris%20halinde%20d%C3%BCzenlenmi%C5%9F%20%C3%A7ok%20katmanl%C4%B1%20n%C3%B6ron%20d%C3%BC%C4%9F%C3%BCmleri%20(parlayan%20mavi%20k%C3%BCreler)%2C%20ba%C4%9Flant%C4%B1%20hatlar%C4%B1nda%20parlayan%20par%C3%A7ac%C4%B1k%20ak%C4%B1%C5%9Flar%C4%B1%20olarak%20akan%20veri%20ak%C4%B1%C5%9F%C4%B1%2C%20mavi-mor%20teknoloji%20gradyan%20renk%20%C5%9Femas%C4%B1%20(%234A90E2'den%20%239013FE'ye)%2C%20yar%C4%B1%20saydam%20cam%20dokusu%2C%20C4D%203D%20render%2C%20pop%C3%BCler%20bilim%20ill%C3%BCstrasyon%20seviyesinde%20netlik%2C%20yapay%20zeka%20teknik%20makale%20ill%C3%BCstrasyonlar%C4%B1%20i%C3%A7in%20uygun%2C%2016%3A9%20yatay%20kompozisyon)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Sinir%20a%C4%9F%C4%B1%203D%20yap%C4%B1%20veri%20ak%C4%B1%C5%9F%C4%B1%20g%C3%B6rselle%C5%9Ftirmesi%2C%20matris%20halinde%20d%C3%BCzenlenmi%C5%9F%20%C3%A7ok%20katmanl%C4%B1%20n%C3%B6ron%20d%C3%BC%C4%9F%C3%BCmleri%20(parlayan%20mavi%20k%C3%BCreler)%2C%20ba%C4%9Flant%C4%B1%20hatlar%C4%B1nda%20parlayan%20par%C3%A7ac%C4%B1k%20ak%C4%B1%C5%9Flar%C4%B1%20olarak%20akan%20veri%20ak%C4%B1%C5%9F%C4%B1%2C%20mavi-mor%20teknoloji%20gradyan%20renk%20%C5%9Femas%C4%B1%20(%234A90E2'den%20%239013FE'ye)%2C%20yar%C4%B1%20saydam%20cam%20dokusu%2C%20C4D%203D%20render%2C%20pop%C3%BCler%20bilim%20ill%C3%BCstrasyon%20seviyesinde%20netlik%2C%20yapay%20zeka%20teknik%20makale%20ill%C3%BCstrasyonlar%C4%B1%20i%C3%A7in%20uygun%2C%2016%3A9%20yatay%20kompozisyon)**
 
 ---
 
-<<<<<<< HEAD
-### No. 74: Wabi-Sabi Japon İç Mekanı
-=======
-### No. 77: Wabi-Sabi Japon İç Mekanı
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 78: Wabi-Sabi Japon İç Mekanı
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2881,15 +2676,11 @@ Japon minimalizmine odaklanan sakin bir iç tasarım istemi. Tatami ve sıkışt
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22area%22%20default%3D%2260%20metrekare%22%7D%20Japon%20minimalist%20ev%20pansiyonu%20i%C3%A7%20mekan%20panoramas%C4%B1%2C%20tatami%20(has%C4%B1r%20rengi%20%23D4C5A0)%2C%20al%C3%A7ak%20abanoz%20%C3%A7ay%20masas%C4%B1%2C%20shoji%20kap%C4%B1lardan%20(yar%C4%B1%20saydam%20washi%20ka%C4%9F%C4%B1t%20malzeme)%20s%C3%BCz%C3%BClen%20s%C4%B1cak%20do%C4%9Fal%20%C4%B1%C5%9F%C4%B1k%20yumu%C5%9Fak%20%C4%B1%C5%9F%C4%B1k%20ve%20g%C3%B6lge%20olu%C5%9Fturuyor%2C%20dokunuldu%C4%9Funda%20p%C3%BCr%C3%BCzl%C3%BC%20his%20veren%20s%C4%B1k%C4%B1%C5%9Ft%C4%B1r%C4%B1lm%C4%B1%C5%9F%20toprak%20duvar%20dokusu%2C%20wabi-sabi%20esteti%C4%9Fini%20yans%C4%B1tan%20mekansal%20beyaz%20bo%C5%9Fluk%2C%20ger%C3%A7ek%20mimari%20oran%201%3A1%20restorasyon%2C%20mekan%20hissi%20veren%2016mm%20ultra%20geni%C5%9F%20a%C3%A7%C4%B1l%C4%B1%20lens%2C%20Kinfolk%20ya%C5%9Fam%20tarz%C4%B1%20estetik%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1k%20stili)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22area%22%20default%3D%2260%20metrekare%22%7D%20Japon%20minimalist%20ev%20pansiyonu%20i%C3%A7%20mekan%20panoramas%C4%B1%2C%20tatami%20(has%C4%B1r%20rengi%20%23D4C5A0)%2C%20al%C3%A7ak%20abanoz%20%C3%A7ay%20masas%C4%B1%2C%20shoji%20kap%C4%B1lardan%20(yar%C4%B1%20saydam%20washi%20ka%C4%9F%C4%B1t%20malzeme)%20s%C3%BCz%C3%BClen%20s%C4%B1cak%20do%C4%9Fal%20%C4%B1%C5%9F%C4%B1k%20yumu%C5%9Fak%20%C4%B1%C5%9F%C4%B1k%20ve%20g%C3%B6lge%20olu%C5%9Fturuyor%2C%20dokunuldu%C4%9Funda%20p%C3%BCr%C3%BCzl%C3%BC%20his%20veren%20s%C4%B1k%C4%B1%C5%9Ft%C4%B1r%C4%B1lm%C4%B1%C5%9F%20toprak%20duvar%20dokusu%2C%20wabi-sabi%20esteti%C4%9Fini%20yans%C4%B1tan%20mekansal%20beyaz%20bo%C5%9Fluk%2C%20ger%C3%A7ek%20mimari%20oran%201%3A1%20restorasyon%2C%20mekan%20hissi%20veren%2016mm%20ultra%20geni%C5%9F%20a%C3%A7%C4%B1l%C4%B1%20lens%2C%20Kinfolk%20ya%C5%9Fam%20tarz%C4%B1%20estetik%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1k%20stili)**
 
 ---
 
-<<<<<<< HEAD
-### No. 75: Lüks Ürün Fotoğrafçılığı
-=======
-### No. 78: Lüks Ürün Fotoğrafçılığı
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 79: Lüks Ürün Fotoğrafçılığı
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2919,15 +2710,11 @@ Siyah cilalı mermer tezgah üzerine yerleştirilmiş {argument name="product" d
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Siyah%20cilal%C4%B1%20mermer%20tezgah%20%C3%BCzerine%20yerle%C5%9Ftirilmi%C5%9F%20%7Bargument%20name%3D%22product%22%20default%3D%22%C3%BCst%20d%C3%BCzey%20ruj%22%7D%20yak%C4%B1n%20%C3%A7ekimi%2C%20do%C4%9Fal%20olarak%20da%C4%9F%C4%B1lm%C4%B1%C5%9F%20taze%20g%C3%BCl%20yapraklar%C4%B1%2C%20parlamay%C4%B1%20ortadan%20kald%C4%B1rmak%20i%C3%A7in%20tepe%20petekli%20yumu%C5%9Fak%20%C4%B1%C5%9F%C4%B1kla%20birle%C5%9Ftirilmi%C5%9F%2045%20derecelik%20yan%20ayd%C4%B1nlatmada%20iki%20softbox%2C%20ince%20parlakl%C4%B1%C4%9F%C4%B1%20otantik%20bir%20%C5%9Fekilde%20sunan%20s%C4%B1v%C4%B1%20macun%20dokusu%2C%20saf%20beyaz%20kesintisiz%20arka%20plan%20C4D%20render%20seviyesi%2C%20detaylar%C4%B1%20yakalayan%20makro%20lens%20100mm%2C%20ticari%20%C3%BCr%C3%BCn%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1%C4%9F%C4%B1%2C%2016%3A9%20e-ticaret%20detay%20sayfas%C4%B1%20kompozisyonu%2C%20Photoshop%20hassas%20r%C3%B6tu%C5%9F%20seviyesi)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Siyah%20cilal%C4%B1%20mermer%20tezgah%20%C3%BCzerine%20yerle%C5%9Ftirilmi%C5%9F%20%7Bargument%20name%3D%22product%22%20default%3D%22%C3%BCst%20d%C3%BCzey%20ruj%22%7D%20yak%C4%B1n%20%C3%A7ekimi%2C%20do%C4%9Fal%20olarak%20da%C4%9F%C4%B1lm%C4%B1%C5%9F%20taze%20g%C3%BCl%20yapraklar%C4%B1%2C%20parlamay%C4%B1%20ortadan%20kald%C4%B1rmak%20i%C3%A7in%20tepe%20petekli%20yumu%C5%9Fak%20%C4%B1%C5%9F%C4%B1kla%20birle%C5%9Ftirilmi%C5%9F%2045%20derecelik%20yan%20ayd%C4%B1nlatmada%20iki%20softbox%2C%20ince%20parlakl%C4%B1%C4%9F%C4%B1%20otantik%20bir%20%C5%9Fekilde%20sunan%20s%C4%B1v%C4%B1%20macun%20dokusu%2C%20saf%20beyaz%20kesintisiz%20arka%20plan%20C4D%20render%20seviyesi%2C%20detaylar%C4%B1%20yakalayan%20makro%20lens%20100mm%2C%20ticari%20%C3%BCr%C3%BCn%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1%C4%9F%C4%B1%2C%2016%3A9%20e-ticaret%20detay%20sayfas%C4%B1%20kompozisyonu%2C%20Photoshop%20hassas%20r%C3%B6tu%C5%9F%20seviyesi)**
 
 ---
 
-<<<<<<< HEAD
-### No. 76: Fütüristik K-Pop Konsepti
-=======
-### No. 79: Fütüristik K-Pop Konsepti
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 80: Fütüristik K-Pop Konsepti
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2957,15 +2744,11 @@ K-pop {argument name="number of people" default="four-member"} grup konsept foto
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=K-pop%20%7Bargument%20name%3D%22number%20of%20people%22%20default%3D%22four-member%22%7D%20grup%20konsept%20foto%C4%9Fraf%C4%B1%2C%20elmas%20formasyonunda%20hassas%20konumland%C4%B1rma%2C%20birle%C5%9Fik%20f%C3%BCt%C3%BCristik%20g%C3%BCm%C3%BC%C5%9F%20stil%20renk%20%C5%9Femas%C4%B1%2C%20mor%20ve%20maviden%20r%C3%BCya%20gibi%20degrade%20ayd%C4%B1nlatma%2C%20sil%C3%BCetleri%20yans%C4%B1tan%20%C4%B1slak%20zemin%2C%20cilt%20dokusunu%20koruyan%20ancak%20tonlar%C4%B1%20birle%C5%9Ftiren%20%C3%BCst%20d%C3%BCzey%20r%C3%B6tu%C5%9F%2C%20SM%20Entertainment%20g%C3%B6rsel%20stili%2C%20kar%C4%B1%C5%9F%C4%B1k%20yumu%C5%9Fak%20ve%20sert%20ayd%C4%B1nlatma%2C%20katmanlar%20olu%C5%9Fturan%20arka%20plan%20sis%20makinesi%2C%2016%3A9%20alb%C3%BCm%20konsept%20foto%C4%9Fraf%C4%B1%20kompozisyonu)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=K-pop%20%7Bargument%20name%3D%22number%20of%20people%22%20default%3D%22four-member%22%7D%20grup%20konsept%20foto%C4%9Fraf%C4%B1%2C%20elmas%20formasyonunda%20hassas%20konumland%C4%B1rma%2C%20birle%C5%9Fik%20f%C3%BCt%C3%BCristik%20g%C3%BCm%C3%BC%C5%9F%20stil%20renk%20%C5%9Femas%C4%B1%2C%20mor%20ve%20maviden%20r%C3%BCya%20gibi%20degrade%20ayd%C4%B1nlatma%2C%20sil%C3%BCetleri%20yans%C4%B1tan%20%C4%B1slak%20zemin%2C%20cilt%20dokusunu%20koruyan%20ancak%20tonlar%C4%B1%20birle%C5%9Ftiren%20%C3%BCst%20d%C3%BCzey%20r%C3%B6tu%C5%9F%2C%20SM%20Entertainment%20g%C3%B6rsel%20stili%2C%20kar%C4%B1%C5%9F%C4%B1k%20yumu%C5%9Fak%20ve%20sert%20ayd%C4%B1nlatma%2C%20katmanlar%20olu%C5%9Fturan%20arka%20plan%20sis%20makinesi%2C%2016%3A9%20alb%C3%BCm%20konsept%20foto%C4%9Fraf%C4%B1%20kompozisyonu)**
 
 ---
 
-<<<<<<< HEAD
-### No. 77: Minimalist Yüksek Moda Portresi
-=======
-### No. 80: Minimalist Yüksek Moda Portresi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 81: Minimalist Yüksek Moda Portresi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2995,15 +2778,11 @@ Modern albüm kapaklarından ilham alan çarpıcı, minimalist bir portre istemi
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22subject%22%20default%3D%22Gen%C3%A7%20bir%20kad%C4%B1n%C4%B1n%22%7D%20minimalist%20yar%C4%B1m%20v%C3%BCcut%20portresi%2C%20d%C3%BCz%20renk%20arka%20plan%20(%7Bargument%20name%3D%22background%20color%22%20default%3D%22%23B4C7E7%20puslu%20mavi%22%7D)%2C%20do%C4%9Frudan%20lense%20bakan%20yo%C4%9Fun%20bak%C4%B1%C5%9F%2C%20g%C3%B6lgeleri%20ortadan%20kald%C4%B1rmak%20i%C3%A7in%20Profoto%20halka%20%C4%B1%C5%9F%C4%B1k%20%C3%B6n%20d%C3%BCz%20ayd%C4%B1nlatma%2C%20net%20ama%20yumu%C5%9Fak%20cilt%20dokusu%2C%20ayr%C4%B1nt%C4%B1lar%C4%B1%20korurken%20y%C3%BCksek%20kontrast%2C%20moda%20dergisi%20kapa%C4%9F%C4%B1%20kompozisyonu%2C%20orta%20format%20kamera%20Hasselblad%20dokusu%2C%20so%C4%9Fuk%20tonlu%20post%20prod%C3%BCksiyon%2C%20Billie%20Eilish%20alb%C3%BCm%20kapa%C4%9F%C4%B1%20esteti%C4%9Fi%2C%201%3A1%20kare%20kompozisyon.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22subject%22%20default%3D%22Gen%C3%A7%20bir%20kad%C4%B1n%C4%B1n%22%7D%20minimalist%20yar%C4%B1m%20v%C3%BCcut%20portresi%2C%20d%C3%BCz%20renk%20arka%20plan%20(%7Bargument%20name%3D%22background%20color%22%20default%3D%22%23B4C7E7%20puslu%20mavi%22%7D)%2C%20do%C4%9Frudan%20lense%20bakan%20yo%C4%9Fun%20bak%C4%B1%C5%9F%2C%20g%C3%B6lgeleri%20ortadan%20kald%C4%B1rmak%20i%C3%A7in%20Profoto%20halka%20%C4%B1%C5%9F%C4%B1k%20%C3%B6n%20d%C3%BCz%20ayd%C4%B1nlatma%2C%20net%20ama%20yumu%C5%9Fak%20cilt%20dokusu%2C%20ayr%C4%B1nt%C4%B1lar%C4%B1%20korurken%20y%C3%BCksek%20kontrast%2C%20moda%20dergisi%20kapa%C4%9F%C4%B1%20kompozisyonu%2C%20orta%20format%20kamera%20Hasselblad%20dokusu%2C%20so%C4%9Fuk%20tonlu%20post%20prod%C3%BCksiyon%2C%20Billie%20Eilish%20alb%C3%BCm%20kapa%C4%9F%C4%B1%20esteti%C4%9Fi%2C%201%3A1%20kare%20kompozisyon.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 78: Dinamik Süper Kahraman Aksiyonu
-=======
-### No. 81: Dinamik Süper Kahraman Aksiyonu
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 82: Dinamik Süper Kahraman Aksiyonu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3033,15 +2812,11 @@ Film kalitesinde görsel efektlerle yüksek tempolu bir süper kahraman savaş s
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22color%20scheme%22%20default%3D%22Red%20and%20black%22%7D%20%7Bargument%20name%3D%22character%22%20default%3D%22superhero%22%7D%20ya%C4%9Fmur%20sonras%C4%B1%20%C5%9Fehir%20soka%C4%9F%C4%B1nda%20dinamik%20bir%20d%C3%B6v%C3%BC%C5%9F%20an%C4%B1%2C%20s%C4%B1%C3%A7rayan%20suyu%20donduran%20y%C3%BCksek%20h%C4%B1zl%C4%B1%20deklan%C5%9F%C3%B6r%2C%20serin%20mavi%20sokak%20lambalar%C4%B1yla%20tezat%20olu%C5%9Fturan%20s%C4%B1cak%20haleler%20yaratan%20arka%20plan%20patlamas%C4%B1%2C%20hareket%20bulan%C4%B1kl%C4%B1%C4%9F%C4%B1yla%20s%C4%B1%C3%A7rayan%20%C3%B6n%20plan%20patlama%20enkaz%C4%B1%2C%20%C3%A7izgi%20roman%20paneli%20%C3%A7izgileri%20ve%20ger%C3%A7ek%C3%A7i%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1k%20kar%C4%B1%C5%9F%C4%B1m%C4%B1%2C%20HDR%20y%C3%BCksek%20dinamik%20aral%C4%B1k%2C%20etkileyici%20kompozisyon%2C%20Marvel%20filmi%20d%C3%BCzeyinde%20VFX%20dokusu%2C%2016%3A9%20en%20boy%20oran%C4%B1%2C%20kenar%20keskinle%C5%9Ftirme%20i%C5%9Flemi)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22color%20scheme%22%20default%3D%22Red%20and%20black%22%7D%20%7Bargument%20name%3D%22character%22%20default%3D%22superhero%22%7D%20ya%C4%9Fmur%20sonras%C4%B1%20%C5%9Fehir%20soka%C4%9F%C4%B1nda%20dinamik%20bir%20d%C3%B6v%C3%BC%C5%9F%20an%C4%B1%2C%20s%C4%B1%C3%A7rayan%20suyu%20donduran%20y%C3%BCksek%20h%C4%B1zl%C4%B1%20deklan%C5%9F%C3%B6r%2C%20serin%20mavi%20sokak%20lambalar%C4%B1yla%20tezat%20olu%C5%9Fturan%20s%C4%B1cak%20haleler%20yaratan%20arka%20plan%20patlamas%C4%B1%2C%20hareket%20bulan%C4%B1kl%C4%B1%C4%9F%C4%B1yla%20s%C4%B1%C3%A7rayan%20%C3%B6n%20plan%20patlama%20enkaz%C4%B1%2C%20%C3%A7izgi%20roman%20paneli%20%C3%A7izgileri%20ve%20ger%C3%A7ek%C3%A7i%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1k%20kar%C4%B1%C5%9F%C4%B1m%C4%B1%2C%20HDR%20y%C3%BCksek%20dinamik%20aral%C4%B1k%2C%20etkileyici%20kompozisyon%2C%20Marvel%20filmi%20d%C3%BCzeyinde%20VFX%20dokusu%2C%2016%3A9%20en%20boy%20oran%C4%B1%2C%20kenar%20keskinle%C5%9Ftirme%20i%C5%9Flemi)**
 
 ---
 
-<<<<<<< HEAD
-### No. 79: Stadyum Konser Atmosferi
-=======
-### No. 82: Stadyum Konser Atmosferi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 83: Stadyum Konser Atmosferi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3071,15 +2846,11 @@ Büyük pop turnelerini anımsatan nefes kesici bir stadyum konser sahnesi yarat
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22scene%22%20default%3D%22B%C3%BCy%C3%BCk%20stadyum%20konser%20alan%C4%B1%22%7D%2C%20g%C3%B6ky%C3%BCz%C3%BCnden%20alt%C4%B1n%20rengi%20konfetiler%20d%C3%BC%C5%9F%C3%BCyor%2C%20spot%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1n%C4%B1n%20merkezinde%20%7Bargument%20name%3D%22person%22%20default%3D%22kad%C4%B1n%20%C5%9Fark%C4%B1c%C4%B1%22%7D%2C%20arkadaki%20LED%20ekranda%20mor-mavi%20gradyan%2C%20seyirci%20telefon%20%C4%B1%C5%9F%C4%B1klar%C4%B1ndan%20olu%C5%9Fan%20okyanus%20y%C4%B1ld%C4%B1zl%C4%B1%20bir%20deniz%20efekti%20yarat%C4%B1yor%2C%20sahne%20sis%20makinesi%20r%C3%BCya%20gibi%20bir%20atmosfer%20olu%C5%9Fturuyor%2C%20konser%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1%C4%9F%C4%B1%20telefoto%20lens%20s%C4%B1k%C4%B1%C5%9Ft%C4%B1rmas%C4%B1%20200mm%2C%20y%C3%BCksek%20ISO%203200%20hareketi%20yakal%C4%B1yor%2C%20doygun%20gece%20sahnesi%20renkleri%2C%20Eras%20Tour%20g%C3%B6rsel%20stili%2C%2016%3A9%20yatay%20kompozisyon)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22scene%22%20default%3D%22B%C3%BCy%C3%BCk%20stadyum%20konser%20alan%C4%B1%22%7D%2C%20g%C3%B6ky%C3%BCz%C3%BCnden%20alt%C4%B1n%20rengi%20konfetiler%20d%C3%BC%C5%9F%C3%BCyor%2C%20spot%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1n%C4%B1n%20merkezinde%20%7Bargument%20name%3D%22person%22%20default%3D%22kad%C4%B1n%20%C5%9Fark%C4%B1c%C4%B1%22%7D%2C%20arkadaki%20LED%20ekranda%20mor-mavi%20gradyan%2C%20seyirci%20telefon%20%C4%B1%C5%9F%C4%B1klar%C4%B1ndan%20olu%C5%9Fan%20okyanus%20y%C4%B1ld%C4%B1zl%C4%B1%20bir%20deniz%20efekti%20yarat%C4%B1yor%2C%20sahne%20sis%20makinesi%20r%C3%BCya%20gibi%20bir%20atmosfer%20olu%C5%9Fturuyor%2C%20konser%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1%C4%9F%C4%B1%20telefoto%20lens%20s%C4%B1k%C4%B1%C5%9Ft%C4%B1rmas%C4%B1%20200mm%2C%20y%C3%BCksek%20ISO%203200%20hareketi%20yakal%C4%B1yor%2C%20doygun%20gece%20sahnesi%20renkleri%2C%20Eras%20Tour%20g%C3%B6rsel%20stili%2C%2016%3A9%20yatay%20kompozisyon)**
 
 ---
 
-<<<<<<< HEAD
-### No. 80: Barbie Rüya Odası
-=======
-### No. 83: Barbie Rüya Odası
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 84: Barbie Rüya Odası
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3109,15 +2880,11 @@ Barbie rüya oda iç mekanı, {argument name="wall color" default="pink"} duvarl
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Barbie%20r%C3%BCya%20oda%20i%C3%A7%20mekan%C4%B1%2C%20%7Bargument%20name%3D%22wall%20color%22%20default%3D%22pink%22%7D%20duvarlar%20(Pantone%20219C)%2C%20y%C3%BCksek%20parlakl%C4%B1kta%20yans%C4%B1malara%20sahip%20retro%2060'lar%20plastik%20mobilyalar%2C%20g%C3%B6lgeleri%20ortadan%20kald%C4%B1rmak%20i%C3%A7in%20yan%20yumu%C5%9Fak%20%C5%9Femsiyelerle%20birle%C5%9Ftirilmi%C5%9F%20softbox%20tepe%20ayd%C4%B1nlatmas%C4%B1%2C%20plastik%20malzemeler%20ile%20ger%C3%A7ek%20%C4%B1%C5%9F%C4%B1k%20ve%20g%C3%B6lgenin%20%C3%A7arp%C4%B1%C5%9Fmas%C4%B1yla%20yarat%C4%B1lan%20s%C3%BCrreal%20his%2C%20tavan%C4%B1%20yans%C4%B1tan%20y%C3%BCksek%20parlakl%C4%B1kta%20lake%20zemin%2C%2016%3A9%20kompozisyon%2C%20y%C3%BCksek%20doygunlukta%20renkler%20(doygunluk%20%2B40)%2C%20yumu%C5%9Fak%20odakl%C4%B1%20kenarlar%2C%20Wes%20Anderson%20simetrik%20kompozisyon%20esteti%C4%9Fi%2C%20ticari%20reklam%20seviyesinde%20ayd%C4%B1nlatma)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Barbie%20r%C3%BCya%20oda%20i%C3%A7%20mekan%C4%B1%2C%20%7Bargument%20name%3D%22wall%20color%22%20default%3D%22pink%22%7D%20duvarlar%20(Pantone%20219C)%2C%20y%C3%BCksek%20parlakl%C4%B1kta%20yans%C4%B1malara%20sahip%20retro%2060'lar%20plastik%20mobilyalar%2C%20g%C3%B6lgeleri%20ortadan%20kald%C4%B1rmak%20i%C3%A7in%20yan%20yumu%C5%9Fak%20%C5%9Femsiyelerle%20birle%C5%9Ftirilmi%C5%9F%20softbox%20tepe%20ayd%C4%B1nlatmas%C4%B1%2C%20plastik%20malzemeler%20ile%20ger%C3%A7ek%20%C4%B1%C5%9F%C4%B1k%20ve%20g%C3%B6lgenin%20%C3%A7arp%C4%B1%C5%9Fmas%C4%B1yla%20yarat%C4%B1lan%20s%C3%BCrreal%20his%2C%20tavan%C4%B1%20yans%C4%B1tan%20y%C3%BCksek%20parlakl%C4%B1kta%20lake%20zemin%2C%2016%3A9%20kompozisyon%2C%20y%C3%BCksek%20doygunlukta%20renkler%20(doygunluk%20%2B40)%2C%20yumu%C5%9Fak%20odakl%C4%B1%20kenarlar%2C%20Wes%20Anderson%20simetrik%20kompozisyon%20esteti%C4%9Fi%2C%20ticari%20reklam%20seviyesinde%20ayd%C4%B1nlatma)**
 
 ---
 
-<<<<<<< HEAD
-### No. 81: Amalfi Sahili Yaşam Tarzı
-=======
-### No. 84: Amalfi Sahili Yaşam Tarzı
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 85: Amalfi Sahili Yaşam Tarzı
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3147,15 +2914,11 @@ Amalfi, İtalya'da bir villanın terasında, rüzgarda uçuşan ekru Fransız ke
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Amalfi%2C%20%C4%B0talya'da%20bir%20villan%C4%B1n%20teras%C4%B1nda%2C%20r%C3%BCzgarda%20u%C3%A7u%C5%9Fan%20ekru%20Frans%C4%B1z%20keten%20elbise%20giymi%C5%9F%20zarif%20%7Bargument%20name%3D%22age%22%20default%3D%2230%20ya%C5%9F%C4%B1ndaki%22%7D%20bir%20%7Bargument%20name%3D%22gender%22%20default%3D%22kad%C4%B1n%22%7D%2C%20yumu%C5%9Fak%20alt%C4%B1n%20saat%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%20(Magic%20Hour)%2C%20bulan%C4%B1k%20Akdeniz%20mavisi%20deniz%20manzaras%C4%B1%20arka%20plan%C4%B1%2C%20Leica%20M10%20film%20renk%20sim%C3%BClasyonu%2C%20s%C4%B1cak%20tonlu%20film%20dokusu%20(Kodak%20Portra%20400)%2C%20s%C4%B1%C4%9F%20alan%20derinli%C4%9Fi%2035mm%20h%C3%BCmanist%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1k%2C%20y%C3%BCksek%20kaliteli%20gri%20palet%2C%20do%C4%9Fal%20rahat%20atmosfer)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Amalfi%2C%20%C4%B0talya'da%20bir%20villan%C4%B1n%20teras%C4%B1nda%2C%20r%C3%BCzgarda%20u%C3%A7u%C5%9Fan%20ekru%20Frans%C4%B1z%20keten%20elbise%20giymi%C5%9F%20zarif%20%7Bargument%20name%3D%22age%22%20default%3D%2230%20ya%C5%9F%C4%B1ndaki%22%7D%20bir%20%7Bargument%20name%3D%22gender%22%20default%3D%22kad%C4%B1n%22%7D%2C%20yumu%C5%9Fak%20alt%C4%B1n%20saat%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%20(Magic%20Hour)%2C%20bulan%C4%B1k%20Akdeniz%20mavisi%20deniz%20manzaras%C4%B1%20arka%20plan%C4%B1%2C%20Leica%20M10%20film%20renk%20sim%C3%BClasyonu%2C%20s%C4%B1cak%20tonlu%20film%20dokusu%20(Kodak%20Portra%20400)%2C%20s%C4%B1%C4%9F%20alan%20derinli%C4%9Fi%2035mm%20h%C3%BCmanist%20foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1k%2C%20y%C3%BCksek%20kaliteli%20gri%20palet%2C%20do%C4%9Fal%20rahat%20atmosfer)**
 
 ---
 
-<<<<<<< HEAD
-### No. 82: Y2K Dijital Kamera Selfiesi
-=======
-### No. 85: Y2K Dijital Kamera Selfiesi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 86: Y2K Dijital Kamera Selfiesi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3185,15 +2948,11 @@ Milenyum dijital fotoğraf makinesi tarzı selfie, kasıtlı düşük çözünü
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Milenyum%20dijital%20foto%C4%9Fraf%20makinesi%20tarz%C4%B1%20selfie%2C%20kas%C4%B1tl%C4%B1%20d%C3%BC%C5%9F%C3%BCk%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCkl%C3%BC%20his%20(2000'lerin%202%20megapiksel%20kalitesini%20sim%C3%BCle%20eden)%2C%20so%C4%9Fuk%20mavi-mor%20filtrelerle%20kapl%C4%B1%2C%20do%C4%9Frudan%20%C3%B6n%20fla%C5%9F%C4%B1n%20neden%20oldu%C4%9Fu%20a%C5%9F%C4%B1r%C4%B1%20pozlanm%C4%B1%C5%9F%20parlak%20noktalar%20ve%20sert%20g%C3%B6lgeler%2C%20CCD%20sens%C3%B6rlerinin%20benzersiz%20renk%20kaymas%C4%B1%20ve%20g%C3%BCr%C3%BClt%C3%BCs%C3%BC%2C%20tarih%20filigran%C4%B1%20%22%7Bargument%20name%3D%22date%22%20default%3D%2202%2F12%2F2025%22%7D%22%2C%20%C4%B1zgara%20%C3%A7izgisi%20dekorasyonu%2C%20MySpace%20d%C3%B6nemi%20sosyal%20medya%20dokusu%2C%20kare%201%3A1%20kompozisyon)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Milenyum%20dijital%20foto%C4%9Fraf%20makinesi%20tarz%C4%B1%20selfie%2C%20kas%C4%B1tl%C4%B1%20d%C3%BC%C5%9F%C3%BCk%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCkl%C3%BC%20his%20(2000'lerin%202%20megapiksel%20kalitesini%20sim%C3%BCle%20eden)%2C%20so%C4%9Fuk%20mavi-mor%20filtrelerle%20kapl%C4%B1%2C%20do%C4%9Frudan%20%C3%B6n%20fla%C5%9F%C4%B1n%20neden%20oldu%C4%9Fu%20a%C5%9F%C4%B1r%C4%B1%20pozlanm%C4%B1%C5%9F%20parlak%20noktalar%20ve%20sert%20g%C3%B6lgeler%2C%20CCD%20sens%C3%B6rlerinin%20benzersiz%20renk%20kaymas%C4%B1%20ve%20g%C3%BCr%C3%BClt%C3%BCs%C3%BC%2C%20tarih%20filigran%C4%B1%20%22%7Bargument%20name%3D%22date%22%20default%3D%2202%2F12%2F2025%22%7D%22%2C%20%C4%B1zgara%20%C3%A7izgisi%20dekorasyonu%2C%20MySpace%20d%C3%B6nemi%20sosyal%20medya%20dokusu%2C%20kare%201%3A1%20kompozisyon)**
 
 ---
 
-<<<<<<< HEAD
-### No. 83: Sinematik Bilim İnsanı Portresi
-=======
-### No. 86: Sinematik Bilim İnsanı Portresi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 87: Sinematik Bilim İnsanı Portresi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3223,15 +2982,11 @@ Christopher Nolan'ın biyografik tarzını anımsatan dramatik siyah beyaz bir f
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=35mm%20siyah%20beyaz%20film%20stili%2C%20lo%C5%9F%20bir%20laboratuvarda%20as%C4%B1l%C4%B1%20duran%20bir%20%7Bargument%20name%3D%22object%22%20default%3D%22atom%20modeli%22%7Dna%20bakan%20bir%20%7Bargument%20name%3D%22character%20identity%22%20default%3D%22bilim%20insan%C4%B1%22%7D%2C%20soldan%2045%20derecelik%20a%C3%A7%C4%B1yla%20vuran%20g%C3%BC%C3%A7l%C3%BC%20Rembrandt%20yan%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%2C%20%C4%B1%C5%9F%C4%B1k%20huzmesinde%20katmanlar%20olu%C5%9Fturan%20duman%2C%20derin%20y%C3%BCz%20k%C4%B1r%C4%B1%C5%9F%C4%B1kl%C4%B1klar%C4%B1%20net%20bir%20%C5%9Fekilde%20g%C3%B6r%C3%BCn%C3%BCr%2C%20arka%20plandaki%20deneysel%20ekipman%20bulan%C4%B1k%2C%20film%20greni%20sim%C3%BClasyonu%20ISO%20800%2C%20y%C3%BCksek%20kontrastl%C4%B1%20siyah%20beyaz%20ton%2C%20dramatik%20chiaroscuro%2C%20Christopher%20Nolan%20sinematografi%20stili%2C%20anamorfik%20geni%C5%9F%20ekran%20oran%C4%B1%202.39%3A1)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=35mm%20siyah%20beyaz%20film%20stili%2C%20lo%C5%9F%20bir%20laboratuvarda%20as%C4%B1l%C4%B1%20duran%20bir%20%7Bargument%20name%3D%22object%22%20default%3D%22atom%20modeli%22%7Dna%20bakan%20bir%20%7Bargument%20name%3D%22character%20identity%22%20default%3D%22bilim%20insan%C4%B1%22%7D%2C%20soldan%2045%20derecelik%20a%C3%A7%C4%B1yla%20vuran%20g%C3%BC%C3%A7l%C3%BC%20Rembrandt%20yan%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%2C%20%C4%B1%C5%9F%C4%B1k%20huzmesinde%20katmanlar%20olu%C5%9Fturan%20duman%2C%20derin%20y%C3%BCz%20k%C4%B1r%C4%B1%C5%9F%C4%B1kl%C4%B1klar%C4%B1%20net%20bir%20%C5%9Fekilde%20g%C3%B6r%C3%BCn%C3%BCr%2C%20arka%20plandaki%20deneysel%20ekipman%20bulan%C4%B1k%2C%20film%20greni%20sim%C3%BClasyonu%20ISO%20800%2C%20y%C3%BCksek%20kontrastl%C4%B1%20siyah%20beyaz%20ton%2C%20dramatik%20chiaroscuro%2C%20Christopher%20Nolan%20sinematografi%20stili%2C%20anamorfik%20geni%C5%9F%20ekran%20oran%C4%B1%202.39%3A1)**
 
 ---
 
-<<<<<<< HEAD
-### No. 84: Judy ve Nick Keçe Noel Posteri
-=======
-### No. 87: Judy ve Nick Keçe Noel Posteri
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 88: Judy ve Nick Keçe Noel Posteri
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3260,15 +3015,11 @@ Keçe dokulu Noel temalı poster, genel olarak sıcak ve iyileştirici yün keç
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Ke%C3%A7e%20dokulu%20Noel%20temal%C4%B1%20poster%2C%20genel%20olarak%20s%C4%B1cak%20ve%20iyile%C5%9Ftirici%20y%C3%BCn%20ke%C3%A7e%20el%20yap%C4%B1m%C4%B1%20doku%20kullan%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.%20Ortada%20kabar%C4%B1k%2C%203%20boyutlu%20ye%C5%9Fil%20bir%20ke%C3%A7e%20Noel%20a%C4%9Fac%C4%B1%20bulunmaktad%C4%B1r.%20Disney%20karakterleri%20Judy%20ve%20Nick%2C%20hal%C4%B1n%C4%B1n%20%C3%BCzerinde%20s%C3%BCt%20beyaz%C4%B1%20pelu%C5%9F%20kurdeleler%20ve%20alt%C4%B1n%20ponponlarla%20sar%C4%B1lm%C4%B1%C5%9F%20hediye%20kutular%C4%B1n%C4%B1%20paketlerken%20oturuyorlar%2C%20a%C4%9Fac%C4%B1n%20tepesi%20parlayan%20bir%20ke%C3%A7e%20y%C4%B1ld%C4%B1zla%20s%C3%BCslenmi%C5%9Ftir.%20A%C4%9Fac%C4%B1n%20alt%C4%B1nda%20y%C3%BCn%20ke%C3%A7e%20kuma%C5%9Fla%20sar%C4%B1lm%C4%B1%C5%9F%20hediye%20kutular%C4%B1%2C%20renkli%20iplik%20fiyonklar%20ve%20ke%C3%A7e%20%C3%A7anlarla%20birlikte%20y%C4%B1%C4%9F%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.%20Etrafa%20ke%C3%A7e%20kar%20taneleri%2C%20ke%C3%A7e%20ren%20geyi%C4%9Fi%20bebekleri%20ve%20ke%C3%A7e%20zencefilli%20kurabiye%20adamlar%20serpi%C5%9Ftirilmi%C5%9Ftir.%20Arka%20plan%2C%20a%C3%A7%C4%B1k%20kahverengi%20ke%C3%A7e%20dokulu%2C%20parlayan%20bir%20ke%C3%A7e%20%C5%9F%C3%B6mine%2C%20pelu%C5%9F%20hal%C4%B1%20ve%20ke%C3%A7e%20%C3%A7orapl%C4%B1%20bir%20%C5%9F%C3%B6mine%20raf%C4%B1%20i%C3%A7eren%20s%C4%B1cak%20bir%20k%C4%B1r%20evi%20sahnesidir.%20Pencerenin%20d%C4%B1%C5%9F%C4%B1nda%20yumu%C5%9Fak%20ke%C3%A7e%20kar%20taneleri%20s%C3%BCz%C3%BClmektedir.%20Genel%20ton%20s%C4%B1cak%20kahverengi%2C%20Noel%20k%C4%B1rm%C4%B1z%C4%B1s%C4%B1%2C%20s%C3%BCt%20beyaz%C4%B1%20ve%20a%C3%A7%C4%B1k%20alt%C4%B1n%20renklerine%20odaklanm%C4%B1%C5%9Ft%C4%B1r.%20Y%C3%BCksek%20doygunlukta%20s%C4%B1cak%20renk%20%C5%9Femas%C4%B1%2C%20ultra%20y%C3%BCksek%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCkl%C3%BC%20detaylar%2C%20yumu%C5%9Fak%20ve%20s%C4%B1cak%20ayd%C4%B1nlatma%2C%20zengin%20katmanlara%20sahip%20canl%C4%B1%20ve%20iyile%C5%9Ftirici%20bir%20atmosfer%2C%20a%C4%9F%C4%B1r%203%20boyutlu%20el%20yap%C4%B1m%C4%B1%20doku%20hissiyle%20dolu.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Ke%C3%A7e%20dokulu%20Noel%20temal%C4%B1%20poster%2C%20genel%20olarak%20s%C4%B1cak%20ve%20iyile%C5%9Ftirici%20y%C3%BCn%20ke%C3%A7e%20el%20yap%C4%B1m%C4%B1%20doku%20kullan%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.%20Ortada%20kabar%C4%B1k%2C%203%20boyutlu%20ye%C5%9Fil%20bir%20ke%C3%A7e%20Noel%20a%C4%9Fac%C4%B1%20bulunmaktad%C4%B1r.%20Disney%20karakterleri%20Judy%20ve%20Nick%2C%20hal%C4%B1n%C4%B1n%20%C3%BCzerinde%20s%C3%BCt%20beyaz%C4%B1%20pelu%C5%9F%20kurdeleler%20ve%20alt%C4%B1n%20ponponlarla%20sar%C4%B1lm%C4%B1%C5%9F%20hediye%20kutular%C4%B1n%C4%B1%20paketlerken%20oturuyorlar%2C%20a%C4%9Fac%C4%B1n%20tepesi%20parlayan%20bir%20ke%C3%A7e%20y%C4%B1ld%C4%B1zla%20s%C3%BCslenmi%C5%9Ftir.%20A%C4%9Fac%C4%B1n%20alt%C4%B1nda%20y%C3%BCn%20ke%C3%A7e%20kuma%C5%9Fla%20sar%C4%B1lm%C4%B1%C5%9F%20hediye%20kutular%C4%B1%2C%20renkli%20iplik%20fiyonklar%20ve%20ke%C3%A7e%20%C3%A7anlarla%20birlikte%20y%C4%B1%C4%9F%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.%20Etrafa%20ke%C3%A7e%20kar%20taneleri%2C%20ke%C3%A7e%20ren%20geyi%C4%9Fi%20bebekleri%20ve%20ke%C3%A7e%20zencefilli%20kurabiye%20adamlar%20serpi%C5%9Ftirilmi%C5%9Ftir.%20Arka%20plan%2C%20a%C3%A7%C4%B1k%20kahverengi%20ke%C3%A7e%20dokulu%2C%20parlayan%20bir%20ke%C3%A7e%20%C5%9F%C3%B6mine%2C%20pelu%C5%9F%20hal%C4%B1%20ve%20ke%C3%A7e%20%C3%A7orapl%C4%B1%20bir%20%C5%9F%C3%B6mine%20raf%C4%B1%20i%C3%A7eren%20s%C4%B1cak%20bir%20k%C4%B1r%20evi%20sahnesidir.%20Pencerenin%20d%C4%B1%C5%9F%C4%B1nda%20yumu%C5%9Fak%20ke%C3%A7e%20kar%20taneleri%20s%C3%BCz%C3%BClmektedir.%20Genel%20ton%20s%C4%B1cak%20kahverengi%2C%20Noel%20k%C4%B1rm%C4%B1z%C4%B1s%C4%B1%2C%20s%C3%BCt%20beyaz%C4%B1%20ve%20a%C3%A7%C4%B1k%20alt%C4%B1n%20renklerine%20odaklanm%C4%B1%C5%9Ft%C4%B1r.%20Y%C3%BCksek%20doygunlukta%20s%C4%B1cak%20renk%20%C5%9Femas%C4%B1%2C%20ultra%20y%C3%BCksek%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCkl%C3%BC%20detaylar%2C%20yumu%C5%9Fak%20ve%20s%C4%B1cak%20ayd%C4%B1nlatma%2C%20zengin%20katmanlara%20sahip%20canl%C4%B1%20ve%20iyile%C5%9Ftirici%20bir%20atmosfer%2C%20a%C4%9F%C4%B1r%203%20boyutlu%20el%20yap%C4%B1m%C4%B1%20doku%20hissiyle%20dolu.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 85: Dünyadan Bıkmış Ofis Tavşanı Selfiesi
-=======
-### No. 88: Dünyadan Bıkmış Ofis Tavşanı Selfiesi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 89: Dünyadan Bıkmış Ofis Tavşanı Selfiesi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3297,15 +3048,11 @@ Günlük bir enstantane görsel tarzında sunulan, insan biçimli küçük bir t
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=G%C3%BCnl%C3%BCk%20bir%20enstantane%20g%C3%B6rsel%20tarz%C4%B1nda%20sunulan%2C%20insan%20bi%C3%A7imli%20k%C3%BC%C3%A7%C3%BCk%20bir%20tav%C5%9Fan.%20Foto%C4%9Frafta%20belirgin%20bir%20konu%20veya%20kompozisyon%20anlay%C4%B1%C5%9F%C4%B1%20yok%20ve%20hafif%20bir%20hareket%20bulan%C4%B1kl%C4%B1%C4%9F%C4%B1%20var.%20Kahraman%2C%20kadraj%C4%B1n%20merkezinde%2C%20bir%20selfie%20yak%C4%B1n%20%C3%A7ekimi%20olarak%20yer%20al%C4%B1yor%3B%20y%C3%BCz%C3%BCnde%20b%C4%B1kk%C4%B1n%20bir%20ifade%20var%20ve%20boynunda%20kendi%20yak%C4%B1n%20%C3%A7ekiminin%20oldu%C4%9Fu%20bir%20rozet%20tak%C4%B1yor.%20Arka%20plan%20bir%20ofis%20sahnesi%20ve%20yan%C4%B1ndaki%20bilgisayar%20ekran%C4%B1nda%20bir%20grafik%20tasar%C4%B1m%20sayfas%C4%B1%20a%C3%A7%C4%B1k%2C%20bu%20da%20s%C4%B1radan%20ama%20benzersiz%20bir%20atmosfer%20yarat%C4%B1yor.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=G%C3%BCnl%C3%BCk%20bir%20enstantane%20g%C3%B6rsel%20tarz%C4%B1nda%20sunulan%2C%20insan%20bi%C3%A7imli%20k%C3%BC%C3%A7%C3%BCk%20bir%20tav%C5%9Fan.%20Foto%C4%9Frafta%20belirgin%20bir%20konu%20veya%20kompozisyon%20anlay%C4%B1%C5%9F%C4%B1%20yok%20ve%20hafif%20bir%20hareket%20bulan%C4%B1kl%C4%B1%C4%9F%C4%B1%20var.%20Kahraman%2C%20kadraj%C4%B1n%20merkezinde%2C%20bir%20selfie%20yak%C4%B1n%20%C3%A7ekimi%20olarak%20yer%20al%C4%B1yor%3B%20y%C3%BCz%C3%BCnde%20b%C4%B1kk%C4%B1n%20bir%20ifade%20var%20ve%20boynunda%20kendi%20yak%C4%B1n%20%C3%A7ekiminin%20oldu%C4%9Fu%20bir%20rozet%20tak%C4%B1yor.%20Arka%20plan%20bir%20ofis%20sahnesi%20ve%20yan%C4%B1ndaki%20bilgisayar%20ekran%C4%B1nda%20bir%20grafik%20tasar%C4%B1m%20sayfas%C4%B1%20a%C3%A7%C4%B1k%2C%20bu%20da%20s%C4%B1radan%20ama%20benzersiz%20bir%20atmosfer%20yarat%C4%B1yor.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 86: Trendy Little Fox IP Karakter Tasarımı
-=======
-### No. 89: Trendy Little Fox IP Karakter Tasarımı
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 90: Trendy Little Fox IP Karakter Tasarımı
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3335,15 +3082,11 @@ IP karakter tasarımı: Q-versiyon, tüylü, kırmızımsı-turuncu küçük bir
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=IP%20karakter%20tasar%C4%B1m%C4%B1%3A%20Q-versiyon%2C%20t%C3%BCyl%C3%BC%2C%20k%C4%B1rm%C4%B1z%C4%B1ms%C4%B1-turuncu%20k%C3%BC%C3%A7%C3%BCk%20bir%20tilki%2C%20kulakl%C4%B1k%20takm%C4%B1%C5%9F%2C%20mest%20olmu%C5%9F%20ifade%2C%20beyaz%20trend%20bir%20ti%C5%9F%C3%B6rt%2C%20bol%20pa%C3%A7a%20pantolon%2C%20%C3%A7apraz%20%C3%A7anta%20giymi%C5%9F%2C%20rahat%20ve%20konforlu%20bir%20atmosfer%2C%20detayl%C4%B1%20%C3%A7izim%2C%20altta%20ortalanm%C4%B1%C5%9F%20k%C3%BC%C3%A7%C3%BCk%20sans-serif%20metin%20%22%7Bargument%20name%3D%22brand%20text%22%20default%3D%22YUAN%C3%97DESIGN%22%7D%22%20%22%7Bargument%20name%3D%22slogan%22%20default%3D%22Original%20Works%2C%20Enriching%20Life%22%7D%22%2C%20y%C3%BCksek%20kaliteli%20%C3%A7%C4%B1kt%C4%B1.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=IP%20karakter%20tasar%C4%B1m%C4%B1%3A%20Q-versiyon%2C%20t%C3%BCyl%C3%BC%2C%20k%C4%B1rm%C4%B1z%C4%B1ms%C4%B1-turuncu%20k%C3%BC%C3%A7%C3%BCk%20bir%20tilki%2C%20kulakl%C4%B1k%20takm%C4%B1%C5%9F%2C%20mest%20olmu%C5%9F%20ifade%2C%20beyaz%20trend%20bir%20ti%C5%9F%C3%B6rt%2C%20bol%20pa%C3%A7a%20pantolon%2C%20%C3%A7apraz%20%C3%A7anta%20giymi%C5%9F%2C%20rahat%20ve%20konforlu%20bir%20atmosfer%2C%20detayl%C4%B1%20%C3%A7izim%2C%20altta%20ortalanm%C4%B1%C5%9F%20k%C3%BC%C3%A7%C3%BCk%20sans-serif%20metin%20%22%7Bargument%20name%3D%22brand%20text%22%20default%3D%22YUAN%C3%97DESIGN%22%7D%22%20%22%7Bargument%20name%3D%22slogan%22%20default%3D%22Original%20Works%2C%20Enriching%20Life%22%7D%22%2C%20y%C3%BCksek%20kaliteli%20%C3%A7%C4%B1kt%C4%B1.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 87: Sonsuz Canlılık El Yazısı Poster
-=======
-### No. 90: Sonsuz Canlılık El Yazısı Poster
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 91: Sonsuz Canlılık El Yazısı Poster
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3373,15 +3116,11 @@ Kaligrafi yazı tipi posteri "{argument name="poster text" default="Life Goes On
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Kaligrafi%20yaz%C4%B1%20tipi%20posteri%20%22%7Bargument%20name%3D%22poster%20text%22%20default%3D%22Life%20Goes%20On%22%7D%22%2C%20vah%C5%9Fi%20ve%20dizginsiz%20el%20yaz%C4%B1s%C4%B1%20yaz%C4%B1%20tipi%2C%20dinamizm%20dolu%20g%C3%B6rsel%20gerilim%2C%20ultra%20kal%C4%B1n%20vuru%C5%9Flar%20p%C3%BCr%C3%BCzs%C3%BCz%20ve%20zarif%2C%20vuru%C5%9Flar%20ustaca%20uzat%C4%B1lm%C4%B1%C5%9F%20ve%20deforme%20edilmi%C5%9F%2C%20u%C3%A7an%20beyaz%20efekti%2C%20vuru%C5%9Flar%20p%C3%BCr%C3%BCzs%C3%BCz%20ve%20%C5%9F%C4%B1k%2C%20temiz%20arka%20plan%2C%20usta%20poster%20%C3%A7al%C4%B1%C5%9Fmas%C4%B1%2C%20film%20posteri%2C)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Kaligrafi%20yaz%C4%B1%20tipi%20posteri%20%22%7Bargument%20name%3D%22poster%20text%22%20default%3D%22Life%20Goes%20On%22%7D%22%2C%20vah%C5%9Fi%20ve%20dizginsiz%20el%20yaz%C4%B1s%C4%B1%20yaz%C4%B1%20tipi%2C%20dinamizm%20dolu%20g%C3%B6rsel%20gerilim%2C%20ultra%20kal%C4%B1n%20vuru%C5%9Flar%20p%C3%BCr%C3%BCzs%C3%BCz%20ve%20zarif%2C%20vuru%C5%9Flar%20ustaca%20uzat%C4%B1lm%C4%B1%C5%9F%20ve%20deforme%20edilmi%C5%9F%2C%20u%C3%A7an%20beyaz%20efekti%2C%20vuru%C5%9Flar%20p%C3%BCr%C3%BCzs%C3%BCz%20ve%20%C5%9F%C4%B1k%2C%20temiz%20arka%20plan%2C%20usta%20poster%20%C3%A7al%C4%B1%C5%9Fmas%C4%B1%2C%20film%20posteri%2C)**
 
 ---
 
-<<<<<<< HEAD
-### No. 88: Judy ve Nick Düzensiz Buzdolabı Magnet Tasarımı
-=======
-### No. 91: Judy ve Nick Düzensiz Buzdolabı Magnet Tasarımı
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 92: Judy ve Nick Düzensiz Buzdolabı Magnet Tasarımı
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3411,15 +3150,11 @@ Modern minimalist tasarım stili, Zootopia temalı emaye buzdolabı mıknatısı
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Modern%20minimalist%20tasar%C4%B1m%20stili%2C%20Zootopia%20temal%C4%B1%20emaye%20buzdolab%C4%B1%20m%C4%B1knat%C4%B1s%C4%B1%20tasar%C4%B1m%C4%B1%2C%20d%C3%BCzensiz%20%C5%9Fekilli%20m%C4%B1knat%C4%B1s%2C%20Judy%20Hopps%20ve%20Nick%20Wilde'%C4%B1n%20yak%C4%B1n%20%C3%A7ekimi%2C%20Noel%20element%20desenleriyle%20%C3%A7evrili%2C%20altta%20%22%7Bargument%20name%3D%22bottom%20text%22%20default%3D%22Merry%20Christmas%22%7D%22%20%C4%B0ngilizce%20yaz%C4%B1%20tipi%2C%20uluslararas%C4%B1%20tasar%C4%B1m%2C%20premium%20his%2C%20a%C3%A7%C4%B1k%20mor%20degrade%20renk.%20Saf%20dokulu%20arka%20plan.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Modern%20minimalist%20tasar%C4%B1m%20stili%2C%20Zootopia%20temal%C4%B1%20emaye%20buzdolab%C4%B1%20m%C4%B1knat%C4%B1s%C4%B1%20tasar%C4%B1m%C4%B1%2C%20d%C3%BCzensiz%20%C5%9Fekilli%20m%C4%B1knat%C4%B1s%2C%20Judy%20Hopps%20ve%20Nick%20Wilde'%C4%B1n%20yak%C4%B1n%20%C3%A7ekimi%2C%20Noel%20element%20desenleriyle%20%C3%A7evrili%2C%20altta%20%22%7Bargument%20name%3D%22bottom%20text%22%20default%3D%22Merry%20Christmas%22%7D%22%20%C4%B0ngilizce%20yaz%C4%B1%20tipi%2C%20uluslararas%C4%B1%20tasar%C4%B1m%2C%20premium%20his%2C%20a%C3%A7%C4%B1k%20mor%20degrade%20renk.%20Saf%20dokulu%20arka%20plan.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 89: 3D Cam Cüzdan ve Madeni Para Simgesi
-=======
-### No. 92: 3D Cam Cüzdan ve Madeni Para Simgesi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 93: 3D Cam Cüzdan ve Madeni Para Simgesi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3449,15 +3184,11 @@ Kullanıcı arayüzü simgesi, altın paralarla dolu bir cüzdan, bir yığın a
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Kullan%C4%B1c%C4%B1%20aray%C3%BCz%C3%BC%20simgesi%2C%20alt%C4%B1n%20paralarla%20dolu%20bir%20c%C3%BCzdan%2C%20bir%20y%C4%B1%C4%9F%C4%B1n%20alt%C4%B1n%20para%2C%20alt%C4%B1n%20paralar%C4%B1n%20%C3%BCzerinde%20%7Bargument%20name%3D%22currency%20type%22%20default%3D%22RMB%22%7D%20sembol%C3%BC%2C%203D%20efekti%2C%20cam%20dokusu%2C%20yumu%C5%9Fak%20alt%C4%B1n%20gradyan%2C%20yar%C4%B1%20saydam%20malzeme%20hale%20efekti%2C%20a%C3%A7%C4%B1k%20arka%20plan%20z%C4%B1t%20renk%20ak%C4%B1%C5%9F%C4%B1%2C%203D%20i%C5%9Fleme%20stili%2C%20g%C3%B6r%C3%BCnt%C3%BC%20nefes%20al%C4%B1yormu%C5%9F%20hissi%20veriyor.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Kullan%C4%B1c%C4%B1%20aray%C3%BCz%C3%BC%20simgesi%2C%20alt%C4%B1n%20paralarla%20dolu%20bir%20c%C3%BCzdan%2C%20bir%20y%C4%B1%C4%9F%C4%B1n%20alt%C4%B1n%20para%2C%20alt%C4%B1n%20paralar%C4%B1n%20%C3%BCzerinde%20%7Bargument%20name%3D%22currency%20type%22%20default%3D%22RMB%22%7D%20sembol%C3%BC%2C%203D%20efekti%2C%20cam%20dokusu%2C%20yumu%C5%9Fak%20alt%C4%B1n%20gradyan%2C%20yar%C4%B1%20saydam%20malzeme%20hale%20efekti%2C%20a%C3%A7%C4%B1k%20arka%20plan%20z%C4%B1t%20renk%20ak%C4%B1%C5%9F%C4%B1%2C%203D%20i%C5%9Fleme%20stili%2C%20g%C3%B6r%C3%BCnt%C3%BC%20nefes%20al%C4%B1yormu%C5%9F%20hissi%20veriyor.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 90: Nick ve Judy Chibi El Çizimi İllüstrasyon
-=======
-### No. 93: Nick ve Judy Chibi El Çizimi İllüstrasyon
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 94: Nick ve Judy Chibi El Çizimi İllüstrasyon
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3486,15 +3217,11 @@ Bu, Disney'in "Zootopia" adlı animasyon filmindeki klasik karakter ikilisi tilk
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Bu%2C%20Disney'in%20%22Zootopia%22%20adl%C4%B1%20animasyon%20filmindeki%20klasik%20karakter%20ikilisi%20tilki%20Nick%20ve%20tav%C5%9Fan%20Judy'nin%20Q%20versiyonu%20el%20%C3%A7izimi%20ill%C3%BCstrasyonudur.%20Resimde%20Nick%2C%20Judy'nin%20%C3%BCzerine%20uzanm%C4%B1%C5%9F%20ve%20ikisi%20birlikte%20bir%20kap%C4%B1n%C4%B1n%20arkas%C4%B1ndan%20ba%C5%9Flar%C4%B1n%C4%B1%20uzat%C4%B1yorlar.%20Judy'nin%20yan%C4%B1nda%20iki%20kalp%20%C3%B6%C4%9Fesi%20bulunuyor.%20Genel%20tarz%20sevimli%20ve%20e%C4%9Flenceli%20olup%2C%20bu%20partner%20ikilisinin%20z%C4%B1mni%20anlay%C4%B1%C5%9F%C4%B1n%C4%B1%20ve%20sevimlili%C4%9Fini%20tam%20olarak%20sergiliyor%2C%20s%C4%B1cak%20bir%20atmosferle%20dolu.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Bu%2C%20Disney'in%20%22Zootopia%22%20adl%C4%B1%20animasyon%20filmindeki%20klasik%20karakter%20ikilisi%20tilki%20Nick%20ve%20tav%C5%9Fan%20Judy'nin%20Q%20versiyonu%20el%20%C3%A7izimi%20ill%C3%BCstrasyonudur.%20Resimde%20Nick%2C%20Judy'nin%20%C3%BCzerine%20uzanm%C4%B1%C5%9F%20ve%20ikisi%20birlikte%20bir%20kap%C4%B1n%C4%B1n%20arkas%C4%B1ndan%20ba%C5%9Flar%C4%B1n%C4%B1%20uzat%C4%B1yorlar.%20Judy'nin%20yan%C4%B1nda%20iki%20kalp%20%C3%B6%C4%9Fesi%20bulunuyor.%20Genel%20tarz%20sevimli%20ve%20e%C4%9Flenceli%20olup%2C%20bu%20partner%20ikilisinin%20z%C4%B1mni%20anlay%C4%B1%C5%9F%C4%B1n%C4%B1%20ve%20sevimlili%C4%9Fini%20tam%20olarak%20sergiliyor%2C%20s%C4%B1cak%20bir%20atmosferle%20dolu.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 91: Üç Kişilik Birleştirilmiş Yukarıdan Aşağıya Selfie
-=======
-### No. 94: Üç Kişilik Birleştirilmiş Yukarıdan Aşağıya Selfie
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 95: Üç Kişilik Birleştirilmiş Yukarıdan Aşağıya Selfie
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3524,15 +3251,11 @@ Yüzleri değiştirmeyin, karakterlerin yüzleri kesinlikle değişmemeli! Lütf
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Y%C3%BCzleri%20de%C4%9Fi%C5%9Ftirmeyin%2C%20karakterlerin%20y%C3%BCzleri%20kesinlikle%20de%C4%9Fi%C5%9Fmemeli!%20L%C3%BCtfen%20G%C3%B6rsel%201%2C%20G%C3%B6rsel%202%20ve%20G%C3%B6rsel%203'teki%20%C3%BC%C3%A7%20ki%C5%9Fiyi%20%C3%BC%C3%A7%20ki%C5%9Filik%20y%C3%BCksek%20a%C3%A7%C4%B1l%C4%B1%20bir%20selfie'de%20birle%C5%9Ftirin.%20Kompozisyon%20s%C4%B1k%C4%B1%2C%20%C3%BC%C3%A7%20%C3%B6zne%20birbirine%20%C3%A7ok%20yak%C4%B1n%2C%20ba%C5%9Flar%20hafif%C3%A7e%20yukar%C4%B1%20e%C4%9Fik%2C%20g%C3%B6zler%20do%C4%9Frudan%20lense%20bak%C4%B1yor%2C%20g%C3%BC%C3%A7l%C3%BC%20bir%20g%C3%B6rsel%20etki%20yarat%C4%B1yor.%20G%C3%B6rsel%201'deki%20ki%C5%9Fi%20ortada%20hafif%C3%A7e%20%C3%B6nde%20duruyor%2C%20y%C3%BCz%20benzerli%C4%9Fi%20korunmal%C4%B1%3B%20v%C3%BCcut%20hafif%C3%A7e%20kambur%2C%20%C3%A7ekim%20a%C3%A7%C4%B1s%C4%B1%20y%C3%BCksek%20a%C3%A7%C4%B1l%C4%B1%20yukar%C4%B1dan%20a%C5%9Fa%C4%9F%C4%B1ya%2C%20ba%C5%9F%20oranlar%C4%B1n%C4%B1%20abartarak%20tipik%20Japon%2FKore%20g%C3%B6rsel%20selfie%20stiline%20uygun.%20Basit%20ve%20temiz%2C%20karakter%20%C3%B6znelerini%20daha%20da%20vurguluyor.%20G%C3%B6rsel%20stil%20Japon%20visual%20kei'ye%20yak%C4%B1n%2C%20genel%20g%C3%B6r%C3%BCnt%C3%BC%20y%C3%BCksek%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCkl%C3%BC%2C%20iPhone%20%C3%B6n%20kameras%C4%B1yla%20%C3%A7ekilmi%C5%9F%2C%20sonunda%20zarif%2C%20%C5%9F%C4%B1k%20bir%20grup%20foto%C4%9Fraf%C4%B1%20efekti%20sunuyor.%20Karakterlerin%20sahneye%20sorunsuz%20entegrasyonu%2C%20do%C4%9Fal%20g%C3%B6rsel%20ge%C3%A7i%C5%9F%2C%20genel%20ayd%C4%B1nlatma%20parlak%20ve%20e%C5%9Fit%20olmal%C4%B1.%20Arka%20plan%2C%20seyirci%20dolu%20s%C3%BCper%20b%C3%BCy%C3%BCk%20bir%20sinema%2C%20iki%20ki%C5%9Fi%20ekrana%20s%C4%B1rt%C4%B1%20d%C3%B6n%C3%BCk%2C%20ekranda%20%22%7Bargument%20name%3D%22movie%20poster%20name%22%20default%3D%22Zootopia%202%22%7D%22%20filminin%20zarif%20bir%20afi%C5%9Fi%20t%C3%BCm%20ekran%C4%B1%20kapl%C4%B1yor.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Y%C3%BCzleri%20de%C4%9Fi%C5%9Ftirmeyin%2C%20karakterlerin%20y%C3%BCzleri%20kesinlikle%20de%C4%9Fi%C5%9Fmemeli!%20L%C3%BCtfen%20G%C3%B6rsel%201%2C%20G%C3%B6rsel%202%20ve%20G%C3%B6rsel%203'teki%20%C3%BC%C3%A7%20ki%C5%9Fiyi%20%C3%BC%C3%A7%20ki%C5%9Filik%20y%C3%BCksek%20a%C3%A7%C4%B1l%C4%B1%20bir%20selfie'de%20birle%C5%9Ftirin.%20Kompozisyon%20s%C4%B1k%C4%B1%2C%20%C3%BC%C3%A7%20%C3%B6zne%20birbirine%20%C3%A7ok%20yak%C4%B1n%2C%20ba%C5%9Flar%20hafif%C3%A7e%20yukar%C4%B1%20e%C4%9Fik%2C%20g%C3%B6zler%20do%C4%9Frudan%20lense%20bak%C4%B1yor%2C%20g%C3%BC%C3%A7l%C3%BC%20bir%20g%C3%B6rsel%20etki%20yarat%C4%B1yor.%20G%C3%B6rsel%201'deki%20ki%C5%9Fi%20ortada%20hafif%C3%A7e%20%C3%B6nde%20duruyor%2C%20y%C3%BCz%20benzerli%C4%9Fi%20korunmal%C4%B1%3B%20v%C3%BCcut%20hafif%C3%A7e%20kambur%2C%20%C3%A7ekim%20a%C3%A7%C4%B1s%C4%B1%20y%C3%BCksek%20a%C3%A7%C4%B1l%C4%B1%20yukar%C4%B1dan%20a%C5%9Fa%C4%9F%C4%B1ya%2C%20ba%C5%9F%20oranlar%C4%B1n%C4%B1%20abartarak%20tipik%20Japon%2FKore%20g%C3%B6rsel%20selfie%20stiline%20uygun.%20Basit%20ve%20temiz%2C%20karakter%20%C3%B6znelerini%20daha%20da%20vurguluyor.%20G%C3%B6rsel%20stil%20Japon%20visual%20kei'ye%20yak%C4%B1n%2C%20genel%20g%C3%B6r%C3%BCnt%C3%BC%20y%C3%BCksek%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCkl%C3%BC%2C%20iPhone%20%C3%B6n%20kameras%C4%B1yla%20%C3%A7ekilmi%C5%9F%2C%20sonunda%20zarif%2C%20%C5%9F%C4%B1k%20bir%20grup%20foto%C4%9Fraf%C4%B1%20efekti%20sunuyor.%20Karakterlerin%20sahneye%20sorunsuz%20entegrasyonu%2C%20do%C4%9Fal%20g%C3%B6rsel%20ge%C3%A7i%C5%9F%2C%20genel%20ayd%C4%B1nlatma%20parlak%20ve%20e%C5%9Fit%20olmal%C4%B1.%20Arka%20plan%2C%20seyirci%20dolu%20s%C3%BCper%20b%C3%BCy%C3%BCk%20bir%20sinema%2C%20iki%20ki%C5%9Fi%20ekrana%20s%C4%B1rt%C4%B1%20d%C3%B6n%C3%BCk%2C%20ekranda%20%22%7Bargument%20name%3D%22movie%20poster%20name%22%20default%3D%22Zootopia%202%22%7D%22%20filminin%20zarif%20bir%20afi%C5%9Fi%20t%C3%BCm%20ekran%C4%B1%20kapl%C4%B1yor.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 92: Domatesli ve Yumurtalı Sote El Çizimi Bilgi Kartı
-=======
-### No. 95: Domatesli ve Yumurtalı Sote El Çizimi Bilgi Kartı
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 96: Domatesli ve Yumurtalı Sote El Çizimi Bilgi Kartı
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3562,15 +3285,11 @@ Bu bilgi istemi, eğlenceli öğretim materyalleri veya günlük yaşam kayıtla
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22dish%20name%22%20default%3D%22Domatesli%20%C3%87%C4%B1rp%C4%B1lm%C4%B1%C5%9F%20Yumurta%22%7D%20tarifi%20i%C3%A7in%20bir%20bilgi%20kart%C4%B1%20olu%C5%9Fturun%2C%20kart%20stili%20el%20%C3%A7izimi%2Fkaralama%20notu%20tarz%C4%B1nda%20olsun.%20Yaz%C4%B1%20Tipi%3A%20El%20yaz%C4%B1s%C4%B1%20veya%20el%20yaz%C4%B1s%C4%B1%20benzeri%20yaz%C4%B1%20tipleri%20kullan%C4%B1n%20ya%20da%20do%C4%9Frudan%20el%20yaz%C4%B1s%C4%B1%20kullan%C4%B1n.%20%C3%96%C4%9Feler%3A%20%C4%B0fadeye%20yard%C4%B1mc%C4%B1%20olmak%20i%C3%A7in%20%C3%A7ok%20say%C4%B1da%20%C3%A7%C3%B6p%20adam%2C%20k%C3%BC%C3%A7%C3%BCk%20simgeler%2C%20oklar%2C%20konu%C5%9Fma%20balonlar%C4%B1%2C%20ay%C4%B1r%C4%B1c%C4%B1lar%20ve%20di%C4%9Fer%20el%20%C3%A7izimi%20%C3%B6%C4%9Feler%20kullan%C4%B1n.%20Renkler%3A%20Zengin%20ve%20canl%C4%B1%20renkler%2C%20genellikle%20fosforlu%20kalem%2C%20renkli%20kalem%20efektleri%20kullan%C4%B1n.%20D%C3%BCzen%3A%20Serbest%20ve%20spontane%2C%20al%C4%B1%C5%9F%C4%B1lmad%C4%B1k%2C%20ki%C5%9Filik%20ve%20e%C4%9Flence%20dolu.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22dish%20name%22%20default%3D%22Domatesli%20%C3%87%C4%B1rp%C4%B1lm%C4%B1%C5%9F%20Yumurta%22%7D%20tarifi%20i%C3%A7in%20bir%20bilgi%20kart%C4%B1%20olu%C5%9Fturun%2C%20kart%20stili%20el%20%C3%A7izimi%2Fkaralama%20notu%20tarz%C4%B1nda%20olsun.%20Yaz%C4%B1%20Tipi%3A%20El%20yaz%C4%B1s%C4%B1%20veya%20el%20yaz%C4%B1s%C4%B1%20benzeri%20yaz%C4%B1%20tipleri%20kullan%C4%B1n%20ya%20da%20do%C4%9Frudan%20el%20yaz%C4%B1s%C4%B1%20kullan%C4%B1n.%20%C3%96%C4%9Feler%3A%20%C4%B0fadeye%20yard%C4%B1mc%C4%B1%20olmak%20i%C3%A7in%20%C3%A7ok%20say%C4%B1da%20%C3%A7%C3%B6p%20adam%2C%20k%C3%BC%C3%A7%C3%BCk%20simgeler%2C%20oklar%2C%20konu%C5%9Fma%20balonlar%C4%B1%2C%20ay%C4%B1r%C4%B1c%C4%B1lar%20ve%20di%C4%9Fer%20el%20%C3%A7izimi%20%C3%B6%C4%9Feler%20kullan%C4%B1n.%20Renkler%3A%20Zengin%20ve%20canl%C4%B1%20renkler%2C%20genellikle%20fosforlu%20kalem%2C%20renkli%20kalem%20efektleri%20kullan%C4%B1n.%20D%C3%BCzen%3A%20Serbest%20ve%20spontane%2C%20al%C4%B1%C5%9F%C4%B1lmad%C4%B1k%2C%20ki%C5%9Filik%20ve%20e%C4%9Flence%20dolu.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 93: Wild Cursive Film Başlığı Tipografisi
-=======
-### No. 96: Wild Cursive Film Başlığı Tipografisi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 97: Wild Cursive Film Başlığı Tipografisi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3600,15 +3319,11 @@ Siyah arka plan üzerinde beyaz metin, kaligrafi bağlantılı vuruşlar şık, 
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Siyah%20arka%20plan%20%C3%BCzerinde%20beyaz%20metin%2C%20kaligrafi%20ba%C4%9Flant%C4%B1l%C4%B1%20vuru%C5%9Flar%20%C5%9F%C4%B1k%2C%20zarif%20ve%20dinamik%20yaz%C4%B1%20tipi%20tasar%C4%B1m%C4%B1%20%22%7Bargument%20name%3D%22text%20content%22%20default%3D%22Deniz%20meltemi%20durmadan%20eser%2C%20nehirdeki%20ay%20bo%C5%9Funa%20parlar%22%7D%22%2C%20vah%C5%9Fi%20ve%20dizginsiz%20el%20yaz%C4%B1s%C4%B1%20yaz%C4%B1%20tipi%2C%20uzun%20vuru%C5%9Flar%2C%20dinamizm%20dolu%20g%C3%B6rsel%20gerilim%2C%20vuru%C5%9Flar%20p%C3%BCr%C3%BCzs%C3%BCz%20ve%20zarif%2C%20vuru%C5%9Flar%20ustaca%20uzat%C4%B1lm%C4%B1%C5%9F%20ve%20deforme%20edilmi%C5%9F%2C%20u%C3%A7an%20beyaz%20efekti%2C%20yaz%C4%B1%20tipi%20boyutu%20varyasyonu%2C%20yanl%C4%B1%C5%9F%20yerle%C5%9Ftirilmi%C5%9F%20d%C3%BCzen.%20Vuru%C5%9Flar%20p%C3%BCr%C3%BCzs%C3%BCz%20ve%20serbest%2C%20temiz%20arka%20plan%2C%20ba%C5%9Fyap%C4%B1t%2C%20film%20temal%C4%B1%20yaz%C4%B1%20tipi%2C%20g%C3%BC%C3%A7l%C3%BC%20g%C3%B6rsel%20etki.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Siyah%20arka%20plan%20%C3%BCzerinde%20beyaz%20metin%2C%20kaligrafi%20ba%C4%9Flant%C4%B1l%C4%B1%20vuru%C5%9Flar%20%C5%9F%C4%B1k%2C%20zarif%20ve%20dinamik%20yaz%C4%B1%20tipi%20tasar%C4%B1m%C4%B1%20%22%7Bargument%20name%3D%22text%20content%22%20default%3D%22Deniz%20meltemi%20durmadan%20eser%2C%20nehirdeki%20ay%20bo%C5%9Funa%20parlar%22%7D%22%2C%20vah%C5%9Fi%20ve%20dizginsiz%20el%20yaz%C4%B1s%C4%B1%20yaz%C4%B1%20tipi%2C%20uzun%20vuru%C5%9Flar%2C%20dinamizm%20dolu%20g%C3%B6rsel%20gerilim%2C%20vuru%C5%9Flar%20p%C3%BCr%C3%BCzs%C3%BCz%20ve%20zarif%2C%20vuru%C5%9Flar%20ustaca%20uzat%C4%B1lm%C4%B1%C5%9F%20ve%20deforme%20edilmi%C5%9F%2C%20u%C3%A7an%20beyaz%20efekti%2C%20yaz%C4%B1%20tipi%20boyutu%20varyasyonu%2C%20yanl%C4%B1%C5%9F%20yerle%C5%9Ftirilmi%C5%9F%20d%C3%BCzen.%20Vuru%C5%9Flar%20p%C3%BCr%C3%BCzs%C3%BCz%20ve%20serbest%2C%20temiz%20arka%20plan%2C%20ba%C5%9Fyap%C4%B1t%2C%20film%20temal%C4%B1%20yaz%C4%B1%20tipi%2C%20g%C3%BC%C3%A7l%C3%BC%20g%C3%B6rsel%20etki.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 94: Mekanik Tasarım Eskiz Notları
-=======
-### No. 97: Mekanik Tasarım Eskiz Notları
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 98: Mekanik Tasarım Eskiz Notları
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3638,15 +3353,11 @@ Siyah çizgi eskizi, {argument name="subject name" default="Mekanik Tasarım"} n
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Siyah%20%C3%A7izgi%20eskizi%2C%20%7Bargument%20name%3D%22subject%20name%22%20default%3D%22Mekanik%20Tasar%C4%B1m%22%7D%20notlar%C4%B1%2C%20yo%C4%9Fun%20not%20tarz%C4%B1%20d%C3%BCzen%2C%20ortografik%20izd%C3%BC%C5%9F%C3%BCmler%2C%20boyutland%C4%B1rma%2C%20isim%20a%C3%A7%C4%B1klamalar%C4%B1%20ve%20%C3%87ince-%C4%B0ngilizce%20etiket%20a%C3%A7%C4%B1klamalar%C4%B1%20e%C5%9Fli%C4%9Finde.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Siyah%20%C3%A7izgi%20eskizi%2C%20%7Bargument%20name%3D%22subject%20name%22%20default%3D%22Mekanik%20Tasar%C4%B1m%22%7D%20notlar%C4%B1%2C%20yo%C4%9Fun%20not%20tarz%C4%B1%20d%C3%BCzen%2C%20ortografik%20izd%C3%BC%C5%9F%C3%BCmler%2C%20boyutland%C4%B1rma%2C%20isim%20a%C3%A7%C4%B1klamalar%C4%B1%20ve%20%C3%87ince-%C4%B0ngilizce%20etiket%20a%C3%A7%C4%B1klamalar%C4%B1%20e%C5%9Fli%C4%9Finde.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 95: Golden Curve Wealth Logic Posteri
-=======
-### No. 98: Golden Curve Wealth Logic Posteri
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 99: Golden Curve Wealth Logic Posteri
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3676,15 +3387,11 @@ Koyu mavi zarif bir arka plan, sahneyi kesen istikrarlı bir şekilde yükselen 
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Koyu%20mavi%20zarif%20bir%20arka%20plan%2C%20sahneyi%20kesen%20istikrarl%C4%B1%20bir%20%C5%9Fekilde%20y%C3%BCkselen%20alt%C4%B1n%20bir%20grafik%20e%C4%9Frisi%20ve%20e%C4%9Frinin%20ucunda%20parlayan%20bir%20madeni%20para%20simgesi.%20Ana%20ba%C5%9Fl%C4%B1k%20%22%7Bargument%20name%3D%22main%20title%22%20default%3D%22%5BWealth%20Logic%5D%7D%22%20zarif%20alt%C4%B1n%20rengi%20serif%20yaz%C4%B1%20tipi%20kullan%C4%B1r.%20Alt%20ba%C5%9Fl%C4%B1k%20%22%7Bargument%20name%3D%22subtitle%22%20default%3D%22%5BS%C4%B1radan%20insanlar%C4%B1n%20anlayabilece%C4%9Fi%20ekonomi%5D%7D%22%20beyaz%20ince%20yaz%C4%B1%20tipindedir%2C%20ana%20ba%C5%9Fl%C4%B1%C4%9F%C4%B1n%20hemen%20alt%C4%B1na%20yerle%C5%9Ftirilmi%C5%9Ftir%20ve%20profesyonel%20ve%20g%C3%BCvenilir%20bir%20g%C3%B6r%C3%BCn%C3%BCm%20sunar.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Koyu%20mavi%20zarif%20bir%20arka%20plan%2C%20sahneyi%20kesen%20istikrarl%C4%B1%20bir%20%C5%9Fekilde%20y%C3%BCkselen%20alt%C4%B1n%20bir%20grafik%20e%C4%9Frisi%20ve%20e%C4%9Frinin%20ucunda%20parlayan%20bir%20madeni%20para%20simgesi.%20Ana%20ba%C5%9Fl%C4%B1k%20%22%7Bargument%20name%3D%22main%20title%22%20default%3D%22%5BWealth%20Logic%5D%7D%22%20zarif%20alt%C4%B1n%20rengi%20serif%20yaz%C4%B1%20tipi%20kullan%C4%B1r.%20Alt%20ba%C5%9Fl%C4%B1k%20%22%7Bargument%20name%3D%22subtitle%22%20default%3D%22%5BS%C4%B1radan%20insanlar%C4%B1n%20anlayabilece%C4%9Fi%20ekonomi%5D%7D%22%20beyaz%20ince%20yaz%C4%B1%20tipindedir%2C%20ana%20ba%C5%9Fl%C4%B1%C4%9F%C4%B1n%20hemen%20alt%C4%B1na%20yerle%C5%9Ftirilmi%C5%9Ftir%20ve%20profesyonel%20ve%20g%C3%BCvenilir%20bir%20g%C3%B6r%C3%BCn%C3%BCm%20sunar.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 96: 3D E-Ticaret Platformu Mimari Diyagramı
-=======
-### No. 99: 3D E-Ticaret Platformu Mimari Diyagramı
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 100: 3D E-Ticaret Platformu Mimari Diyagramı
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3713,15 +3420,11 @@ Yüksek derecede üç boyutlu bir bakış açısıyla, bir satış platformunun 
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Y%C3%BCksek%20derecede%20%C3%BC%C3%A7%20boyutlu%20bir%20bak%C4%B1%C5%9F%20a%C3%A7%C4%B1s%C4%B1yla%2C%20bir%20sat%C4%B1%C5%9F%20platformunun%20teknik%20mimari%20diyagram%C4%B1n%C4%B1%20ak%C4%B1%C5%9F%20%C5%9Femas%C4%B1%20arac%C4%B1l%C4%B1%C4%9F%C4%B1yla%20do%C4%9Fru%20bir%20%C5%9Fekilde%20sunun.%20Mod%C3%BCller%20aras%C4%B1ndaki%20belirgin%20hiyerar%C5%9Fik%20ili%C5%9Fkileri%20a%C3%A7%C4%B1k%C3%A7a%20g%C3%B6sterin%2C%20mod%C3%BCller%20aras%C4%B1ndaki%20veri%20ak%C4%B1%C5%9F%C4%B1n%C4%B1n%20y%C3%B6n%C3%BCn%C3%BC%20ve%20etkile%C5%9Fim%20mant%C4%B1%C4%9F%C4%B1n%C4%B1%20dinamik%20ve%20sezgisel%20bir%20%C5%9Fekilde%20sergileyerek%20e-ticaret%20platformunun%20teknik%20mimarisinin%20tam%20resmini%20kapsaml%C4%B1%20bir%20%C5%9Fekilde%20sunun.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Y%C3%BCksek%20derecede%20%C3%BC%C3%A7%20boyutlu%20bir%20bak%C4%B1%C5%9F%20a%C3%A7%C4%B1s%C4%B1yla%2C%20bir%20sat%C4%B1%C5%9F%20platformunun%20teknik%20mimari%20diyagram%C4%B1n%C4%B1%20ak%C4%B1%C5%9F%20%C5%9Femas%C4%B1%20arac%C4%B1l%C4%B1%C4%9F%C4%B1yla%20do%C4%9Fru%20bir%20%C5%9Fekilde%20sunun.%20Mod%C3%BCller%20aras%C4%B1ndaki%20belirgin%20hiyerar%C5%9Fik%20ili%C5%9Fkileri%20a%C3%A7%C4%B1k%C3%A7a%20g%C3%B6sterin%2C%20mod%C3%BCller%20aras%C4%B1ndaki%20veri%20ak%C4%B1%C5%9F%C4%B1n%C4%B1n%20y%C3%B6n%C3%BCn%C3%BC%20ve%20etkile%C5%9Fim%20mant%C4%B1%C4%9F%C4%B1n%C4%B1%20dinamik%20ve%20sezgisel%20bir%20%C5%9Fekilde%20sergileyerek%20e-ticaret%20platformunun%20teknik%20mimarisinin%20tam%20resmini%20kapsaml%C4%B1%20bir%20%C5%9Fekilde%20sunun.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 97: Ma Wencheng Sanatsal İmza Tasarımı
-=======
-### No. 100: Ma Wencheng Sanatsal İmza Tasarımı
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 101: Ma Wencheng Sanatsal İmza Tasarımı
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3751,15 +3454,11 @@ Usta seviyesinde sanatsal imza yazı tipi tasarımı: {argument name="name" defa
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Usta%20seviyesinde%20sanatsal%20imza%20yaz%C4%B1%20tipi%20tasar%C4%B1m%C4%B1%3A%20%7Bargument%20name%3D%22name%22%20default%3D%22Ma%20Wencheng%22%7D%3A%20Yaz%C4%B1%20tipi%20zarif%2C%20cesur%2C%20ak%C4%B1c%C4%B1%20ama%20g%C3%B6rkemli%2C%20%C3%BCnl%C3%BClerin%20el%20yaz%C4%B1s%C4%B1%20imzalar%C4%B1n%C4%B1%20taklit%20eden%2C%20dolma%20kalem%20efekti%2C%20de%C4%9Fi%C5%9Fen%20kal%C4%B1nl%C4%B1kta%2C%20karakterler%20aras%C4%B1nda%20ba%C4%9Flant%C4%B1l%C4%B1%20vuru%C5%9Flar%20ve%20dekoratif%20%C3%A7izgilerle.%20%C4%B0mzaya%20g%C3%BC%C3%A7l%C3%BC%20bir%20sanatsal%20anlam%20kat%C4%B1lm%C4%B1%C5%9F%2C%20temiz%20beyaz%20arka%20plan%2C%20filigran%20yok%2C%20geni%C5%9F%20negatif%20alan%2C%20imzalar%20i%C3%A7in%20uygun.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Usta%20seviyesinde%20sanatsal%20imza%20yaz%C4%B1%20tipi%20tasar%C4%B1m%C4%B1%3A%20%7Bargument%20name%3D%22name%22%20default%3D%22Ma%20Wencheng%22%7D%3A%20Yaz%C4%B1%20tipi%20zarif%2C%20cesur%2C%20ak%C4%B1c%C4%B1%20ama%20g%C3%B6rkemli%2C%20%C3%BCnl%C3%BClerin%20el%20yaz%C4%B1s%C4%B1%20imzalar%C4%B1n%C4%B1%20taklit%20eden%2C%20dolma%20kalem%20efekti%2C%20de%C4%9Fi%C5%9Fen%20kal%C4%B1nl%C4%B1kta%2C%20karakterler%20aras%C4%B1nda%20ba%C4%9Flant%C4%B1l%C4%B1%20vuru%C5%9Flar%20ve%20dekoratif%20%C3%A7izgilerle.%20%C4%B0mzaya%20g%C3%BC%C3%A7l%C3%BC%20bir%20sanatsal%20anlam%20kat%C4%B1lm%C4%B1%C5%9F%2C%20temiz%20beyaz%20arka%20plan%2C%20filigran%20yok%2C%20geni%C5%9F%20negatif%20alan%2C%20imzalar%20i%C3%A7in%20uygun.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 98: C4D Tarzı Finans Uygulaması Kullanıcı Arayüzü (Varyant)
-=======
-### No. 101: C4D Tarzı Finans Uygulaması Kullanıcı Arayüzü (Varyant)
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 102: C4D Tarzı Finans Uygulaması Kullanıcı Arayüzü (Varyant)
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3788,15 +3487,11 @@ Finansal varlık yönetimi uygulaması mobil kullanıcı arayüzü tasarımı, C
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Finansal%20varl%C4%B1k%20y%C3%B6netimi%20uygulamas%C4%B1%20mobil%20kullan%C4%B1c%C4%B1%20aray%C3%BCz%C3%BC%20tasar%C4%B1m%C4%B1%2C%20C4D%20tarz%C4%B1%20premium%20UI%2C%203D%20veri%20grafikleri%2C%20mavi%20degrade%20aray%C3%BCz%2C%20y%C3%BCzen%20kart%20tasar%C4%B1m%C4%B1%2C%20glassmorphism%20d%C3%BC%C4%9Fmeler%2C%20dinamik%20bakiye%20numaras%C4%B1%20g%C3%B6sterimi%2C%20piyasa%20trend%20e%C4%9Frisi%2C%20saf%20beyaz%20arka%20plan%2C%20%C5%9Faheser%2C%20y%C3%BCksek%20detay.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Finansal%20varl%C4%B1k%20y%C3%B6netimi%20uygulamas%C4%B1%20mobil%20kullan%C4%B1c%C4%B1%20aray%C3%BCz%C3%BC%20tasar%C4%B1m%C4%B1%2C%20C4D%20tarz%C4%B1%20premium%20UI%2C%203D%20veri%20grafikleri%2C%20mavi%20degrade%20aray%C3%BCz%2C%20y%C3%BCzen%20kart%20tasar%C4%B1m%C4%B1%2C%20glassmorphism%20d%C3%BC%C4%9Fmeler%2C%20dinamik%20bakiye%20numaras%C4%B1%20g%C3%B6sterimi%2C%20piyasa%20trend%20e%C4%9Frisi%2C%20saf%20beyaz%20arka%20plan%2C%20%C5%9Faheser%2C%20y%C3%BCksek%20detay.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 99: C4D Tarzı Finans Uygulaması Kullanıcı Arayüzü
-=======
-### No. 102: C4D Tarzı Finans Uygulaması Kullanıcı Arayüzü
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 103: C4D Tarzı Finans Uygulaması Kullanıcı Arayüzü
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3825,15 +3520,11 @@ Finansal varlık yönetimi uygulaması mobil kullanıcı arayüzü tasarımı, C
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Finansal%20varl%C4%B1k%20y%C3%B6netimi%20uygulamas%C4%B1%20mobil%20kullan%C4%B1c%C4%B1%20aray%C3%BCz%C3%BC%20tasar%C4%B1m%C4%B1%2C%20C4D%20tarz%C4%B1%20premium%20kullan%C4%B1c%C4%B1%20aray%C3%BCz%C3%BC%2C%203D%20veri%20grafikleri%2C%20mavi%20gradyan%20aray%C3%BCz%2C%20y%C3%BCzen%20kart%20tasar%C4%B1m%C4%B1%2C%20glassmorphism%20d%C3%BC%C4%9Fmeler%2C%20dinamik%20bakiye%20numaras%C4%B1%20g%C3%B6sterimi%2C%20piyasa%20trend%20e%C4%9Frisi%2C%20saf%20beyaz%20arka%20plan%2C%20%C5%9Faheser%2C%20y%C3%BCksek%20detay.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Finansal%20varl%C4%B1k%20y%C3%B6netimi%20uygulamas%C4%B1%20mobil%20kullan%C4%B1c%C4%B1%20aray%C3%BCz%C3%BC%20tasar%C4%B1m%C4%B1%2C%20C4D%20tarz%C4%B1%20premium%20kullan%C4%B1c%C4%B1%20aray%C3%BCz%C3%BC%2C%203D%20veri%20grafikleri%2C%20mavi%20gradyan%20aray%C3%BCz%2C%20y%C3%BCzen%20kart%20tasar%C4%B1m%C4%B1%2C%20glassmorphism%20d%C3%BC%C4%9Fmeler%2C%20dinamik%20bakiye%20numaras%C4%B1%20g%C3%B6sterimi%2C%20piyasa%20trend%20e%C4%9Frisi%2C%20saf%20beyaz%20arka%20plan%2C%20%C5%9Faheser%2C%20y%C3%BCksek%20detay.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 100: Nick ve Judy Pembe Plaj Instagram Tarzı Selfie
-=======
-### No. 103: Nick ve Judy Pembe Plaj Instagram Tarzı Selfie
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 104: Nick ve Judy Pembe Plaj Instagram Tarzı Selfie
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3863,15 +3554,11 @@ Zootopia'dan Nick Wilde ve Judy Hopps pembe bir kumsalda selfie çekerken, Nick 
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Zootopia'dan%20Nick%20Wilde%20ve%20Judy%20Hopps%20pembe%20bir%20kumsalda%20selfie%20%C3%A7ekerken%2C%20Nick%20dev%20bir%20telefonu%2045%20derecelik%20a%C3%A7%C4%B1yla%20tutuyor%2C%20kollar%C4%B1%20Instagram%20%C3%A7er%C3%A7evesinden%20d%C4%B1%C5%9Far%C4%B1%20uzanarak%20d%C3%B6rd%C3%BCnc%C3%BC%20duvar%C4%B1%20y%C4%B1k%C4%B1yor%2C%20telefon%20perspektif%20bozulmas%C4%B1yla%20ortada%20y%C3%BCz%C3%BCyor.%20Sa%C4%9Fdaki%20dev%20ekran%20kullan%C4%B1c%C4%B1%20aray%C3%BCz%C3%BC%20ultra%20keskin%3A%20%22%7Bargument%20name%3D%22username%22%20default%3D%22%40NickJudy_Selfie%22%7D%22%20kullan%C4%B1c%C4%B1%20ad%C4%B1%20mavi%20onay%20i%C5%9Faretiyle%20do%C4%9Frulanm%C4%B1%C5%9F%2C%20%22%7Bargument%20name%3D%22like%20count%22%20default%3D%225.8M%22%7D%22%20be%C4%9Feni%20say%C4%B1s%C4%B1%20kal%C4%B1n%20ve%20yan%C4%B1p%20s%C3%B6n%C3%BCyor%2C%20canl%C4%B1%20kay%C4%B1t%20k%C4%B1rm%C4%B1z%C4%B1%20noktas%C4%B1%20nab%C4%B1z%20gibi%20at%C4%B1yor%2C%20neon%20%C3%A7izgili%20yorum%20baloncuklar%C4%B1.%20%C3%87er%C3%A7eve%20kenar%C4%B1%2C%20pembe%20kumsal%C4%B1%20yans%C4%B1tan%202%20cm%20kal%C4%B1nl%C4%B1%C4%9F%C4%B1nda%20cam%20malzemeden%20yap%C4%B1lm%C4%B1%C5%9F.%20Y%C3%BCzen%203D%20kalpler%E2%9D%A4%EF%B8%8F%2C%20be%C4%9Feniler%F0%9F%91%8D%2C%20pembe%20hindistan%20cevizi%20a%C4%9Fa%C3%A7lar%C4%B1%F0%9F%8C%B4%2C%20%C5%9Fampanya%20baloncuklar%C4%B1%E2%9C%A8%20simgeleriyle%20%C3%A7evrili%2C%20s%C4%B1cak%20pembe%20bir%20parlama%20halesiyle%20kaplanm%C4%B1%C5%9F%20%C4%B1%C5%9F%C4%B1k%20efektleri%2C%20r%C3%BCya%20gibi%20bir%20lens%20parlamas%C4%B1.%20Arka%20plan%20Barbie%20pembesi%20bir%20kumsal%3A%20ince%20mercan%20kumu%20taneleri%20g%C3%B6r%C3%BCn%C3%BCr%2C%20degrade%20pembe-turuncu%20su%20par%C4%B1ld%C4%B1yor%2C%20yumu%C5%9Fak%20g%C3%BCn%20bat%C4%B1m%C4%B1%20hacimsel%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%2C%20deniz%20kabuklar%C4%B1%20ve%20y%C4%B1ld%C4%B1z%20kumu%20par%C4%B1ld%C4%B1yor.%20Sol%20taraftaki%20ger%C3%A7ek%20d%C3%BCnya%20g%C3%B6lgeleri%20ger%C3%A7ek%C3%A7i%20doygunlukla%20keskin%2C%20sa%C4%9F%20taraftaki%20dijital%20aray%C3%BCzde%20yumu%C5%9Fak%20%C4%B1%C5%9F%C4%B1k%20filtresi%20ve%20vinyet%2C%20y%C3%BCksek%20kontrastl%C4%B1%20pembe-alt%C4%B1n%20tonu%20var.%20Instagram%20influencer%20tatil%20tarz%C4%B1%2C%208K%20sinematik%20ger%C3%A7ek%C3%A7ilik%2C%20%C4%B1%C5%9F%C4%B1n%20izleme%2C%20fiber%20d%C3%BCzeyinde%20k%C3%BCrk%20detaylar%C4%B1%2C%20y%C3%BCzey%20alt%C4%B1%20sa%C3%A7%C4%B1l%C4%B1m%C4%B1%2C%20telefona%20odaklanm%C4%B1%C5%9F%20alan%20derinli%C4%9Fi%2C%20Unreal%20Engine%205%20render%2C%20boyutsal%20kompozisyonu%20bozan%2C%20tatil%20havas%C4%B1%2C%20internet%20esteti%C4%9Fiyle%20patlayan.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Zootopia'dan%20Nick%20Wilde%20ve%20Judy%20Hopps%20pembe%20bir%20kumsalda%20selfie%20%C3%A7ekerken%2C%20Nick%20dev%20bir%20telefonu%2045%20derecelik%20a%C3%A7%C4%B1yla%20tutuyor%2C%20kollar%C4%B1%20Instagram%20%C3%A7er%C3%A7evesinden%20d%C4%B1%C5%9Far%C4%B1%20uzanarak%20d%C3%B6rd%C3%BCnc%C3%BC%20duvar%C4%B1%20y%C4%B1k%C4%B1yor%2C%20telefon%20perspektif%20bozulmas%C4%B1yla%20ortada%20y%C3%BCz%C3%BCyor.%20Sa%C4%9Fdaki%20dev%20ekran%20kullan%C4%B1c%C4%B1%20aray%C3%BCz%C3%BC%20ultra%20keskin%3A%20%22%7Bargument%20name%3D%22username%22%20default%3D%22%40NickJudy_Selfie%22%7D%22%20kullan%C4%B1c%C4%B1%20ad%C4%B1%20mavi%20onay%20i%C5%9Faretiyle%20do%C4%9Frulanm%C4%B1%C5%9F%2C%20%22%7Bargument%20name%3D%22like%20count%22%20default%3D%225.8M%22%7D%22%20be%C4%9Feni%20say%C4%B1s%C4%B1%20kal%C4%B1n%20ve%20yan%C4%B1p%20s%C3%B6n%C3%BCyor%2C%20canl%C4%B1%20kay%C4%B1t%20k%C4%B1rm%C4%B1z%C4%B1%20noktas%C4%B1%20nab%C4%B1z%20gibi%20at%C4%B1yor%2C%20neon%20%C3%A7izgili%20yorum%20baloncuklar%C4%B1.%20%C3%87er%C3%A7eve%20kenar%C4%B1%2C%20pembe%20kumsal%C4%B1%20yans%C4%B1tan%202%20cm%20kal%C4%B1nl%C4%B1%C4%9F%C4%B1nda%20cam%20malzemeden%20yap%C4%B1lm%C4%B1%C5%9F.%20Y%C3%BCzen%203D%20kalpler%E2%9D%A4%EF%B8%8F%2C%20be%C4%9Feniler%F0%9F%91%8D%2C%20pembe%20hindistan%20cevizi%20a%C4%9Fa%C3%A7lar%C4%B1%F0%9F%8C%B4%2C%20%C5%9Fampanya%20baloncuklar%C4%B1%E2%9C%A8%20simgeleriyle%20%C3%A7evrili%2C%20s%C4%B1cak%20pembe%20bir%20parlama%20halesiyle%20kaplanm%C4%B1%C5%9F%20%C4%B1%C5%9F%C4%B1k%20efektleri%2C%20r%C3%BCya%20gibi%20bir%20lens%20parlamas%C4%B1.%20Arka%20plan%20Barbie%20pembesi%20bir%20kumsal%3A%20ince%20mercan%20kumu%20taneleri%20g%C3%B6r%C3%BCn%C3%BCr%2C%20degrade%20pembe-turuncu%20su%20par%C4%B1ld%C4%B1yor%2C%20yumu%C5%9Fak%20g%C3%BCn%20bat%C4%B1m%C4%B1%20hacimsel%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%2C%20deniz%20kabuklar%C4%B1%20ve%20y%C4%B1ld%C4%B1z%20kumu%20par%C4%B1ld%C4%B1yor.%20Sol%20taraftaki%20ger%C3%A7ek%20d%C3%BCnya%20g%C3%B6lgeleri%20ger%C3%A7ek%C3%A7i%20doygunlukla%20keskin%2C%20sa%C4%9F%20taraftaki%20dijital%20aray%C3%BCzde%20yumu%C5%9Fak%20%C4%B1%C5%9F%C4%B1k%20filtresi%20ve%20vinyet%2C%20y%C3%BCksek%20kontrastl%C4%B1%20pembe-alt%C4%B1n%20tonu%20var.%20Instagram%20influencer%20tatil%20tarz%C4%B1%2C%208K%20sinematik%20ger%C3%A7ek%C3%A7ilik%2C%20%C4%B1%C5%9F%C4%B1n%20izleme%2C%20fiber%20d%C3%BCzeyinde%20k%C3%BCrk%20detaylar%C4%B1%2C%20y%C3%BCzey%20alt%C4%B1%20sa%C3%A7%C4%B1l%C4%B1m%C4%B1%2C%20telefona%20odaklanm%C4%B1%C5%9F%20alan%20derinli%C4%9Fi%2C%20Unreal%20Engine%205%20render%2C%20boyutsal%20kompozisyonu%20bozan%2C%20tatil%20havas%C4%B1%2C%20internet%20esteti%C4%9Fiyle%20patlayan.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 101: Zootopia Judy Emaye Buzdolabı Magneti
-=======
-### No. 104: Zootopia Judy Emaye Buzdolabı Magneti
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 105: Zootopia Judy Emaye Buzdolabı Magneti
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3901,15 +3588,11 @@ Modern minimalist tasarım stili, Zootopia temalı emaye buzdolabı magneti tasa
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Modern%20minimalist%20tasar%C4%B1m%20stili%2C%20Zootopia%20temal%C4%B1%20emaye%20buzdolab%C4%B1%20magneti%20tasar%C4%B1m%C4%B1%2C%20dairesel%20magnet%2C%20Judy%20Hopps'un%20yak%C4%B1n%20%C3%A7ekimi%2C%20Noel%20%C3%B6%C4%9Fesi%20desenleriyle%20%C3%A7evrili%2C%20altta%20%22%7Bargument%20name%3D%22bottom%20text%22%20default%3D%22Merry%20Christmas%22%7D%22%20%C4%B0ngilizce%20yaz%C4%B1%20tipi%2C%20uluslararas%C4%B1%20tasar%C4%B1m%20stili%2C%20a%C3%A7%C4%B1k%20mor%20degrade%20renk.%20Saf%20dokulu%20arka%20plan.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Modern%20minimalist%20tasar%C4%B1m%20stili%2C%20Zootopia%20temal%C4%B1%20emaye%20buzdolab%C4%B1%20magneti%20tasar%C4%B1m%C4%B1%2C%20dairesel%20magnet%2C%20Judy%20Hopps'un%20yak%C4%B1n%20%C3%A7ekimi%2C%20Noel%20%C3%B6%C4%9Fesi%20desenleriyle%20%C3%A7evrili%2C%20altta%20%22%7Bargument%20name%3D%22bottom%20text%22%20default%3D%22Merry%20Christmas%22%7D%22%20%C4%B0ngilizce%20yaz%C4%B1%20tipi%2C%20uluslararas%C4%B1%20tasar%C4%B1m%20stili%2C%20a%C3%A7%C4%B1k%20mor%20degrade%20renk.%20Saf%20dokulu%20arka%20plan.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 102: GEO Tech Ürün Tanıtım Afişi
-=======
-### No. 105: GEO Tech Ürün Tanıtım Afişi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 106: GEO Tech Ürün Tanıtım Afişi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3939,15 +3622,11 @@ Teknoloji ürün tanıtım afişi, solda metin sağda görsel düzeni, narin koy
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Teknoloji%20%C3%BCr%C3%BCn%20tan%C4%B1t%C4%B1m%20afi%C5%9Fi%2C%20solda%20metin%20sa%C4%9Fda%20g%C3%B6rsel%20d%C3%BCzeni%2C%20narin%20koyu%20maviden%20a%C3%A7%C4%B1k%20maviye%20ge%C3%A7i%C5%9Fli%20degrade%20arka%20plan%2C%20sa%C4%9Fdaki%20GEO%20metninin%20alt%C4%B1ndan%20yukar%C4%B1%20do%C4%9Fru%20yay%C4%B1lan%20yumu%C5%9Fak%20turuncu%20hale%2C%20do%C4%9Fal%20%C4%B1%C5%9F%C4%B1k%20efektleri%2C%20%C3%BCr%C3%BCn%20d%C3%BCzeyinde%20g%C3%B6rsel%20tasar%C4%B1m%2C%20koyu%20mavi%20degrade%20ana%20ton%2C%20turuncu%20%C4%B1%C5%9F%C4%B1k%20efektleriyle%20e%C5%9Fle%C5%9Ftirilmi%C5%9F%20saf%20beyaz%20metin%2C%20profesyonel%2C%20zarif%20ve%20ula%C5%9F%C4%B1labilir%2C%20zengin%20g%C3%B6rsel%20doku%20ve%20ince%20detaylar.%20Sol%20%C3%BCstte%20beyaz%2C%20%C3%B6zl%C3%BC%20k%C3%BC%C3%A7%C3%BCk%20yaz%C4%B1%20tipinde%20%22%7Bargument%20name%3D%22date%22%20default%3D%22%5B2025.10%5D%22%7D%22%2C%20ana%20ba%C5%9Fl%C4%B1k%20ekstra%20b%C3%BCy%C3%BCk%2C%20beyaz%2C%20kal%C4%B1n%2C%20modern%20yaz%C4%B1%20tipinde%20%22%7Bargument%20name%3D%22main%20title%22%20default%3D%22When%20AI%20Answers%22%7D%22%2C%20bir%20sonraki%20sat%C4%B1rda%20k%C3%BC%C3%A7%C3%BCk%20metin%20%22%7Bargument%20name%3D%22subtitle%22%20default%3D%22GEO%20decides%20who%20it%20mentions%22%7D%22%2C%20sa%C4%9F%20tarafta%203D%20ger%C3%A7ek%C3%A7i%20%22%7Bargument%20name%3D%223D%20text%22%20default%3D%22GEO%22%7D%22%20metni%2C%20y%C3%BCzeyi%20%C5%9Feker%20renkli%20mat%20dokulu%20ve%20turuncu%20vurgularla%20benekli%2C%20WeChat%20resmi%20hesap%20ba%C5%9Fl%C4%B1%C4%9F%C4%B1%20i%C3%A7in%20kullan%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Teknoloji%20%C3%BCr%C3%BCn%20tan%C4%B1t%C4%B1m%20afi%C5%9Fi%2C%20solda%20metin%20sa%C4%9Fda%20g%C3%B6rsel%20d%C3%BCzeni%2C%20narin%20koyu%20maviden%20a%C3%A7%C4%B1k%20maviye%20ge%C3%A7i%C5%9Fli%20degrade%20arka%20plan%2C%20sa%C4%9Fdaki%20GEO%20metninin%20alt%C4%B1ndan%20yukar%C4%B1%20do%C4%9Fru%20yay%C4%B1lan%20yumu%C5%9Fak%20turuncu%20hale%2C%20do%C4%9Fal%20%C4%B1%C5%9F%C4%B1k%20efektleri%2C%20%C3%BCr%C3%BCn%20d%C3%BCzeyinde%20g%C3%B6rsel%20tasar%C4%B1m%2C%20koyu%20mavi%20degrade%20ana%20ton%2C%20turuncu%20%C4%B1%C5%9F%C4%B1k%20efektleriyle%20e%C5%9Fle%C5%9Ftirilmi%C5%9F%20saf%20beyaz%20metin%2C%20profesyonel%2C%20zarif%20ve%20ula%C5%9F%C4%B1labilir%2C%20zengin%20g%C3%B6rsel%20doku%20ve%20ince%20detaylar.%20Sol%20%C3%BCstte%20beyaz%2C%20%C3%B6zl%C3%BC%20k%C3%BC%C3%A7%C3%BCk%20yaz%C4%B1%20tipinde%20%22%7Bargument%20name%3D%22date%22%20default%3D%22%5B2025.10%5D%22%7D%22%2C%20ana%20ba%C5%9Fl%C4%B1k%20ekstra%20b%C3%BCy%C3%BCk%2C%20beyaz%2C%20kal%C4%B1n%2C%20modern%20yaz%C4%B1%20tipinde%20%22%7Bargument%20name%3D%22main%20title%22%20default%3D%22When%20AI%20Answers%22%7D%22%2C%20bir%20sonraki%20sat%C4%B1rda%20k%C3%BC%C3%A7%C3%BCk%20metin%20%22%7Bargument%20name%3D%22subtitle%22%20default%3D%22GEO%20decides%20who%20it%20mentions%22%7D%22%2C%20sa%C4%9F%20tarafta%203D%20ger%C3%A7ek%C3%A7i%20%22%7Bargument%20name%3D%223D%20text%22%20default%3D%22GEO%22%7D%22%20metni%2C%20y%C3%BCzeyi%20%C5%9Feker%20renkli%20mat%20dokulu%20ve%20turuncu%20vurgularla%20benekli%2C%20WeChat%20resmi%20hesap%20ba%C5%9Fl%C4%B1%C4%9F%C4%B1%20i%C3%A7in%20kullan%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 103: Nick ve Judy Xiaohongshu Tarzı Dördüncü Duvarı Yıkan Selfie
-=======
-### No. 106: Nick ve Judy Xiaohongshu Tarzı Dördüncü Duvarı Yıkan Selfie
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 107: Nick ve Judy Xiaohongshu Tarzı Dördüncü Duvarı Yıkan Selfie
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3977,15 +3656,11 @@ Zootopia karakterleri Nick Wilde ve Judy Hopps. Nick turuncu-kırmızı kürklü
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Zootopia%20karakterleri%20Nick%20Wilde%20ve%20Judy%20Hopps.%20Nick%20turuncu-k%C4%B1rm%C4%B1z%C4%B1%20k%C3%BCrkl%C3%BC%2C%20klasik%20ye%C5%9Fil%20palmiye%20yapra%C4%9F%C4%B1%20desenli%20k%C4%B1sa%20kollu%20g%C3%B6mle%C4%9Fini%2C%20mavi-k%C4%B1rm%C4%B1z%C4%B1%20%C3%A7izgili%20kravat%C4%B1n%C4%B1%20ve%20haki%20pantolonunu%20giymi%C5%9F%2C%20yak%C4%B1%C5%9F%C4%B1kl%C4%B1%20bir%20s%C4%B1r%C4%B1t%C4%B1%C5%9Fla%20duruyor.%20Judy%20gri%20k%C3%BCrkl%C3%BC%20ve%20mor%20g%C3%B6zl%C3%BC%2C%20kulaklar%C4%B1%20yukar%C4%B1%20dikilmi%C5%9F%2C%20koyu%20mavi%20ZPD%20memuru%20yele%C4%9Fi%2C%20g%C3%BCm%C3%BC%C5%9F%20rozeti%20ve%20tam%20donan%C4%B1ml%C4%B1%20kemeriyle%20tatl%C4%B1%20ve%20sevimli%20g%C3%B6r%C3%BCn%C3%BCyor.%20%C4%B0kisi%2C%20devasa%2C%20y%C3%BCzen%20bir%20%22Xiaohongshu%22%20uygulama%20aray%C3%BCz%C3%BC%20%C3%A7er%C3%A7evesinin%20alt%20kenar%C4%B1nda%20yan%20yana%20oturuyor.%20D%C3%B6rd%C3%BCnc%C3%BC%20duvar%C4%B1%20y%C4%B1kan%20bir%20kompozisyonla%2C%20bacaklar%C4%B1%20%C3%A7er%C3%A7evenin%20d%C4%B1%C5%9F%C4%B1na%20sark%C4%B1yor.%20Nick%20samimi%20bir%20%C5%9Fekilde%20bir%20kolunu%20Judy'nin%20omzuna%20dolam%C4%B1%C5%9F%2C%20di%C4%9Fer%20eliyle%20ise%20bir%20ak%C4%B1ll%C4%B1%20telefonu%20ileri%20uzatarak%2045%20derecelik%20a%C3%A7%C4%B1yla%20(bal%C4%B1k%20g%C3%B6z%C3%BC%20perspektifi)%20selfie%20%C3%A7ekiyor.%20Judy%20Nick'e%20s%C4%B1k%C4%B1ca%20yaslanm%C4%B1%C5%9F%2C%20tatl%C4%B1%20bir%20g%C3%BCl%C3%BCmsemeyle%20kameraya%20bakarak%20tatl%C4%B1%20bir%20%C3%A7ift%20an%C4%B1%20sergiliyor.%20G%C3%B6r%C3%BCnt%C3%BCn%C3%BCn%20merkezinde%20devasa%2C%20Xiaohongshu%20tarz%C4%B1%20bir%20sosyal%20medya%20%C3%A7er%C3%A7evesi%20var.%20Kullan%C4%B1c%C4%B1%20aray%C3%BCz%C3%BC%20klasik%20d%C3%BCzeni%20kopyal%C4%B1yor%3A%20sol%20altta%20kayan%20metin%20ba%C5%9Fl%C4%B1%C4%9F%C4%B1%2C%20sa%C4%9Fda%20%22%E2%9D%A4%22%2C%20%22%E2%AD%90%22%2C%20%22yorum%20balonu%22%20ve%20%22ileri%20ok%22%20dikey%20y%C3%BCzen%20simgeleri.%20%C3%9Cst%20k%C4%B1s%C4%B1mda%20%22%7Bargument%20name%3D%22username%22%20default%3D%22Nick%20%26%20Judy%22%7D%22%20kullan%C4%B1c%C4%B1%20ad%C4%B1%2C%20trend%20hashtag'lerle%20(%C3%B6rne%C4%9Fin%20%7Bargument%20name%3D%22hashtags%22%20default%3D%22%23Zootopia%20%23CoupleDaily%22%7D)%20birlikte%20g%C3%B6steriliyor.%203D%20Pixar%20animasyon%20stili%2C%20Unreal%20Engine%205%20render%2C%208K%20ultra%20HD%20kalite.%20K%C3%BCrk%2C%20lif%20seviyesinde%20detay%20g%C3%B6steriyor%2C%20%C4%B1%C5%9F%C4%B1n%20izleme%20teknolojisi%2C%20y%C3%BCzlerinde%20yumu%C5%9Fak%20selfie%20dolgu%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%2C%20arka%20plan%20bulan%C4%B1k%2C%20renkli%20bir%20Zootopia%20sokak%20sahnesi%20ve%20r%C3%BCya%20gibi%20bokeh%20efekti.%20Parlak%20ve%20canl%C4%B1%20renkler%2C%20y%C3%BCksek%20doygunluk%2C%20sosyal%20medya%20internet%20esteti%C4%9Fi%20ve%20%C5%9Feker%20tonlar%C4%B1%20vurgulanarak%20g%C3%B6rsel%20olarak%20%C3%A7arp%C4%B1c%C4%B1%20bir%20etki%20yarat%C4%B1yor.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Zootopia%20karakterleri%20Nick%20Wilde%20ve%20Judy%20Hopps.%20Nick%20turuncu-k%C4%B1rm%C4%B1z%C4%B1%20k%C3%BCrkl%C3%BC%2C%20klasik%20ye%C5%9Fil%20palmiye%20yapra%C4%9F%C4%B1%20desenli%20k%C4%B1sa%20kollu%20g%C3%B6mle%C4%9Fini%2C%20mavi-k%C4%B1rm%C4%B1z%C4%B1%20%C3%A7izgili%20kravat%C4%B1n%C4%B1%20ve%20haki%20pantolonunu%20giymi%C5%9F%2C%20yak%C4%B1%C5%9F%C4%B1kl%C4%B1%20bir%20s%C4%B1r%C4%B1t%C4%B1%C5%9Fla%20duruyor.%20Judy%20gri%20k%C3%BCrkl%C3%BC%20ve%20mor%20g%C3%B6zl%C3%BC%2C%20kulaklar%C4%B1%20yukar%C4%B1%20dikilmi%C5%9F%2C%20koyu%20mavi%20ZPD%20memuru%20yele%C4%9Fi%2C%20g%C3%BCm%C3%BC%C5%9F%20rozeti%20ve%20tam%20donan%C4%B1ml%C4%B1%20kemeriyle%20tatl%C4%B1%20ve%20sevimli%20g%C3%B6r%C3%BCn%C3%BCyor.%20%C4%B0kisi%2C%20devasa%2C%20y%C3%BCzen%20bir%20%22Xiaohongshu%22%20uygulama%20aray%C3%BCz%C3%BC%20%C3%A7er%C3%A7evesinin%20alt%20kenar%C4%B1nda%20yan%20yana%20oturuyor.%20D%C3%B6rd%C3%BCnc%C3%BC%20duvar%C4%B1%20y%C4%B1kan%20bir%20kompozisyonla%2C%20bacaklar%C4%B1%20%C3%A7er%C3%A7evenin%20d%C4%B1%C5%9F%C4%B1na%20sark%C4%B1yor.%20Nick%20samimi%20bir%20%C5%9Fekilde%20bir%20kolunu%20Judy'nin%20omzuna%20dolam%C4%B1%C5%9F%2C%20di%C4%9Fer%20eliyle%20ise%20bir%20ak%C4%B1ll%C4%B1%20telefonu%20ileri%20uzatarak%2045%20derecelik%20a%C3%A7%C4%B1yla%20(bal%C4%B1k%20g%C3%B6z%C3%BC%20perspektifi)%20selfie%20%C3%A7ekiyor.%20Judy%20Nick'e%20s%C4%B1k%C4%B1ca%20yaslanm%C4%B1%C5%9F%2C%20tatl%C4%B1%20bir%20g%C3%BCl%C3%BCmsemeyle%20kameraya%20bakarak%20tatl%C4%B1%20bir%20%C3%A7ift%20an%C4%B1%20sergiliyor.%20G%C3%B6r%C3%BCnt%C3%BCn%C3%BCn%20merkezinde%20devasa%2C%20Xiaohongshu%20tarz%C4%B1%20bir%20sosyal%20medya%20%C3%A7er%C3%A7evesi%20var.%20Kullan%C4%B1c%C4%B1%20aray%C3%BCz%C3%BC%20klasik%20d%C3%BCzeni%20kopyal%C4%B1yor%3A%20sol%20altta%20kayan%20metin%20ba%C5%9Fl%C4%B1%C4%9F%C4%B1%2C%20sa%C4%9Fda%20%22%E2%9D%A4%22%2C%20%22%E2%AD%90%22%2C%20%22yorum%20balonu%22%20ve%20%22ileri%20ok%22%20dikey%20y%C3%BCzen%20simgeleri.%20%C3%9Cst%20k%C4%B1s%C4%B1mda%20%22%7Bargument%20name%3D%22username%22%20default%3D%22Nick%20%26%20Judy%22%7D%22%20kullan%C4%B1c%C4%B1%20ad%C4%B1%2C%20trend%20hashtag'lerle%20(%C3%B6rne%C4%9Fin%20%7Bargument%20name%3D%22hashtags%22%20default%3D%22%23Zootopia%20%23CoupleDaily%22%7D)%20birlikte%20g%C3%B6steriliyor.%203D%20Pixar%20animasyon%20stili%2C%20Unreal%20Engine%205%20render%2C%208K%20ultra%20HD%20kalite.%20K%C3%BCrk%2C%20lif%20seviyesinde%20detay%20g%C3%B6steriyor%2C%20%C4%B1%C5%9F%C4%B1n%20izleme%20teknolojisi%2C%20y%C3%BCzlerinde%20yumu%C5%9Fak%20selfie%20dolgu%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%2C%20arka%20plan%20bulan%C4%B1k%2C%20renkli%20bir%20Zootopia%20sokak%20sahnesi%20ve%20r%C3%BCya%20gibi%20bokeh%20efekti.%20Parlak%20ve%20canl%C4%B1%20renkler%2C%20y%C3%BCksek%20doygunluk%2C%20sosyal%20medya%20internet%20esteti%C4%9Fi%20ve%20%C5%9Feker%20tonlar%C4%B1%20vurgulanarak%20g%C3%B6rsel%20olarak%20%C3%A7arp%C4%B1c%C4%B1%20bir%20etki%20yarat%C4%B1yor.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 104: Geleneksel Çin Baharat Otlarının Çizgi Sanatı
-=======
-### No. 107: Geleneksel Çin Baharat Otlarının Çizgi Sanatı
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 108: Geleneksel Çin Baharat Otlarının Çizgi Sanatı
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4015,15 +3690,11 @@ Yemek pişirmede kullanılan dokuz yaygın Çin baharatı, çizgi çizimi, grav�
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Yemek%20pi%C5%9Firmede%20kullan%C4%B1lan%20dokuz%20yayg%C4%B1n%20%C3%87in%20baharat%C4%B1%2C%20%C3%A7izgi%20%C3%A7izimi%2C%20grav%C3%BCr%20bask%C4%B1%20%C3%A7izgi%20sanat%C4%B1.%20D%C4%B1%C5%9F%20hat%20i%C3%A7in%20%7Bargument%20name%3D%22thick%20line%20width%22%20default%3D%220.8mm%22%7D%20kal%C4%B1n%20%C3%A7izgiler%20ve%20y%C3%BCzey%20dokusunu%20tasvir%20etmek%20i%C3%A7in%20%7Bargument%20name%3D%22thin%20line%20width%22%20default%3D%220.2mm%22%7D%20ince%20%C3%A7izgiler%20kullan%C4%B1n%2C%20bak%C4%B1r%20levha%20grav%C3%BCr%20izlerini%20koruyarak%2C%20tamamen%20beyaz%20bir%20arka%20plan%20%C3%BCzerinde.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Yemek%20pi%C5%9Firmede%20kullan%C4%B1lan%20dokuz%20yayg%C4%B1n%20%C3%87in%20baharat%C4%B1%2C%20%C3%A7izgi%20%C3%A7izimi%2C%20grav%C3%BCr%20bask%C4%B1%20%C3%A7izgi%20sanat%C4%B1.%20D%C4%B1%C5%9F%20hat%20i%C3%A7in%20%7Bargument%20name%3D%22thick%20line%20width%22%20default%3D%220.8mm%22%7D%20kal%C4%B1n%20%C3%A7izgiler%20ve%20y%C3%BCzey%20dokusunu%20tasvir%20etmek%20i%C3%A7in%20%7Bargument%20name%3D%22thin%20line%20width%22%20default%3D%220.2mm%22%7D%20ince%20%C3%A7izgiler%20kullan%C4%B1n%2C%20bak%C4%B1r%20levha%20grav%C3%BCr%20izlerini%20koruyarak%2C%20tamamen%20beyaz%20bir%20arka%20plan%20%C3%BCzerinde.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 105: Hangzhou Topografik Haritası
-=======
-### No. 108: Hangzhou Topografik Haritası
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 109: Hangzhou Topografik Haritası
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4052,15 +3723,11 @@ Ortasında kırmızı bir konum işaretçisi bulunan Hangzhou'nun topografik har
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Ortas%C4%B1nda%20k%C4%B1rm%C4%B1z%C4%B1%20bir%20konum%20i%C5%9Faret%C3%A7isi%20bulunan%20Hangzhou'nun%20topografik%20haritas%C4%B1.%20Harita%2C%20bitki%20%C3%B6rt%C3%BCs%C3%BC%20olan%20alanlar%C4%B1%20ve%20kentsel%20b%C3%B6lgeleri%20g%C3%B6steriyor%2C%20genel%20olarak%20sonbahar%20havas%C4%B1%20veriyor%3B%20mavi%20g%C3%B6l%20suyu%20ve%20yumu%C5%9Fak%20bej%20bir%20arka%20plan%20var.%20Stil%20ger%C3%A7ek%C3%A7i%2C%20narin%20%C4%B1%C5%9F%C4%B1k%20efektleri%20ve%20zengin%20detaylar%20vurgulan%C4%B1yor.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Ortas%C4%B1nda%20k%C4%B1rm%C4%B1z%C4%B1%20bir%20konum%20i%C5%9Faret%C3%A7isi%20bulunan%20Hangzhou'nun%20topografik%20haritas%C4%B1.%20Harita%2C%20bitki%20%C3%B6rt%C3%BCs%C3%BC%20olan%20alanlar%C4%B1%20ve%20kentsel%20b%C3%B6lgeleri%20g%C3%B6steriyor%2C%20genel%20olarak%20sonbahar%20havas%C4%B1%20veriyor%3B%20mavi%20g%C3%B6l%20suyu%20ve%20yumu%C5%9Fak%20bej%20bir%20arka%20plan%20var.%20Stil%20ger%C3%A7ek%C3%A7i%2C%20narin%20%C4%B1%C5%9F%C4%B1k%20efektleri%20ve%20zengin%20detaylar%20vurgulan%C4%B1yor.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 106: Moebius ve Kim Jung Gi'nin Hibrit Tarzında Grup İllüstrasyonu
-=======
-### No. 109: Moebius ve Kim Jung Gi'nin Hibrit Tarzında Grup İllüstrasyonu
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 110: Moebius ve Kim Jung Gi'nin Hibrit Tarzında Grup İllüstrasyonu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4089,15 +3756,11 @@ Moebius ve Kim Jung Gi'nin hibrit illüstrasyon stilini benimseyin; beyaz minima
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Moebius%20ve%20Kim%20Jung%20Gi'nin%20hibrit%20ill%C3%BCstrasyon%20stilini%20benimseyin%3B%20beyaz%20minimalist%20bir%20arka%20plan%20%C3%BCzerinde%20renkli%20kalemler%20ve%20sulu%20boyalarla%20canl%C4%B1%20renkler%2C%20karma%C5%9F%C4%B1k%20detaylar%20ve%20p%C3%BCr%C3%BCzs%C3%BCz%2C%20gerilim%20dolu%20%C3%A7izgiler%20olu%C5%9Fturun.%20Genel%20etki%2C%20tuhaf%20%C5%9Fekillere%20ve%20abart%C4%B1l%C4%B1%20hareketlere%20sahip%20bir%20grubu%20tasvir%20eden%20f%C3%BCt%C3%BCristik%20ve%20g%C3%BC%C3%A7l%C3%BC%20dinamik%2C%20abart%C4%B1l%C4%B1%20bir%20g%C3%B6rsel%20sunmal%C4%B1d%C4%B1r.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=Moebius%20ve%20Kim%20Jung%20Gi'nin%20hibrit%20ill%C3%BCstrasyon%20stilini%20benimseyin%3B%20beyaz%20minimalist%20bir%20arka%20plan%20%C3%BCzerinde%20renkli%20kalemler%20ve%20sulu%20boyalarla%20canl%C4%B1%20renkler%2C%20karma%C5%9F%C4%B1k%20detaylar%20ve%20p%C3%BCr%C3%BCzs%C3%BCz%2C%20gerilim%20dolu%20%C3%A7izgiler%20olu%C5%9Fturun.%20Genel%20etki%2C%20tuhaf%20%C5%9Fekillere%20ve%20abart%C4%B1l%C4%B1%20hareketlere%20sahip%20bir%20grubu%20tasvir%20eden%20f%C3%BCt%C3%BCristik%20ve%20g%C3%BC%C3%A7l%C3%BC%20dinamik%2C%20abart%C4%B1l%C4%B1%20bir%20g%C3%B6rsel%20sunmal%C4%B1d%C4%B1r.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 107: Çağdaş Çinli Romancılar İçin Resimli Bir Rehber
-=======
-### No. 110: Çağdaş Çinli Romancılar İçin Resimli Bir Rehber
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 111: Çağdaş Çinli Romancılar İçin Resimli Bir Rehber
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4142,15 +3805,11 @@ Ana başlık "Çağdaş Çinli Romancılar Resimli Rehberi" olup, edebi bir pop�
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%22%C3%87a%C4%9Fda%C5%9F%20%C3%87inli%20Romanc%C4%B1lar%20Resimli%20Rehberi%22%20ba%C5%9Fl%C4%B1kl%C4%B1%2C%20d%C3%BCz%20ill%C3%BCstrasyon%20%2B%20infografik%20tarz%C4%B1nda%20bir%20grafik%20bilgi%20posteri%20olu%C5%9Fturun.%20Genel%20d%C3%BCzen%2C%20her%20biri%20temsili%20bir%20%C3%A7a%C4%9Fda%C5%9F%20%C3%87inli%20romanc%C4%B1y%C4%B1%20i%C3%A7eren%20%7Bargument%20name%3D%22number%20of%20columns%22%20default%3D%226%22%7D%20b%C3%B6l%C3%BCme%20ayr%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.%0AHer%20b%C3%B6l%C3%BCm%20%C5%9Funlar%C4%B1%20i%C3%A7erir%3A%0A-%20Stilize%20edilmi%C5%9F%2C%20foto-ger%C3%A7ek%C3%A7i%20olmayan%2C%20basitle%C5%9Ftirilmi%C5%9F%20bir%20ill%C3%BCstrasyon%20portresi%2C%20ancak%20benzerli%C4%9Fi%20korumak%20i%C3%A7in%20ill%C3%BCstrasyon%20portresinin%20ger%C3%A7ek%20bir%20foto%C4%9Frafa%20dayanmas%C4%B1%20gerekir%0A-%20Yazar%C4%B1n%20ad%C4%B1%20(%C3%87ince)%0A-%20Temsili%20eserler%20(%7Bargument%20name%3D%22number%20of%20works%22%20default%3D%221-2%22%7D)%0A-%20Tarz%20etiketleri%20(%C3%B6rn.%20%7Bargument%20name%3D%22style%20tag%20examples%22%20default%3D%22ger%C3%A7ek%C3%A7ilik%2C%20avangart%20edebiyat%2C%20gen%C3%A7lik%20edebiyat%C4%B1%2C%20tarihi%20anlat%C4%B1%2C%20b%C3%BCy%C3%BCl%C3%BC%20ger%C3%A7ek%C3%A7ilik%2C%20bilim%20kurgu%22%7D)%0A-%20Tek%20c%C3%BCmlelik%20k%C4%B1sa%20bir%20giri%C5%9F%20(%C3%A7ok%20k%C4%B1sa)%0AGenel%20tasar%C4%B1m%2C%20a%C3%A7%C4%B1k%20bir%20arka%20plan%20%2B%20b%C3%B6l%C3%BCmlere%20ayr%C4%B1lm%C4%B1%C5%9F%20renk%20bloklar%C4%B1%20kullan%C4%B1r%2C%20d%C3%BCzenli%20ve%20tertipli%20bir%20yerle%C5%9Fimle.%0AAlt%C4%B1%20romanc%C4%B1%20%C5%9Funlard%C4%B1r%3A%0A-%20%7Bargument%20name%3D%22novelist%201%22%20default%3D%22Jia%20Pingwa%22%7D%0A-%20%7Bargument%20name%3D%22novelist%202%22%20default%3D%22Yu%20Hua%22%7D%0A-%20%7Bargument%20name%3D%22novelist%203%22%20default%3D%22Wang%20Anyi%22%7D%0A-%20%7Bargument%20name%3D%22novelist%204%22%20default%3D%22Liu%20Cixin%22%7D%0A-%20%7Bargument%20name%3D%22novelist%205%22%20default%3D%22Su%20Tong%22%7D%0A-%20%7Bargument%20name%3D%22novelist%206%22%20default%3D%22Han%20Shaogong%22%7D%0AAna%20ba%C5%9Fl%C4%B1k%20%22%C3%87a%C4%9Fda%C5%9F%20%C3%87inli%20Romanc%C4%B1lar%20Resimli%20Rehberi%22%20olup%2C%20edebi%20bir%20pop%C3%BCler%20bilim%20posteri%20i%C3%A7in%20uygun%2C%20%C3%B6zl%C3%BC%20ve%20modern%20bir%20tarza%20sahiptir.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%22%C3%87a%C4%9Fda%C5%9F%20%C3%87inli%20Romanc%C4%B1lar%20Resimli%20Rehberi%22%20ba%C5%9Fl%C4%B1kl%C4%B1%2C%20d%C3%BCz%20ill%C3%BCstrasyon%20%2B%20infografik%20tarz%C4%B1nda%20bir%20grafik%20bilgi%20posteri%20olu%C5%9Fturun.%20Genel%20d%C3%BCzen%2C%20her%20biri%20temsili%20bir%20%C3%A7a%C4%9Fda%C5%9F%20%C3%87inli%20romanc%C4%B1y%C4%B1%20i%C3%A7eren%20%7Bargument%20name%3D%22number%20of%20columns%22%20default%3D%226%22%7D%20b%C3%B6l%C3%BCme%20ayr%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.%0AHer%20b%C3%B6l%C3%BCm%20%C5%9Funlar%C4%B1%20i%C3%A7erir%3A%0A-%20Stilize%20edilmi%C5%9F%2C%20foto-ger%C3%A7ek%C3%A7i%20olmayan%2C%20basitle%C5%9Ftirilmi%C5%9F%20bir%20ill%C3%BCstrasyon%20portresi%2C%20ancak%20benzerli%C4%9Fi%20korumak%20i%C3%A7in%20ill%C3%BCstrasyon%20portresinin%20ger%C3%A7ek%20bir%20foto%C4%9Frafa%20dayanmas%C4%B1%20gerekir%0A-%20Yazar%C4%B1n%20ad%C4%B1%20(%C3%87ince)%0A-%20Temsili%20eserler%20(%7Bargument%20name%3D%22number%20of%20works%22%20default%3D%221-2%22%7D)%0A-%20Tarz%20etiketleri%20(%C3%B6rn.%20%7Bargument%20name%3D%22style%20tag%20examples%22%20default%3D%22ger%C3%A7ek%C3%A7ilik%2C%20avangart%20edebiyat%2C%20gen%C3%A7lik%20edebiyat%C4%B1%2C%20tarihi%20anlat%C4%B1%2C%20b%C3%BCy%C3%BCl%C3%BC%20ger%C3%A7ek%C3%A7ilik%2C%20bilim%20kurgu%22%7D)%0A-%20Tek%20c%C3%BCmlelik%20k%C4%B1sa%20bir%20giri%C5%9F%20(%C3%A7ok%20k%C4%B1sa)%0AGenel%20tasar%C4%B1m%2C%20a%C3%A7%C4%B1k%20bir%20arka%20plan%20%2B%20b%C3%B6l%C3%BCmlere%20ayr%C4%B1lm%C4%B1%C5%9F%20renk%20bloklar%C4%B1%20kullan%C4%B1r%2C%20d%C3%BCzenli%20ve%20tertipli%20bir%20yerle%C5%9Fimle.%0AAlt%C4%B1%20romanc%C4%B1%20%C5%9Funlard%C4%B1r%3A%0A-%20%7Bargument%20name%3D%22novelist%201%22%20default%3D%22Jia%20Pingwa%22%7D%0A-%20%7Bargument%20name%3D%22novelist%202%22%20default%3D%22Yu%20Hua%22%7D%0A-%20%7Bargument%20name%3D%22novelist%203%22%20default%3D%22Wang%20Anyi%22%7D%0A-%20%7Bargument%20name%3D%22novelist%204%22%20default%3D%22Liu%20Cixin%22%7D%0A-%20%7Bargument%20name%3D%22novelist%205%22%20default%3D%22Su%20Tong%22%7D%0A-%20%7Bargument%20name%3D%22novelist%206%22%20default%3D%22Han%20Shaogong%22%7D%0AAna%20ba%C5%9Fl%C4%B1k%20%22%C3%87a%C4%9Fda%C5%9F%20%C3%87inli%20Romanc%C4%B1lar%20Resimli%20Rehberi%22%20olup%2C%20edebi%20bir%20pop%C3%BCler%20bilim%20posteri%20i%C3%A7in%20uygun%2C%20%C3%B6zl%C3%BC%20ve%20modern%20bir%20tarza%20sahiptir.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 108: Çin Yemek Haritası Bilgilendirici Poster
-=======
-### No. 111: Çin Yemek Haritası Bilgilendirici Poster
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 112: Çin Yemek Haritası Bilgilendirici Poster
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4180,7 +3839,7 @@ Bu bilgi grafiği istemi, Çin haritasına dayalı bir poster oluşturmak üzere
 - **Yayınlandı:** 10 Aralık 2025
 - **Diller:** zh
 
-**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%22%C3%87in%20Yemek%20Haritas%C4%B1%22%20ba%C5%9Fl%C4%B1kl%C4%B1%20bir%20grafik%20poster%20olu%C5%9Fturun.%20Genel%20tasar%C4%B1m%2C%20%C3%87in%20haritas%C4%B1n%C4%B1%20temel%20alacak%20ve%20her%20eyalet%20ayr%C4%B1%20renkli%20bir%20blok%20arka%20planla%20belirtilecektir.%20Her%20eyaletin%20%C3%BCzerine%20temsili%20bir%20yeme%C4%9Fin%20ad%C4%B1n%C4%B1%20etiketleyin%20ve%20g%C3%BC%C3%A7l%C3%BC%20bir%20ger%C3%A7ek%C3%A7ilik%20hissine%20sahip%20%C3%BC%C3%A7%20boyutlu%20bir%20simge%20(%C3%B6rne%C4%9Fin%20%7Bargument%20name%3D%22food%20icon%20examples%22%20default%3D%22g%C3%BCve%C3%A7%2C%20%C3%B6rdek%20dolmas%C4%B1%2C%20dim%20sum%22%7D%20gibi)%20ekleyin%2C%20yemek%20simgelerinin%20ger%C3%A7ek%C3%A7i%20bir%20dokuya%20sahip%20oldu%C4%9Fundan%20emin%20olun.%20Ana%20ba%C5%9Fl%C4%B1k%20%22%C3%87in%20Yemek%20Haritas%C4%B1%22%20olup%2C%20d%C3%BCzg%C3%BCn%20bir%20tipografi%2C%20d%C3%BCz%20ill%C3%BCstrasyon%20stilini%20%C3%BC%C3%A7%20boyutlu%20%C3%B6%C4%9Felerle%20birle%C5%9Ftirerek%20ve%20yumu%C5%9Fak%20renkler%20kullanarak%20tasarlanacakt%C4%B1r.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/seedream-4-dot-5-prompts?prompt=%22%C3%87in%20Yemek%20Haritas%C4%B1%22%20ba%C5%9Fl%C4%B1kl%C4%B1%20bir%20grafik%20poster%20olu%C5%9Fturun.%20Genel%20tasar%C4%B1m%2C%20%C3%87in%20haritas%C4%B1n%C4%B1%20temel%20alacak%20ve%20her%20eyalet%20ayr%C4%B1%20renkli%20bir%20blok%20arka%20planla%20belirtilecektir.%20Her%20eyaletin%20%C3%BCzerine%20temsili%20bir%20yeme%C4%9Fin%20ad%C4%B1n%C4%B1%20etiketleyin%20ve%20g%C3%BC%C3%A7l%C3%BC%20bir%20ger%C3%A7ek%C3%A7ilik%20hissine%20sahip%20%C3%BC%C3%A7%20boyutlu%20bir%20simge%20(%C3%B6rne%C4%9Fin%20%7Bargument%20name%3D%22food%20icon%20examples%22%20default%3D%22g%C3%BCve%C3%A7%2C%20%C3%B6rdek%20dolmas%C4%B1%2C%20dim%20sum%22%7D%20gibi)%20ekleyin%2C%20yemek%20simgelerinin%20ger%C3%A7ek%C3%A7i%20bir%20dokuya%20sahip%20oldu%C4%9Fundan%20emin%20olun.%20Ana%20ba%C5%9Fl%C4%B1k%20%22%C3%87in%20Yemek%20Haritas%C4%B1%22%20olup%2C%20d%C3%BCzg%C3%BCn%20bir%20tipografi%2C%20d%C3%BCz%20ill%C3%BCstrasyon%20stilini%20%C3%BC%C3%A7%20boyutlu%20%C3%B6%C4%9Felerle%20birle%C5%9Ftirerek%20ve%20yumu%C5%9Fak%20renkler%20kullanarak%20tasarlanacakt%C4%B1r.)**
 
 ---
 
@@ -4223,14 +3882,10 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 
 <div align="center">
 
-**[🌐 Web galerisinde görüntüle](https://youmind.com/seedream-4-dot-5-prompts)** •
+**[🌐 Web galerisinde görüntüle](https://youmind.com/tr-TR/seedream-4-dot-5-prompts)** •
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<<<<<<< HEAD
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-10T09:55:06.293Z</sub>
-=======
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-10T12:21:15.990Z</sub>
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-10T14:22:00.654Z</sub>
 
 </div>

@@ -22,13 +22,13 @@
 
 <div align="center">
 
-![Cover](public/images/seedream-4.5-prompts-cover-en.png)
+![Cover](https://marketing-assets.youmind.com/campaigns/seedream-4-dot-5-prompts-cover.jpeg)
 
-![List](public/images/seedream-4.5-prompts-list-en.png)
+![List](https://marketing-assets.youmind.com/campaigns/seedream-4-dot-5-prompts-list.png)
 
 </div>
 
-**[👉 Duyệt trên Thư viện YouMind Seedream 4.5](https://youmind.com/seedream-4-dot-5-prompts)**
+**[👉 Duyệt trên Thư viện YouMind Seedream 4.5](https://youmind.com/vi-VN/seedream-4-dot-5-prompts)**
 
 Tại sao nên sử dụng thư viện của chúng tôi?
 
@@ -88,15 +88,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-<<<<<<< HEAD
-| 📝 Tổng số câu lệnh | **108** |
+| 📝 Tổng số câu lệnh | **112** |
 | ⭐ Nổi bật | **0** |
-| 🔄 Cập nhật lần cuối | **lúc 09:54:52 UTC Thứ Tư, 10 tháng 12, 2025** |
-=======
-| 📝 Tổng số câu lệnh | **111** |
-| ⭐ Nổi bật | **0** |
-| 🔄 Cập nhật lần cuối | **lúc 12:21:07 UTC Thứ Tư, 10 tháng 12, 2025** |
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+| 🔄 Cập nhật lần cuối | **lúc 14:21:43 UTC Thứ Tư, 10 tháng 12, 2025** |
 
 </div>
 
@@ -135,7 +129,7 @@ Một áp phích vui nhộn và mang tính giáo dục cho hội chợ khoa họ
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20%C3%A1p%20ph%C3%ADch%20vui%20nh%E1%BB%99n%20v%C3%A0%20mang%20t%C3%ADnh%20gi%C3%A1o%20d%E1%BB%A5c%20cho%20h%E1%BB%99i%20ch%E1%BB%A3%20khoa%20h%E1%BB%8Dc%20d%C3%A0nh%20cho%20tr%E1%BA%BB%20em.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20l%C3%A0%20m%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20ho%E1%BA%A1t%20h%C3%ACnh%20%C4%91%E1%BA%A7y%20m%C3%A0u%20s%E1%BA%AFc%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20%C4%91%E1%BB%A9a%20tr%E1%BA%BB%20h%C3%B3a%20trang%20th%C3%A0nh%20nh%C3%A0%20khoa%20h%E1%BB%8Dc%2C%20%C4%91ang%20nh%C3%ACn%20v%C3%A0o%20nh%E1%BB%AFng%20chi%E1%BA%BFc%20c%E1%BB%91c%20th%C3%AD%20nghi%E1%BB%87m%20s%E1%BB%A7i%20b%E1%BB%8Dt%2C%20k%C3%ADnh%20thi%C3%AAn%20v%C4%83n%20v%C3%A0%20robot.%20Ki%E1%BB%83u%20ch%E1%BB%AF%20vui%20t%C6%B0%C6%A1i%20v%C3%A0%20th%C3%A2n%20thi%E1%BB%87n%20v%E1%BB%9Bi%20tr%E1%BA%BB%20em.%20%C3%81p%20ph%C3%ADch%20n%C3%AAn%20l%C3%A0m%20cho%20khoa%20h%E1%BB%8Dc%20tr%C3%B4ng%20th%C3%BA%20v%E1%BB%8B%20v%C3%A0%20d%E1%BB%85%20ti%E1%BA%BFp%20c%E1%BA%ADn%2C%20khuy%E1%BA%BFn%20kh%C3%ADch%20tr%E1%BA%BB%20em%20tham%20gia.%20%E2%80%93ar%202%3A3)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20%C3%A1p%20ph%C3%ADch%20vui%20nh%E1%BB%99n%20v%C3%A0%20mang%20t%C3%ADnh%20gi%C3%A1o%20d%E1%BB%A5c%20cho%20h%E1%BB%99i%20ch%E1%BB%A3%20khoa%20h%E1%BB%8Dc%20d%C3%A0nh%20cho%20tr%E1%BA%BB%20em.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20l%C3%A0%20m%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20ho%E1%BA%A1t%20h%C3%ACnh%20%C4%91%E1%BA%A7y%20m%C3%A0u%20s%E1%BA%AFc%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20%C4%91%E1%BB%A9a%20tr%E1%BA%BB%20h%C3%B3a%20trang%20th%C3%A0nh%20nh%C3%A0%20khoa%20h%E1%BB%8Dc%2C%20%C4%91ang%20nh%C3%ACn%20v%C3%A0o%20nh%E1%BB%AFng%20chi%E1%BA%BFc%20c%E1%BB%91c%20th%C3%AD%20nghi%E1%BB%87m%20s%E1%BB%A7i%20b%E1%BB%8Dt%2C%20k%C3%ADnh%20thi%C3%AAn%20v%C4%83n%20v%C3%A0%20robot.%20Ki%E1%BB%83u%20ch%E1%BB%AF%20vui%20t%C6%B0%C6%A1i%20v%C3%A0%20th%C3%A2n%20thi%E1%BB%87n%20v%E1%BB%9Bi%20tr%E1%BA%BB%20em.%20%C3%81p%20ph%C3%ADch%20n%C3%AAn%20l%C3%A0m%20cho%20khoa%20h%E1%BB%8Dc%20tr%C3%B4ng%20th%C3%BA%20v%E1%BB%8B%20v%C3%A0%20d%E1%BB%85%20ti%E1%BA%BFp%20c%E1%BA%ADn%2C%20khuy%E1%BA%BFn%20kh%C3%ADch%20tr%E1%BA%BB%20em%20tham%20gia.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -168,7 +162,7 @@ Một poster thời trang, bắt mắt dành cho chương trình giảm giá cu�
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20poster%20th%E1%BB%9Di%20trang%2C%20b%E1%BA%AFt%20m%E1%BA%AFt%20d%C3%A0nh%20cho%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20gi%E1%BA%A3m%20gi%C3%A1%20cu%E1%BB%91i%20m%C3%B9a%20c%E1%BB%A7a%20m%E1%BB%99t%20c%E1%BB%ADa%20h%C3%A0ng%20th%E1%BB%9Di%20trang.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20s%E1%BB%AD%20d%E1%BB%A5ng%20m%C3%A0u%20s%E1%BA%AFc%20%C4%91%E1%BA%ADm%2C%20r%E1%BB%B1c%20r%E1%BB%A1%20v%C3%A0%20ki%E1%BB%83u%20ch%E1%BB%AF%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%2C%20s%E1%BA%AFc%20s%E1%BA%A3o.%20H%C3%ACnh%20%E1%BA%A3nh%20ch%C3%ADnh%20l%C3%A0%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20m%E1%BA%ABu%20s%C3%A0nh%20%C4%91i%E1%BB%87u%20m%E1%BA%B7c%20qu%E1%BA%A7n%20%C3%A1o%20c%E1%BB%A7a%20c%E1%BB%ADa%20h%C3%A0ng%2C%20nh%C6%B0ng%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%C6%B0%E1%BB%A3c%20x%E1%BB%AD%20l%C3%BD%20s%C3%A1ng%20t%E1%BA%A1o%20b%E1%BA%B1ng%20c%C3%A1c%20n%C3%A9t%20v%E1%BA%BD%20ho%E1%BA%B7c%20y%E1%BA%BFu%20t%E1%BB%91%20c%E1%BA%AFt%20d%C3%A1n.%20D%C3%B2ng%20ch%E1%BB%AF%20%E2%80%9CGI%E1%BA%A2M%20GI%C3%81%2050%25%20T%E1%BA%A4T%20C%E1%BA%A2%20S%E1%BA%A2N%20PH%E1%BA%A8M%E2%80%9D%20l%C3%A0%20y%E1%BA%BFu%20t%E1%BB%91%20n%E1%BB%95i%20b%E1%BA%ADt%20nh%E1%BA%A5t.%20Poster%20n%C3%AAn%20t%E1%BA%A1o%20c%E1%BA%A3m%20gi%C3%A1c%20kh%E1%BA%A9n%20c%E1%BA%A5p%20v%C3%A0%20ph%E1%BA%A5n%20kh%C3%ADch.%20%E2%80%93ar%203%3A4)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20poster%20th%E1%BB%9Di%20trang%2C%20b%E1%BA%AFt%20m%E1%BA%AFt%20d%C3%A0nh%20cho%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20gi%E1%BA%A3m%20gi%C3%A1%20cu%E1%BB%91i%20m%C3%B9a%20c%E1%BB%A7a%20m%E1%BB%99t%20c%E1%BB%ADa%20h%C3%A0ng%20th%E1%BB%9Di%20trang.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20s%E1%BB%AD%20d%E1%BB%A5ng%20m%C3%A0u%20s%E1%BA%AFc%20%C4%91%E1%BA%ADm%2C%20r%E1%BB%B1c%20r%E1%BB%A1%20v%C3%A0%20ki%E1%BB%83u%20ch%E1%BB%AF%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%2C%20s%E1%BA%AFc%20s%E1%BA%A3o.%20H%C3%ACnh%20%E1%BA%A3nh%20ch%C3%ADnh%20l%C3%A0%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20m%E1%BA%ABu%20s%C3%A0nh%20%C4%91i%E1%BB%87u%20m%E1%BA%B7c%20qu%E1%BA%A7n%20%C3%A1o%20c%E1%BB%A7a%20c%E1%BB%ADa%20h%C3%A0ng%2C%20nh%C6%B0ng%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%C6%B0%E1%BB%A3c%20x%E1%BB%AD%20l%C3%BD%20s%C3%A1ng%20t%E1%BA%A1o%20b%E1%BA%B1ng%20c%C3%A1c%20n%C3%A9t%20v%E1%BA%BD%20ho%E1%BA%B7c%20y%E1%BA%BFu%20t%E1%BB%91%20c%E1%BA%AFt%20d%C3%A1n.%20D%C3%B2ng%20ch%E1%BB%AF%20%E2%80%9CGI%E1%BA%A2M%20GI%C3%81%2050%25%20T%E1%BA%A4T%20C%E1%BA%A2%20S%E1%BA%A2N%20PH%E1%BA%A8M%E2%80%9D%20l%C3%A0%20y%E1%BA%BFu%20t%E1%BB%91%20n%E1%BB%95i%20b%E1%BA%ADt%20nh%E1%BA%A5t.%20Poster%20n%C3%AAn%20t%E1%BA%A1o%20c%E1%BA%A3m%20gi%C3%A1c%20kh%E1%BA%A9n%20c%E1%BA%A5p%20v%C3%A0%20ph%E1%BA%A5n%20kh%C3%ADch.%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -201,7 +195,7 @@ Một tấm áp phích du lịch đầy khát vọng và đẹp mắt để ghé
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20t%E1%BA%A5m%20%C3%A1p%20ph%C3%ADch%20du%20l%E1%BB%8Bch%20%C4%91%E1%BA%A7y%20kh%C3%A1t%20v%E1%BB%8Dng%20v%C3%A0%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%20%C4%91%E1%BB%83%20gh%C3%A9%20th%C4%83m%20d%C3%A3y%20Alps%20c%E1%BB%A7a%20Th%E1%BB%A5y%20S%C4%A9.%20H%C3%ACnh%20%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20si%C3%AAu%20th%E1%BB%B1c%2C%20ngo%E1%BA%A1n%20m%E1%BB%A5c%20v%E1%BB%81%20m%E1%BB%99t%20ng%C3%B4i%20l%C3%A0ng%20n%C3%BAi%20cao%20%C4%91%E1%BA%B9p%20nh%C6%B0%20tranh%20v%E1%BA%BD%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20ng%E1%BB%8Dn%20n%C3%BAi%20ph%E1%BB%A7%20tuy%E1%BA%BFt%20tr%E1%BA%AFng%20%E1%BB%9F%20ph%C3%ADa%20sau.%20D%C3%B2ng%20ch%E1%BB%AF%20%E2%80%9CSWITZERLAND%3A%20The%20Adventure%20Awaits%E2%80%9D%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20c%E1%BB%95%20%C4%91i%E1%BB%83n%2C%20trang%20nh%C3%A3.%20T%E1%BA%A5m%20%C3%A1p%20ph%C3%ADch%20n%C3%AAn%20g%E1%BB%A3i%20l%C3%AAn%20m%E1%BB%99t%20c%E1%BA%A3m%20gi%C3%A1c%20khao%20kh%C3%A1t%20du%20l%E1%BB%8Bch%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%C3%A0%20khi%E1%BA%BFn%20ng%C6%B0%E1%BB%9Di%20xem%20mu%E1%BB%91n%20%C4%91%E1%BA%B7t%20chuy%E1%BA%BFn%20%C4%91i%20ngay%20l%E1%BA%ADp%20t%E1%BB%A9c.%20%E2%80%93ar%202%3A3)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20t%E1%BA%A5m%20%C3%A1p%20ph%C3%ADch%20du%20l%E1%BB%8Bch%20%C4%91%E1%BA%A7y%20kh%C3%A1t%20v%E1%BB%8Dng%20v%C3%A0%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%20%C4%91%E1%BB%83%20gh%C3%A9%20th%C4%83m%20d%C3%A3y%20Alps%20c%E1%BB%A7a%20Th%E1%BB%A5y%20S%C4%A9.%20H%C3%ACnh%20%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20si%C3%AAu%20th%E1%BB%B1c%2C%20ngo%E1%BA%A1n%20m%E1%BB%A5c%20v%E1%BB%81%20m%E1%BB%99t%20ng%C3%B4i%20l%C3%A0ng%20n%C3%BAi%20cao%20%C4%91%E1%BA%B9p%20nh%C6%B0%20tranh%20v%E1%BA%BD%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20ng%E1%BB%8Dn%20n%C3%BAi%20ph%E1%BB%A7%20tuy%E1%BA%BFt%20tr%E1%BA%AFng%20%E1%BB%9F%20ph%C3%ADa%20sau.%20D%C3%B2ng%20ch%E1%BB%AF%20%E2%80%9CSWITZERLAND%3A%20The%20Adventure%20Awaits%E2%80%9D%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20c%E1%BB%95%20%C4%91i%E1%BB%83n%2C%20trang%20nh%C3%A3.%20T%E1%BA%A5m%20%C3%A1p%20ph%C3%ADch%20n%C3%AAn%20g%E1%BB%A3i%20l%C3%AAn%20m%E1%BB%99t%20c%E1%BA%A3m%20gi%C3%A1c%20khao%20kh%C3%A1t%20du%20l%E1%BB%8Bch%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%C3%A0%20khi%E1%BA%BFn%20ng%C6%B0%E1%BB%9Di%20xem%20mu%E1%BB%91n%20%C4%91%E1%BA%B7t%20chuy%E1%BA%BFn%20%C4%91i%20ngay%20l%E1%BA%ADp%20t%E1%BB%A9c.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -234,7 +228,7 @@ Một tờ rơi "Mèo bị lạc" hiệu quả và rõ ràng. Thiết kế đơn
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20t%E1%BB%9D%20r%C6%A1i%20%22M%C3%A8o%20b%E1%BB%8B%20l%E1%BA%A1c%22%20hi%E1%BB%87u%20qu%E1%BA%A3%20v%C3%A0%20r%C3%B5%20r%C3%A0ng.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20v%C3%A0%20ti%E1%BB%87n%20d%E1%BB%A5ng.%20N%C3%B3%20c%C3%B3%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20m%C3%A0u%20l%E1%BB%9Bn%2C%20r%C3%B5%20r%C3%A0ng%20v%E1%BB%81%20con%20m%C3%A8o%20%E1%BB%9F%20ph%C3%ADa%20tr%C3%AAn.%20D%C3%B2ng%20ti%C3%AAu%20%C4%91%E1%BB%81%20%22M%C3%88O%20B%E1%BB%8A%20L%E1%BA%A0C%22%20%C4%91%C6%B0%E1%BB%A3c%20in%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20r%E1%BA%A5t%20l%E1%BB%9Bn%2C%20%C4%91%E1%BA%ADm%20v%C3%A0%20d%E1%BB%85%20%C4%91%E1%BB%8Dc.%20B%C3%AAn%20d%C6%B0%E1%BB%9Bi%20%E1%BA%A3nh%20l%C3%A0%20t%C3%AAn%20m%C3%A8o%2C%20m%C3%B4%20t%E1%BA%A3%2C%20%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%20nh%C3%ACn%20th%E1%BA%A5y%20l%E1%BA%A7n%20cu%E1%BB%91i%20v%C3%A0%20th%C3%B4ng%20tin%20li%C3%AAn%20h%E1%BB%87%20c%E1%BB%A7a%20ch%E1%BB%A7%20s%E1%BB%9F%20h%E1%BB%AFu%20v%E1%BB%9Bi%20c%C3%A1c%20tab%20c%C3%B3%20th%E1%BB%83%20x%C3%A9%20%E1%BB%9F%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20t%E1%BA%A1o%20ra%20c%C3%A1c%20thi%E1%BA%BFt%20k%E1%BA%BF%20th%E1%BB%B1c%20t%E1%BA%BF%2C%20%E1%BB%A9ng%20d%E1%BB%A5ng%20trong%20%C4%91%E1%BB%9Di%20s%E1%BB%91ng.%20%E2%80%93ar%203%3A4)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20t%E1%BB%9D%20r%C6%A1i%20%22M%C3%A8o%20b%E1%BB%8B%20l%E1%BA%A1c%22%20hi%E1%BB%87u%20qu%E1%BA%A3%20v%C3%A0%20r%C3%B5%20r%C3%A0ng.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20v%C3%A0%20ti%E1%BB%87n%20d%E1%BB%A5ng.%20N%C3%B3%20c%C3%B3%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20m%C3%A0u%20l%E1%BB%9Bn%2C%20r%C3%B5%20r%C3%A0ng%20v%E1%BB%81%20con%20m%C3%A8o%20%E1%BB%9F%20ph%C3%ADa%20tr%C3%AAn.%20D%C3%B2ng%20ti%C3%AAu%20%C4%91%E1%BB%81%20%22M%C3%88O%20B%E1%BB%8A%20L%E1%BA%A0C%22%20%C4%91%C6%B0%E1%BB%A3c%20in%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20r%E1%BA%A5t%20l%E1%BB%9Bn%2C%20%C4%91%E1%BA%ADm%20v%C3%A0%20d%E1%BB%85%20%C4%91%E1%BB%8Dc.%20B%C3%AAn%20d%C6%B0%E1%BB%9Bi%20%E1%BA%A3nh%20l%C3%A0%20t%C3%AAn%20m%C3%A8o%2C%20m%C3%B4%20t%E1%BA%A3%2C%20%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%20nh%C3%ACn%20th%E1%BA%A5y%20l%E1%BA%A7n%20cu%E1%BB%91i%20v%C3%A0%20th%C3%B4ng%20tin%20li%C3%AAn%20h%E1%BB%87%20c%E1%BB%A7a%20ch%E1%BB%A7%20s%E1%BB%9F%20h%E1%BB%AFu%20v%E1%BB%9Bi%20c%C3%A1c%20tab%20c%C3%B3%20th%E1%BB%83%20x%C3%A9%20%E1%BB%9F%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20t%E1%BA%A1o%20ra%20c%C3%A1c%20thi%E1%BA%BFt%20k%E1%BA%BF%20th%E1%BB%B1c%20t%E1%BA%BF%2C%20%E1%BB%A9ng%20d%E1%BB%A5ng%20trong%20%C4%91%E1%BB%9Di%20s%E1%BB%91ng.%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -267,7 +261,7 @@ Một áp phích cung cấp thông tin và hấp dẫn cho một buổi hội th
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20%C3%A1p%20ph%C3%ADch%20cung%20c%E1%BA%A5p%20th%C3%B4ng%20tin%20v%C3%A0%20h%E1%BA%A5p%20d%E1%BA%ABn%20cho%20m%E1%BB%99t%20bu%E1%BB%95i%20h%E1%BB%99i%20th%E1%BA%A3o%20c%C3%B4ng%20c%E1%BB%99ng%20v%E1%BB%81%20bi%E1%BA%BFn%20%C4%91%E1%BB%95i%20kh%C3%AD%20h%E1%BA%ADu.%20%C3%81p%20ph%C3%ADch%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20nh%C6%B0%20m%E1%BB%99t%20infographic%20thu%20nh%E1%BB%8F%2C%20v%E1%BB%9Bi%20m%E1%BB%99t%20%C4%91%E1%BB%93%20h%E1%BB%8Da%20l%E1%BB%9Bn%2C%20trung%20t%C3%A2m%20hi%E1%BB%83n%20th%E1%BB%8B%20tr%C3%A1i%20%C4%91%E1%BA%A5t%20c%C3%B9ng%20m%E1%BB%99t%20nhi%E1%BB%87t%20k%E1%BA%BF%2C%20v%C3%A0%20c%C3%A1c%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20nh%E1%BB%8F%20h%C6%A1n%20c%C3%B9ng%20c%C3%A1c%20%C4%91i%E1%BB%83m%20d%E1%BB%AF%20li%E1%BB%87u%20xung%20quanh%20gi%E1%BA%A3i%20th%C3%ADch%20c%C3%A1c%20nguy%C3%AAn%20nh%C3%A2n%20v%C3%A0%20t%C3%A1c%20%C4%91%E1%BB%99ng.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20s%E1%BA%A1ch%20s%E1%BA%BD%2C%20c%C3%B3%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%A0%20nh%E1%BA%B1m%20m%E1%BB%A5c%20%C4%91%C3%ADch%20gi%C3%A1o%20d%E1%BB%A5c%20ng%C6%B0%E1%BB%9Di%20xem%20m%E1%BB%99t%20c%C3%A1ch%20nhanh%20ch%C3%B3ng%20v%C3%A0%20hi%E1%BB%87u%20qu%E1%BA%A3.%20%E2%80%93ar%203%3A4)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20%C3%A1p%20ph%C3%ADch%20cung%20c%E1%BA%A5p%20th%C3%B4ng%20tin%20v%C3%A0%20h%E1%BA%A5p%20d%E1%BA%ABn%20cho%20m%E1%BB%99t%20bu%E1%BB%95i%20h%E1%BB%99i%20th%E1%BA%A3o%20c%C3%B4ng%20c%E1%BB%99ng%20v%E1%BB%81%20bi%E1%BA%BFn%20%C4%91%E1%BB%95i%20kh%C3%AD%20h%E1%BA%ADu.%20%C3%81p%20ph%C3%ADch%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20nh%C6%B0%20m%E1%BB%99t%20infographic%20thu%20nh%E1%BB%8F%2C%20v%E1%BB%9Bi%20m%E1%BB%99t%20%C4%91%E1%BB%93%20h%E1%BB%8Da%20l%E1%BB%9Bn%2C%20trung%20t%C3%A2m%20hi%E1%BB%83n%20th%E1%BB%8B%20tr%C3%A1i%20%C4%91%E1%BA%A5t%20c%C3%B9ng%20m%E1%BB%99t%20nhi%E1%BB%87t%20k%E1%BA%BF%2C%20v%C3%A0%20c%C3%A1c%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20nh%E1%BB%8F%20h%C6%A1n%20c%C3%B9ng%20c%C3%A1c%20%C4%91i%E1%BB%83m%20d%E1%BB%AF%20li%E1%BB%87u%20xung%20quanh%20gi%E1%BA%A3i%20th%C3%ADch%20c%C3%A1c%20nguy%C3%AAn%20nh%C3%A2n%20v%C3%A0%20t%C3%A1c%20%C4%91%E1%BB%99ng.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20s%E1%BA%A1ch%20s%E1%BA%BD%2C%20c%C3%B3%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%A0%20nh%E1%BA%B1m%20m%E1%BB%A5c%20%C4%91%C3%ADch%20gi%C3%A1o%20d%E1%BB%A5c%20ng%C6%B0%E1%BB%9Di%20xem%20m%E1%BB%99t%20c%C3%A1ch%20nhanh%20ch%C3%B3ng%20v%C3%A0%20hi%E1%BB%87u%20qu%E1%BA%A3.%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -300,7 +294,7 @@ Một quảng cáo áp phích đẹp mắt và tối giản cho tai nghe không 
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20qu%E1%BA%A3ng%20c%C3%A1o%20%C3%A1p%20ph%C3%ADch%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%20v%C3%A0%20t%E1%BB%91i%20gi%E1%BA%A3n%20cho%20tai%20nghe%20kh%C3%B4ng%20d%C3%A2y%20c%C3%B4ng%20ngh%E1%BB%87%20cao%20m%E1%BB%9Bi.%20%C3%81p%20ph%C3%ADch%20c%C3%B3%20h%C3%ACnh%20%E1%BA%A3nh%20k%E1%BA%BFt%20xu%E1%BA%A5t%203D%20%C4%91%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%20cao%20tuy%E1%BB%87t%20%C4%91%E1%BA%B9p%20c%E1%BB%A7a%20tai%20nghe%2C%20d%C6%B0%E1%BB%9Dng%20nh%C6%B0%20%C4%91ang%20l%C6%A1%20l%E1%BB%ADng%20trong%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20kh%C3%B4ng%20tr%E1%BB%8Dng%20l%E1%BB%B1c.%20N%E1%BB%81n%20l%C3%A0%20m%E1%BB%99t%20d%E1%BA%A3i%20m%C3%A0u%20chuy%E1%BB%83n%20s%E1%BA%AFc%20%C4%91%C6%A1n%20gi%E1%BA%A3n%2C%20s%E1%BA%A1ch%20s%E1%BA%BD.%20V%C4%83n%20b%E1%BA%A3n%20duy%20nh%E1%BA%A5t%20l%C3%A0%20t%C3%AAn%20th%C6%B0%C6%A1ng%20hi%E1%BB%87u%20v%C3%A0%20kh%E1%BA%A9u%20hi%E1%BB%87u%20s%E1%BA%A3n%20ph%E1%BA%A9m%3A%20%E2%80%9CUnleash%20Your%20Sound.%E2%80%9D%20Thi%E1%BA%BFt%20k%E1%BA%BF%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%2C%20tinh%20t%E1%BA%BF%20v%C3%A0%20t%E1%BA%ADp%20trung%20ho%C3%A0n%20to%C3%A0n%20v%C3%A0o%20v%E1%BA%BB%20%C4%91%E1%BA%B9p%20c%E1%BB%A7a%20s%E1%BA%A3n%20ph%E1%BA%A9m.%20%E2%80%93ar%202%3A3)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20qu%E1%BA%A3ng%20c%C3%A1o%20%C3%A1p%20ph%C3%ADch%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%20v%C3%A0%20t%E1%BB%91i%20gi%E1%BA%A3n%20cho%20tai%20nghe%20kh%C3%B4ng%20d%C3%A2y%20c%C3%B4ng%20ngh%E1%BB%87%20cao%20m%E1%BB%9Bi.%20%C3%81p%20ph%C3%ADch%20c%C3%B3%20h%C3%ACnh%20%E1%BA%A3nh%20k%E1%BA%BFt%20xu%E1%BA%A5t%203D%20%C4%91%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%20cao%20tuy%E1%BB%87t%20%C4%91%E1%BA%B9p%20c%E1%BB%A7a%20tai%20nghe%2C%20d%C6%B0%E1%BB%9Dng%20nh%C6%B0%20%C4%91ang%20l%C6%A1%20l%E1%BB%ADng%20trong%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20kh%C3%B4ng%20tr%E1%BB%8Dng%20l%E1%BB%B1c.%20N%E1%BB%81n%20l%C3%A0%20m%E1%BB%99t%20d%E1%BA%A3i%20m%C3%A0u%20chuy%E1%BB%83n%20s%E1%BA%AFc%20%C4%91%C6%A1n%20gi%E1%BA%A3n%2C%20s%E1%BA%A1ch%20s%E1%BA%BD.%20V%C4%83n%20b%E1%BA%A3n%20duy%20nh%E1%BA%A5t%20l%C3%A0%20t%C3%AAn%20th%C6%B0%C6%A1ng%20hi%E1%BB%87u%20v%C3%A0%20kh%E1%BA%A9u%20hi%E1%BB%87u%20s%E1%BA%A3n%20ph%E1%BA%A9m%3A%20%E2%80%9CUnleash%20Your%20Sound.%E2%80%9D%20Thi%E1%BA%BFt%20k%E1%BA%BF%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%2C%20tinh%20t%E1%BA%BF%20v%C3%A0%20t%E1%BA%ADp%20trung%20ho%C3%A0n%20to%C3%A0n%20v%C3%A0o%20v%E1%BA%BB%20%C4%91%E1%BA%B9p%20c%E1%BB%A7a%20s%E1%BA%A3n%20ph%E1%BA%A9m.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -333,7 +327,7 @@ Một áp phích tràn đầy năng lượng và động lực cho cuộc chạy
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20%C3%A1p%20ph%C3%ADch%20tr%C3%A0n%20%C4%91%E1%BA%A7y%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20v%C3%A0%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20cho%20cu%E1%BB%99c%20ch%E1%BA%A1y%20b%E1%BB%99%20t%E1%BB%AB%20thi%E1%BB%87n%205K%20v%C3%AC%20m%E1%BB%99t%20m%E1%BB%A5c%20%C4%91%C3%ADch%20cao%20c%E1%BA%A3.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20c%C3%B3%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20m%E1%BB%99t%20nh%C3%B3m%20ng%C6%B0%E1%BB%9Di%20%C4%91a%20d%E1%BA%A1ng%20%C4%91ang%20ch%E1%BA%A1y%2C%20v%E1%BB%9Bi%20n%E1%BB%A5%20c%C6%B0%E1%BB%9Di%20r%E1%BA%A1ng%20r%E1%BB%A1%20tr%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t.%20N%E1%BB%81n%20c%C3%B3%20c%C3%A1c%20h%C3%ACnh%20d%E1%BA%A1ng%20v%C3%A0%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20tr%E1%BB%ABu%20t%C6%B0%E1%BB%A3ng%2C%20%C4%91%E1%BA%A7y%20m%C3%A0u%20s%E1%BA%AFc%20g%E1%BB%A3i%20l%C3%AAn%20s%E1%BB%B1%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%20v%C3%A0%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng.%20Th%C3%B4ng%20tin%20chi%20ti%E1%BA%BFt%20s%E1%BB%B1%20ki%E1%BB%87n%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20d%E1%BB%85%20%C4%91%E1%BB%8Dc.%20%C3%81p%20ph%C3%ADch%20n%C3%AAn%20truy%E1%BB%81n%20c%E1%BA%A3m%20h%E1%BB%A9ng%20v%C3%A0%20khuy%E1%BA%BFn%20kh%C3%ADch%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20%C4%91%C4%83ng%20k%C3%BD.%20%E2%80%93ar%203%3A4)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20%C3%A1p%20ph%C3%ADch%20tr%C3%A0n%20%C4%91%E1%BA%A7y%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20v%C3%A0%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20cho%20cu%E1%BB%99c%20ch%E1%BA%A1y%20b%E1%BB%99%20t%E1%BB%AB%20thi%E1%BB%87n%205K%20v%C3%AC%20m%E1%BB%99t%20m%E1%BB%A5c%20%C4%91%C3%ADch%20cao%20c%E1%BA%A3.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20c%C3%B3%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20m%E1%BB%99t%20nh%C3%B3m%20ng%C6%B0%E1%BB%9Di%20%C4%91a%20d%E1%BA%A1ng%20%C4%91ang%20ch%E1%BA%A1y%2C%20v%E1%BB%9Bi%20n%E1%BB%A5%20c%C6%B0%E1%BB%9Di%20r%E1%BA%A1ng%20r%E1%BB%A1%20tr%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t.%20N%E1%BB%81n%20c%C3%B3%20c%C3%A1c%20h%C3%ACnh%20d%E1%BA%A1ng%20v%C3%A0%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20tr%E1%BB%ABu%20t%C6%B0%E1%BB%A3ng%2C%20%C4%91%E1%BA%A7y%20m%C3%A0u%20s%E1%BA%AFc%20g%E1%BB%A3i%20l%C3%AAn%20s%E1%BB%B1%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%20v%C3%A0%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng.%20Th%C3%B4ng%20tin%20chi%20ti%E1%BA%BFt%20s%E1%BB%B1%20ki%E1%BB%87n%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20d%E1%BB%85%20%C4%91%E1%BB%8Dc.%20%C3%81p%20ph%C3%ADch%20n%C3%AAn%20truy%E1%BB%81n%20c%E1%BA%A3m%20h%E1%BB%A9ng%20v%C3%A0%20khuy%E1%BA%BFn%20kh%C3%ADch%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20%C4%91%C4%83ng%20k%C3%BD.%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -366,7 +360,7 @@ Một tấm áp phích đầy kịch tính và tối giản cho vở kịch “H
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20t%E1%BA%A5m%20%C3%A1p%20ph%C3%ADch%20%C4%91%E1%BA%A7y%20k%E1%BB%8Bch%20t%C3%ADnh%20v%C3%A0%20t%E1%BB%91i%20gi%E1%BA%A3n%20cho%20v%E1%BB%9F%20k%E1%BB%8Bch%20%E2%80%9CHamlet%E2%80%9D%20c%E1%BB%A7a%20Shakespeare.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20n%E1%BB%95i%20b%E1%BA%ADt%20v%E1%BB%9Bi%20m%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20duy%20nh%E1%BA%A5t%2C%20m%E1%BA%A1nh%20m%E1%BA%BD%3A%20m%E1%BB%99t%20h%E1%BB%99p%20s%E1%BB%8D%20ng%C6%B0%E1%BB%9Di%20v%E1%BB%9Bi%20v%C6%B0%C6%A1ng%20mi%E1%BB%87n%20v%C3%A0ng%20%C4%91%E1%BA%B7t%20tr%C3%AAn%20%C4%91%C3%B3%2C%20tr%C3%AAn%20n%E1%BB%81n%20%C4%91en%20tuy%E1%BB%81n.%20Ti%C3%AAu%20%C4%91%E1%BB%81%20%E2%80%9CHAMLET%E2%80%9D%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%83%20hi%E1%BB%87n%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20serif%20c%E1%BB%95%20%C4%91i%E1%BB%83n%2C%20s%E1%BA%AFc%20n%C3%A9t%2C%20v%E1%BB%9Bi%20c%C3%A1c%20ch%E1%BB%AF%20c%C3%A1i%20h%C6%A1i%20m%E1%BB%A5c%20n%C3%A1t.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20mang%20t%C3%ADnh%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%2C%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%20v%C3%A0%20%C4%91%E1%BA%A7y%20trang%20tr%E1%BB%8Dng.%20%E2%80%93ar%202%3A3)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20t%E1%BA%A5m%20%C3%A1p%20ph%C3%ADch%20%C4%91%E1%BA%A7y%20k%E1%BB%8Bch%20t%C3%ADnh%20v%C3%A0%20t%E1%BB%91i%20gi%E1%BA%A3n%20cho%20v%E1%BB%9F%20k%E1%BB%8Bch%20%E2%80%9CHamlet%E2%80%9D%20c%E1%BB%A7a%20Shakespeare.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20n%E1%BB%95i%20b%E1%BA%ADt%20v%E1%BB%9Bi%20m%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20duy%20nh%E1%BA%A5t%2C%20m%E1%BA%A1nh%20m%E1%BA%BD%3A%20m%E1%BB%99t%20h%E1%BB%99p%20s%E1%BB%8D%20ng%C6%B0%E1%BB%9Di%20v%E1%BB%9Bi%20v%C6%B0%C6%A1ng%20mi%E1%BB%87n%20v%C3%A0ng%20%C4%91%E1%BA%B7t%20tr%C3%AAn%20%C4%91%C3%B3%2C%20tr%C3%AAn%20n%E1%BB%81n%20%C4%91en%20tuy%E1%BB%81n.%20Ti%C3%AAu%20%C4%91%E1%BB%81%20%E2%80%9CHAMLET%E2%80%9D%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%83%20hi%E1%BB%87n%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20serif%20c%E1%BB%95%20%C4%91i%E1%BB%83n%2C%20s%E1%BA%AFc%20n%C3%A9t%2C%20v%E1%BB%9Bi%20c%C3%A1c%20ch%E1%BB%AF%20c%C3%A1i%20h%C6%A1i%20m%E1%BB%A5c%20n%C3%A1t.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20mang%20t%C3%ADnh%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%2C%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%20v%C3%A0%20%C4%91%E1%BA%A7y%20trang%20tr%E1%BB%8Dng.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -399,7 +393,7 @@ Một tấm áp phích duyên dáng và mộc mạc dành cho chợ nông sản 
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20t%E1%BA%A5m%20%C3%A1p%20ph%C3%ADch%20duy%C3%AAn%20d%C3%A1ng%20v%C3%A0%20m%E1%BB%99c%20m%E1%BA%A1c%20d%C3%A0nh%20cho%20ch%E1%BB%A3%20n%C3%B4ng%20s%E1%BA%A3n%20%C4%91%E1%BB%8Ba%20ph%C6%B0%C6%A1ng.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20l%C3%A0%20m%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20v%E1%BA%BD%20tay%20th%C3%A2n%20thi%E1%BB%87n%2C%20v%E1%BB%9Bi%20v%C3%B4%20s%E1%BB%91%20rau%20c%E1%BB%A7%2C%20tr%C3%A1i%20c%C3%A2y%20v%C3%A0%20hoa%20t%C6%B0%C6%A1i%20trong%20m%E1%BB%99t%20chi%E1%BA%BFc%20th%C3%B9ng%20g%E1%BB%97.%20Ki%E1%BB%83u%20ch%E1%BB%AF%20l%C3%A0%20ph%C3%B4ng%20sans-serif%20tr%C3%B2n%20tr%E1%BB%8Ba%2C%20th%C3%A2n%20thi%E1%BB%87n.%20T%E1%BA%A5m%20%C3%A1p%20ph%C3%ADch%20n%C3%AAn%20mang%20l%E1%BA%A1i%20c%E1%BA%A3m%20gi%C3%A1c%20l%C3%A0nh%20m%E1%BA%A1nh%2C%20g%E1%BA%A7n%20g%C5%A9i%20v%C3%A0%20h%C6%B0%E1%BB%9Bng%20v%E1%BB%81%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.%20%E2%80%93ar%203%3A4)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20t%E1%BA%A5m%20%C3%A1p%20ph%C3%ADch%20duy%C3%AAn%20d%C3%A1ng%20v%C3%A0%20m%E1%BB%99c%20m%E1%BA%A1c%20d%C3%A0nh%20cho%20ch%E1%BB%A3%20n%C3%B4ng%20s%E1%BA%A3n%20%C4%91%E1%BB%8Ba%20ph%C6%B0%C6%A1ng.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20l%C3%A0%20m%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20v%E1%BA%BD%20tay%20th%C3%A2n%20thi%E1%BB%87n%2C%20v%E1%BB%9Bi%20v%C3%B4%20s%E1%BB%91%20rau%20c%E1%BB%A7%2C%20tr%C3%A1i%20c%C3%A2y%20v%C3%A0%20hoa%20t%C6%B0%C6%A1i%20trong%20m%E1%BB%99t%20chi%E1%BA%BFc%20th%C3%B9ng%20g%E1%BB%97.%20Ki%E1%BB%83u%20ch%E1%BB%AF%20l%C3%A0%20ph%C3%B4ng%20sans-serif%20tr%C3%B2n%20tr%E1%BB%8Ba%2C%20th%C3%A2n%20thi%E1%BB%87n.%20T%E1%BA%A5m%20%C3%A1p%20ph%C3%ADch%20n%C3%AAn%20mang%20l%E1%BA%A1i%20c%E1%BA%A3m%20gi%C3%A1c%20l%C3%A0nh%20m%E1%BA%A1nh%2C%20g%E1%BA%A7n%20g%C5%A9i%20v%C3%A0%20h%C6%B0%E1%BB%9Bng%20v%E1%BB%81%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -432,7 +426,7 @@ Một poster độc đáo và mang phong cách độc lập cho liên hoan phim 
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20poster%20%C4%91%E1%BB%99c%20%C4%91%C3%A1o%20v%C3%A0%20mang%20phong%20c%C3%A1ch%20%C4%91%E1%BB%99c%20l%E1%BA%ADp%20cho%20li%C3%AAn%20hoan%20phim%20ng%E1%BA%AFn.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20l%C3%A0%20m%E1%BB%99t%20b%E1%BB%A9c%20tranh%20gh%C3%A9p%20t%E1%BB%AB%20c%C3%A1c%20h%C3%ACnh%20v%E1%BA%BD%20ngu%E1%BB%87ch%20ngo%E1%BA%A1c%20b%E1%BA%B1ng%20tay%2C%20d%E1%BA%A3i%20phim%20v%C3%A0%20%E1%BA%A3nh%20c%E1%BB%95%20%C4%91i%E1%BB%83n.%20Ki%E1%BB%83u%20ch%E1%BB%AF%20l%C3%A0%20s%E1%BB%B1%20k%E1%BA%BFt%20h%E1%BB%A3p%20c%E1%BB%A7a%20nhi%E1%BB%81u%20ph%C3%B4ng%20ch%E1%BB%AF%20m%C3%A1y%20%C4%91%C3%A1nh%20ch%E1%BB%AF%20v%C3%A0%20ch%E1%BB%AF%20vi%E1%BA%BFt%20tay%20kh%C3%A1c%20nhau%2C%20t%E1%BA%A1o%20c%E1%BA%A3m%20gi%C3%A1c%20t%E1%BB%B1%20l%C3%A0m%2C%20gi%E1%BB%91ng%20nh%C6%B0%20m%E1%BB%99t%20cu%E1%BB%91n%20zine.%20B%E1%BA%A3ng%20m%C3%A0u%20h%E1%BA%A1n%20ch%E1%BA%BF%20v%C3%A0%20mang%20h%C6%A1i%20h%C6%B0%E1%BB%9Bng%20c%E1%BB%95%20%C4%91i%E1%BB%83n.%20Poster%20n%C3%AAn%20tr%C3%B4ng%20s%C3%A1ng%20t%E1%BA%A1o%2C%20%C4%91%E1%BB%99c%20%C4%91%C3%A1o%20v%C3%A0%20thu%20h%C3%BAt%20%C4%91%E1%BB%91i%20t%C6%B0%E1%BB%A3ng%20kh%C3%A1n%20gi%E1%BA%A3%20y%C3%AAu%20th%C3%ADch%20phim%20ngh%E1%BB%87%20thu%E1%BA%ADt.%20%E2%80%93ar%202%3A3)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20poster%20%C4%91%E1%BB%99c%20%C4%91%C3%A1o%20v%C3%A0%20mang%20phong%20c%C3%A1ch%20%C4%91%E1%BB%99c%20l%E1%BA%ADp%20cho%20li%C3%AAn%20hoan%20phim%20ng%E1%BA%AFn.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20l%C3%A0%20m%E1%BB%99t%20b%E1%BB%A9c%20tranh%20gh%C3%A9p%20t%E1%BB%AB%20c%C3%A1c%20h%C3%ACnh%20v%E1%BA%BD%20ngu%E1%BB%87ch%20ngo%E1%BA%A1c%20b%E1%BA%B1ng%20tay%2C%20d%E1%BA%A3i%20phim%20v%C3%A0%20%E1%BA%A3nh%20c%E1%BB%95%20%C4%91i%E1%BB%83n.%20Ki%E1%BB%83u%20ch%E1%BB%AF%20l%C3%A0%20s%E1%BB%B1%20k%E1%BA%BFt%20h%E1%BB%A3p%20c%E1%BB%A7a%20nhi%E1%BB%81u%20ph%C3%B4ng%20ch%E1%BB%AF%20m%C3%A1y%20%C4%91%C3%A1nh%20ch%E1%BB%AF%20v%C3%A0%20ch%E1%BB%AF%20vi%E1%BA%BFt%20tay%20kh%C3%A1c%20nhau%2C%20t%E1%BA%A1o%20c%E1%BA%A3m%20gi%C3%A1c%20t%E1%BB%B1%20l%C3%A0m%2C%20gi%E1%BB%91ng%20nh%C6%B0%20m%E1%BB%99t%20cu%E1%BB%91n%20zine.%20B%E1%BA%A3ng%20m%C3%A0u%20h%E1%BA%A1n%20ch%E1%BA%BF%20v%C3%A0%20mang%20h%C6%A1i%20h%C6%B0%E1%BB%9Bng%20c%E1%BB%95%20%C4%91i%E1%BB%83n.%20Poster%20n%C3%AAn%20tr%C3%B4ng%20s%C3%A1ng%20t%E1%BA%A1o%2C%20%C4%91%E1%BB%99c%20%C4%91%C3%A1o%20v%C3%A0%20thu%20h%C3%BAt%20%C4%91%E1%BB%91i%20t%C6%B0%E1%BB%A3ng%20kh%C3%A1n%20gi%E1%BA%A3%20y%C3%AAu%20th%C3%ADch%20phim%20ngh%E1%BB%87%20thu%E1%BA%ADt.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -465,7 +459,7 @@ Một tấm áp phích thanh bình và nhẹ nhàng cho buổi hội thảo yoga
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20t%E1%BA%A5m%20%C3%A1p%20ph%C3%ADch%20thanh%20b%C3%ACnh%20v%C3%A0%20nh%E1%BA%B9%20nh%C3%A0ng%20cho%20bu%E1%BB%95i%20h%E1%BB%99i%20th%E1%BA%A3o%20yoga%20v%C3%A0%20thi%E1%BB%81n%20cu%E1%BB%91i%20tu%E1%BA%A7n.%20H%C3%ACnh%20%E1%BA%A3nh%20ch%C3%ADnh%20l%C3%A0%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20%C4%91%E1%BA%B9p%2C%20l%E1%BA%A5y%20n%C3%A9t%20m%E1%BB%81m%20m%E1%BA%A1i%20v%E1%BB%81%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20%C4%91ang%20th%E1%BB%B1c%20hi%E1%BB%87n%20t%C6%B0%20th%E1%BA%BF%20yoga%20thanh%20t%E1%BB%8Bnh%20tr%C3%AAn%20b%C3%A3i%20bi%E1%BB%83n%20l%C3%BAc%20b%C3%ACnh%20minh.%20B%E1%BA%A3ng%20m%C3%A0u%20l%C3%A0%20nh%E1%BB%AFng%20gam%20m%C3%A0u%20pastel%20nh%E1%BA%B9%20nh%C3%A0ng%20(h%E1%BB%93ng%2C%20cam%2C%20xanh%20lam%20nh%E1%BA%A1t).%20Ki%E1%BB%83u%20ch%E1%BB%AF%20l%C3%A0%20m%E1%BB%99t%20ph%C3%B4ng%20ch%E1%BB%AF%20vi%E1%BA%BFt%20tay%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20uy%E1%BB%83n%20chuy%E1%BB%83n.%20T%E1%BA%A5m%20%C3%A1p%20ph%C3%ADch%20n%C3%AAn%20g%E1%BB%A3i%20l%C3%AAn%20c%E1%BA%A3m%20gi%C3%A1c%20b%C3%ACnh%20y%C3%AAn%2C%20kh%E1%BB%8Fe%20m%E1%BA%A1nh%20v%C3%A0%20t%E1%BB%B1%20ch%C4%83m%20s%C3%B3c%20b%E1%BA%A3n%20th%C3%A2n.%20%E2%80%93ar%203%3A4)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20t%E1%BA%A5m%20%C3%A1p%20ph%C3%ADch%20thanh%20b%C3%ACnh%20v%C3%A0%20nh%E1%BA%B9%20nh%C3%A0ng%20cho%20bu%E1%BB%95i%20h%E1%BB%99i%20th%E1%BA%A3o%20yoga%20v%C3%A0%20thi%E1%BB%81n%20cu%E1%BB%91i%20tu%E1%BA%A7n.%20H%C3%ACnh%20%E1%BA%A3nh%20ch%C3%ADnh%20l%C3%A0%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20%C4%91%E1%BA%B9p%2C%20l%E1%BA%A5y%20n%C3%A9t%20m%E1%BB%81m%20m%E1%BA%A1i%20v%E1%BB%81%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20%C4%91ang%20th%E1%BB%B1c%20hi%E1%BB%87n%20t%C6%B0%20th%E1%BA%BF%20yoga%20thanh%20t%E1%BB%8Bnh%20tr%C3%AAn%20b%C3%A3i%20bi%E1%BB%83n%20l%C3%BAc%20b%C3%ACnh%20minh.%20B%E1%BA%A3ng%20m%C3%A0u%20l%C3%A0%20nh%E1%BB%AFng%20gam%20m%C3%A0u%20pastel%20nh%E1%BA%B9%20nh%C3%A0ng%20(h%E1%BB%93ng%2C%20cam%2C%20xanh%20lam%20nh%E1%BA%A1t).%20Ki%E1%BB%83u%20ch%E1%BB%AF%20l%C3%A0%20m%E1%BB%99t%20ph%C3%B4ng%20ch%E1%BB%AF%20vi%E1%BA%BFt%20tay%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20uy%E1%BB%83n%20chuy%E1%BB%83n.%20T%E1%BA%A5m%20%C3%A1p%20ph%C3%ADch%20n%C3%AAn%20g%E1%BB%A3i%20l%C3%AAn%20c%E1%BA%A3m%20gi%C3%A1c%20b%C3%ACnh%20y%C3%AAn%2C%20kh%E1%BB%8Fe%20m%E1%BA%A1nh%20v%C3%A0%20t%E1%BB%B1%20ch%C4%83m%20s%C3%B3c%20b%E1%BA%A3n%20th%C3%A2n.%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -498,7 +492,7 @@ Một tờ rơi hấp dẫn và mời gọi cho lễ khai trương nhà hàng Ý
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20t%E1%BB%9D%20r%C6%A1i%20h%E1%BA%A5p%20d%E1%BA%ABn%20v%C3%A0%20m%E1%BB%9Di%20g%E1%BB%8Di%20cho%20l%E1%BB%85%20khai%20tr%C6%B0%C6%A1ng%20nh%C3%A0%20h%C3%A0ng%20%C3%9D%20m%E1%BB%9Bi.%20H%C3%ACnh%20%E1%BA%A3nh%20ch%C3%ADnh%20l%C3%A0%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ch%E1%BB%A5p%20t%E1%BB%AB%20tr%C3%AAn%20cao%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%2C%20m%E1%BB%99c%20m%E1%BA%A1c%20v%E1%BB%81%20m%E1%BB%99t%20chi%E1%BA%BFc%20b%C3%A0n%20%C4%91%E1%BA%A7y%20%E1%BA%AFp%20m%C3%B3n%20%C4%83n%20%C3%9D%3A%20m%E1%BB%99t%20chi%E1%BA%BFc%20pizza%2C%20m%E1%BB%99t%20t%C3%B4%20m%C3%AC%20%C3%9D%2C%20m%E1%BB%99t%20ly%20r%C6%B0%E1%BB%A3u%20vang%20%C4%91%E1%BB%8F%20v%C3%A0%20m%E1%BB%99t%20%C3%ADt%20h%C3%BAng%20qu%E1%BA%BF%20t%C6%B0%C6%A1i.%20T%C3%AAn%20nh%C3%A0%20h%C3%A0ng%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20vi%E1%BA%BFt%20tay%20%E1%BA%A5m%20%C3%A1p.%20Ng%C3%A0y%20v%C3%A0%20%C4%91%E1%BB%8Ba%20ch%E1%BB%89%20khai%20tr%C6%B0%C6%A1ng%20%C4%91%C6%B0%E1%BB%A3c%20hi%E1%BB%83n%20th%E1%BB%8B%20r%C3%B5%20r%C3%A0ng.%20C%E1%BA%A3m%20gi%C3%A1c%20t%E1%BB%95ng%20th%E1%BB%83%20l%C3%A0%20%E1%BA%A5m%20c%C3%BAng%2C%20ch%C3%A2n%20th%E1%BB%B1c%20v%C3%A0%20ngon%20mi%E1%BB%87ng.%20%E2%80%93ar%204%3A5)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20t%E1%BB%9D%20r%C6%A1i%20h%E1%BA%A5p%20d%E1%BA%ABn%20v%C3%A0%20m%E1%BB%9Di%20g%E1%BB%8Di%20cho%20l%E1%BB%85%20khai%20tr%C6%B0%C6%A1ng%20nh%C3%A0%20h%C3%A0ng%20%C3%9D%20m%E1%BB%9Bi.%20H%C3%ACnh%20%E1%BA%A3nh%20ch%C3%ADnh%20l%C3%A0%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ch%E1%BB%A5p%20t%E1%BB%AB%20tr%C3%AAn%20cao%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%2C%20m%E1%BB%99c%20m%E1%BA%A1c%20v%E1%BB%81%20m%E1%BB%99t%20chi%E1%BA%BFc%20b%C3%A0n%20%C4%91%E1%BA%A7y%20%E1%BA%AFp%20m%C3%B3n%20%C4%83n%20%C3%9D%3A%20m%E1%BB%99t%20chi%E1%BA%BFc%20pizza%2C%20m%E1%BB%99t%20t%C3%B4%20m%C3%AC%20%C3%9D%2C%20m%E1%BB%99t%20ly%20r%C6%B0%E1%BB%A3u%20vang%20%C4%91%E1%BB%8F%20v%C3%A0%20m%E1%BB%99t%20%C3%ADt%20h%C3%BAng%20qu%E1%BA%BF%20t%C6%B0%C6%A1i.%20T%C3%AAn%20nh%C3%A0%20h%C3%A0ng%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20vi%E1%BA%BFt%20tay%20%E1%BA%A5m%20%C3%A1p.%20Ng%C3%A0y%20v%C3%A0%20%C4%91%E1%BB%8Ba%20ch%E1%BB%89%20khai%20tr%C6%B0%C6%A1ng%20%C4%91%C6%B0%E1%BB%A3c%20hi%E1%BB%83n%20th%E1%BB%8B%20r%C3%B5%20r%C3%A0ng.%20C%E1%BA%A3m%20gi%C3%A1c%20t%E1%BB%95ng%20th%E1%BB%83%20l%C3%A0%20%E1%BA%A5m%20c%C3%BAng%2C%20ch%C3%A2n%20th%E1%BB%B1c%20v%C3%A0%20ngon%20mi%E1%BB%87ng.%20%E2%80%93ar%204%3A5)**
 
 ---
 
@@ -531,7 +525,7 @@ Một poster mạnh mẽ và đầy suy tư cho thông báo dịch vụ công c�
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20poster%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%C3%A0%20%C4%91%E1%BA%A7y%20suy%20t%C6%B0%20cho%20th%C3%B4ng%20b%C3%A1o%20d%E1%BB%8Bch%20v%E1%BB%A5%20c%C3%B4ng%20c%E1%BB%99ng%20v%E1%BB%81%20%C3%B4%20nhi%E1%BB%85m%20nh%E1%BB%B1a%20trong%20%C4%91%E1%BA%A1i%20d%C6%B0%C6%A1ng.%20H%C3%ACnh%20%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20m%C3%B4%20t%E1%BA%A3%20si%C3%AAu%20th%E1%BB%B1c%20v%C3%A0%20bu%E1%BB%93n%20b%C3%A3%20v%E1%BB%81%20m%E1%BB%99t%20con%20r%C3%B9a%20bi%E1%BB%83n%20%C4%91ang%20b%C6%A1i%20qua%20m%E1%BB%99t%20bi%E1%BB%83n%20t%C3%BAi%20v%C3%A0%20chai%20nh%E1%BB%B1a%2C%20thay%20v%C3%AC%20n%C6%B0%E1%BB%9Bc.%20D%C3%B2ng%20kh%E1%BA%A9u%20hi%E1%BB%87u%20%E2%80%9C%C4%90%C3%A2y%20c%C3%B3%20ph%E1%BA%A3i%20l%C3%A0%20%C4%91%E1%BA%A1i%20d%C6%B0%C6%A1ng%20b%E1%BA%A1n%20mu%E1%BB%91n%3F%E2%80%9D%20n%E1%BA%B1m%20%E1%BB%9F%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi.%20H%C3%ACnh%20%E1%BA%A3nh%20ph%E1%BA%A3i%20ch%C3%A2n%20th%E1%BB%B1c%20v%C3%A0%20c%C3%B3%20t%C3%A1c%20%C4%91%E1%BB%99ng%2C%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%83%20kh%C6%A1i%20g%E1%BB%A3i%20ph%E1%BA%A3n%20%E1%BB%A9ng%20c%E1%BA%A3m%20x%C3%BAc%20v%C3%A0%20n%C3%A2ng%20cao%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20%E2%80%93ar%203%3A4)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20poster%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%C3%A0%20%C4%91%E1%BA%A7y%20suy%20t%C6%B0%20cho%20th%C3%B4ng%20b%C3%A1o%20d%E1%BB%8Bch%20v%E1%BB%A5%20c%C3%B4ng%20c%E1%BB%99ng%20v%E1%BB%81%20%C3%B4%20nhi%E1%BB%85m%20nh%E1%BB%B1a%20trong%20%C4%91%E1%BA%A1i%20d%C6%B0%C6%A1ng.%20H%C3%ACnh%20%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20m%C3%B4%20t%E1%BA%A3%20si%C3%AAu%20th%E1%BB%B1c%20v%C3%A0%20bu%E1%BB%93n%20b%C3%A3%20v%E1%BB%81%20m%E1%BB%99t%20con%20r%C3%B9a%20bi%E1%BB%83n%20%C4%91ang%20b%C6%A1i%20qua%20m%E1%BB%99t%20bi%E1%BB%83n%20t%C3%BAi%20v%C3%A0%20chai%20nh%E1%BB%B1a%2C%20thay%20v%C3%AC%20n%C6%B0%E1%BB%9Bc.%20D%C3%B2ng%20kh%E1%BA%A9u%20hi%E1%BB%87u%20%E2%80%9C%C4%90%C3%A2y%20c%C3%B3%20ph%E1%BA%A3i%20l%C3%A0%20%C4%91%E1%BA%A1i%20d%C6%B0%C6%A1ng%20b%E1%BA%A1n%20mu%E1%BB%91n%3F%E2%80%9D%20n%E1%BA%B1m%20%E1%BB%9F%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi.%20H%C3%ACnh%20%E1%BA%A3nh%20ph%E1%BA%A3i%20ch%C3%A2n%20th%E1%BB%B1c%20v%C3%A0%20c%C3%B3%20t%C3%A1c%20%C4%91%E1%BB%99ng%2C%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%83%20kh%C6%A1i%20g%E1%BB%A3i%20ph%E1%BA%A3n%20%E1%BB%A9ng%20c%E1%BA%A3m%20x%C3%BAc%20v%C3%A0%20n%C3%A2ng%20cao%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -564,7 +558,7 @@ Một bìa sách ly kỳ và bí ẩn cho tiểu thuyết trinh thám có tựa 
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%C3%ACa%20s%C3%A1ch%20ly%20k%E1%BB%B3%20v%C3%A0%20b%C3%AD%20%E1%BA%A9n%20cho%20ti%E1%BB%83u%20thuy%E1%BA%BFt%20trinh%20th%C3%A1m%20c%C3%B3%20t%E1%BB%B1a%20%C4%91%E1%BB%81%20%E2%80%9CThe%20Shadow%20Detective%E2%80%9D.%20B%C3%ACa%20s%C3%A1ch%20c%C3%B3%20h%C3%ACnh%20b%C3%B3ng%20m%E1%BB%99t%20th%C3%A1m%20t%E1%BB%AD%20%C4%91%E1%BB%99i%20m%C5%A9%20ph%E1%BB%9Bt%20v%C3%A0%20m%E1%BA%B7c%20%C3%A1o%20kho%C3%A1c%20d%C3%A0i%2C%20%C4%91%E1%BB%A9ng%20trong%20m%E1%BB%99t%20con%20h%E1%BA%BBm%20t%E1%BB%91i%2C%20%C4%91%E1%BA%A7y%20s%C6%B0%C6%A1ng%20m%C3%B9.%20Ngu%E1%BB%93n%20s%C3%A1ng%20duy%20nh%E1%BA%A5t%20l%C3%A0%20m%E1%BB%99t%20c%E1%BB%99t%20%C4%91%C3%A8n%20%C4%91%C6%B0%E1%BB%9Dng%20%C4%91%C6%A1n%20%C4%91%E1%BB%99c%2C%20%E1%BB%9F%20xa.%20T%E1%BB%B1a%20%C4%91%E1%BB%81%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20th%C3%B4%20r%C3%A1p%2C%20c%C3%B3%20v%C3%A2n%2C%20tr%C3%B4ng%20nh%C6%B0%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%C3%B3ng%20d%E1%BA%A5u.%20B%E1%BA%A7u%20kh%C3%B4ng%20kh%C3%AD%20mang%20phong%20c%C3%A1ch%20noir%20v%C3%A0%20%C4%91%E1%BA%A7y%20k%E1%BB%8Bch%20t%C3%ADnh%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20ki%E1%BB%83m%20so%C3%A1t%20kh%C3%B4ng%20kh%C3%AD%20m%E1%BA%A1nh%20m%E1%BA%BD.%20%E2%80%93ar%202%3A3)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%C3%ACa%20s%C3%A1ch%20ly%20k%E1%BB%B3%20v%C3%A0%20b%C3%AD%20%E1%BA%A9n%20cho%20ti%E1%BB%83u%20thuy%E1%BA%BFt%20trinh%20th%C3%A1m%20c%C3%B3%20t%E1%BB%B1a%20%C4%91%E1%BB%81%20%E2%80%9CThe%20Shadow%20Detective%E2%80%9D.%20B%C3%ACa%20s%C3%A1ch%20c%C3%B3%20h%C3%ACnh%20b%C3%B3ng%20m%E1%BB%99t%20th%C3%A1m%20t%E1%BB%AD%20%C4%91%E1%BB%99i%20m%C5%A9%20ph%E1%BB%9Bt%20v%C3%A0%20m%E1%BA%B7c%20%C3%A1o%20kho%C3%A1c%20d%C3%A0i%2C%20%C4%91%E1%BB%A9ng%20trong%20m%E1%BB%99t%20con%20h%E1%BA%BBm%20t%E1%BB%91i%2C%20%C4%91%E1%BA%A7y%20s%C6%B0%C6%A1ng%20m%C3%B9.%20Ngu%E1%BB%93n%20s%C3%A1ng%20duy%20nh%E1%BA%A5t%20l%C3%A0%20m%E1%BB%99t%20c%E1%BB%99t%20%C4%91%C3%A8n%20%C4%91%C6%B0%E1%BB%9Dng%20%C4%91%C6%A1n%20%C4%91%E1%BB%99c%2C%20%E1%BB%9F%20xa.%20T%E1%BB%B1a%20%C4%91%E1%BB%81%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20th%C3%B4%20r%C3%A1p%2C%20c%C3%B3%20v%C3%A2n%2C%20tr%C3%B4ng%20nh%C6%B0%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%C3%B3ng%20d%E1%BA%A5u.%20B%E1%BA%A7u%20kh%C3%B4ng%20kh%C3%AD%20mang%20phong%20c%C3%A1ch%20noir%20v%C3%A0%20%C4%91%E1%BA%A7y%20k%E1%BB%8Bch%20t%C3%ADnh%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20ki%E1%BB%83m%20so%C3%A1t%20kh%C3%B4ng%20kh%C3%AD%20m%E1%BA%A1nh%20m%E1%BA%BD.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -597,7 +591,7 @@ Một tấm áp phích trang nhã và nghệ thuật cho triển lãm tranh kh�
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20t%E1%BA%A5m%20%C3%A1p%20ph%C3%ADch%20trang%20nh%C3%A3%20v%C3%A0%20ngh%E1%BB%87%20thu%E1%BA%ADt%20cho%20tri%E1%BB%83n%20l%C3%A3m%20tranh%20kh%E1%BA%AFc%20g%E1%BB%97%20Ukiyo-e%20Nh%E1%BA%ADt%20B%E1%BA%A3n%20t%E1%BA%A1i%20b%E1%BA%A3o%20t%C3%A0ng.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20n%E1%BB%95i%20b%E1%BA%ADt%20v%E1%BB%9Bi%20chi%20ti%E1%BA%BFt%20%C4%91%E1%BA%B9p%2C%20%C4%91%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%20cao%20t%E1%BB%AB%20m%E1%BB%99t%20b%E1%BB%A9c%20tranh%20n%E1%BB%95i%20ti%E1%BA%BFng%2C%20nh%C6%B0%20%22S%C3%B3ng%20L%E1%BB%ABng%22%20c%E1%BB%A7a%20Hokusai%2C%20nh%C6%B0ng%20%C4%91%C6%B0%E1%BB%A3c%20c%E1%BA%AFt%20x%C3%A9n%20m%E1%BB%99t%20c%C3%A1ch%20s%C3%A1ng%20t%E1%BA%A1o.%20Ki%E1%BB%83u%20ch%E1%BB%AF%20l%C3%A0%20s%E1%BB%B1%20k%E1%BA%BFt%20h%E1%BB%A3p%20gi%E1%BB%AFa%20ph%C3%B4ng%20ch%E1%BB%AF%20serif%20ti%E1%BA%BFng%20Anh%20thanh%20l%E1%BB%8Bch%20v%C3%A0%20th%C6%B0%20ph%C3%A1p%20Nh%E1%BA%ADt%20B%E1%BA%A3n.%20B%E1%BB%91%20c%E1%BB%A5c%20t%E1%BB%91i%20gi%E1%BA%A3n%20v%C3%A0%20t%C3%B4n%20tr%E1%BB%8Dng%20t%C3%A1c%20ph%E1%BA%A9m%20ngh%E1%BB%87%20thu%E1%BA%ADt%2C%20s%E1%BB%AD%20d%E1%BB%A5ng%20nhi%E1%BB%81u%20kh%C3%B4ng%20gian%20%C3%A2m.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%E1%BB%81%20l%E1%BB%8Bch%20s%E1%BB%AD%20ngh%E1%BB%87%20thu%E1%BA%ADt%20v%C3%A0%20k%E1%BB%B9%20n%C4%83ng%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%93%20h%E1%BB%8Da%20tinh%20x%E1%BA%A3o.%20%E2%80%93ar%202%3A3)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20t%E1%BA%A5m%20%C3%A1p%20ph%C3%ADch%20trang%20nh%C3%A3%20v%C3%A0%20ngh%E1%BB%87%20thu%E1%BA%ADt%20cho%20tri%E1%BB%83n%20l%C3%A3m%20tranh%20kh%E1%BA%AFc%20g%E1%BB%97%20Ukiyo-e%20Nh%E1%BA%ADt%20B%E1%BA%A3n%20t%E1%BA%A1i%20b%E1%BA%A3o%20t%C3%A0ng.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20n%E1%BB%95i%20b%E1%BA%ADt%20v%E1%BB%9Bi%20chi%20ti%E1%BA%BFt%20%C4%91%E1%BA%B9p%2C%20%C4%91%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%20cao%20t%E1%BB%AB%20m%E1%BB%99t%20b%E1%BB%A9c%20tranh%20n%E1%BB%95i%20ti%E1%BA%BFng%2C%20nh%C6%B0%20%22S%C3%B3ng%20L%E1%BB%ABng%22%20c%E1%BB%A7a%20Hokusai%2C%20nh%C6%B0ng%20%C4%91%C6%B0%E1%BB%A3c%20c%E1%BA%AFt%20x%C3%A9n%20m%E1%BB%99t%20c%C3%A1ch%20s%C3%A1ng%20t%E1%BA%A1o.%20Ki%E1%BB%83u%20ch%E1%BB%AF%20l%C3%A0%20s%E1%BB%B1%20k%E1%BA%BFt%20h%E1%BB%A3p%20gi%E1%BB%AFa%20ph%C3%B4ng%20ch%E1%BB%AF%20serif%20ti%E1%BA%BFng%20Anh%20thanh%20l%E1%BB%8Bch%20v%C3%A0%20th%C6%B0%20ph%C3%A1p%20Nh%E1%BA%ADt%20B%E1%BA%A3n.%20B%E1%BB%91%20c%E1%BB%A5c%20t%E1%BB%91i%20gi%E1%BA%A3n%20v%C3%A0%20t%C3%B4n%20tr%E1%BB%8Dng%20t%C3%A1c%20ph%E1%BA%A9m%20ngh%E1%BB%87%20thu%E1%BA%ADt%2C%20s%E1%BB%AD%20d%E1%BB%A5ng%20nhi%E1%BB%81u%20kh%C3%B4ng%20gian%20%C3%A2m.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%E1%BB%81%20l%E1%BB%8Bch%20s%E1%BB%AD%20ngh%E1%BB%87%20thu%E1%BA%ADt%20v%C3%A0%20k%E1%BB%B9%20n%C4%83ng%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%93%20h%E1%BB%8Da%20tinh%20x%E1%BA%A3o.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -630,15 +624,11 @@ Một tờ rơi tuyển dụng táo bạo và trực tiếp dành cho một star
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20t%E1%BB%9D%20r%C6%A1i%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20t%C3%A1o%20b%E1%BA%A1o%20v%C3%A0%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20d%C3%A0nh%20cho%20m%E1%BB%99t%20startup%20%C4%91ang%20t%C3%ACm%20ki%E1%BA%BFm%20c%C3%A1c%20nh%C3%A0%20ph%C3%A1t%20tri%E1%BB%83n%20ph%E1%BA%A7n%20m%E1%BB%81m.%20D%C3%B2ng%20ti%C3%AAu%20%C4%91%E1%BB%81%20%E2%80%9CBUILD%20THE%20FUTURE%E2%80%9D%20%C4%91%C6%B0%E1%BB%A3c%20in%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20sans-serif%20l%E1%BB%9Bn%2C%20m%E1%BA%A1nh%20m%E1%BA%BD.%20H%C3%ACnh%20%E1%BA%A3nh%20ch%C3%ADnh%20l%C3%A0%20m%E1%BB%99t%20minh%20h%E1%BB%8Da%20tr%E1%BB%ABu%20t%C6%B0%E1%BB%A3ng%2C%20c%C3%A1ch%20%C4%91i%E1%BB%87u%20v%E1%BB%81%20m%C3%A3%20code%20bi%E1%BA%BFn%20th%C3%A0nh%20m%E1%BB%99t%20%C4%91%C6%B0%E1%BB%9Dng%20ch%C3%A2n%20tr%E1%BB%9Di%20th%C3%A0nh%20ph%E1%BB%91%20%C4%91ang%20ph%C3%A1t%20tri%E1%BB%83n.%20Logo%20c%C3%B4ng%20ty%20v%C3%A0%20m%C3%A3%20QR%20d%E1%BA%ABn%20%C4%91%E1%BA%BFn%20trang%20%E1%BB%A9ng%20tuy%E1%BB%83n%20%C4%91%C6%B0%E1%BB%A3c%20hi%E1%BB%83n%20th%E1%BB%8B%20n%E1%BB%95i%20b%E1%BA%ADt%20%E1%BB%9F%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi.%20B%E1%BA%A3ng%20m%C3%A0u%20tr%C3%A0n%20%C4%91%E1%BA%A7y%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20v%C3%A0%20mang%20t%C3%ADnh%20c%C3%B4ng%20ngh%E1%BB%87%20(v%C3%AD%20d%E1%BB%A5%3A%20xanh%20%C4%91i%E1%BB%87n%20v%C3%A0%20x%C3%A1m%20%C4%91%E1%BA%ADm).%20%E2%80%93ar%203%3A4)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20t%E1%BB%9D%20r%C6%A1i%20tuy%E1%BB%83n%20d%E1%BB%A5ng%20t%C3%A1o%20b%E1%BA%A1o%20v%C3%A0%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20d%C3%A0nh%20cho%20m%E1%BB%99t%20startup%20%C4%91ang%20t%C3%ACm%20ki%E1%BA%BFm%20c%C3%A1c%20nh%C3%A0%20ph%C3%A1t%20tri%E1%BB%83n%20ph%E1%BA%A7n%20m%E1%BB%81m.%20D%C3%B2ng%20ti%C3%AAu%20%C4%91%E1%BB%81%20%E2%80%9CBUILD%20THE%20FUTURE%E2%80%9D%20%C4%91%C6%B0%E1%BB%A3c%20in%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20sans-serif%20l%E1%BB%9Bn%2C%20m%E1%BA%A1nh%20m%E1%BA%BD.%20H%C3%ACnh%20%E1%BA%A3nh%20ch%C3%ADnh%20l%C3%A0%20m%E1%BB%99t%20minh%20h%E1%BB%8Da%20tr%E1%BB%ABu%20t%C6%B0%E1%BB%A3ng%2C%20c%C3%A1ch%20%C4%91i%E1%BB%87u%20v%E1%BB%81%20m%C3%A3%20code%20bi%E1%BA%BFn%20th%C3%A0nh%20m%E1%BB%99t%20%C4%91%C6%B0%E1%BB%9Dng%20ch%C3%A2n%20tr%E1%BB%9Di%20th%C3%A0nh%20ph%E1%BB%91%20%C4%91ang%20ph%C3%A1t%20tri%E1%BB%83n.%20Logo%20c%C3%B4ng%20ty%20v%C3%A0%20m%C3%A3%20QR%20d%E1%BA%ABn%20%C4%91%E1%BA%BFn%20trang%20%E1%BB%A9ng%20tuy%E1%BB%83n%20%C4%91%C6%B0%E1%BB%A3c%20hi%E1%BB%83n%20th%E1%BB%8B%20n%E1%BB%95i%20b%E1%BA%ADt%20%E1%BB%9F%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi.%20B%E1%BA%A3ng%20m%C3%A0u%20tr%C3%A0n%20%C4%91%E1%BA%A7y%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20v%C3%A0%20mang%20t%C3%ADnh%20c%C3%B4ng%20ngh%E1%BB%87%20(v%C3%AD%20d%E1%BB%A5%3A%20xanh%20%C4%91i%E1%BB%87n%20v%C3%A0%20x%C3%A1m%20%C4%91%E1%BA%ADm).%20%E2%80%93ar%203%3A4)**
 
 ---
 
-<<<<<<< HEAD
-### No. 14: Áp phích Lễ hội Âm nhạc Psychedelic "Ethereal Bloom"
-=======
 ### No. 17: Áp phích Lễ hội Âm nhạc Psychedelic "Ethereal Bloom"
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -667,15 +657,11 @@ Một áp phích sống động, ảo giác cho lễ hội âm nhạc mùa hè m
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20%C3%A1p%20ph%C3%ADch%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%2C%20%E1%BA%A3o%20gi%C3%A1c%20cho%20l%E1%BB%85%20h%E1%BB%99i%20%C3%A2m%20nh%E1%BA%A1c%20m%C3%B9a%20h%C3%A8%20mang%20t%C3%AAn%20%E2%80%9CEthereal%20Bloom%E2%80%9D.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20l%C3%A0%20m%E1%BB%99t%20s%E1%BB%B1%20b%C3%B9ng%20n%E1%BB%95%20m%C3%A0u%20s%E1%BA%AFc%20si%C3%AAu%20th%E1%BB%B1c%2C%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20c%C3%A2y%20n%E1%BA%A5m%20kh%E1%BB%95ng%20l%E1%BB%93%20ph%C3%A1t%20s%C3%A1ng%2C%20c%C3%A1c%20sinh%20v%E1%BA%ADt%20k%E1%BB%B3%20%E1%BA%A3o%20%C4%91%E1%BA%A7y%20ng%E1%BA%ABu%20h%E1%BB%A9ng%20v%C3%A0%20nh%E1%BB%AFng%20h%E1%BB%8Da%20ti%E1%BA%BFt%20h%C3%ACnh%20h%E1%BB%8Dc%20tr%E1%BB%ABu%20t%C6%B0%E1%BB%A3ng%20%C4%91an%20xen%20v%C3%A0o%20nhau.%20Danh%20s%C3%A1ch%20ngh%E1%BB%87%20s%C4%A9%20bi%E1%BB%83u%20di%E1%BB%85n%20c%E1%BB%A7a%20l%E1%BB%85%20h%E1%BB%99i%20%C4%91%C6%B0%E1%BB%A3c%20t%C3%ADch%20h%E1%BB%A3p%20v%C3%A0o%20t%C3%A1c%20ph%E1%BA%A9m%20ngh%E1%BB%87%20thu%E1%BA%ADt%20b%E1%BA%B1ng%20m%E1%BB%99t%20ph%C3%B4ng%20ch%E1%BB%AF%20l%C6%B0%E1%BB%A3n%20s%C3%B3ng%2C%20m%C3%A9o%20m%C3%B3.%20T%C3%A2m%20tr%E1%BA%A1ng%20t%E1%BB%95ng%20th%E1%BB%83%20l%C3%A0%20huy%E1%BB%81n%20%E1%BA%A3o%2C%20tr%C3%A0n%20%C4%91%E1%BA%A7y%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20v%C3%A0%20si%C3%AAu%20nhi%C3%AAn%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20t%E1%BA%A1o%20ra%20nh%E1%BB%AFng%20h%C3%ACnh%20%E1%BA%A3nh%20ph%E1%BB%A9c%20t%E1%BA%A1p%2C%20gi%C3%A0u%20tr%C3%AD%20t%C6%B0%E1%BB%9Fng%20t%C6%B0%E1%BB%A3ng%20v%C3%A0%20%C4%91%E1%BA%B7c%20tr%C6%B0ng%20theo%20th%E1%BB%83%20lo%E1%BA%A1i.%20%E2%80%93ar%202%3A3)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20%C3%A1p%20ph%C3%ADch%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%2C%20%E1%BA%A3o%20gi%C3%A1c%20cho%20l%E1%BB%85%20h%E1%BB%99i%20%C3%A2m%20nh%E1%BA%A1c%20m%C3%B9a%20h%C3%A8%20mang%20t%C3%AAn%20%E2%80%9CEthereal%20Bloom%E2%80%9D.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20l%C3%A0%20m%E1%BB%99t%20s%E1%BB%B1%20b%C3%B9ng%20n%E1%BB%95%20m%C3%A0u%20s%E1%BA%AFc%20si%C3%AAu%20th%E1%BB%B1c%2C%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20c%C3%A2y%20n%E1%BA%A5m%20kh%E1%BB%95ng%20l%E1%BB%93%20ph%C3%A1t%20s%C3%A1ng%2C%20c%C3%A1c%20sinh%20v%E1%BA%ADt%20k%E1%BB%B3%20%E1%BA%A3o%20%C4%91%E1%BA%A7y%20ng%E1%BA%ABu%20h%E1%BB%A9ng%20v%C3%A0%20nh%E1%BB%AFng%20h%E1%BB%8Da%20ti%E1%BA%BFt%20h%C3%ACnh%20h%E1%BB%8Dc%20tr%E1%BB%ABu%20t%C6%B0%E1%BB%A3ng%20%C4%91an%20xen%20v%C3%A0o%20nhau.%20Danh%20s%C3%A1ch%20ngh%E1%BB%87%20s%C4%A9%20bi%E1%BB%83u%20di%E1%BB%85n%20c%E1%BB%A7a%20l%E1%BB%85%20h%E1%BB%99i%20%C4%91%C6%B0%E1%BB%A3c%20t%C3%ADch%20h%E1%BB%A3p%20v%C3%A0o%20t%C3%A1c%20ph%E1%BA%A9m%20ngh%E1%BB%87%20thu%E1%BA%ADt%20b%E1%BA%B1ng%20m%E1%BB%99t%20ph%C3%B4ng%20ch%E1%BB%AF%20l%C6%B0%E1%BB%A3n%20s%C3%B3ng%2C%20m%C3%A9o%20m%C3%B3.%20T%C3%A2m%20tr%E1%BA%A1ng%20t%E1%BB%95ng%20th%E1%BB%83%20l%C3%A0%20huy%E1%BB%81n%20%E1%BA%A3o%2C%20tr%C3%A0n%20%C4%91%E1%BA%A7y%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20v%C3%A0%20si%C3%AAu%20nhi%C3%AAn%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20t%E1%BA%A1o%20ra%20nh%E1%BB%AFng%20h%C3%ACnh%20%E1%BA%A3nh%20ph%E1%BB%A9c%20t%E1%BA%A1p%2C%20gi%C3%A0u%20tr%C3%AD%20t%C6%B0%E1%BB%9Fng%20t%C6%B0%E1%BB%A3ng%20v%C3%A0%20%C4%91%E1%BA%B7c%20tr%C6%B0ng%20theo%20th%E1%BB%83%20lo%E1%BA%A1i.%20%E2%80%93ar%202%3A3)**
 
 ---
 
-<<<<<<< HEAD
-### No. 15: Áp phích phim khoa học viễn tưởng điện ảnh "CHRONOS"
-=======
 ### No. 18: Áp phích phim khoa học viễn tưởng điện ảnh "CHRONOS"
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -704,15 +690,11 @@ Một poster phim điện ảnh hoành tráng, đậm chất sử thi cho bộ p
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20poster%20phim%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20ho%C3%A0nh%20tr%C3%A1ng%2C%20%C4%91%E1%BA%ADm%20ch%E1%BA%A5t%20s%E1%BB%AD%20thi%20cho%20b%E1%BB%99%20phim%20bom%20t%E1%BA%A5n%20khoa%20h%E1%BB%8Dc%20vi%E1%BB%85n%20t%C6%B0%E1%BB%9Fng%20h%C6%B0%20c%E1%BA%A5u%20c%C3%B3%20t%E1%BB%B1a%20%C4%91%E1%BB%81%20%E2%80%9CCHRONOS%E2%80%9D.%20Poster%20c%C3%B3%20h%C3%ACnh%20%E1%BA%A3nh%20ng%C6%B0%E1%BB%9Di%20h%C3%B9ng%20ch%C3%ADnh%2C%20m%E1%BB%99t%20phi%20h%C3%A0nh%20gia%20phong%20tr%E1%BA%A7n%2C%20%C4%91ang%20nh%C3%ACn%20ra%20m%E1%BB%99t%20h%E1%BB%91%20%C4%91en%20kh%E1%BB%95ng%20l%E1%BB%93%2C%20xo%C3%A1y%20tr%C3%B2n%20trong%20kh%C3%B4ng%20gian.%20H%C3%ACnh%20%E1%BA%A3nh%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20c%E1%BB%A7a%20m%E1%BB%99t%20c%E1%BB%95%20v%E1%BA%ADt%20ngo%C3%A0i%20h%C3%A0nh%20tinh%20b%C3%AD%20%E1%BA%A9n%20hi%E1%BB%87n%20r%C3%B5%20trong%20t%E1%BA%A5m%20che%20m%C5%A9%20b%E1%BA%A3o%20hi%E1%BB%83m%20c%E1%BB%A7a%20anh%20ta.%20Ph%C3%B4ng%20ch%E1%BB%AF%20%C4%91%E1%BA%ADm%2C%20%C3%A1nh%20kim%20v%C3%A0%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i.%20D%C3%B2ng%20kh%E1%BA%A9u%20hi%E1%BB%87u%20%E2%80%9CTime%20is%20the%20enemy%E2%80%9D%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BA%B7t%20%E1%BB%9F%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20%C3%A1nh%20s%C3%A1ng%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%2C%20b%E1%BB%91%20c%E1%BB%A5c%20ti%C3%AAn%20ti%E1%BA%BFn%20v%C3%A0%20kh%E1%BA%A3%20n%C4%83ng%20h%C3%B2a%20tr%E1%BB%99n%20nhi%E1%BB%81u%20y%E1%BA%BFu%20t%E1%BB%91%20ph%E1%BB%A9c%20t%E1%BA%A1p%20m%E1%BB%99t%20c%C3%A1ch%20li%E1%BB%81n%20m%E1%BA%A1ch.%20%E2%80%93ar%202%3A3)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20poster%20phim%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20ho%C3%A0nh%20tr%C3%A1ng%2C%20%C4%91%E1%BA%ADm%20ch%E1%BA%A5t%20s%E1%BB%AD%20thi%20cho%20b%E1%BB%99%20phim%20bom%20t%E1%BA%A5n%20khoa%20h%E1%BB%8Dc%20vi%E1%BB%85n%20t%C6%B0%E1%BB%9Fng%20h%C6%B0%20c%E1%BA%A5u%20c%C3%B3%20t%E1%BB%B1a%20%C4%91%E1%BB%81%20%E2%80%9CCHRONOS%E2%80%9D.%20Poster%20c%C3%B3%20h%C3%ACnh%20%E1%BA%A3nh%20ng%C6%B0%E1%BB%9Di%20h%C3%B9ng%20ch%C3%ADnh%2C%20m%E1%BB%99t%20phi%20h%C3%A0nh%20gia%20phong%20tr%E1%BA%A7n%2C%20%C4%91ang%20nh%C3%ACn%20ra%20m%E1%BB%99t%20h%E1%BB%91%20%C4%91en%20kh%E1%BB%95ng%20l%E1%BB%93%2C%20xo%C3%A1y%20tr%C3%B2n%20trong%20kh%C3%B4ng%20gian.%20H%C3%ACnh%20%E1%BA%A3nh%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20c%E1%BB%A7a%20m%E1%BB%99t%20c%E1%BB%95%20v%E1%BA%ADt%20ngo%C3%A0i%20h%C3%A0nh%20tinh%20b%C3%AD%20%E1%BA%A9n%20hi%E1%BB%87n%20r%C3%B5%20trong%20t%E1%BA%A5m%20che%20m%C5%A9%20b%E1%BA%A3o%20hi%E1%BB%83m%20c%E1%BB%A7a%20anh%20ta.%20Ph%C3%B4ng%20ch%E1%BB%AF%20%C4%91%E1%BA%ADm%2C%20%C3%A1nh%20kim%20v%C3%A0%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i.%20D%C3%B2ng%20kh%E1%BA%A9u%20hi%E1%BB%87u%20%E2%80%9CTime%20is%20the%20enemy%E2%80%9D%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BA%B7t%20%E1%BB%9F%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20%C3%A1nh%20s%C3%A1ng%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%2C%20b%E1%BB%91%20c%E1%BB%A5c%20ti%C3%AAn%20ti%E1%BA%BFn%20v%C3%A0%20kh%E1%BA%A3%20n%C4%83ng%20h%C3%B2a%20tr%E1%BB%99n%20nhi%E1%BB%81u%20y%E1%BA%BFu%20t%E1%BB%91%20ph%E1%BB%A9c%20t%E1%BA%A1p%20m%E1%BB%99t%20c%C3%A1ch%20li%E1%BB%81n%20m%E1%BA%A1ch.%20%E2%80%93ar%202%3A3)**
 
 ---
 
-<<<<<<< HEAD
-### No. 16: Hình thu nhỏ hướng dẫn xây dựng trang web
-=======
 ### No. 19: Hình thu nhỏ hướng dẫn xây dựng trang web
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -741,15 +723,11 @@ Hình thu nhỏ cho video hướng dẫn "Cách tạo trang web trong 10 phút".
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=H%C3%ACnh%20thu%20nh%E1%BB%8F%20cho%20video%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20%22C%C3%A1ch%20t%E1%BA%A1o%20trang%20web%20trong%2010%20ph%C3%BAt%22.%20H%C3%ACnh%20%E1%BA%A3nh%20hi%E1%BB%83n%20th%E1%BB%8B%20m%C3%A0n%20h%C3%ACnh%20m%C3%A1y%20t%C3%ADnh%20v%E1%BB%9Bi%20m%E1%BB%99t%20trang%20web%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%2C%20chuy%C3%AAn%20nghi%E1%BB%87p.%20M%E1%BB%99t%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20%C4%91%E1%BB%93ng%20h%E1%BB%93%20l%E1%BB%9Bn%20hi%E1%BB%83n%20th%E1%BB%8B%20%2210%20ph%C3%BAt%22%20%C4%91%C6%B0%E1%BB%A3c%20ph%E1%BB%A7%20l%C3%AAn%20m%C3%A0n%20h%C3%ACnh.%20YouTuber%20%E1%BB%9F%20g%C3%B3c%2C%20%C4%91ang%20ch%E1%BB%89%20v%C3%A0o%20m%C3%A0n%20h%C3%ACnh%20v%C3%A0%20m%E1%BB%89m%20c%C6%B0%E1%BB%9Di%2C%20tr%C3%B4ng%20t%E1%BB%B1%20tin%20v%C3%A0%20h%E1%BB%AFu%20%C3%ADch.%20V%C4%83n%20b%E1%BA%A3n%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20h%E1%BB%A9a%20h%E1%BA%B9n%20m%E1%BB%99t%20gi%E1%BA%A3i%20ph%C3%A1p%20nhanh%20ch%C3%B3ng%2C%20d%E1%BB%85%20d%C3%A0ng.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=H%C3%ACnh%20thu%20nh%E1%BB%8F%20cho%20video%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20%22C%C3%A1ch%20t%E1%BA%A1o%20trang%20web%20trong%2010%20ph%C3%BAt%22.%20H%C3%ACnh%20%E1%BA%A3nh%20hi%E1%BB%83n%20th%E1%BB%8B%20m%C3%A0n%20h%C3%ACnh%20m%C3%A1y%20t%C3%ADnh%20v%E1%BB%9Bi%20m%E1%BB%99t%20trang%20web%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%2C%20chuy%C3%AAn%20nghi%E1%BB%87p.%20M%E1%BB%99t%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20%C4%91%E1%BB%93ng%20h%E1%BB%93%20l%E1%BB%9Bn%20hi%E1%BB%83n%20th%E1%BB%8B%20%2210%20ph%C3%BAt%22%20%C4%91%C6%B0%E1%BB%A3c%20ph%E1%BB%A7%20l%C3%AAn%20m%C3%A0n%20h%C3%ACnh.%20YouTuber%20%E1%BB%9F%20g%C3%B3c%2C%20%C4%91ang%20ch%E1%BB%89%20v%C3%A0o%20m%C3%A0n%20h%C3%ACnh%20v%C3%A0%20m%E1%BB%89m%20c%C6%B0%E1%BB%9Di%2C%20tr%C3%B4ng%20t%E1%BB%B1%20tin%20v%C3%A0%20h%E1%BB%AFu%20%C3%ADch.%20V%C4%83n%20b%E1%BA%A3n%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20h%E1%BB%A9a%20h%E1%BA%B9n%20m%E1%BB%99t%20gi%E1%BA%A3i%20ph%C3%A1p%20nhanh%20ch%C3%B3ng%2C%20d%E1%BB%85%20d%C3%A0ng.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 17: Hình thu nhỏ thử thách đồ ăn máy bán hàng tự động
-=======
 ### No. 20: Hình thu nhỏ thử thách đồ ăn máy bán hàng tự động
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -778,15 +756,11 @@ Một hình thu nhỏ cho thử thách "Chỉ ăn đồ ăn từ máy bán hàng
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20thu%20nh%E1%BB%8F%20cho%20th%E1%BB%AD%20th%C3%A1ch%20%22Ch%E1%BB%89%20%C4%83n%20%C4%91%E1%BB%93%20%C4%83n%20t%E1%BB%AB%20m%C3%A1y%20b%C3%A1n%20h%C3%A0ng%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20trong%2024%20gi%E1%BB%9D%22.%20H%C3%ACnh%20%E1%BA%A3nh%20cho%20th%E1%BA%A5y%20YouTuber%20%C4%91ang%20ng%E1%BB%93i%20tr%C3%AAn%20s%C3%A0n%20nh%C3%A0%2C%20xung%20quanh%20l%C3%A0%20m%E1%BB%99t%20%C4%91%E1%BB%91ng%20l%E1%BB%9Bn%20%C4%91%E1%BB%93%20%C4%83n%20v%E1%BA%B7t%20v%C3%A0%20%C4%91%E1%BB%93%20u%E1%BB%91ng%20%C4%91%E1%BA%A7y%20m%C3%A0u%20s%E1%BA%AFc%20t%E1%BB%AB%20m%C3%A1y%20b%C3%A1n%20h%C3%A0ng%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.%20H%E1%BB%8D%20c%C3%B3%20m%E1%BB%99t%20bi%E1%BB%83u%20c%E1%BA%A3m%20%C4%91au%20kh%E1%BB%95%20nh%C6%B0ng%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20tr%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t.%20D%C3%B2ng%20ch%E1%BB%AF%20%22T%C3%94I%20H%E1%BB%90I%20H%E1%BA%ACN%20V%C3%8C%20%C4%90I%E1%BB%80U%20N%C3%80Y%22%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20%C4%91%E1%BA%ADm%2C%20c%C3%B3%20v%E1%BA%BB%20nh%C6%B0%20b%E1%BB%8B%20l%C3%A0m%20c%C5%A9.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20thu%20nh%E1%BB%8F%20cho%20th%E1%BB%AD%20th%C3%A1ch%20%22Ch%E1%BB%89%20%C4%83n%20%C4%91%E1%BB%93%20%C4%83n%20t%E1%BB%AB%20m%C3%A1y%20b%C3%A1n%20h%C3%A0ng%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20trong%2024%20gi%E1%BB%9D%22.%20H%C3%ACnh%20%E1%BA%A3nh%20cho%20th%E1%BA%A5y%20YouTuber%20%C4%91ang%20ng%E1%BB%93i%20tr%C3%AAn%20s%C3%A0n%20nh%C3%A0%2C%20xung%20quanh%20l%C3%A0%20m%E1%BB%99t%20%C4%91%E1%BB%91ng%20l%E1%BB%9Bn%20%C4%91%E1%BB%93%20%C4%83n%20v%E1%BA%B7t%20v%C3%A0%20%C4%91%E1%BB%93%20u%E1%BB%91ng%20%C4%91%E1%BA%A7y%20m%C3%A0u%20s%E1%BA%AFc%20t%E1%BB%AB%20m%C3%A1y%20b%C3%A1n%20h%C3%A0ng%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.%20H%E1%BB%8D%20c%C3%B3%20m%E1%BB%99t%20bi%E1%BB%83u%20c%E1%BA%A3m%20%C4%91au%20kh%E1%BB%95%20nh%C6%B0ng%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20tr%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t.%20D%C3%B2ng%20ch%E1%BB%AF%20%22T%C3%94I%20H%E1%BB%90I%20H%E1%BA%ACN%20V%C3%8C%20%C4%90I%E1%BB%80U%20N%C3%80Y%22%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20%C4%91%E1%BA%ADm%2C%20c%C3%B3%20v%E1%BA%BB%20nh%C6%B0%20b%E1%BB%8B%20l%C3%A0m%20c%C5%A9.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 18: Hình thu nhỏ video chơi khăm
-=======
 ### No. 21: Hình thu nhỏ video chơi khăm
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -815,15 +789,11 @@ Một ảnh thumbnail cho video chơi khăm. Hình ảnh ghi lại khoảnh kh�
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20%E1%BA%A3nh%20thumbnail%20cho%20video%20ch%C6%A1i%20kh%C4%83m.%20H%C3%ACnh%20%E1%BA%A3nh%20ghi%20l%E1%BA%A1i%20kho%E1%BA%A3nh%20kh%E1%BA%AFc%20cao%20tr%C3%A0o%20c%E1%BB%A7a%20tr%C3%B2%20ch%C6%A1i%20kh%C4%83m%3A%20ng%C6%B0%E1%BB%9Di%20b%E1%BB%8B%20ch%C6%A1i%20kh%C4%83m%20%C4%91ang%20la%20h%C3%A9t%20ho%E1%BA%B7c%20nh%E1%BA%A3y%20l%C3%AAn%20v%C3%AC%20b%E1%BA%A5t%20ng%E1%BB%9D.%20YouTuber%20d%C3%A0n%20d%E1%BB%B1ng%20tr%C3%B2%20ch%C6%A1i%20kh%C4%83m%20%C4%91ang%20%E1%BB%9F%20ph%C3%ADa%20sau%2C%20c%C6%B0%E1%BB%9Di%20l%E1%BB%9Bn.%20C%E1%BA%A3nh%20t%C6%B0%E1%BB%A3ng%20h%E1%BB%97n%20lo%E1%BA%A1n%20v%C3%A0%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%20M%E1%BB%99t%20v%C3%B2ng%20tr%C3%B2n%20m%C3%A0u%20%C4%91%E1%BB%8F%20%C4%91%C6%B0%E1%BB%A3c%20v%E1%BA%BD%20quanh%20m%E1%BA%B7t%20ng%C6%B0%E1%BB%9Di%20b%E1%BB%8B%20ch%C6%A1i%20kh%C4%83m%20%C4%91%E1%BB%83%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20ph%E1%BA%A3n%20%E1%BB%A9ng%20c%E1%BB%A7a%20h%E1%BB%8D.%20D%C3%B2ng%20ch%E1%BB%AF%20%E2%80%9CAnh%20%E1%BA%A5y%20PH%C3%81T%20%C4%90I%C3%8AN!%E2%80%9D%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20run%20r%E1%BA%A9y%2C%20v%E1%BA%BD%20tay.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20%E1%BA%A3nh%20thumbnail%20cho%20video%20ch%C6%A1i%20kh%C4%83m.%20H%C3%ACnh%20%E1%BA%A3nh%20ghi%20l%E1%BA%A1i%20kho%E1%BA%A3nh%20kh%E1%BA%AFc%20cao%20tr%C3%A0o%20c%E1%BB%A7a%20tr%C3%B2%20ch%C6%A1i%20kh%C4%83m%3A%20ng%C6%B0%E1%BB%9Di%20b%E1%BB%8B%20ch%C6%A1i%20kh%C4%83m%20%C4%91ang%20la%20h%C3%A9t%20ho%E1%BA%B7c%20nh%E1%BA%A3y%20l%C3%AAn%20v%C3%AC%20b%E1%BA%A5t%20ng%E1%BB%9D.%20YouTuber%20d%C3%A0n%20d%E1%BB%B1ng%20tr%C3%B2%20ch%C6%A1i%20kh%C4%83m%20%C4%91ang%20%E1%BB%9F%20ph%C3%ADa%20sau%2C%20c%C6%B0%E1%BB%9Di%20l%E1%BB%9Bn.%20C%E1%BA%A3nh%20t%C6%B0%E1%BB%A3ng%20h%E1%BB%97n%20lo%E1%BA%A1n%20v%C3%A0%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%20M%E1%BB%99t%20v%C3%B2ng%20tr%C3%B2n%20m%C3%A0u%20%C4%91%E1%BB%8F%20%C4%91%C6%B0%E1%BB%A3c%20v%E1%BA%BD%20quanh%20m%E1%BA%B7t%20ng%C6%B0%E1%BB%9Di%20b%E1%BB%8B%20ch%C6%A1i%20kh%C4%83m%20%C4%91%E1%BB%83%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20ph%E1%BA%A3n%20%E1%BB%A9ng%20c%E1%BB%A7a%20h%E1%BB%8D.%20D%C3%B2ng%20ch%E1%BB%AF%20%E2%80%9CAnh%20%E1%BA%A5y%20PH%C3%81T%20%C4%90I%C3%8AN!%E2%80%9D%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20run%20r%E1%BA%A9y%2C%20v%E1%BA%BD%20tay.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 19: Hình thu nhỏ cho Mẹo vặt cuộc sống 5 phút
-=======
 ### No. 22: Hình thu nhỏ cho Mẹo vặt cuộc sống 5 phút
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -852,15 +822,11 @@ Một ảnh thumbnail cho video “5-Minute Life Hacks”. Hình ảnh là một
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20%E1%BA%A3nh%20thumbnail%20cho%20video%20%E2%80%9C5-Minute%20Life%20Hacks%E2%80%9D.%20H%C3%ACnh%20%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20l%C6%B0%E1%BB%9Bi%20g%E1%BB%93m%20b%E1%BB%91n%20m%E1%BA%B9o%20v%E1%BA%B7t%20kh%C3%A1c%20nhau%20%C4%91ang%20%C4%91%C6%B0%E1%BB%A3c%20minh%20h%E1%BB%8Da%20(v%C3%AD%20d%E1%BB%A5%3A%20d%C3%B9ng%20chai%20%C4%91%E1%BB%83%20t%C3%A1ch%20l%C3%B2ng%20%C4%91%E1%BB%8F%20tr%E1%BB%A9ng).%20M%E1%BB%97i%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%E1%BB%81u%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20d%E1%BB%85%20hi%E1%BB%83u.%20YouTuber%20%E1%BB%9F%20gi%E1%BB%AFa%20l%C6%B0%E1%BB%9Bi%2C%20gi%C6%A1%20ng%C3%B3n%20tay%20c%C3%A1i%20l%C3%AAn.%20S%E1%BB%91%20%E2%80%9C5%E2%80%9D%20r%E1%BA%A5t%20l%E1%BB%9Bn%20v%C3%A0%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BA%B7t%20n%E1%BB%95i%20b%E1%BA%ADt.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20ph%E1%BA%A3i%20t%E1%BA%A1o%20ra%20c%C3%A1c%20h%C3%ACnh%20%E1%BA%A3nh%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20r%C3%B5%20r%C3%A0ng.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20%E1%BA%A3nh%20thumbnail%20cho%20video%20%E2%80%9C5-Minute%20Life%20Hacks%E2%80%9D.%20H%C3%ACnh%20%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20l%C6%B0%E1%BB%9Bi%20g%E1%BB%93m%20b%E1%BB%91n%20m%E1%BA%B9o%20v%E1%BA%B7t%20kh%C3%A1c%20nhau%20%C4%91ang%20%C4%91%C6%B0%E1%BB%A3c%20minh%20h%E1%BB%8Da%20(v%C3%AD%20d%E1%BB%A5%3A%20d%C3%B9ng%20chai%20%C4%91%E1%BB%83%20t%C3%A1ch%20l%C3%B2ng%20%C4%91%E1%BB%8F%20tr%E1%BB%A9ng).%20M%E1%BB%97i%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%E1%BB%81u%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20d%E1%BB%85%20hi%E1%BB%83u.%20YouTuber%20%E1%BB%9F%20gi%E1%BB%AFa%20l%C6%B0%E1%BB%9Bi%2C%20gi%C6%A1%20ng%C3%B3n%20tay%20c%C3%A1i%20l%C3%AAn.%20S%E1%BB%91%20%E2%80%9C5%E2%80%9D%20r%E1%BA%A5t%20l%E1%BB%9Bn%20v%C3%A0%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BA%B7t%20n%E1%BB%95i%20b%E1%BA%ADt.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20ph%E1%BA%A3i%20t%E1%BA%A1o%20ra%20c%C3%A1c%20h%C3%ACnh%20%E1%BA%A3nh%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20r%C3%B5%20r%C3%A0ng.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 20: Hình thu nhỏ mở hộp thiết bị công nghệ
-=======
 ### No. 23: Hình thu nhỏ mở hộp thiết bị công nghệ
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -889,15 +855,11 @@ Hình thu nhỏ cho video unboxing một thiết bị công nghệ mới, đắt
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=H%C3%ACnh%20thu%20nh%E1%BB%8F%20cho%20video%20unboxing%20m%E1%BB%99t%20thi%E1%BA%BFt%20b%E1%BB%8B%20c%C3%B4ng%20ngh%E1%BB%87%20m%E1%BB%9Bi%2C%20%C4%91%E1%BA%AFt%20ti%E1%BB%81n.%20H%E1%BB%99p%20%C4%91%C3%A3%20m%E1%BB%9F%2C%20v%C3%A0%20m%E1%BB%99t%20%C3%A1nh%20s%C3%A1ng%20r%E1%BB%B1c%20r%E1%BB%A1%2C%20huy%E1%BB%81n%20%E1%BA%A3o%20%C4%91ang%20chi%E1%BA%BFu%20ra%20t%E1%BB%AB%20b%C3%AAn%20trong.%20YouTuber%20%C4%91ang%20nh%C3%ACn%20v%C3%A0o%20h%E1%BB%99p%20v%E1%BB%9Bi%20v%E1%BA%BB%20m%E1%BA%B7t%20%C4%91%E1%BA%A7y%20kinh%20ng%E1%BA%A1c%20v%C3%A0%20ph%E1%BA%A5n%20kh%C3%ADch.%20B%E1%BA%A3n%20th%C3%A2n%20s%E1%BA%A3n%20ph%E1%BA%A9m%20kh%C3%B4ng%20hi%E1%BB%83n%20th%E1%BB%8B%20ho%C3%A0n%20to%C3%A0n%2C%20t%E1%BA%A1o%20s%E1%BB%B1%20t%C3%B2%20m%C3%B2.%20D%C3%B2ng%20ch%E1%BB%AF%20%E2%80%9CKh%C3%B4ng%20Th%E1%BB%83%20Tin%20%C4%90%C6%B0%E1%BB%A3c%20C%C3%B3%20G%C3%AC%20B%C3%AAn%20Trong!%E2%80%9D%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20%C4%91%E1%BA%ADm%2C%20%C4%91%E1%BA%A7y%20ph%E1%BA%A5n%20kh%C3%ADch.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=H%C3%ACnh%20thu%20nh%E1%BB%8F%20cho%20video%20unboxing%20m%E1%BB%99t%20thi%E1%BA%BFt%20b%E1%BB%8B%20c%C3%B4ng%20ngh%E1%BB%87%20m%E1%BB%9Bi%2C%20%C4%91%E1%BA%AFt%20ti%E1%BB%81n.%20H%E1%BB%99p%20%C4%91%C3%A3%20m%E1%BB%9F%2C%20v%C3%A0%20m%E1%BB%99t%20%C3%A1nh%20s%C3%A1ng%20r%E1%BB%B1c%20r%E1%BB%A1%2C%20huy%E1%BB%81n%20%E1%BA%A3o%20%C4%91ang%20chi%E1%BA%BFu%20ra%20t%E1%BB%AB%20b%C3%AAn%20trong.%20YouTuber%20%C4%91ang%20nh%C3%ACn%20v%C3%A0o%20h%E1%BB%99p%20v%E1%BB%9Bi%20v%E1%BA%BB%20m%E1%BA%B7t%20%C4%91%E1%BA%A7y%20kinh%20ng%E1%BA%A1c%20v%C3%A0%20ph%E1%BA%A5n%20kh%C3%ADch.%20B%E1%BA%A3n%20th%C3%A2n%20s%E1%BA%A3n%20ph%E1%BA%A9m%20kh%C3%B4ng%20hi%E1%BB%83n%20th%E1%BB%8B%20ho%C3%A0n%20to%C3%A0n%2C%20t%E1%BA%A1o%20s%E1%BB%B1%20t%C3%B2%20m%C3%B2.%20D%C3%B2ng%20ch%E1%BB%AF%20%E2%80%9CKh%C3%B4ng%20Th%E1%BB%83%20Tin%20%C4%90%C6%B0%E1%BB%A3c%20C%C3%B3%20G%C3%AC%20B%C3%AAn%20Trong!%E2%80%9D%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20%C4%91%E1%BA%ADm%2C%20%C4%91%E1%BA%A7y%20ph%E1%BA%A5n%20kh%C3%ADch.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 21: Ảnh thu nhỏ phim tài liệu Ai Cập cổ đại
-=======
 ### No. 24: Ảnh thu nhỏ phim tài liệu Ai Cập cổ đại
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -926,15 +888,11 @@ Hình thu nhỏ cho phim tài liệu về Ai Cập cổ đại. Hình ảnh là 
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=H%C3%ACnh%20thu%20nh%E1%BB%8F%20cho%20phim%20t%C3%A0i%20li%E1%BB%87u%20v%E1%BB%81%20Ai%20C%E1%BA%ADp%20c%E1%BB%95%20%C4%91%E1%BA%A1i.%20H%C3%ACnh%20%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20b%E1%BA%A3n%20d%E1%BB%B1ng%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%2C%20ch%C3%A2n%20th%E1%BB%B1c%20nh%C6%B0%20%E1%BA%A3nh%20ch%E1%BB%A5p%20v%E1%BB%81%20Kim%20t%E1%BB%B1%20th%C3%A1p%20Giza%20v%C4%A9%20%C4%91%E1%BA%A1i%20l%C3%BAc%20ho%C3%A0ng%20h%C3%B4n.%20M%E1%BA%B7t%20tr%E1%BB%9Di%20%C4%91ang%20l%E1%BA%B7n%20ph%C3%ADa%20sau%20c%C3%A1c%20kim%20t%E1%BB%B1%20th%C3%A1p%2C%20t%E1%BA%A1o%20n%C3%AAn%20m%E1%BB%99t%20h%C3%ACnh%20b%C3%B3ng%20tuy%E1%BB%87t%20%C4%91%E1%BA%B9p.%20%E1%BB%9E%20ti%E1%BB%81n%20c%E1%BA%A3nh%2C%20h%C3%ACnh%20b%C3%B3ng%20m%E1%BB%99t%20nh%C3%A0%20kh%E1%BA%A3o%20c%E1%BB%95%20%C4%91ang%20nh%C3%ACn%20c%C3%A1c%20kim%20t%E1%BB%B1%20th%C3%A1p.%20Ti%C3%AAu%20%C4%91%E1%BB%81%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20m%C3%B4%20ph%E1%BB%8Fng%20ch%E1%BB%AF%20t%C6%B0%E1%BB%A3ng%20h%C3%ACnh%20c%E1%BB%95%20%C4%91%E1%BA%A1i.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20ki%E1%BA%BFn%20th%E1%BB%A9c%20th%E1%BA%BF%20gi%E1%BB%9Bi%20phong%20ph%C3%BA%20v%C3%A0%20kh%E1%BA%A3%20n%C4%83ng%20d%E1%BB%B1ng%20h%C3%ACnh%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=H%C3%ACnh%20thu%20nh%E1%BB%8F%20cho%20phim%20t%C3%A0i%20li%E1%BB%87u%20v%E1%BB%81%20Ai%20C%E1%BA%ADp%20c%E1%BB%95%20%C4%91%E1%BA%A1i.%20H%C3%ACnh%20%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20b%E1%BA%A3n%20d%E1%BB%B1ng%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%2C%20ch%C3%A2n%20th%E1%BB%B1c%20nh%C6%B0%20%E1%BA%A3nh%20ch%E1%BB%A5p%20v%E1%BB%81%20Kim%20t%E1%BB%B1%20th%C3%A1p%20Giza%20v%C4%A9%20%C4%91%E1%BA%A1i%20l%C3%BAc%20ho%C3%A0ng%20h%C3%B4n.%20M%E1%BA%B7t%20tr%E1%BB%9Di%20%C4%91ang%20l%E1%BA%B7n%20ph%C3%ADa%20sau%20c%C3%A1c%20kim%20t%E1%BB%B1%20th%C3%A1p%2C%20t%E1%BA%A1o%20n%C3%AAn%20m%E1%BB%99t%20h%C3%ACnh%20b%C3%B3ng%20tuy%E1%BB%87t%20%C4%91%E1%BA%B9p.%20%E1%BB%9E%20ti%E1%BB%81n%20c%E1%BA%A3nh%2C%20h%C3%ACnh%20b%C3%B3ng%20m%E1%BB%99t%20nh%C3%A0%20kh%E1%BA%A3o%20c%E1%BB%95%20%C4%91ang%20nh%C3%ACn%20c%C3%A1c%20kim%20t%E1%BB%B1%20th%C3%A1p.%20Ti%C3%AAu%20%C4%91%E1%BB%81%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20m%C3%B4%20ph%E1%BB%8Fng%20ch%E1%BB%AF%20t%C6%B0%E1%BB%A3ng%20h%C3%ACnh%20c%E1%BB%95%20%C4%91%E1%BA%A1i.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20ki%E1%BA%BFn%20th%E1%BB%A9c%20th%E1%BA%BF%20gi%E1%BB%9Bi%20phong%20ph%C3%BA%20v%C3%A0%20kh%E1%BA%A3%20n%C4%83ng%20d%E1%BB%B1ng%20h%C3%ACnh%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 22: Hình thu nhỏ đánh giá siêu xe điện
-=======
 ### No. 25: Hình thu nhỏ đánh giá siêu xe điện
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -963,15 +921,11 @@ Một hình ảnh thu nhỏ cho bài đánh giá về một siêu xe điện m�
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20thu%20nh%E1%BB%8F%20cho%20b%C3%A0i%20%C4%91%C3%A1nh%20gi%C3%A1%20v%E1%BB%81%20m%E1%BB%99t%20si%C3%AAu%20xe%20%C4%91i%E1%BB%87n%20m%E1%BB%9Bi.%20Chi%E1%BA%BFc%20xe%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%A5p%20t%E1%BB%AB%20g%C3%B3c%20th%E1%BA%A5p%2C%20%C4%91%E1%BA%A7y%20k%E1%BB%8Bch%20t%C3%ADnh%2C%20khi%E1%BA%BFn%20n%C3%B3%20tr%C3%B4ng%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%C3%A0%20h%E1%BA%A7m%20h%E1%BB%91.%20%C4%90%C3%A8n%20pha%20b%E1%BA%ADt%20s%C3%A1ng%2C%20v%C3%A0%20h%E1%BA%ADu%20c%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20c%E1%BA%A3nh%20th%C3%A0nh%20ph%E1%BB%91%20ban%20%C4%91%C3%AAm%20%C4%91%C6%B0%E1%BB%A3c%20l%C3%A0m%20m%E1%BB%9D%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng.%20YouTuber%20%C4%91ang%20%C4%91%E1%BB%A9ng%20c%E1%BA%A1nh%20chi%E1%BA%BFc%20xe%20v%E1%BB%9Bi%20bi%E1%BB%83u%20c%E1%BA%A3m%20m%E1%BA%AFt%20m%E1%BB%9F%20to%2C%20%22cho%C3%A1ng%20v%C3%A1ng%22.%20D%C3%B2ng%20ch%E1%BB%AF%20%22The%20Future%20is%20HERE!%22%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20b%C3%B3ng%20b%E1%BA%A9y%2C%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20thu%20nh%E1%BB%8F%20cho%20b%C3%A0i%20%C4%91%C3%A1nh%20gi%C3%A1%20v%E1%BB%81%20m%E1%BB%99t%20si%C3%AAu%20xe%20%C4%91i%E1%BB%87n%20m%E1%BB%9Bi.%20Chi%E1%BA%BFc%20xe%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%A5p%20t%E1%BB%AB%20g%C3%B3c%20th%E1%BA%A5p%2C%20%C4%91%E1%BA%A7y%20k%E1%BB%8Bch%20t%C3%ADnh%2C%20khi%E1%BA%BFn%20n%C3%B3%20tr%C3%B4ng%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%C3%A0%20h%E1%BA%A7m%20h%E1%BB%91.%20%C4%90%C3%A8n%20pha%20b%E1%BA%ADt%20s%C3%A1ng%2C%20v%C3%A0%20h%E1%BA%ADu%20c%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20c%E1%BA%A3nh%20th%C3%A0nh%20ph%E1%BB%91%20ban%20%C4%91%C3%AAm%20%C4%91%C6%B0%E1%BB%A3c%20l%C3%A0m%20m%E1%BB%9D%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng.%20YouTuber%20%C4%91ang%20%C4%91%E1%BB%A9ng%20c%E1%BA%A1nh%20chi%E1%BA%BFc%20xe%20v%E1%BB%9Bi%20bi%E1%BB%83u%20c%E1%BA%A3m%20m%E1%BA%AFt%20m%E1%BB%9F%20to%2C%20%22cho%C3%A1ng%20v%C3%A1ng%22.%20D%C3%B2ng%20ch%E1%BB%AF%20%22The%20Future%20is%20HERE!%22%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20b%C3%B3ng%20b%E1%BA%A9y%2C%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 23: Hình thu nhỏ phim tài liệu tội phạm có thật
-=======
 ### No. 26: Hình thu nhỏ phim tài liệu tội phạm có thật
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1000,15 +954,11 @@ Một hình thu nhỏ tối tăm và bí ẩn cho phim tài liệu về tội ph
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20thu%20nh%E1%BB%8F%20t%E1%BB%91i%20t%C4%83m%20v%C3%A0%20b%C3%AD%20%E1%BA%A9n%20cho%20phim%20t%C3%A0i%20li%E1%BB%87u%20v%E1%BB%81%20t%E1%BB%99i%20ph%E1%BA%A1m%20c%C3%B3%20th%E1%BA%ADt.%20H%C3%ACnh%20%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20%C4%91en%20tr%E1%BA%AFng%20%C4%91%E1%BA%A7y%20t%C3%A2m%20tr%E1%BA%A1ng%20v%E1%BB%81%20m%E1%BB%99t%20b%E1%BA%B1ng%20ch%E1%BB%A9ng%20quan%20tr%E1%BB%8Dng%20(v%C3%AD%20d%E1%BB%A5%3A%20m%E1%BB%99t%20l%C3%A1%20th%C6%B0)%20tr%C3%AAn%20b%C3%A0n%20th%C3%A1m%20t%E1%BB%AD%2C%20%C4%91%C6%B0%E1%BB%A3c%20chi%E1%BA%BFu%20s%C3%A1ng%20b%E1%BB%9Fi%20m%E1%BB%99t%20chi%E1%BA%BFc%20%C4%91%C3%A8n%20duy%20nh%E1%BA%A5t.%20M%E1%BB%99t%20d%E1%BA%A5u%20ch%E1%BA%A5m%20h%E1%BB%8Fi%20l%E1%BB%9Bn%20m%C3%A0u%20%C4%91%E1%BB%8F%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%C3%B3ng%20d%E1%BA%A5u%20tr%C3%AAn%20h%C3%ACnh%20%E1%BA%A3nh.%20Khu%C3%B4n%20m%E1%BA%B7t%20c%E1%BB%A7a%20YouTuber%20kh%C3%B4ng%20hi%E1%BB%83n%20th%E1%BB%8B%2C%20l%C3%A0m%20t%C4%83ng%20th%C3%AAm%20s%E1%BB%B1%20b%C3%AD%20%E1%BA%A9n.%20Ti%C3%AAu%20%C4%91%E1%BB%81%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20m%C3%A1y%20%C4%91%C3%A1nh%20ch%E1%BB%AF%20c%E1%BB%95%20%C4%91i%E1%BB%83n.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20s%E1%BB%B1%20ki%E1%BB%83m%20so%C3%A1t%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%E1%BB%81%20t%C3%A2m%20tr%E1%BA%A1ng%20v%C3%A0%20kh%C3%B4ng%20kh%C3%AD.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20thu%20nh%E1%BB%8F%20t%E1%BB%91i%20t%C4%83m%20v%C3%A0%20b%C3%AD%20%E1%BA%A9n%20cho%20phim%20t%C3%A0i%20li%E1%BB%87u%20v%E1%BB%81%20t%E1%BB%99i%20ph%E1%BA%A1m%20c%C3%B3%20th%E1%BA%ADt.%20H%C3%ACnh%20%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20%C4%91en%20tr%E1%BA%AFng%20%C4%91%E1%BA%A7y%20t%C3%A2m%20tr%E1%BA%A1ng%20v%E1%BB%81%20m%E1%BB%99t%20b%E1%BA%B1ng%20ch%E1%BB%A9ng%20quan%20tr%E1%BB%8Dng%20(v%C3%AD%20d%E1%BB%A5%3A%20m%E1%BB%99t%20l%C3%A1%20th%C6%B0)%20tr%C3%AAn%20b%C3%A0n%20th%C3%A1m%20t%E1%BB%AD%2C%20%C4%91%C6%B0%E1%BB%A3c%20chi%E1%BA%BFu%20s%C3%A1ng%20b%E1%BB%9Fi%20m%E1%BB%99t%20chi%E1%BA%BFc%20%C4%91%C3%A8n%20duy%20nh%E1%BA%A5t.%20M%E1%BB%99t%20d%E1%BA%A5u%20ch%E1%BA%A5m%20h%E1%BB%8Fi%20l%E1%BB%9Bn%20m%C3%A0u%20%C4%91%E1%BB%8F%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%C3%B3ng%20d%E1%BA%A5u%20tr%C3%AAn%20h%C3%ACnh%20%E1%BA%A3nh.%20Khu%C3%B4n%20m%E1%BA%B7t%20c%E1%BB%A7a%20YouTuber%20kh%C3%B4ng%20hi%E1%BB%83n%20th%E1%BB%8B%2C%20l%C3%A0m%20t%C4%83ng%20th%C3%AAm%20s%E1%BB%B1%20b%C3%AD%20%E1%BA%A9n.%20Ti%C3%AAu%20%C4%91%E1%BB%81%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20m%C3%A1y%20%C4%91%C3%A1nh%20ch%E1%BB%AF%20c%E1%BB%95%20%C4%91i%E1%BB%83n.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20s%E1%BB%B1%20ki%E1%BB%83m%20so%C3%A1t%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%E1%BB%81%20t%C3%A2m%20tr%E1%BA%A1ng%20v%C3%A0%20kh%C3%B4ng%20kh%C3%AD.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 24: Hình thu nhỏ: Kết quả Thử thách Thể hình 30 ngày
-=======
 ### No. 27: Hình thu nhỏ: Kết quả Thử thách Thể hình 30 ngày
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1037,15 +987,11 @@ Một hình thu nhỏ cho video kết quả "Thử thách thể hình 30 ngày".
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20thu%20nh%E1%BB%8F%20cho%20video%20k%E1%BA%BFt%20qu%E1%BA%A3%20%22Th%E1%BB%AD%20th%C3%A1ch%20th%E1%BB%83%20h%C3%ACnh%2030%20ng%C3%A0y%22.%20%C4%90%C3%B3%20l%C3%A0%20h%C3%ACnh%20%E1%BA%A3nh%20chia%20%C4%91%C3%B4i%20m%C3%A0n%20h%C3%ACnh%20cho%20th%E1%BA%A5y%20v%C3%B3c%20d%C3%A1ng%20c%E1%BB%A7a%20YouTuber%20v%C3%A0o%20Ng%C3%A0y%201%20v%C3%A0%20Ng%C3%A0y%2030.%20S%E1%BB%B1%20thay%20%C4%91%E1%BB%95i%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20%E1%BA%A5n%20t%C6%B0%E1%BB%A3ng.%20YouTuber%20%C4%91ang%20g%E1%BB%93ng%20m%C3%ACnh%20trong%20b%E1%BB%A9c%20%E1%BA%A3nh%20Ng%C3%A0y%2030%20v%E1%BB%9Bi%20bi%E1%BB%83u%20c%E1%BA%A3m%20t%E1%BB%B1%20tin.%20D%C3%B2ng%20ch%E1%BB%AF%20%22S%E1%BB%B1%20bi%E1%BA%BFn%20%C4%91%E1%BB%95i%20%C4%90I%C3%8AN%20R%E1%BB%92%20c%E1%BB%A7a%20t%C3%B4i%20sau%2030%20ng%C3%A0y!%22%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20%C4%91%E1%BA%ADm%2C%20mang%20phong%20c%C3%A1ch%20th%E1%BB%83%20thao.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20t%C3%ADnh%20nh%E1%BA%A5t%20qu%C3%A1n%20cao%20v%E1%BB%81%20ch%E1%BB%A7%20th%E1%BB%83%20gi%E1%BB%AFa%20c%C3%A1c%20h%C3%ACnh%20%E1%BA%A3nh.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20thu%20nh%E1%BB%8F%20cho%20video%20k%E1%BA%BFt%20qu%E1%BA%A3%20%22Th%E1%BB%AD%20th%C3%A1ch%20th%E1%BB%83%20h%C3%ACnh%2030%20ng%C3%A0y%22.%20%C4%90%C3%B3%20l%C3%A0%20h%C3%ACnh%20%E1%BA%A3nh%20chia%20%C4%91%C3%B4i%20m%C3%A0n%20h%C3%ACnh%20cho%20th%E1%BA%A5y%20v%C3%B3c%20d%C3%A1ng%20c%E1%BB%A7a%20YouTuber%20v%C3%A0o%20Ng%C3%A0y%201%20v%C3%A0%20Ng%C3%A0y%2030.%20S%E1%BB%B1%20thay%20%C4%91%E1%BB%95i%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20%E1%BA%A5n%20t%C6%B0%E1%BB%A3ng.%20YouTuber%20%C4%91ang%20g%E1%BB%93ng%20m%C3%ACnh%20trong%20b%E1%BB%A9c%20%E1%BA%A3nh%20Ng%C3%A0y%2030%20v%E1%BB%9Bi%20bi%E1%BB%83u%20c%E1%BA%A3m%20t%E1%BB%B1%20tin.%20D%C3%B2ng%20ch%E1%BB%AF%20%22S%E1%BB%B1%20bi%E1%BA%BFn%20%C4%91%E1%BB%95i%20%C4%90I%C3%8AN%20R%E1%BB%92%20c%E1%BB%A7a%20t%C3%B4i%20sau%2030%20ng%C3%A0y!%22%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20%C4%91%E1%BA%ADm%2C%20mang%20phong%20c%C3%A1ch%20th%E1%BB%83%20thao.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20t%C3%ADnh%20nh%E1%BA%A5t%20qu%C3%A1n%20cao%20v%E1%BB%81%20ch%E1%BB%A7%20th%E1%BB%83%20gi%E1%BB%AFa%20c%C3%A1c%20h%C3%ACnh%20%E1%BA%A3nh.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 25: Hình thu nhỏ Giải thích Hố đen
-=======
 ### No. 28: Hình thu nhỏ Giải thích Hố đen
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1074,15 +1020,11 @@ Hình thu nhỏ cho một video giải thích về lỗ đen. Hình ảnh là m�
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=H%C3%ACnh%20thu%20nh%E1%BB%8F%20cho%20m%E1%BB%99t%20video%20gi%E1%BA%A3i%20th%C3%ADch%20v%E1%BB%81%20l%E1%BB%97%20%C4%91en.%20H%C3%ACnh%20%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20m%C3%B4%20ph%E1%BB%8Fng%20l%E1%BB%97%20%C4%91en%20ch%C3%ADnh%20x%C3%A1c%20v%E1%BB%81%20m%E1%BA%B7t%20khoa%20h%E1%BB%8Dc%20v%C3%A0%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%2C%20th%E1%BB%83%20hi%E1%BB%87n%20%C4%91%C4%A9a%20b%E1%BB%93i%20t%E1%BB%A5%20v%C3%A0%20hi%E1%BB%87u%20%E1%BB%A9ng%20th%E1%BA%A5u%20k%C3%ADnh%20h%E1%BA%A5p%20d%E1%BA%ABn.%20M%E1%BB%99t%20m%C5%A9i%20t%C3%AAn%20l%E1%BB%9Bn%20m%C3%A0u%20tr%E1%BA%AFng%20ch%E1%BB%89%20v%C3%A0o%20%C4%91i%E1%BB%83m%20k%E1%BB%B3%20d%E1%BB%8B.%20Khu%C3%B4n%20m%E1%BA%B7t%20c%E1%BB%A7a%20YouTuber%20%E1%BB%9F%20g%C3%B3c%2C%20tr%C3%B4ng%20r%E1%BA%A5t%20kinh%20ng%E1%BA%A1c.%20Ti%C3%AAu%20%C4%91%E1%BB%81%20%E2%80%9CWhat%E2%80%99s%20INSIDE%20a%20Black%20Hole%3F%E2%80%9D%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20t%C6%B0%C6%A1ng%20lai.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20m%C3%B4%20ph%E1%BB%8Fng%20ch%C3%ADnh%20x%C3%A1c%20c%C3%A1c%20hi%E1%BB%87n%20t%C6%B0%E1%BB%A3ng%20khoa%20h%E1%BB%8Dc%20ph%E1%BB%A9c%20t%E1%BA%A1p.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=H%C3%ACnh%20thu%20nh%E1%BB%8F%20cho%20m%E1%BB%99t%20video%20gi%E1%BA%A3i%20th%C3%ADch%20v%E1%BB%81%20l%E1%BB%97%20%C4%91en.%20H%C3%ACnh%20%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20m%C3%B4%20ph%E1%BB%8Fng%20l%E1%BB%97%20%C4%91en%20ch%C3%ADnh%20x%C3%A1c%20v%E1%BB%81%20m%E1%BA%B7t%20khoa%20h%E1%BB%8Dc%20v%C3%A0%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%2C%20th%E1%BB%83%20hi%E1%BB%87n%20%C4%91%C4%A9a%20b%E1%BB%93i%20t%E1%BB%A5%20v%C3%A0%20hi%E1%BB%87u%20%E1%BB%A9ng%20th%E1%BA%A5u%20k%C3%ADnh%20h%E1%BA%A5p%20d%E1%BA%ABn.%20M%E1%BB%99t%20m%C5%A9i%20t%C3%AAn%20l%E1%BB%9Bn%20m%C3%A0u%20tr%E1%BA%AFng%20ch%E1%BB%89%20v%C3%A0o%20%C4%91i%E1%BB%83m%20k%E1%BB%B3%20d%E1%BB%8B.%20Khu%C3%B4n%20m%E1%BA%B7t%20c%E1%BB%A7a%20YouTuber%20%E1%BB%9F%20g%C3%B3c%2C%20tr%C3%B4ng%20r%E1%BA%A5t%20kinh%20ng%E1%BA%A1c.%20Ti%C3%AAu%20%C4%91%E1%BB%81%20%E2%80%9CWhat%E2%80%99s%20INSIDE%20a%20Black%20Hole%3F%E2%80%9D%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20t%C6%B0%C6%A1ng%20lai.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20m%C3%B4%20ph%E1%BB%8Fng%20ch%C3%ADnh%20x%C3%A1c%20c%C3%A1c%20hi%E1%BB%87n%20t%C6%B0%E1%BB%A3ng%20khoa%20h%E1%BB%8Dc%20ph%E1%BB%A9c%20t%E1%BA%A1p.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 26: Tự Tay Cải Tạo Phòng: Trước và Sau
-=======
 ### No. 29: Tự Tay Cải Tạo Phòng: Trước và Sau
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1111,15 +1053,11 @@ Một hình thu nhỏ cho video trang trí nhà cửa tự làm (DIY). Hình ả
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20thu%20nh%E1%BB%8F%20cho%20video%20trang%20tr%C3%AD%20nh%C3%A0%20c%E1%BB%ADa%20t%E1%BB%B1%20l%C3%A0m%20(DIY).%20H%C3%ACnh%20%E1%BA%A3nh%20hi%E1%BB%83n%20th%E1%BB%8B%20m%C3%A0n%20h%C3%ACnh%20chia%20%C4%91%C3%B4i%20%22tr%C6%B0%E1%BB%9Bc%20v%C3%A0%20sau%22.%20Ph%C3%ADa%20%22tr%C6%B0%E1%BB%9Bc%22%20cho%20th%E1%BA%A5y%20m%E1%BB%99t%20c%C4%83n%20ph%C3%B2ng%20%C4%91%C6%A1n%20gi%E1%BA%A3n%2C%20nh%C3%A0m%20ch%C3%A1n.%20Ph%C3%ADa%20%22sau%22%20cho%20th%E1%BA%A5y%20c%C3%B9ng%20m%E1%BB%99t%20c%C4%83n%20ph%C3%B2ng%20%C4%91%C6%B0%E1%BB%A3c%20bi%E1%BA%BFn%20%C4%91%E1%BB%95i%20th%C3%A0nh%20m%E1%BB%99t%20kh%C3%B4ng%20gian%20%C4%91%E1%BA%A7y%20phong%20c%C3%A1ch%2C%20%E1%BA%A5m%20c%C3%BAng.%20YouTuber%20%E1%BB%9F%20gi%E1%BB%AFa%2C%20ch%E1%BB%89%20v%C3%A0o%20ph%C3%ADa%20%22sau%22%20v%E1%BB%9Bi%20n%E1%BB%A5%20c%C6%B0%E1%BB%9Di%20t%E1%BB%B1%20h%C3%A0o.%20D%C3%B2ng%20ch%E1%BB%AF%20%22C%E1%BA%A3i%20t%E1%BA%A1o%20ph%C3%B2ng%20v%E1%BB%9Bi%20ng%C3%A2n%20s%C3%A1ch%20ti%E1%BA%BFt%20ki%E1%BB%87m!%22%20%C4%91%C6%B0%E1%BB%A3c%20hi%E1%BB%83n%20th%E1%BB%8B%20n%E1%BB%95i%20b%E1%BA%ADt.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20t%C3%ADnh%20nh%E1%BA%A5t%20qu%C3%A1n%20cao%20v%C3%A0%20kh%E1%BA%A3%20n%C4%83ng%20th%E1%BB%83%20hi%E1%BB%87n%20s%E1%BB%B1%20bi%E1%BA%BFn%20%C4%91%E1%BB%95i.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20thu%20nh%E1%BB%8F%20cho%20video%20trang%20tr%C3%AD%20nh%C3%A0%20c%E1%BB%ADa%20t%E1%BB%B1%20l%C3%A0m%20(DIY).%20H%C3%ACnh%20%E1%BA%A3nh%20hi%E1%BB%83n%20th%E1%BB%8B%20m%C3%A0n%20h%C3%ACnh%20chia%20%C4%91%C3%B4i%20%22tr%C6%B0%E1%BB%9Bc%20v%C3%A0%20sau%22.%20Ph%C3%ADa%20%22tr%C6%B0%E1%BB%9Bc%22%20cho%20th%E1%BA%A5y%20m%E1%BB%99t%20c%C4%83n%20ph%C3%B2ng%20%C4%91%C6%A1n%20gi%E1%BA%A3n%2C%20nh%C3%A0m%20ch%C3%A1n.%20Ph%C3%ADa%20%22sau%22%20cho%20th%E1%BA%A5y%20c%C3%B9ng%20m%E1%BB%99t%20c%C4%83n%20ph%C3%B2ng%20%C4%91%C6%B0%E1%BB%A3c%20bi%E1%BA%BFn%20%C4%91%E1%BB%95i%20th%C3%A0nh%20m%E1%BB%99t%20kh%C3%B4ng%20gian%20%C4%91%E1%BA%A7y%20phong%20c%C3%A1ch%2C%20%E1%BA%A5m%20c%C3%BAng.%20YouTuber%20%E1%BB%9F%20gi%E1%BB%AFa%2C%20ch%E1%BB%89%20v%C3%A0o%20ph%C3%ADa%20%22sau%22%20v%E1%BB%9Bi%20n%E1%BB%A5%20c%C6%B0%E1%BB%9Di%20t%E1%BB%B1%20h%C3%A0o.%20D%C3%B2ng%20ch%E1%BB%AF%20%22C%E1%BA%A3i%20t%E1%BA%A1o%20ph%C3%B2ng%20v%E1%BB%9Bi%20ng%C3%A2n%20s%C3%A1ch%20ti%E1%BA%BFt%20ki%E1%BB%87m!%22%20%C4%91%C6%B0%E1%BB%A3c%20hi%E1%BB%83n%20th%E1%BB%8B%20n%E1%BB%95i%20b%E1%BA%ADt.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20t%C3%ADnh%20nh%E1%BA%A5t%20qu%C3%A1n%20cao%20v%C3%A0%20kh%E1%BA%A3%20n%C4%83ng%20th%E1%BB%83%20hi%E1%BB%87n%20s%E1%BB%B1%20bi%E1%BA%BFn%20%C4%91%E1%BB%95i.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 27: Hình thu nhỏ công thức bánh sô cô la tuyệt đỉnh
-=======
 ### No. 30: Hình thu nhỏ công thức bánh sô cô la tuyệt đỉnh
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1148,15 +1086,44 @@ Hình thu nhỏ cho video công thức "Bánh Sô-cô-la Tuyệt Đỉnh". Hình
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=H%C3%ACnh%20thu%20nh%E1%BB%8F%20cho%20video%20c%C3%B4ng%20th%E1%BB%A9c%20%22B%C3%A1nh%20S%C3%B4-c%C3%B4-la%20Tuy%E1%BB%87t%20%C4%90%E1%BB%89nh%22.%20H%C3%ACnh%20%E1%BA%A3nh%20l%C3%A0%20c%E1%BA%ADn%20c%E1%BA%A3nh%20m%E1%BB%99t%20mi%E1%BA%BFng%20b%C3%A1nh%20h%E1%BA%A5p%20d%E1%BA%ABn%20tr%C3%AAn%20chi%E1%BA%BFc%20n%C4%A9a%2C%20v%E1%BB%9Bi%20s%C3%B4-c%C3%B4-la%20tan%20ch%E1%BA%A3y%20%C4%91ang%20nh%E1%BB%8F%20xu%E1%BB%91ng.%20Ph%C3%B4ng%20n%E1%BB%81n%20l%C3%A0%20m%E1%BB%99t%20chi%E1%BA%BFc%20b%C3%A1nh%20ho%C3%A0n%20ch%E1%BB%89nh%20%C4%91%C6%B0%E1%BB%A3c%20trang%20tr%C3%AD%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt.%20%C3%81nh%20s%C3%A1ng%20%E1%BA%A5m%20%C3%A1p%20v%C3%A0%20ngon%20m%E1%BA%AFt.%20D%C3%B2ng%20ch%E1%BB%AF%20in%20%C4%91%E1%BA%ADm%2C%20trang%20nh%C3%A3%20ghi%20%22C%C3%B4ng%20Th%E1%BB%A9c%20B%C3%A1nh%20S%C3%B4-c%C3%B4-la%20DUY%20NH%E1%BA%A4T%20B%E1%BA%A1n%20C%E1%BA%A7n%22.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20kh%E1%BA%A3%20n%C4%83ng%20k%E1%BA%BFt%20xu%E1%BA%A5t%20m%C3%B3n%20%C4%83n%20si%C3%AAu%20th%E1%BB%B1c%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20c%E1%BA%A3m%20gi%C3%A1c%20th%C3%A8m%20%C4%83n%20m%E1%BA%A1nh%20m%E1%BA%BD.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=H%C3%ACnh%20thu%20nh%E1%BB%8F%20cho%20video%20c%C3%B4ng%20th%E1%BB%A9c%20%22B%C3%A1nh%20S%C3%B4-c%C3%B4-la%20Tuy%E1%BB%87t%20%C4%90%E1%BB%89nh%22.%20H%C3%ACnh%20%E1%BA%A3nh%20l%C3%A0%20c%E1%BA%ADn%20c%E1%BA%A3nh%20m%E1%BB%99t%20mi%E1%BA%BFng%20b%C3%A1nh%20h%E1%BA%A5p%20d%E1%BA%ABn%20tr%C3%AAn%20chi%E1%BA%BFc%20n%C4%A9a%2C%20v%E1%BB%9Bi%20s%C3%B4-c%C3%B4-la%20tan%20ch%E1%BA%A3y%20%C4%91ang%20nh%E1%BB%8F%20xu%E1%BB%91ng.%20Ph%C3%B4ng%20n%E1%BB%81n%20l%C3%A0%20m%E1%BB%99t%20chi%E1%BA%BFc%20b%C3%A1nh%20ho%C3%A0n%20ch%E1%BB%89nh%20%C4%91%C6%B0%E1%BB%A3c%20trang%20tr%C3%AD%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt.%20%C3%81nh%20s%C3%A1ng%20%E1%BA%A5m%20%C3%A1p%20v%C3%A0%20ngon%20m%E1%BA%AFt.%20D%C3%B2ng%20ch%E1%BB%AF%20in%20%C4%91%E1%BA%ADm%2C%20trang%20nh%C3%A3%20ghi%20%22C%C3%B4ng%20Th%E1%BB%A9c%20B%C3%A1nh%20S%C3%B4-c%C3%B4-la%20DUY%20NH%E1%BA%A4T%20B%E1%BA%A1n%20C%E1%BA%A7n%22.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20kh%E1%BA%A3%20n%C4%83ng%20k%E1%BA%BFt%20xu%E1%BA%A5t%20m%C3%B3n%20%C4%83n%20si%C3%AAu%20th%E1%BB%B1c%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20c%E1%BA%A3m%20gi%C3%A1c%20th%C3%A8m%20%C4%83n%20m%E1%BA%A1nh%20m%E1%BA%BD.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 28: Ảnh thu nhỏ Vlog Du lịch Bali
-=======
-### No. 31: Ảnh thu nhỏ Vlog Du lịch Bali
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 31: Ảnh thu nhỏ video Minecraft Sinh tồn
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Lời nhắc này tạo hình thu nhỏ YouTube cho video "Minecraft Survival", hiển thị người chơi chiến đấu với zombie và creeper, với một creeper đáng sợ ở phía sau. Nó đòi hỏi kiến thức về tính thẩm mỹ của trò chơi để tạo ra những cảnh kịch tính, đầy hành động.
+
+#### 📝 Câu lệnh
+
+```
+Hình thu nhỏ cho video “Minecraft Survival”. Hình ảnh cho thấy nhân vật của người chơi, trong bộ giáp kim cương, dũng cảm chiến đấu chống lại một bầy zombie và creeper khổng lồ vào ban đêm. Một Creeper to lớn, đáng sợ lờ mờ ở phía sau, sắp nổ tung. Dòng chữ “I Almost Lost EVERYTHING!” được viết bằng phông chữ khối, kiểu Minecraft. Điều này đòi hỏi kiến thức về tính thẩm mỹ cụ thể của trò chơi và khả năng tạo ra các cảnh kịch tính, đầy hành động. –ar 16:9
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765369899639_932wt1_image.png" width="600" alt="Ảnh thu nhỏ video Minecraft Sinh tồn - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 10 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=H%C3%ACnh%20thu%20nh%E1%BB%8F%20cho%20video%20%E2%80%9CMinecraft%20Survival%E2%80%9D.%20H%C3%ACnh%20%E1%BA%A3nh%20cho%20th%E1%BA%A5y%20nh%C3%A2n%20v%E1%BA%ADt%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20ch%C6%A1i%2C%20trong%20b%E1%BB%99%20gi%C3%A1p%20kim%20c%C6%B0%C6%A1ng%2C%20d%C5%A9ng%20c%E1%BA%A3m%20chi%E1%BA%BFn%20%C4%91%E1%BA%A5u%20ch%E1%BB%91ng%20l%E1%BA%A1i%20m%E1%BB%99t%20b%E1%BA%A7y%20zombie%20v%C3%A0%20creeper%20kh%E1%BB%95ng%20l%E1%BB%93%20v%C3%A0o%20ban%20%C4%91%C3%AAm.%20M%E1%BB%99t%20Creeper%20to%20l%E1%BB%9Bn%2C%20%C4%91%C3%A1ng%20s%E1%BB%A3%20l%E1%BB%9D%20m%E1%BB%9D%20%E1%BB%9F%20ph%C3%ADa%20sau%2C%20s%E1%BA%AFp%20n%E1%BB%95%20tung.%20D%C3%B2ng%20ch%E1%BB%AF%20%E2%80%9CI%20Almost%20Lost%20EVERYTHING!%E2%80%9D%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20kh%E1%BB%91i%2C%20ki%E1%BB%83u%20Minecraft.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%E1%BB%81%20t%C3%ADnh%20th%E1%BA%A9m%20m%E1%BB%B9%20c%E1%BB%A5%20th%E1%BB%83%20c%E1%BB%A7a%20tr%C3%B2%20ch%C6%A1i%20v%C3%A0%20kh%E1%BA%A3%20n%C4%83ng%20t%E1%BA%A1o%20ra%20c%C3%A1c%20c%E1%BA%A3nh%20k%E1%BB%8Bch%20t%C3%ADnh%2C%20%C4%91%E1%BA%A7y%20h%C3%A0nh%20%C4%91%E1%BB%99ng.%20%E2%80%93ar%2016%3A9)**
+
+---
+
+### No. 32: Ảnh thu nhỏ Vlog Du lịch Bali
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1185,15 +1152,11 @@ Một hình thu nhỏ tuyệt đẹp cho vlog du lịch về Bali. Hình ảnh l
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20thu%20nh%E1%BB%8F%20tuy%E1%BB%87t%20%C4%91%E1%BA%B9p%20cho%20vlog%20du%20l%E1%BB%8Bch%20v%E1%BB%81%20Bali.%20H%C3%ACnh%20%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20c%E1%BA%A3nh%20quay%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%2C%20tuy%E1%BB%87t%20%C4%91%E1%BA%B9p%20v%E1%BB%81%20YouTuber%20%C4%91ang%20b%C6%A1i%20trong%20h%E1%BB%93%20b%C6%A1i%20v%C3%B4%20c%E1%BB%B1c%20trong%20v%E1%BA%AFt%20nh%C3%ACn%20ra%20khu%20r%E1%BB%ABng%20xanh%20t%C6%B0%C6%A1i.%20M%C3%A0u%20s%E1%BA%AFc%20%C4%91%C6%B0%E1%BB%A3c%20b%C3%A3o%20h%C3%B2a%20c%E1%BB%B1c%20%C4%91%E1%BB%99%2C%20l%C3%A0m%20cho%20n%C6%B0%E1%BB%9Bc%20c%C3%B3%20m%C3%A0u%20xanh%20lam%20%C4%91%E1%BA%BFn%20kh%C3%B3%20tin%20v%C3%A0%20khu%20r%E1%BB%ABng%20c%C3%B3%20m%C3%A0u%20xanh%20%C4%91%E1%BA%ADm.%20Ti%C3%AAu%20%C4%91%E1%BB%81%20video%2C%20%E2%80%9CI%20Found%20PARADISE!%E2%80%9D%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20tr%E1%BA%AFng%2C%20g%E1%BB%8Dn%20g%C3%A0ng.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20k%E1%BA%BFt%20xu%E1%BA%A5t%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20v%C3%A0%20ki%E1%BB%83m%20so%C3%A1t%20m%C3%A0u%20s%E1%BA%AFc%20n%C3%A2ng%20cao%20cho%20n%E1%BB%99i%20dung%20truy%E1%BB%81n%20c%E1%BA%A3m%20h%E1%BB%A9ng.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20thu%20nh%E1%BB%8F%20tuy%E1%BB%87t%20%C4%91%E1%BA%B9p%20cho%20vlog%20du%20l%E1%BB%8Bch%20v%E1%BB%81%20Bali.%20H%C3%ACnh%20%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20c%E1%BA%A3nh%20quay%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%2C%20tuy%E1%BB%87t%20%C4%91%E1%BA%B9p%20v%E1%BB%81%20YouTuber%20%C4%91ang%20b%C6%A1i%20trong%20h%E1%BB%93%20b%C6%A1i%20v%C3%B4%20c%E1%BB%B1c%20trong%20v%E1%BA%AFt%20nh%C3%ACn%20ra%20khu%20r%E1%BB%ABng%20xanh%20t%C6%B0%C6%A1i.%20M%C3%A0u%20s%E1%BA%AFc%20%C4%91%C6%B0%E1%BB%A3c%20b%C3%A3o%20h%C3%B2a%20c%E1%BB%B1c%20%C4%91%E1%BB%99%2C%20l%C3%A0m%20cho%20n%C6%B0%E1%BB%9Bc%20c%C3%B3%20m%C3%A0u%20xanh%20lam%20%C4%91%E1%BA%BFn%20kh%C3%B3%20tin%20v%C3%A0%20khu%20r%E1%BB%ABng%20c%C3%B3%20m%C3%A0u%20xanh%20%C4%91%E1%BA%ADm.%20Ti%C3%AAu%20%C4%91%E1%BB%81%20video%2C%20%E2%80%9CI%20Found%20PARADISE!%E2%80%9D%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20tr%E1%BA%AFng%2C%20g%E1%BB%8Dn%20g%C3%A0ng.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20k%E1%BA%BFt%20xu%E1%BA%A5t%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20v%C3%A0%20ki%E1%BB%83m%20so%C3%A1t%20m%C3%A0u%20s%E1%BA%AFc%20n%C3%A2ng%20cao%20cho%20n%E1%BB%99i%20dung%20truy%E1%BB%81n%20c%E1%BA%A3m%20h%E1%BB%A9ng.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 29: Hình thu nhỏ đánh giá điện thoại thông minh
-=======
-### No. 32: Hình thu nhỏ đánh giá điện thoại thông minh
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 33: Hình thu nhỏ đánh giá điện thoại thông minh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1222,15 +1185,11 @@ Hình thu nhỏ cho bài đánh giá điện thoại thông minh mới nhất. C
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=H%C3%ACnh%20thu%20nh%E1%BB%8F%20cho%20b%C3%A0i%20%C4%91%C3%A1nh%20gi%C3%A1%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20th%C3%B4ng%20minh%20m%E1%BB%9Bi%20nh%E1%BA%A5t.%20Chi%E1%BA%BFc%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20%C4%91%C6%B0%E1%BB%A3c%20c%E1%BA%A7m%20tr%C3%AAn%20tay%2C%20nghi%C3%AAng%20m%E1%BB%99t%20g%C3%B3c%20%C4%91%E1%BB%83%20khoe%20m%C3%A0n%20h%C3%ACnh%20b%C3%B3ng%20b%E1%BA%A9y%20v%C3%A0%20c%E1%BB%A5m%20camera.%20M%E1%BB%99t%20b%C3%AAn%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20c%C3%B3%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20d%E1%BA%A5u%20t%C3%ADch%20m%C3%A0u%20xanh%20l%C3%A1%20c%C3%A2y%20l%E1%BB%9Bn%3B%20b%C3%AAn%20c%C3%B2n%20l%E1%BA%A1i%20l%C3%A0%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20ch%E1%BB%AF%20X%20m%C3%A0u%20%C4%91%E1%BB%8F%20l%E1%BB%9Bn.%20Khu%C3%B4n%20m%E1%BA%B7t%20c%E1%BB%A7a%20YouTuber%20%E1%BB%9F%20g%C3%B3c%2C%20v%E1%BB%9Bi%20bi%E1%BB%83u%20c%E1%BA%A3m%20s%E1%BB%91c%20v%C3%A0%20ng%E1%BA%A1c%20nhi%C3%AAn.%20N%E1%BB%81n%20l%C3%A0%20m%E1%BB%99t%20h%E1%BB%8Da%20ti%E1%BA%BFt%20l%C6%B0%E1%BB%9Bi%20c%C3%B4ng%20ngh%E1%BB%87%20s%E1%BA%A1ch%20s%E1%BA%BD.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20hi%E1%BB%83n%20th%E1%BB%8B%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ch%C3%ADnh%20x%C3%A1c%20v%C3%A0%20kh%E1%BA%A3%20n%C4%83ng%20t%E1%BA%A1o%20ra%20m%E1%BB%99t%20c%C3%A2u%20chuy%E1%BB%87n%20%E2%80%9C%C4%91%E1%BB%91i%20%C4%91%E1%BA%A7u%E2%80%9D%20r%C3%B5%20r%C3%A0ng.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=H%C3%ACnh%20thu%20nh%E1%BB%8F%20cho%20b%C3%A0i%20%C4%91%C3%A1nh%20gi%C3%A1%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20th%C3%B4ng%20minh%20m%E1%BB%9Bi%20nh%E1%BA%A5t.%20Chi%E1%BA%BFc%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20%C4%91%C6%B0%E1%BB%A3c%20c%E1%BA%A7m%20tr%C3%AAn%20tay%2C%20nghi%C3%AAng%20m%E1%BB%99t%20g%C3%B3c%20%C4%91%E1%BB%83%20khoe%20m%C3%A0n%20h%C3%ACnh%20b%C3%B3ng%20b%E1%BA%A9y%20v%C3%A0%20c%E1%BB%A5m%20camera.%20M%E1%BB%99t%20b%C3%AAn%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20c%C3%B3%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20d%E1%BA%A5u%20t%C3%ADch%20m%C3%A0u%20xanh%20l%C3%A1%20c%C3%A2y%20l%E1%BB%9Bn%3B%20b%C3%AAn%20c%C3%B2n%20l%E1%BA%A1i%20l%C3%A0%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20ch%E1%BB%AF%20X%20m%C3%A0u%20%C4%91%E1%BB%8F%20l%E1%BB%9Bn.%20Khu%C3%B4n%20m%E1%BA%B7t%20c%E1%BB%A7a%20YouTuber%20%E1%BB%9F%20g%C3%B3c%2C%20v%E1%BB%9Bi%20bi%E1%BB%83u%20c%E1%BA%A3m%20s%E1%BB%91c%20v%C3%A0%20ng%E1%BA%A1c%20nhi%C3%AAn.%20N%E1%BB%81n%20l%C3%A0%20m%E1%BB%99t%20h%E1%BB%8Da%20ti%E1%BA%BFt%20l%C6%B0%E1%BB%9Bi%20c%C3%B4ng%20ngh%E1%BB%87%20s%E1%BA%A1ch%20s%E1%BA%BD.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20hi%E1%BB%83n%20th%E1%BB%8B%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ch%C3%ADnh%20x%C3%A1c%20v%C3%A0%20kh%E1%BA%A3%20n%C4%83ng%20t%E1%BA%A1o%20ra%20m%E1%BB%99t%20c%C3%A2u%20chuy%E1%BB%87n%20%E2%80%9C%C4%91%E1%BB%91i%20%C4%91%E1%BA%A7u%E2%80%9D%20r%C3%B5%20r%C3%A0ng.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 30: Hình thu nhỏ Thử thách Đừng Cười
-=======
-### No. 33: Hình thu nhỏ Thử thách Đừng Cười
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 34: Hình thu nhỏ Thử thách Đừng Cười
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1259,15 +1218,11 @@ Một ảnh thumbnail tràn đầy năng lượng cho video "Thử thách không
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20%E1%BA%A3nh%20thumbnail%20tr%C3%A0n%20%C4%91%E1%BA%A7y%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20cho%20video%20%22Th%E1%BB%AD%20th%C3%A1ch%20kh%C3%B4ng%20c%C6%B0%E1%BB%9Di%22.%20%E1%BA%A2nh%20c%E1%BA%ADn%20c%E1%BA%A3nh%20m%E1%BB%99t%20YouTuber%20v%E1%BB%9Bi%20bi%E1%BB%83u%20c%E1%BA%A3m%20c%C6%B0%E1%BB%9Di%20ra%20n%C6%B0%E1%BB%9Bc%20m%E1%BA%AFt%20c%E1%BB%B1c%20k%E1%BB%B3%20khoa%20tr%C6%B0%C6%A1ng%2C%20n%C6%B0%E1%BB%9Bc%20m%E1%BA%AFt%20b%E1%BA%AFn%20ra%20t%E1%BB%AB%20kh%C3%B3e%20m%E1%BA%AFt.%20N%E1%BB%81n%20l%C3%A0%20m%E1%BB%99t%20d%E1%BA%A3i%20m%C3%A0u%20gradient%20h%C3%ACnh%20tia%20s%C3%A1ng%20r%E1%BB%B1c%20r%E1%BB%A1%2C%20b%C3%B9ng%20n%E1%BB%95%20v%E1%BB%9Bi%20c%C3%A1c%20m%C3%A0u%20v%C3%A0ng%20v%C3%A0%20cam.%20D%C3%B2ng%20ch%E1%BB%AF%20in%20%C4%91%E1%BA%ADm%2C%20m%C3%A0u%20tr%E1%BA%AFng%20vi%E1%BB%81n%20%C4%91en%20ghi%20%22IMPOSSIBLE!%22.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20kh%E1%BA%A3%20n%C4%83ng%20t%E1%BA%A1o%20ra%20nh%E1%BB%AFng%20c%E1%BA%A3m%20x%C3%BAc%20c%E1%BB%A5%20th%E1%BB%83%2C%20th%C3%A1i%20qu%C3%A1%20v%C3%A0%20v%C4%83n%20b%E1%BA%A3n%20c%C3%B3%20t%C3%A1c%20%C4%91%E1%BB%99ng%20m%E1%BA%A1nh.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20%E1%BA%A3nh%20thumbnail%20tr%C3%A0n%20%C4%91%E1%BA%A7y%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20cho%20video%20%22Th%E1%BB%AD%20th%C3%A1ch%20kh%C3%B4ng%20c%C6%B0%E1%BB%9Di%22.%20%E1%BA%A2nh%20c%E1%BA%ADn%20c%E1%BA%A3nh%20m%E1%BB%99t%20YouTuber%20v%E1%BB%9Bi%20bi%E1%BB%83u%20c%E1%BA%A3m%20c%C6%B0%E1%BB%9Di%20ra%20n%C6%B0%E1%BB%9Bc%20m%E1%BA%AFt%20c%E1%BB%B1c%20k%E1%BB%B3%20khoa%20tr%C6%B0%C6%A1ng%2C%20n%C6%B0%E1%BB%9Bc%20m%E1%BA%AFt%20b%E1%BA%AFn%20ra%20t%E1%BB%AB%20kh%C3%B3e%20m%E1%BA%AFt.%20N%E1%BB%81n%20l%C3%A0%20m%E1%BB%99t%20d%E1%BA%A3i%20m%C3%A0u%20gradient%20h%C3%ACnh%20tia%20s%C3%A1ng%20r%E1%BB%B1c%20r%E1%BB%A1%2C%20b%C3%B9ng%20n%E1%BB%95%20v%E1%BB%9Bi%20c%C3%A1c%20m%C3%A0u%20v%C3%A0ng%20v%C3%A0%20cam.%20D%C3%B2ng%20ch%E1%BB%AF%20in%20%C4%91%E1%BA%ADm%2C%20m%C3%A0u%20tr%E1%BA%AFng%20vi%E1%BB%81n%20%C4%91en%20ghi%20%22IMPOSSIBLE!%22.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20kh%E1%BA%A3%20n%C4%83ng%20t%E1%BA%A1o%20ra%20nh%E1%BB%AFng%20c%E1%BA%A3m%20x%C3%BAc%20c%E1%BB%A5%20th%E1%BB%83%2C%20th%C3%A1i%20qu%C3%A1%20v%C3%A0%20v%C4%83n%20b%E1%BA%A3n%20c%C3%B3%20t%C3%A1c%20%C4%91%E1%BB%99ng%20m%E1%BA%A1nh.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 31: Sơ đồ kiến trúc hệ thống ứng dụng web
-=======
-### No. 34: Sơ đồ kiến trúc hệ thống ứng dụng web
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 35: Sơ đồ kiến trúc hệ thống ứng dụng web
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1296,15 +1251,11 @@ Sơ đồ kiến trúc hệ thống cấp cao cho một ứng dụng web hiện 
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=S%C6%A1%20%C4%91%E1%BB%93%20ki%E1%BA%BFn%20tr%C3%BAc%20h%E1%BB%87%20th%E1%BB%91ng%20c%E1%BA%A5p%20cao%20cho%20m%E1%BB%99t%20%E1%BB%A9ng%20d%E1%BB%A5ng%20web%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%2C%20d%C3%B9ng%20%C4%91%E1%BB%83%20tr%C3%ACnh%20b%C3%A0y%20cho%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.%20S%C6%A1%20%C4%91%E1%BB%93%20n%C3%AAn%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%A1c%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A1i%20di%E1%BB%87n%20cho%20c%C3%A1c%20th%C3%A0nh%20ph%E1%BA%A7n%20kh%C3%A1c%20nhau%20nh%C6%B0%20tr%C3%ACnh%20duy%E1%BB%87t%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%2C%20b%E1%BB%99%20c%C3%A2n%20b%E1%BA%B1ng%20t%E1%BA%A3i%20(load%20balancer)%2C%20m%C3%A1y%20ch%E1%BB%A7%20web%2C%20c%C6%A1%20s%E1%BB%9F%20d%E1%BB%AF%20li%E1%BB%87u%20v%C3%A0%20c%C3%A1c%20API%20c%E1%BB%A7a%20b%C3%AAn%20th%E1%BB%A9%20ba.%20C%C3%A1c%20k%E1%BA%BFt%20n%E1%BB%91i%20gi%E1%BB%AFa%20ch%C3%BAng%20n%C3%AAn%20th%E1%BB%83%20hi%E1%BB%87n%20lu%E1%BB%93ng%20d%E1%BB%AF%20li%E1%BB%87u.%20Phong%20c%C3%A1ch%20ph%E1%BA%A3i%20r%C3%B5%20r%C3%A0ng%2C%20chuy%C3%AAn%20nghi%E1%BB%87p%20v%C3%A0%20d%E1%BB%85%20hi%E1%BB%83u%2C%20ngay%20c%E1%BA%A3%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20%C4%91%E1%BB%91i%20t%C6%B0%E1%BB%A3ng%20kh%C3%B4ng%20chuy%C3%AAn%20v%E1%BB%81%20k%E1%BB%B9%20thu%E1%BA%ADt%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20tr%C3%ACnh%20b%C3%A0y%20th%C3%B4ng%20tin%20k%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BB%A9c%20t%E1%BA%A1p%20m%E1%BB%99t%20c%C3%A1ch%20r%C3%B5%20r%C3%A0ng.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=S%C6%A1%20%C4%91%E1%BB%93%20ki%E1%BA%BFn%20tr%C3%BAc%20h%E1%BB%87%20th%E1%BB%91ng%20c%E1%BA%A5p%20cao%20cho%20m%E1%BB%99t%20%E1%BB%A9ng%20d%E1%BB%A5ng%20web%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%2C%20d%C3%B9ng%20%C4%91%E1%BB%83%20tr%C3%ACnh%20b%C3%A0y%20cho%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.%20S%C6%A1%20%C4%91%E1%BB%93%20n%C3%AAn%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%A1c%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A1i%20di%E1%BB%87n%20cho%20c%C3%A1c%20th%C3%A0nh%20ph%E1%BA%A7n%20kh%C3%A1c%20nhau%20nh%C6%B0%20tr%C3%ACnh%20duy%E1%BB%87t%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%2C%20b%E1%BB%99%20c%C3%A2n%20b%E1%BA%B1ng%20t%E1%BA%A3i%20(load%20balancer)%2C%20m%C3%A1y%20ch%E1%BB%A7%20web%2C%20c%C6%A1%20s%E1%BB%9F%20d%E1%BB%AF%20li%E1%BB%87u%20v%C3%A0%20c%C3%A1c%20API%20c%E1%BB%A7a%20b%C3%AAn%20th%E1%BB%A9%20ba.%20C%C3%A1c%20k%E1%BA%BFt%20n%E1%BB%91i%20gi%E1%BB%AFa%20ch%C3%BAng%20n%C3%AAn%20th%E1%BB%83%20hi%E1%BB%87n%20lu%E1%BB%93ng%20d%E1%BB%AF%20li%E1%BB%87u.%20Phong%20c%C3%A1ch%20ph%E1%BA%A3i%20r%C3%B5%20r%C3%A0ng%2C%20chuy%C3%AAn%20nghi%E1%BB%87p%20v%C3%A0%20d%E1%BB%85%20hi%E1%BB%83u%2C%20ngay%20c%E1%BA%A3%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20%C4%91%E1%BB%91i%20t%C6%B0%E1%BB%A3ng%20kh%C3%B4ng%20chuy%C3%AAn%20v%E1%BB%81%20k%E1%BB%B9%20thu%E1%BA%ADt%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20tr%C3%ACnh%20b%C3%A0y%20th%C3%B4ng%20tin%20k%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BB%A9c%20t%E1%BA%A1p%20m%E1%BB%99t%20c%C3%A1ch%20r%C3%B5%20r%C3%A0ng.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 32: Thẻ Công Thức Mì Ống Tự Làm Minh Họa
-=======
-### No. 35: Thẻ Công Thức Mì Ống Tự Làm Minh Họa
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 36: Thẻ Công Thức Mì Ống Tự Làm Minh Họa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1333,15 +1284,11 @@ Một thẻ công thức được minh họa đẹp mắt để làm mì ống t
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20th%E1%BA%BB%20c%C3%B4ng%20th%E1%BB%A9c%20%C4%91%C6%B0%E1%BB%A3c%20minh%20h%E1%BB%8Da%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%20%C4%91%E1%BB%83%20l%C3%A0m%20m%C3%AC%20%E1%BB%91ng%20t%E1%BA%A1i%20nh%C3%A0.%20N%E1%BB%ADa%20tr%C3%AAn%20l%C3%A0%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20%C4%91%C3%A1ng%20y%C3%AAu%20c%E1%BB%A7a%20m%C3%B3n%20%C4%83n%20%C4%91%C3%A3%20ho%C3%A0n%20th%C3%A0nh%20(v%C3%AD%20d%E1%BB%A5%3A%20m%C3%AC%20fettuccine%20v%E1%BB%9Bi%20h%C3%BAng%20qu%E1%BA%BF).%20N%E1%BB%ADa%20d%C6%B0%E1%BB%9Bi%20li%E1%BB%87t%20k%C3%AA%20c%C3%A1c%20nguy%C3%AAn%20li%E1%BB%87u%20v%C3%A0%20c%C3%A1c%20b%C6%B0%E1%BB%9Bc%2C%20v%E1%BB%9Bi%20c%C3%A1c%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20nh%E1%BB%8F%20cho%20t%E1%BB%ABng%20nguy%C3%AAn%20li%E1%BB%87u%20(b%E1%BB%99t%20m%C3%AC%2C%20tr%E1%BB%A9ng%2C%20mu%E1%BB%91i).%20Phong%20c%C3%A1ch%20%E1%BA%A5m%20%C3%A1p%20v%C3%A0%20m%E1%BB%99c%20m%E1%BA%A1c%2C%20gi%E1%BB%91ng%20nh%C6%B0%20m%E1%BB%99t%20trang%20t%E1%BB%AB%20cu%E1%BB%91n%20s%C3%A1ch%20d%E1%BA%A1y%20n%E1%BA%A5u%20%C4%83n%20gia%20%C4%91%C3%ACnh%20vi%E1%BA%BFt%20tay.%20%E2%80%93ar%203%3A4)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20th%E1%BA%BB%20c%C3%B4ng%20th%E1%BB%A9c%20%C4%91%C6%B0%E1%BB%A3c%20minh%20h%E1%BB%8Da%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%20%C4%91%E1%BB%83%20l%C3%A0m%20m%C3%AC%20%E1%BB%91ng%20t%E1%BA%A1i%20nh%C3%A0.%20N%E1%BB%ADa%20tr%C3%AAn%20l%C3%A0%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20%C4%91%C3%A1ng%20y%C3%AAu%20c%E1%BB%A7a%20m%C3%B3n%20%C4%83n%20%C4%91%C3%A3%20ho%C3%A0n%20th%C3%A0nh%20(v%C3%AD%20d%E1%BB%A5%3A%20m%C3%AC%20fettuccine%20v%E1%BB%9Bi%20h%C3%BAng%20qu%E1%BA%BF).%20N%E1%BB%ADa%20d%C6%B0%E1%BB%9Bi%20li%E1%BB%87t%20k%C3%AA%20c%C3%A1c%20nguy%C3%AAn%20li%E1%BB%87u%20v%C3%A0%20c%C3%A1c%20b%C6%B0%E1%BB%9Bc%2C%20v%E1%BB%9Bi%20c%C3%A1c%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20nh%E1%BB%8F%20cho%20t%E1%BB%ABng%20nguy%C3%AAn%20li%E1%BB%87u%20(b%E1%BB%99t%20m%C3%AC%2C%20tr%E1%BB%A9ng%2C%20mu%E1%BB%91i).%20Phong%20c%C3%A1ch%20%E1%BA%A5m%20%C3%A1p%20v%C3%A0%20m%E1%BB%99c%20m%E1%BA%A1c%2C%20gi%E1%BB%91ng%20nh%C6%B0%20m%E1%BB%99t%20trang%20t%E1%BB%AB%20cu%E1%BB%91n%20s%C3%A1ch%20d%E1%BA%A1y%20n%E1%BA%A5u%20%C4%83n%20gia%20%C4%91%C3%ACnh%20vi%E1%BA%BFt%20tay.%20%E2%80%93ar%203%3A4)**
 
 ---
 
-<<<<<<< HEAD
-### No. 33: Hướng Dẫn An Toàn Về Tư Thế Làm Việc
-=======
-### No. 36: Hướng Dẫn An Toàn Về Tư Thế Làm Việc
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 37: Hướng Dẫn An Toàn Về Tư Thế Làm Việc
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1370,15 +1317,11 @@ Hướng dẫn an toàn trực quan cho nơi làm việc, minh họa tư thế n
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20an%20to%C3%A0n%20tr%E1%BB%B1c%20quan%20cho%20n%C6%A1i%20l%C3%A0m%20vi%E1%BB%87c%2C%20minh%20h%E1%BB%8Da%20t%C6%B0%20th%E1%BA%BF%20ng%E1%BB%93i%20%C4%91%C3%BAng%20t%E1%BA%A1i%20b%C3%A0n%20l%C3%A0m%20vi%E1%BB%87c%20%C4%91%E1%BB%83%20tr%C3%A1nh%20%C4%91au%20l%C6%B0ng.%20%C4%90%E1%BB%93%20h%E1%BB%8Da%20th%C3%B4ng%20tin%20n%C3%AAn%20hi%E1%BB%83n%20th%E1%BB%8B%20hai%20h%C3%ACnh%3A%20m%E1%BB%99t%20h%C3%ACnh%20v%E1%BB%9Bi%20t%C6%B0%20th%E1%BA%BF%20sai%2C%20g%C3%B9%20l%C6%B0ng%20k%C3%A8m%20d%E1%BA%A5u%20X%20m%C3%A0u%20%C4%91%E1%BB%8F%2C%20v%C3%A0%20m%E1%BB%99t%20h%C3%ACnh%20v%E1%BB%9Bi%20t%C6%B0%20th%E1%BA%BF%20%C4%91%C3%BAng%2C%20c%C3%B4ng%20th%C3%A1i%20h%E1%BB%8Dc%20k%C3%A8m%20d%E1%BA%A5u%20ki%E1%BB%83m%20m%C3%A0u%20xanh%20l%C3%A1%20c%C3%A2y.%20Phong%20c%C3%A1ch%20n%C3%AAn%20%C4%91%C6%A1n%20gi%E1%BA%A3n%2C%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20d%E1%BB%85%20hi%E1%BB%83u%20tr%C3%AAn%20to%C3%A0n%20c%E1%BA%A7u%2C%20ph%C3%B9%20h%E1%BB%A3p%20cho%20t%C3%A0i%20li%E1%BB%87u%20%C4%91%C3%A0o%20t%E1%BA%A1o%20doanh%20nghi%E1%BB%87p.%20%E2%80%93ar%203%3A4)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20an%20to%C3%A0n%20tr%E1%BB%B1c%20quan%20cho%20n%C6%A1i%20l%C3%A0m%20vi%E1%BB%87c%2C%20minh%20h%E1%BB%8Da%20t%C6%B0%20th%E1%BA%BF%20ng%E1%BB%93i%20%C4%91%C3%BAng%20t%E1%BA%A1i%20b%C3%A0n%20l%C3%A0m%20vi%E1%BB%87c%20%C4%91%E1%BB%83%20tr%C3%A1nh%20%C4%91au%20l%C6%B0ng.%20%C4%90%E1%BB%93%20h%E1%BB%8Da%20th%C3%B4ng%20tin%20n%C3%AAn%20hi%E1%BB%83n%20th%E1%BB%8B%20hai%20h%C3%ACnh%3A%20m%E1%BB%99t%20h%C3%ACnh%20v%E1%BB%9Bi%20t%C6%B0%20th%E1%BA%BF%20sai%2C%20g%C3%B9%20l%C6%B0ng%20k%C3%A8m%20d%E1%BA%A5u%20X%20m%C3%A0u%20%C4%91%E1%BB%8F%2C%20v%C3%A0%20m%E1%BB%99t%20h%C3%ACnh%20v%E1%BB%9Bi%20t%C6%B0%20th%E1%BA%BF%20%C4%91%C3%BAng%2C%20c%C3%B4ng%20th%C3%A1i%20h%E1%BB%8Dc%20k%C3%A8m%20d%E1%BA%A5u%20ki%E1%BB%83m%20m%C3%A0u%20xanh%20l%C3%A1%20c%C3%A2y.%20Phong%20c%C3%A1ch%20n%C3%AAn%20%C4%91%C6%A1n%20gi%E1%BA%A3n%2C%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20d%E1%BB%85%20hi%E1%BB%83u%20tr%C3%AAn%20to%C3%A0n%20c%E1%BA%A7u%2C%20ph%C3%B9%20h%E1%BB%A3p%20cho%20t%C3%A0i%20li%E1%BB%87u%20%C4%91%C3%A0o%20t%E1%BA%A1o%20doanh%20nghi%E1%BB%87p.%20%E2%80%93ar%203%3A4)**
 
 ---
 
-<<<<<<< HEAD
-### No. 34: Sơ đồ hoạt động của máy in 3D
-=======
-### No. 37: Sơ đồ hoạt động của máy in 3D
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 38: Sơ đồ hoạt động của máy in 3D
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1407,15 +1350,11 @@ Một sơ đồ rõ ràng và đơn giản giải thích cách hoạt động c�
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20s%C6%A1%20%C4%91%E1%BB%93%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20gi%E1%BA%A3i%20th%C3%ADch%20c%C3%A1ch%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20m%C3%A1y%20in%203D%20(c%C3%B4ng%20ngh%E1%BB%87%20FDM).%20S%C6%A1%20%C4%91%E1%BB%93%20n%C3%AAn%20th%E1%BB%83%20hi%E1%BB%87n%20s%E1%BB%A3i%20nh%E1%BB%B1a%20(filament)%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%C6%B0a%20v%C3%A0o%20b%E1%BB%99%20%C4%91%C3%B9n%20(extruder)%2C%20b%E1%BB%99%20ph%E1%BA%ADn%20l%C3%A0m%20n%C3%B3ng%20(heating%20element)%20v%C3%A0%20v%C3%B2i%20phun%20(nozzle)%20%C4%91%E1%BA%AFp%20v%E1%BA%ADt%20li%E1%BB%87u%20t%E1%BB%ABng%20l%E1%BB%9Bp%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20ra%20m%E1%BB%99t%20v%E1%BA%ADt%20th%E1%BB%83.%20Phong%20c%C3%A1ch%20minh%20h%E1%BB%8Da%20n%C3%AAn%20s%E1%BA%A1ch%20s%E1%BA%BD%2C%20mang%20h%C6%A1i%20h%C6%B0%E1%BB%9Bng%203D%20v%E1%BB%9Bi%20c%C3%A1c%20m%C5%A9i%20t%C3%AAn%20ch%E1%BB%89%20lu%E1%BB%93ng%20quy%20tr%C3%ACnh%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20gi%E1%BA%A3i%20th%C3%ADch%20c%C3%B4ng%20ngh%E1%BB%87%20ph%E1%BB%A9c%20t%E1%BA%A1p%20m%E1%BB%99t%20c%C3%A1ch%20%C4%91%C6%A1n%20gi%E1%BA%A3n.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20s%C6%A1%20%C4%91%E1%BB%93%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20gi%E1%BA%A3i%20th%C3%ADch%20c%C3%A1ch%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20m%C3%A1y%20in%203D%20(c%C3%B4ng%20ngh%E1%BB%87%20FDM).%20S%C6%A1%20%C4%91%E1%BB%93%20n%C3%AAn%20th%E1%BB%83%20hi%E1%BB%87n%20s%E1%BB%A3i%20nh%E1%BB%B1a%20(filament)%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%C6%B0a%20v%C3%A0o%20b%E1%BB%99%20%C4%91%C3%B9n%20(extruder)%2C%20b%E1%BB%99%20ph%E1%BA%ADn%20l%C3%A0m%20n%C3%B3ng%20(heating%20element)%20v%C3%A0%20v%C3%B2i%20phun%20(nozzle)%20%C4%91%E1%BA%AFp%20v%E1%BA%ADt%20li%E1%BB%87u%20t%E1%BB%ABng%20l%E1%BB%9Bp%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20ra%20m%E1%BB%99t%20v%E1%BA%ADt%20th%E1%BB%83.%20Phong%20c%C3%A1ch%20minh%20h%E1%BB%8Da%20n%C3%AAn%20s%E1%BA%A1ch%20s%E1%BA%BD%2C%20mang%20h%C6%A1i%20h%C6%B0%E1%BB%9Bng%203D%20v%E1%BB%9Bi%20c%C3%A1c%20m%C5%A9i%20t%C3%AAn%20ch%E1%BB%89%20lu%E1%BB%93ng%20quy%20tr%C3%ACnh%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20gi%E1%BA%A3i%20th%C3%ADch%20c%C3%B4ng%20ngh%E1%BB%87%20ph%E1%BB%A9c%20t%E1%BA%A1p%20m%E1%BB%99t%20c%C3%A1ch%20%C4%91%C6%A1n%20gi%E1%BA%A3n.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 35: Bản đồ Công viên Quốc gia Isometric
-=======
-### No. 38: Bản đồ Công viên Quốc gia Isometric
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 39: Bản đồ Công viên Quốc gia Isometric
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1444,15 +1383,11 @@ Một bản đồ minh họa phong cách, đẳng cự của một công viên q
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BA%A3n%20%C4%91%E1%BB%93%20minh%20h%E1%BB%8Da%20phong%20c%C3%A1ch%2C%20%C4%91%E1%BA%B3ng%20c%E1%BB%B1%20c%E1%BB%A7a%20m%E1%BB%99t%20c%C3%B4ng%20vi%C3%AAn%20qu%E1%BB%91c%20gia.%20B%E1%BA%A3n%20%C4%91%E1%BB%93%20n%C3%AAn%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20c%C3%A1c%20%C4%91%C6%B0%E1%BB%9Dng%20m%C3%B2n%20ch%C3%ADnh%2C%20c%C3%A1c%20%C4%91%E1%BB%8Ba%20danh%20(nh%C6%B0%20th%C3%A1c%20n%C6%B0%E1%BB%9Bc%20v%C3%A0%20%C4%91i%E1%BB%83m%20ng%E1%BA%AFm%20c%E1%BA%A3nh)%2C%20trung%20t%C3%A2m%20du%20kh%C3%A1ch%20v%C3%A0%20khu%20c%E1%BA%AFm%20tr%E1%BA%A1i.%20Phong%20c%C3%A1ch%20n%C3%AAn%20th%C3%A2n%20thi%E1%BB%87n%20v%C3%A0%20h%E1%BA%A5p%20d%E1%BA%ABn%2C%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20nh%E1%BB%8F%20v%E1%BB%81%20c%C3%A1c%20lo%C3%A0i%20%C4%91%E1%BB%99ng%20v%E1%BA%ADt%20s%E1%BB%91ng%20trong%20c%C3%B4ng%20vi%C3%AAn.%20B%E1%BA%A3n%20%C4%91%E1%BB%93%20n%C3%A0y%20d%C3%B9ng%20cho%20t%E1%BB%9D%20r%C6%A1i%20ho%E1%BA%B7c%20trang%20web%20c%E1%BB%A7a%20c%C3%B4ng%20vi%C3%AAn%2C%20y%C3%AAu%20c%E1%BA%A7u%20s%E1%BB%B1%20k%E1%BA%BFt%20h%E1%BB%A3p%20gi%E1%BB%AFa%20%C4%91%E1%BB%99%20ch%C3%ADnh%20x%C3%A1c%20%C4%91%E1%BB%8Ba%20l%C3%BD%20v%C3%A0%20minh%20h%E1%BB%8Da%20ngh%E1%BB%87%20thu%E1%BA%ADt.%20%E2%80%93ar%204%3A3)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BA%A3n%20%C4%91%E1%BB%93%20minh%20h%E1%BB%8Da%20phong%20c%C3%A1ch%2C%20%C4%91%E1%BA%B3ng%20c%E1%BB%B1%20c%E1%BB%A7a%20m%E1%BB%99t%20c%C3%B4ng%20vi%C3%AAn%20qu%E1%BB%91c%20gia.%20B%E1%BA%A3n%20%C4%91%E1%BB%93%20n%C3%AAn%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20c%C3%A1c%20%C4%91%C6%B0%E1%BB%9Dng%20m%C3%B2n%20ch%C3%ADnh%2C%20c%C3%A1c%20%C4%91%E1%BB%8Ba%20danh%20(nh%C6%B0%20th%C3%A1c%20n%C6%B0%E1%BB%9Bc%20v%C3%A0%20%C4%91i%E1%BB%83m%20ng%E1%BA%AFm%20c%E1%BA%A3nh)%2C%20trung%20t%C3%A2m%20du%20kh%C3%A1ch%20v%C3%A0%20khu%20c%E1%BA%AFm%20tr%E1%BA%A1i.%20Phong%20c%C3%A1ch%20n%C3%AAn%20th%C3%A2n%20thi%E1%BB%87n%20v%C3%A0%20h%E1%BA%A5p%20d%E1%BA%ABn%2C%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20nh%E1%BB%8F%20v%E1%BB%81%20c%C3%A1c%20lo%C3%A0i%20%C4%91%E1%BB%99ng%20v%E1%BA%ADt%20s%E1%BB%91ng%20trong%20c%C3%B4ng%20vi%C3%AAn.%20B%E1%BA%A3n%20%C4%91%E1%BB%93%20n%C3%A0y%20d%C3%B9ng%20cho%20t%E1%BB%9D%20r%C6%A1i%20ho%E1%BA%B7c%20trang%20web%20c%E1%BB%A7a%20c%C3%B4ng%20vi%C3%AAn%2C%20y%C3%AAu%20c%E1%BA%A7u%20s%E1%BB%B1%20k%E1%BA%BFt%20h%E1%BB%A3p%20gi%E1%BB%AFa%20%C4%91%E1%BB%99%20ch%C3%ADnh%20x%C3%A1c%20%C4%91%E1%BB%8Ba%20l%C3%BD%20v%C3%A0%20minh%20h%E1%BB%8Da%20ngh%E1%BB%87%20thu%E1%BA%ADt.%20%E2%80%93ar%204%3A3)**
 
 ---
 
-<<<<<<< HEAD
-### No. 36: Thiết Kế Năng Lượng Mặt Trời Thụ Động Blueprint
-=======
-### No. 39: Thiết Kế Năng Lượng Mặt Trời Thụ Động Blueprint
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 40: Thiết Kế Năng Lượng Mặt Trời Thụ Động Blueprint
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1481,15 +1416,11 @@ Một phần của bản vẽ kiểu thiết kế chi tiết giải thích khái
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20ph%E1%BA%A7n%20c%E1%BB%A7a%20b%E1%BA%A3n%20v%E1%BA%BD%20ki%E1%BB%83u%20thi%E1%BA%BFt%20k%E1%BA%BF%20chi%20ti%E1%BA%BFt%20gi%E1%BA%A3i%20th%C3%ADch%20kh%C3%A1i%20ni%E1%BB%87m%20thi%E1%BA%BFt%20k%E1%BA%BF%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20m%E1%BA%B7t%20tr%E1%BB%9Di%20th%E1%BB%A5%20%C4%91%E1%BB%99ng%20trong%20m%E1%BB%99t%20ng%C3%B4i%20nh%C3%A0.%20B%E1%BA%A3n%20v%E1%BA%BD%20n%C3%AAn%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%A1c%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20m%C3%A0u%20tr%E1%BA%AFng%20tr%C3%AAn%20n%E1%BB%81n%20xanh%20lam%2C%20th%E1%BB%83%20hi%E1%BB%87n%20c%C3%A1ch%20g%C3%B3c%20chi%E1%BA%BFu%20c%E1%BB%A7a%20m%E1%BA%B7t%20tr%E1%BB%9Di%20v%C3%A0o%20m%C3%B9a%20%C4%91%C3%B4ng%20v%C3%A0%20m%C3%B9a%20h%C3%A8%20%E1%BA%A3nh%20h%C6%B0%E1%BB%9Fng%20%C4%91%E1%BA%BFn%20vi%E1%BB%87c%20s%C6%B0%E1%BB%9Fi%20%E1%BA%A5m%20v%C3%A0%20l%C3%A0m%20m%C3%A1t%20ng%C3%B4i%20nh%C3%A0%20th%C3%B4ng%20qua%20v%E1%BB%8B%20tr%C3%AD%20c%E1%BB%ADa%20s%E1%BB%95%20v%C3%A0%20m%C3%A1i%20che.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20%C4%91%E1%BB%99%20ch%C3%ADnh%20x%C3%A1c%20v%E1%BB%81%20k%E1%BB%B9%20thu%E1%BA%ADt%20v%C3%A0%20s%E1%BB%B1%20am%20hi%E1%BB%83u%20c%C3%A1c%20nguy%C3%AAn%20t%E1%BA%AFc%20ki%E1%BA%BFn%20tr%C3%BAc%20v%C3%A0%20v%E1%BA%ADt%20l%C3%BD.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20ph%E1%BA%A7n%20c%E1%BB%A7a%20b%E1%BA%A3n%20v%E1%BA%BD%20ki%E1%BB%83u%20thi%E1%BA%BFt%20k%E1%BA%BF%20chi%20ti%E1%BA%BFt%20gi%E1%BA%A3i%20th%C3%ADch%20kh%C3%A1i%20ni%E1%BB%87m%20thi%E1%BA%BFt%20k%E1%BA%BF%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20m%E1%BA%B7t%20tr%E1%BB%9Di%20th%E1%BB%A5%20%C4%91%E1%BB%99ng%20trong%20m%E1%BB%99t%20ng%C3%B4i%20nh%C3%A0.%20B%E1%BA%A3n%20v%E1%BA%BD%20n%C3%AAn%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%A1c%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20m%C3%A0u%20tr%E1%BA%AFng%20tr%C3%AAn%20n%E1%BB%81n%20xanh%20lam%2C%20th%E1%BB%83%20hi%E1%BB%87n%20c%C3%A1ch%20g%C3%B3c%20chi%E1%BA%BFu%20c%E1%BB%A7a%20m%E1%BA%B7t%20tr%E1%BB%9Di%20v%C3%A0o%20m%C3%B9a%20%C4%91%C3%B4ng%20v%C3%A0%20m%C3%B9a%20h%C3%A8%20%E1%BA%A3nh%20h%C6%B0%E1%BB%9Fng%20%C4%91%E1%BA%BFn%20vi%E1%BB%87c%20s%C6%B0%E1%BB%9Fi%20%E1%BA%A5m%20v%C3%A0%20l%C3%A0m%20m%C3%A1t%20ng%C3%B4i%20nh%C3%A0%20th%C3%B4ng%20qua%20v%E1%BB%8B%20tr%C3%AD%20c%E1%BB%ADa%20s%E1%BB%95%20v%C3%A0%20m%C3%A1i%20che.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20%C4%91%E1%BB%99%20ch%C3%ADnh%20x%C3%A1c%20v%E1%BB%81%20k%E1%BB%B9%20thu%E1%BA%ADt%20v%C3%A0%20s%E1%BB%B1%20am%20hi%E1%BB%83u%20c%C3%A1c%20nguy%C3%AAn%20t%E1%BA%AFc%20ki%E1%BA%BFn%20tr%C3%BAc%20v%C3%A0%20v%E1%BA%ADt%20l%C3%BD.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 37: Minh họa Tế bào Thực vật Khoa học
-=======
-### No. 40: Minh họa Tế bào Thực vật Khoa học
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 41: Minh họa Tế bào Thực vật Khoa học
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1518,15 +1449,11 @@ Một hình minh họa khoa học chi tiết về tế bào thực vật, theo p
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20khoa%20h%E1%BB%8Dc%20chi%20ti%E1%BA%BFt%20v%E1%BB%81%20t%E1%BA%BF%20b%C3%A0o%20th%E1%BB%B1c%20v%E1%BA%ADt%2C%20theo%20phong%20c%C3%A1ch%20s%C3%A1ch%20gi%C3%A1o%20khoa%20sinh%20h%E1%BB%8Dc%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i.%20H%C3%ACnh%20minh%20h%E1%BB%8Da%20n%C3%AAn%20l%C3%A0%20m%E1%BA%B7t%20c%E1%BA%AFt%203D%2C%20th%E1%BB%83%20hi%E1%BB%87n%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20ch%C3%BA%20th%C3%ADch%20th%C3%A0nh%20t%E1%BA%BF%20b%C3%A0o%2C%20m%C3%A0ng%20t%E1%BA%BF%20b%C3%A0o%2C%20nh%C3%A2n%2C%20l%E1%BB%A5c%20l%E1%BA%A1p%20v%C3%A0%20c%C3%A1c%20b%C3%A0o%20quan%20kh%C3%A1c.%20M%C3%A0u%20s%E1%BA%AFc%20ph%E1%BA%A3i%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20kh%C3%A1c%20bi%E1%BB%87t%20cho%20t%E1%BB%ABng%20b%C3%A0o%20quan.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%83%20hi%E1%BB%87n%20ch%C3%ADnh%20x%C3%A1c%2C%20d%E1%BB%B1a%20tr%C3%AAn%20ki%E1%BA%BFn%20th%E1%BB%A9c%20%C4%91%E1%BB%83%20ph%E1%BB%A5c%20v%E1%BB%A5%20m%E1%BB%A5c%20%C4%91%C3%ADch%20gi%C3%A1o%20d%E1%BB%A5c%20khoa%20h%E1%BB%8Dc.%20%E2%80%93ar%204%3A3)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20khoa%20h%E1%BB%8Dc%20chi%20ti%E1%BA%BFt%20v%E1%BB%81%20t%E1%BA%BF%20b%C3%A0o%20th%E1%BB%B1c%20v%E1%BA%ADt%2C%20theo%20phong%20c%C3%A1ch%20s%C3%A1ch%20gi%C3%A1o%20khoa%20sinh%20h%E1%BB%8Dc%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i.%20H%C3%ACnh%20minh%20h%E1%BB%8Da%20n%C3%AAn%20l%C3%A0%20m%E1%BA%B7t%20c%E1%BA%AFt%203D%2C%20th%E1%BB%83%20hi%E1%BB%87n%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20ch%C3%BA%20th%C3%ADch%20th%C3%A0nh%20t%E1%BA%BF%20b%C3%A0o%2C%20m%C3%A0ng%20t%E1%BA%BF%20b%C3%A0o%2C%20nh%C3%A2n%2C%20l%E1%BB%A5c%20l%E1%BA%A1p%20v%C3%A0%20c%C3%A1c%20b%C3%A0o%20quan%20kh%C3%A1c.%20M%C3%A0u%20s%E1%BA%AFc%20ph%E1%BA%A3i%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20kh%C3%A1c%20bi%E1%BB%87t%20cho%20t%E1%BB%ABng%20b%C3%A0o%20quan.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%83%20hi%E1%BB%87n%20ch%C3%ADnh%20x%C3%A1c%2C%20d%E1%BB%B1a%20tr%C3%AAn%20ki%E1%BA%BFn%20th%E1%BB%A9c%20%C4%91%E1%BB%83%20ph%E1%BB%A5c%20v%E1%BB%A5%20m%E1%BB%A5c%20%C4%91%C3%ADch%20gi%C3%A1o%20d%E1%BB%A5c%20khoa%20h%E1%BB%8Dc.%20%E2%80%93ar%204%3A3)**
 
 ---
 
-<<<<<<< HEAD
-### No. 38: Trực quan hóa dữ liệu nạn phá rừng toàn cầu
-=======
-### No. 41: Trực quan hóa dữ liệu nạn phá rừng toàn cầu
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 42: Trực quan hóa dữ liệu nạn phá rừng toàn cầu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1555,15 +1482,11 @@ Một hình ảnh trực quan dữ liệu đẹp mắt và giàu thông tin cho 
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20tr%E1%BB%B1c%20quan%20d%E1%BB%AF%20li%E1%BB%87u%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%20v%C3%A0%20gi%C3%A0u%20th%C3%B4ng%20tin%20cho%20b%C3%A1o%20c%C3%A1o%20v%E1%BB%81%20n%E1%BA%A1n%20ph%C3%A1%20r%E1%BB%ABng%20to%C3%A0n%20c%E1%BA%A7u.%20H%C3%ACnh%20%E1%BA%A3nh%20ch%C3%ADnh%20c%C3%B3%20th%E1%BB%83%20l%C3%A0%20b%E1%BA%A3n%20%C4%91%E1%BB%93%20th%E1%BA%BF%20gi%E1%BB%9Bi%20v%E1%BB%9Bi%20c%C3%A1c%20qu%E1%BB%91c%20gia%20%C4%91%C6%B0%E1%BB%A3c%20t%C3%B4%20m%C3%A0u%20d%E1%BB%B1a%20tr%C3%AAn%20t%E1%BB%B7%20l%E1%BB%87%20m%E1%BA%A5t%20r%E1%BB%ABng%20c%E1%BB%A7a%20h%E1%BB%8D%2C%20ho%E1%BA%B7c%20m%E1%BB%99t%20lo%E1%BA%A1t%20%C4%91%E1%BB%93%20h%E1%BB%8Da%20c%C3%A2y%20c%C3%A1ch%20%C4%91i%E1%BB%87u%20trong%20%C4%91%C3%B3%20s%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20l%C3%A1%20c%C3%A2y%20th%E1%BB%83%20hi%E1%BB%87n%20%C4%91%E1%BB%99%20che%20ph%E1%BB%A7%20r%E1%BB%ABng%20c%C3%B2n%20l%E1%BA%A1i.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20n%C3%AAn%20c%C3%B3%20t%C3%A1c%20%C4%91%E1%BB%99ng%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%C3%A0%20g%C3%A2y%20x%C3%BAc%20%C4%91%E1%BB%99ng%2C%20kh%C3%B4ng%20ch%E1%BB%89%20l%C3%A0%20m%E1%BB%99t%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20kh%C3%B4%20khan%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20bi%E1%BA%BFn%20d%E1%BB%AF%20li%E1%BB%87u%20th%C3%A0nh%20m%E1%BB%99t%20c%C3%A2u%20chuy%E1%BB%87n%20tr%E1%BB%B1c%20quan%20h%E1%BA%A5p%20d%E1%BA%ABn.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20tr%E1%BB%B1c%20quan%20d%E1%BB%AF%20li%E1%BB%87u%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%20v%C3%A0%20gi%C3%A0u%20th%C3%B4ng%20tin%20cho%20b%C3%A1o%20c%C3%A1o%20v%E1%BB%81%20n%E1%BA%A1n%20ph%C3%A1%20r%E1%BB%ABng%20to%C3%A0n%20c%E1%BA%A7u.%20H%C3%ACnh%20%E1%BA%A3nh%20ch%C3%ADnh%20c%C3%B3%20th%E1%BB%83%20l%C3%A0%20b%E1%BA%A3n%20%C4%91%E1%BB%93%20th%E1%BA%BF%20gi%E1%BB%9Bi%20v%E1%BB%9Bi%20c%C3%A1c%20qu%E1%BB%91c%20gia%20%C4%91%C6%B0%E1%BB%A3c%20t%C3%B4%20m%C3%A0u%20d%E1%BB%B1a%20tr%C3%AAn%20t%E1%BB%B7%20l%E1%BB%87%20m%E1%BA%A5t%20r%E1%BB%ABng%20c%E1%BB%A7a%20h%E1%BB%8D%2C%20ho%E1%BA%B7c%20m%E1%BB%99t%20lo%E1%BA%A1t%20%C4%91%E1%BB%93%20h%E1%BB%8Da%20c%C3%A2y%20c%C3%A1ch%20%C4%91i%E1%BB%87u%20trong%20%C4%91%C3%B3%20s%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20l%C3%A1%20c%C3%A2y%20th%E1%BB%83%20hi%E1%BB%87n%20%C4%91%E1%BB%99%20che%20ph%E1%BB%A7%20r%E1%BB%ABng%20c%C3%B2n%20l%E1%BA%A1i.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20n%C3%AAn%20c%C3%B3%20t%C3%A1c%20%C4%91%E1%BB%99ng%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%C3%A0%20g%C3%A2y%20x%C3%BAc%20%C4%91%E1%BB%99ng%2C%20kh%C3%B4ng%20ch%E1%BB%89%20l%C3%A0%20m%E1%BB%99t%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20kh%C3%B4%20khan%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20bi%E1%BA%BFn%20d%E1%BB%AF%20li%E1%BB%87u%20th%C3%A0nh%20m%E1%BB%99t%20c%C3%A2u%20chuy%E1%BB%87n%20tr%E1%BB%B1c%20quan%20h%E1%BA%A5p%20d%E1%BA%ABn.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 39: Hình minh họa máy ảnh DSLR dạng cắt lớp
-=======
-### No. 42: Hình minh họa máy ảnh DSLR dạng cắt lớp
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 43: Hình minh họa máy ảnh DSLR dạng cắt lớp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1592,15 +1515,11 @@ Một hình minh họa kỹ thuật dạng tách rời của máy ảnh DSLR. M�
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20k%E1%BB%B9%20thu%E1%BA%ADt%20d%E1%BA%A1ng%20t%C3%A1ch%20r%E1%BB%9Di%20c%E1%BB%A7a%20m%C3%A1y%20%E1%BA%A3nh%20DSLR.%20M%E1%BB%97i%20th%C3%A0nh%20ph%E1%BA%A7n%20c%E1%BB%A7a%20m%C3%A1y%20%E1%BA%A3nh%20(%E1%BB%91ng%20k%C3%ADnh%2C%20th%C3%A2n%20m%C3%A1y%2C%20c%E1%BA%A3m%20bi%E1%BA%BFn%2C%20g%C6%B0%C6%A1ng%20l%E1%BA%ADt%2C%20pin)%20ph%E1%BA%A3i%20%C4%91%C6%B0%E1%BB%A3c%20t%C3%A1ch%20r%E1%BB%9Di%20nh%C6%B0ng%20v%E1%BA%ABn%20th%E1%BA%B3ng%20h%C3%A0ng%2C%20th%E1%BB%83%20hi%E1%BB%87n%20c%C3%A1ch%20ch%C3%BAng%20kh%E1%BB%9Bp%20v%E1%BB%9Bi%20nhau.%20Phong%20c%C3%A1ch%20n%C3%AAn%20l%C3%A0%20m%E1%BB%99t%20b%E1%BA%A3n%20d%E1%BB%B1ng%20h%C3%ACnh%203D%20s%E1%BA%A1ch%20s%E1%BA%BD%2C%20ch%C3%ADnh%20x%C3%A1c%20v%E1%BB%9Bi%20c%C3%A1c%20nh%C3%A3n%20cho%20c%C3%A1c%20b%E1%BB%99%20ph%E1%BA%ADn%20ch%C3%ADnh.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20s%E1%BB%B1%20hi%E1%BB%83u%20bi%E1%BA%BFt%20kh%C3%B4ng%20gian%20n%C3%A2ng%20cao%20v%C3%A0%20kh%E1%BA%A3%20n%C4%83ng%20t%E1%BA%A1o%20ra%20c%C3%A1c%20s%C6%A1%20%C4%91%E1%BB%93%20k%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BB%A9c%20t%E1%BA%A1p%20cho%20k%E1%BB%B9%20thu%E1%BA%ADt%20v%C3%A0%20thi%E1%BA%BFt%20k%E1%BA%BF%20s%E1%BA%A3n%20ph%E1%BA%A9m.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20k%E1%BB%B9%20thu%E1%BA%ADt%20d%E1%BA%A1ng%20t%C3%A1ch%20r%E1%BB%9Di%20c%E1%BB%A7a%20m%C3%A1y%20%E1%BA%A3nh%20DSLR.%20M%E1%BB%97i%20th%C3%A0nh%20ph%E1%BA%A7n%20c%E1%BB%A7a%20m%C3%A1y%20%E1%BA%A3nh%20(%E1%BB%91ng%20k%C3%ADnh%2C%20th%C3%A2n%20m%C3%A1y%2C%20c%E1%BA%A3m%20bi%E1%BA%BFn%2C%20g%C6%B0%C6%A1ng%20l%E1%BA%ADt%2C%20pin)%20ph%E1%BA%A3i%20%C4%91%C6%B0%E1%BB%A3c%20t%C3%A1ch%20r%E1%BB%9Di%20nh%C6%B0ng%20v%E1%BA%ABn%20th%E1%BA%B3ng%20h%C3%A0ng%2C%20th%E1%BB%83%20hi%E1%BB%87n%20c%C3%A1ch%20ch%C3%BAng%20kh%E1%BB%9Bp%20v%E1%BB%9Bi%20nhau.%20Phong%20c%C3%A1ch%20n%C3%AAn%20l%C3%A0%20m%E1%BB%99t%20b%E1%BA%A3n%20d%E1%BB%B1ng%20h%C3%ACnh%203D%20s%E1%BA%A1ch%20s%E1%BA%BD%2C%20ch%C3%ADnh%20x%C3%A1c%20v%E1%BB%9Bi%20c%C3%A1c%20nh%C3%A3n%20cho%20c%C3%A1c%20b%E1%BB%99%20ph%E1%BA%ADn%20ch%C3%ADnh.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20s%E1%BB%B1%20hi%E1%BB%83u%20bi%E1%BA%BFt%20kh%C3%B4ng%20gian%20n%C3%A2ng%20cao%20v%C3%A0%20kh%E1%BA%A3%20n%C4%83ng%20t%E1%BA%A1o%20ra%20c%C3%A1c%20s%C6%A1%20%C4%91%E1%BB%93%20k%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BB%A9c%20t%E1%BA%A1p%20cho%20k%E1%BB%B9%20thu%E1%BA%ADt%20v%C3%A0%20thi%E1%BA%BFt%20k%E1%BA%BF%20s%E1%BA%A3n%20ph%E1%BA%A9m.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 40: So sánh ô tô điện và ô tô chạy xăng
-=======
-### No. 43: So sánh ô tô điện và ô tô chạy xăng
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 44: So sánh ô tô điện và ô tô chạy xăng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1629,15 +1548,11 @@ Một biểu đồ so sánh trực quan (một infographic "so sánh") giữa ô
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20so%20s%C3%A1nh%20tr%E1%BB%B1c%20quan%20(m%E1%BB%99t%20infographic%20%22so%20s%C3%A1nh%22)%20gi%E1%BB%AFa%20%C3%B4%20t%C3%B4%20%C4%91i%E1%BB%87n%20v%C3%A0%20%C3%B4%20t%C3%B4%20ch%E1%BA%A1y%20x%C4%83ng.%20Bi%E1%BB%83u%20%C4%91%E1%BB%93%20n%C3%AAn%20c%C3%B3%20hai%20c%E1%BB%99t%2C%20v%E1%BB%9Bi%20c%C3%A1c%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20v%C3%A0%20v%C4%83n%20b%E1%BA%A3n%20ng%E1%BA%AFn%20g%E1%BB%8Dn%20so%20s%C3%A1nh%20ch%C3%BAng%20d%E1%BB%B1a%20tr%C3%AAn%20c%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%20nh%C6%B0%20Chi%20ph%C3%AD%20nhi%C3%AAn%20li%E1%BB%87u%2C%20T%C3%A1c%20%C4%91%E1%BB%99ng%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%2C%20B%E1%BA%A3o%20tr%C3%AC%20v%C3%A0%20Hi%E1%BB%87u%20su%E1%BA%A5t.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20ph%E1%BA%A3i%20r%C3%B5%20r%C3%A0ng%2C%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%20v%C3%A0%20d%E1%BB%85%20hi%E1%BB%83u%20ngay%20t%E1%BB%AB%20c%C3%A1i%20nh%C3%ACn%20%C4%91%E1%BA%A7u%20ti%C3%AAn%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%A0%20tr%C3%ACnh%20b%C3%A0y%20d%E1%BB%AF%20li%E1%BB%87u%20so%20s%C3%A1nh%20m%E1%BB%99t%20c%C3%A1ch%20tr%E1%BB%B1c%20quan.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20so%20s%C3%A1nh%20tr%E1%BB%B1c%20quan%20(m%E1%BB%99t%20infographic%20%22so%20s%C3%A1nh%22)%20gi%E1%BB%AFa%20%C3%B4%20t%C3%B4%20%C4%91i%E1%BB%87n%20v%C3%A0%20%C3%B4%20t%C3%B4%20ch%E1%BA%A1y%20x%C4%83ng.%20Bi%E1%BB%83u%20%C4%91%E1%BB%93%20n%C3%AAn%20c%C3%B3%20hai%20c%E1%BB%99t%2C%20v%E1%BB%9Bi%20c%C3%A1c%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20v%C3%A0%20v%C4%83n%20b%E1%BA%A3n%20ng%E1%BA%AFn%20g%E1%BB%8Dn%20so%20s%C3%A1nh%20ch%C3%BAng%20d%E1%BB%B1a%20tr%C3%AAn%20c%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%20nh%C6%B0%20Chi%20ph%C3%AD%20nhi%C3%AAn%20li%E1%BB%87u%2C%20T%C3%A1c%20%C4%91%E1%BB%99ng%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%2C%20B%E1%BA%A3o%20tr%C3%AC%20v%C3%A0%20Hi%E1%BB%87u%20su%E1%BA%A5t.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20ph%E1%BA%A3i%20r%C3%B5%20r%C3%A0ng%2C%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%20v%C3%A0%20d%E1%BB%85%20hi%E1%BB%83u%20ngay%20t%E1%BB%AB%20c%C3%A1i%20nh%C3%ACn%20%C4%91%E1%BA%A7u%20ti%C3%AAn%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%A0%20tr%C3%ACnh%20b%C3%A0y%20d%E1%BB%AF%20li%E1%BB%87u%20so%20s%C3%A1nh%20m%E1%BB%99t%20c%C3%A1ch%20tr%E1%BB%B1c%20quan.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 41: Hướng Dẫn Pha Cà Phê Pour-Over
-=======
-### No. 44: Hướng Dẫn Pha Cà Phê Pour-Over
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 45: Hướng Dẫn Pha Cà Phê Pour-Over
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1666,15 +1581,11 @@ Một hướng dẫn trực quan, từng bước đơn giản về “Cách pha 
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20tr%E1%BB%B1c%20quan%2C%20t%E1%BB%ABng%20b%C6%B0%E1%BB%9Bc%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20v%E1%BB%81%20%E2%80%9CC%C3%A1ch%20pha%20m%E1%BB%99t%20t%C3%A1ch%20c%C3%A0%20ph%C3%AA%20ho%C3%A0n%20h%E1%BA%A3o%20b%E1%BA%B1ng%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20Pour-Over%E2%80%9D.%20%C4%90%E1%BB%93%20h%E1%BB%8Da%20th%C3%B4ng%20tin%20n%C3%AAn%20c%C3%B3%206%E2%80%938%20b%C6%B0%E1%BB%9Bc%2C%20m%E1%BB%97i%20b%C6%B0%E1%BB%9Bc%20c%C3%B3%20m%E1%BB%99t%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20m%E1%BB%99t%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20ng%E1%BA%AFn%20g%E1%BB%8Dn%2C%20d%E1%BB%85%20hi%E1%BB%83u%20(v%C3%AD%20d%E1%BB%A5%3A%20%E2%80%9C1.%20%C4%90un%20s%C3%B4i%20n%C6%B0%E1%BB%9Bc%E2%80%9D%2C%20%E2%80%9C2.%20Xay%20h%E1%BA%A1t%20c%C3%A0%20ph%C3%AA%E2%80%9D).%20Phong%20c%C3%A1ch%20n%C3%AAn%20t%E1%BB%91i%20gi%E1%BA%A3n%20v%C3%A0%20d%E1%BB%B1a%20tr%C3%AAn%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%2C%20v%E1%BB%9Bi%20b%E1%BA%A3ng%20m%C3%A0u%20%E1%BA%A5m%20%C3%A1p.%20N%E1%BB%99i%20dung%20n%C3%A0y%20d%C3%A0nh%20cho%20m%E1%BB%99t%20blog%20v%E1%BB%81%20phong%20c%C3%A1ch%20s%E1%BB%91ng%20ho%E1%BA%B7c%20qu%C3%A1n%20c%C3%A0%20ph%C3%AA%2C%20y%C3%AAu%20c%E1%BA%A7u%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20tr%E1%BB%B1c%20quan%20r%C3%B5%20r%C3%A0ng%2C%20theo%20tr%C3%ACnh%20t%E1%BB%B1.%20%E2%80%93ar%201%3A2)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20tr%E1%BB%B1c%20quan%2C%20t%E1%BB%ABng%20b%C6%B0%E1%BB%9Bc%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20v%E1%BB%81%20%E2%80%9CC%C3%A1ch%20pha%20m%E1%BB%99t%20t%C3%A1ch%20c%C3%A0%20ph%C3%AA%20ho%C3%A0n%20h%E1%BA%A3o%20b%E1%BA%B1ng%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20Pour-Over%E2%80%9D.%20%C4%90%E1%BB%93%20h%E1%BB%8Da%20th%C3%B4ng%20tin%20n%C3%AAn%20c%C3%B3%206%E2%80%938%20b%C6%B0%E1%BB%9Bc%2C%20m%E1%BB%97i%20b%C6%B0%E1%BB%9Bc%20c%C3%B3%20m%E1%BB%99t%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20m%E1%BB%99t%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20ng%E1%BA%AFn%20g%E1%BB%8Dn%2C%20d%E1%BB%85%20hi%E1%BB%83u%20(v%C3%AD%20d%E1%BB%A5%3A%20%E2%80%9C1.%20%C4%90un%20s%C3%B4i%20n%C6%B0%E1%BB%9Bc%E2%80%9D%2C%20%E2%80%9C2.%20Xay%20h%E1%BA%A1t%20c%C3%A0%20ph%C3%AA%E2%80%9D).%20Phong%20c%C3%A1ch%20n%C3%AAn%20t%E1%BB%91i%20gi%E1%BA%A3n%20v%C3%A0%20d%E1%BB%B1a%20tr%C3%AAn%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%2C%20v%E1%BB%9Bi%20b%E1%BA%A3ng%20m%C3%A0u%20%E1%BA%A5m%20%C3%A1p.%20N%E1%BB%99i%20dung%20n%C3%A0y%20d%C3%A0nh%20cho%20m%E1%BB%99t%20blog%20v%E1%BB%81%20phong%20c%C3%A1ch%20s%E1%BB%91ng%20ho%E1%BA%B7c%20qu%C3%A1n%20c%C3%A0%20ph%C3%AA%2C%20y%C3%AAu%20c%E1%BA%A7u%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20tr%E1%BB%B1c%20quan%20r%C3%B5%20r%C3%A0ng%2C%20theo%20tr%C3%ACnh%20t%E1%BB%B1.%20%E2%80%93ar%201%3A2)**
 
 ---
 
-<<<<<<< HEAD
-### No. 42: Sơ đồ cắt lớp núi lửa 3D
-=======
-### No. 45: Sơ đồ cắt lớp núi lửa 3D
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 46: Sơ đồ cắt lớp núi lửa 3D
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1703,15 +1614,11 @@ Một sơ đồ cắt lớp 3D của một ngọn núi lửa, thể hiện cấu
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20s%C6%A1%20%C4%91%E1%BB%93%20c%E1%BA%AFt%20l%E1%BB%9Bp%203D%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%E1%BB%8Dn%20n%C3%BAi%20l%E1%BB%ADa%2C%20th%E1%BB%83%20hi%E1%BB%87n%20c%E1%BA%A5u%20tr%C3%BAc%20b%C3%AAn%20trong%20c%E1%BB%A7a%20n%C3%B3.%20S%C6%A1%20%C4%91%E1%BB%93%20c%E1%BA%A7n%20ch%C3%BA%20th%C3%ADch%20r%C3%B5%20r%C3%A0ng%20bu%E1%BB%93ng%20magma%2C%20%E1%BB%91ng%20d%E1%BA%ABn%2C%20c%E1%BB%95%20h%E1%BB%8Dng%2C%20mi%E1%BB%87ng%20n%C3%BAi%20l%E1%BB%ADa%2C%20v%C3%A0%20c%C3%A1c%20l%E1%BB%9Bp%20tro%20v%C3%A0%20dung%20nham.%20Phong%20c%C3%A1ch%20n%C3%AAn%20l%C3%A0%20m%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20k%E1%BB%B9%20thu%E1%BA%ADt%2C%20r%C3%B5%20r%C3%A0ng%2C%20v%E1%BB%9Bi%20k%E1%BA%BFt%20c%E1%BA%A5u%20ch%C3%A2n%20th%E1%BB%B1c%20cho%20%C4%91%C3%A1%20v%C3%A0%20magma.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20t%E1%BA%A1o%20ra%20c%C3%A1c%20h%C3%ACnh%20%E1%BA%A3nh%20ch%C3%ADnh%20x%C3%A1c%2C%20d%E1%BB%B1a%20tr%C3%AAn%20khoa%20h%E1%BB%8Dc%20cho%20m%E1%BB%A5c%20%C4%91%C3%ADch%20gi%C3%A1o%20d%E1%BB%A5c%2C%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20kh%E1%BA%A3%20n%C4%83ng%20suy%20lu%E1%BA%ADn%20kh%C3%B4ng%20gian%20v%C3%A0%20khoa%20h%E1%BB%8Dc%20m%E1%BA%A1nh%20m%E1%BA%BD.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20s%C6%A1%20%C4%91%E1%BB%93%20c%E1%BA%AFt%20l%E1%BB%9Bp%203D%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%E1%BB%8Dn%20n%C3%BAi%20l%E1%BB%ADa%2C%20th%E1%BB%83%20hi%E1%BB%87n%20c%E1%BA%A5u%20tr%C3%BAc%20b%C3%AAn%20trong%20c%E1%BB%A7a%20n%C3%B3.%20S%C6%A1%20%C4%91%E1%BB%93%20c%E1%BA%A7n%20ch%C3%BA%20th%C3%ADch%20r%C3%B5%20r%C3%A0ng%20bu%E1%BB%93ng%20magma%2C%20%E1%BB%91ng%20d%E1%BA%ABn%2C%20c%E1%BB%95%20h%E1%BB%8Dng%2C%20mi%E1%BB%87ng%20n%C3%BAi%20l%E1%BB%ADa%2C%20v%C3%A0%20c%C3%A1c%20l%E1%BB%9Bp%20tro%20v%C3%A0%20dung%20nham.%20Phong%20c%C3%A1ch%20n%C3%AAn%20l%C3%A0%20m%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20k%E1%BB%B9%20thu%E1%BA%ADt%2C%20r%C3%B5%20r%C3%A0ng%2C%20v%E1%BB%9Bi%20k%E1%BA%BFt%20c%E1%BA%A5u%20ch%C3%A2n%20th%E1%BB%B1c%20cho%20%C4%91%C3%A1%20v%C3%A0%20magma.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20t%E1%BA%A1o%20ra%20c%C3%A1c%20h%C3%ACnh%20%E1%BA%A3nh%20ch%C3%ADnh%20x%C3%A1c%2C%20d%E1%BB%B1a%20tr%C3%AAn%20khoa%20h%E1%BB%8Dc%20cho%20m%E1%BB%A5c%20%C4%91%C3%ADch%20gi%C3%A1o%20d%E1%BB%A5c%2C%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20kh%E1%BA%A3%20n%C4%83ng%20suy%20lu%E1%BA%ADn%20kh%C3%B4ng%20gian%20v%C3%A0%20khoa%20h%E1%BB%8Dc%20m%E1%BA%A1nh%20m%E1%BA%BD.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 43: Giải phẫu Tim Bảng đen Cổ điển
-=======
-### No. 46: Giải phẫu Tim Bảng đen Cổ điển
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 47: Giải phẫu Tim Bảng đen Cổ điển
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1740,15 +1647,11 @@ Một hình minh họa chi tiết, theo phong cách bảng đen cổ điển gi�
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20chi%20ti%E1%BA%BFt%2C%20theo%20phong%20c%C3%A1ch%20b%E1%BA%A3ng%20%C4%91en%20c%E1%BB%95%20%C4%91i%E1%BB%83n%20gi%E1%BA%A3i%20th%C3%ADch%20v%E1%BB%81%20gi%E1%BA%A3i%20ph%E1%BA%ABu%20tim%20ng%C6%B0%E1%BB%9Di.%20B%E1%BA%A3n%20v%E1%BA%BD%20n%C3%AAn%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%B1c%20hi%E1%BB%87n%20theo%20phong%20c%C3%A1ch%20khoa%20h%E1%BB%8Dc%2C%20ch%C3%A2n%20th%E1%BB%B1c%20b%E1%BA%B1ng%20ph%E1%BA%A5n%20tr%E1%BA%AFng%20v%C3%A0%20ph%E1%BA%A5n%20m%C3%A0u.%20T%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20b%E1%BB%99%20ph%E1%BA%ADn%20kh%C3%A1c%20nhau%20c%E1%BB%A7a%20tim%20(t%C3%A2m%20th%E1%BA%A5t%2C%20t%C3%A2m%20nh%C4%A9%2C%20van)%20ph%E1%BA%A3i%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%A1n%20nh%C3%A3n%20r%C3%B5%20r%C3%A0ng%20b%E1%BA%B1ng%20ch%E1%BB%AF%20vi%E1%BA%BFt%20tay%20thanh%20l%E1%BB%8Bch%2C%20u%E1%BB%91n%20l%C6%B0%E1%BB%A3n.%20K%E1%BA%BFt%20c%E1%BA%A5u%20c%E1%BB%A7a%20b%E1%BA%A3ng%20%C4%91en%20v%C3%A0%20b%E1%BB%A5i%20ph%E1%BA%A5n%20ph%E1%BA%A3i%20hi%E1%BB%83n%20th%E1%BB%8B%20r%C3%B5%20r%C3%A0ng%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20k%E1%BA%BFt%20xu%E1%BA%A5t%20phong%20ph%C3%BA%2C%20d%E1%BB%B1a%20tr%C3%AAn%20ki%E1%BA%BFn%20th%E1%BB%A9c.%20%E2%80%93ar%204%3A3)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20chi%20ti%E1%BA%BFt%2C%20theo%20phong%20c%C3%A1ch%20b%E1%BA%A3ng%20%C4%91en%20c%E1%BB%95%20%C4%91i%E1%BB%83n%20gi%E1%BA%A3i%20th%C3%ADch%20v%E1%BB%81%20gi%E1%BA%A3i%20ph%E1%BA%ABu%20tim%20ng%C6%B0%E1%BB%9Di.%20B%E1%BA%A3n%20v%E1%BA%BD%20n%C3%AAn%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%B1c%20hi%E1%BB%87n%20theo%20phong%20c%C3%A1ch%20khoa%20h%E1%BB%8Dc%2C%20ch%C3%A2n%20th%E1%BB%B1c%20b%E1%BA%B1ng%20ph%E1%BA%A5n%20tr%E1%BA%AFng%20v%C3%A0%20ph%E1%BA%A5n%20m%C3%A0u.%20T%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20b%E1%BB%99%20ph%E1%BA%ADn%20kh%C3%A1c%20nhau%20c%E1%BB%A7a%20tim%20(t%C3%A2m%20th%E1%BA%A5t%2C%20t%C3%A2m%20nh%C4%A9%2C%20van)%20ph%E1%BA%A3i%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%A1n%20nh%C3%A3n%20r%C3%B5%20r%C3%A0ng%20b%E1%BA%B1ng%20ch%E1%BB%AF%20vi%E1%BA%BFt%20tay%20thanh%20l%E1%BB%8Bch%2C%20u%E1%BB%91n%20l%C6%B0%E1%BB%A3n.%20K%E1%BA%BFt%20c%E1%BA%A5u%20c%E1%BB%A7a%20b%E1%BA%A3ng%20%C4%91en%20v%C3%A0%20b%E1%BB%A5i%20ph%E1%BA%A5n%20ph%E1%BA%A3i%20hi%E1%BB%83n%20th%E1%BB%8B%20r%C3%B5%20r%C3%A0ng%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20k%E1%BA%BFt%20xu%E1%BA%A5t%20phong%20ph%C3%BA%2C%20d%E1%BB%B1a%20tr%C3%AAn%20ki%E1%BA%BFn%20th%E1%BB%A9c.%20%E2%80%93ar%204%3A3)**
 
 ---
 
-<<<<<<< HEAD
-### No. 44: Sơ đồ tư duy sống động cho tư duy sáng tạo
-=======
-### No. 47: Sơ đồ tư duy sống động cho tư duy sáng tạo
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 48: Sơ đồ tư duy sống động cho tư duy sáng tạo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1777,15 +1680,11 @@ Một sơ đồ tư duy sống động và tự nhiên xoay quanh chủ đề "T
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20s%C6%A1%20%C4%91%E1%BB%93%20t%C6%B0%20duy%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%20v%C3%A0%20t%E1%BB%B1%20nhi%C3%AAn%20xoay%20quanh%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20%22T%C6%B0%20duy%20S%C3%A1ng%20t%E1%BA%A1o%22.%20%C3%9D%20t%C6%B0%E1%BB%9Fng%20trung%20t%C3%A2m%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%83%20hi%E1%BB%87n%20d%C6%B0%E1%BB%9Bi%20d%E1%BA%A1ng%20%C4%91%C3%A1m%20m%C3%A2y%2C%20v%E1%BB%9Bi%20c%C3%A1c%20nh%C3%A1nh%20m%E1%BB%9F%20r%E1%BB%99ng%20%C4%91%E1%BA%BFn%20c%C3%A1c%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20ph%E1%BB%A5%20nh%C6%B0%20%22%C4%90%E1%BB%99ng%20n%C3%A3o%22%2C%20%22Ch%C3%A1nh%20ni%E1%BB%87m%22%2C%20%22T%C6%B0%20duy%20Ph%C3%A2n%20k%E1%BB%B3%22%20v%C3%A0%20%22C%E1%BB%99ng%20t%C3%A1c%22.%20M%E1%BB%97i%20nh%C3%A1nh%20n%C3%AAn%20c%C3%B3%20m%E1%BB%99t%20m%C3%A0u%20s%E1%BA%AFc%20%C4%91%E1%BB%99c%20%C4%91%C3%A1o%20v%C3%A0%20%C4%91i%20k%C3%A8m%20v%E1%BB%9Bi%20m%E1%BB%99t%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20nh%E1%BB%8F%2C%20ph%C3%B9%20h%E1%BB%A3p%20(v%C3%AD%20d%E1%BB%A5%3A%20b%C3%B3ng%20%C4%91%C3%A8n%20cho%20%C3%BD%20t%C6%B0%E1%BB%9Fng).%20V%C4%83n%20b%E1%BA%A3n%20n%C3%AAn%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20th%C3%A2n%20thi%E1%BB%87n%2C%20gi%E1%BB%91ng%20ch%E1%BB%AF%20vi%E1%BA%BFt%20tay%2C%20th%E1%BB%83%20hi%E1%BB%87n%20m%E1%BB%99t%20c%C3%B4ng%20c%E1%BB%A5%20cho%20m%E1%BB%A5c%20%C4%91%C3%ADch%20gi%C3%A1o%20d%E1%BB%A5c%20v%C3%A0%20%C4%91%E1%BB%99ng%20n%C3%A3o.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20s%C6%A1%20%C4%91%E1%BB%93%20t%C6%B0%20duy%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%20v%C3%A0%20t%E1%BB%B1%20nhi%C3%AAn%20xoay%20quanh%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20%22T%C6%B0%20duy%20S%C3%A1ng%20t%E1%BA%A1o%22.%20%C3%9D%20t%C6%B0%E1%BB%9Fng%20trung%20t%C3%A2m%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%83%20hi%E1%BB%87n%20d%C6%B0%E1%BB%9Bi%20d%E1%BA%A1ng%20%C4%91%C3%A1m%20m%C3%A2y%2C%20v%E1%BB%9Bi%20c%C3%A1c%20nh%C3%A1nh%20m%E1%BB%9F%20r%E1%BB%99ng%20%C4%91%E1%BA%BFn%20c%C3%A1c%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20ph%E1%BB%A5%20nh%C6%B0%20%22%C4%90%E1%BB%99ng%20n%C3%A3o%22%2C%20%22Ch%C3%A1nh%20ni%E1%BB%87m%22%2C%20%22T%C6%B0%20duy%20Ph%C3%A2n%20k%E1%BB%B3%22%20v%C3%A0%20%22C%E1%BB%99ng%20t%C3%A1c%22.%20M%E1%BB%97i%20nh%C3%A1nh%20n%C3%AAn%20c%C3%B3%20m%E1%BB%99t%20m%C3%A0u%20s%E1%BA%AFc%20%C4%91%E1%BB%99c%20%C4%91%C3%A1o%20v%C3%A0%20%C4%91i%20k%C3%A8m%20v%E1%BB%9Bi%20m%E1%BB%99t%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20nh%E1%BB%8F%2C%20ph%C3%B9%20h%E1%BB%A3p%20(v%C3%AD%20d%E1%BB%A5%3A%20b%C3%B3ng%20%C4%91%C3%A8n%20cho%20%C3%BD%20t%C6%B0%E1%BB%9Fng).%20V%C4%83n%20b%E1%BA%A3n%20n%C3%AAn%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20th%C3%A2n%20thi%E1%BB%87n%2C%20gi%E1%BB%91ng%20ch%E1%BB%AF%20vi%E1%BA%BFt%20tay%2C%20th%E1%BB%83%20hi%E1%BB%87n%20m%E1%BB%99t%20c%C3%B4ng%20c%E1%BB%A5%20cho%20m%E1%BB%A5c%20%C4%91%C3%ADch%20gi%C3%A1o%20d%E1%BB%A5c%20v%C3%A0%20%C4%91%E1%BB%99ng%20n%C3%A3o.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 45: Sơ đồ luồng SDLC chuyên nghiệp
-=======
-### No. 48: Sơ đồ luồng SDLC chuyên nghiệp
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 49: Sơ đồ luồng SDLC chuyên nghiệp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1814,15 +1713,11 @@ Một biểu đồ quy trình sạch sẽ và chuyên nghiệp minh họa vòng 
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20quy%20tr%C3%ACnh%20s%E1%BA%A1ch%20s%E1%BA%BD%20v%C3%A0%20chuy%C3%AAn%20nghi%E1%BB%87p%20minh%20h%E1%BB%8Da%20v%C3%B2ng%20%C4%91%E1%BB%9Di%20ph%C3%A1t%20tri%E1%BB%83n%20ph%E1%BA%A7n%20m%E1%BB%81m%20(SDLC).%20Bi%E1%BB%83u%20%C4%91%E1%BB%93%20n%C3%AAn%20bao%20g%E1%BB%93m%20c%C3%A1c%20giai%20%C4%91o%E1%BA%A1n%20nh%C6%B0%20L%E1%BA%ADp%20k%E1%BA%BF%20ho%E1%BA%A1ch%2C%20Thi%E1%BA%BFt%20k%E1%BA%BF%2C%20Ph%C3%A1t%20tri%E1%BB%83n%2C%20Ki%E1%BB%83m%20th%E1%BB%AD%2C%20Tri%E1%BB%83n%20khai%20v%C3%A0%20B%E1%BA%A3o%20tr%C3%AC%2C%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%83%20hi%E1%BB%87n%20b%E1%BA%B1ng%20c%C3%A1c%20h%C3%ACnh%20d%E1%BA%A1ng%20ri%C3%AAng%20bi%E1%BB%87t%20(h%C3%ACnh%20ch%E1%BB%AF%20nh%E1%BA%ADt%2C%20h%C3%ACnh%20thoi%20cho%20c%C3%A1c%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh).%20C%C3%A1c%20%C4%91%C6%B0%E1%BB%9Dng%20k%E1%BA%BFt%20n%E1%BB%91i%20n%C3%AAn%20c%C3%B3%20m%C5%A9i%20t%C3%AAn%20r%C3%B5%20r%C3%A0ng.%20B%E1%BA%A3ng%20m%C3%A0u%20n%C3%AAn%20mang%20t%C3%ADnh%20doanh%20nghi%E1%BB%87p%20v%C3%A0%20t%E1%BB%91i%20gi%E1%BA%A3n%20(xanh%20lam%20v%C3%A0%20x%C3%A1m)%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20t%E1%BA%A1o%20ra%20c%C3%A1c%20s%C6%A1%20%C4%91%E1%BB%93%20r%C3%B5%20r%C3%A0ng%2C%20c%C3%B3%20c%E1%BA%A5u%20tr%C3%BAc%20cho%20c%C3%A1c%20b%E1%BB%91i%20c%E1%BA%A3nh%20k%E1%BB%B9%20thu%E1%BA%ADt%20v%C3%A0%20kinh%20doanh.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20quy%20tr%C3%ACnh%20s%E1%BA%A1ch%20s%E1%BA%BD%20v%C3%A0%20chuy%C3%AAn%20nghi%E1%BB%87p%20minh%20h%E1%BB%8Da%20v%C3%B2ng%20%C4%91%E1%BB%9Di%20ph%C3%A1t%20tri%E1%BB%83n%20ph%E1%BA%A7n%20m%E1%BB%81m%20(SDLC).%20Bi%E1%BB%83u%20%C4%91%E1%BB%93%20n%C3%AAn%20bao%20g%E1%BB%93m%20c%C3%A1c%20giai%20%C4%91o%E1%BA%A1n%20nh%C6%B0%20L%E1%BA%ADp%20k%E1%BA%BF%20ho%E1%BA%A1ch%2C%20Thi%E1%BA%BFt%20k%E1%BA%BF%2C%20Ph%C3%A1t%20tri%E1%BB%83n%2C%20Ki%E1%BB%83m%20th%E1%BB%AD%2C%20Tri%E1%BB%83n%20khai%20v%C3%A0%20B%E1%BA%A3o%20tr%C3%AC%2C%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%83%20hi%E1%BB%87n%20b%E1%BA%B1ng%20c%C3%A1c%20h%C3%ACnh%20d%E1%BA%A1ng%20ri%C3%AAng%20bi%E1%BB%87t%20(h%C3%ACnh%20ch%E1%BB%AF%20nh%E1%BA%ADt%2C%20h%C3%ACnh%20thoi%20cho%20c%C3%A1c%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh).%20C%C3%A1c%20%C4%91%C6%B0%E1%BB%9Dng%20k%E1%BA%BFt%20n%E1%BB%91i%20n%C3%AAn%20c%C3%B3%20m%C5%A9i%20t%C3%AAn%20r%C3%B5%20r%C3%A0ng.%20B%E1%BA%A3ng%20m%C3%A0u%20n%C3%AAn%20mang%20t%C3%ADnh%20doanh%20nghi%E1%BB%87p%20v%C3%A0%20t%E1%BB%91i%20gi%E1%BA%A3n%20(xanh%20lam%20v%C3%A0%20x%C3%A1m)%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20t%E1%BA%A1o%20ra%20c%C3%A1c%20s%C6%A1%20%C4%91%E1%BB%93%20r%C3%B5%20r%C3%A0ng%2C%20c%C3%B3%20c%E1%BA%A5u%20tr%C3%BAc%20cho%20c%C3%A1c%20b%E1%BB%91i%20c%E1%BA%A3nh%20k%E1%BB%B9%20thu%E1%BA%ADt%20v%C3%A0%20kinh%20doanh.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 46: Giải thích Quang hợp trên Bảng trắng
-=======
-### No. 49: Giải thích Quang hợp trên Bảng trắng
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 50: Giải thích Quang hợp trên Bảng trắng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1851,15 +1746,11 @@ Một bản giải thích chi tiết, vẽ tay trên bảng trắng về quá tr
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BA%A3n%20gi%E1%BA%A3i%20th%C3%ADch%20chi%20ti%E1%BA%BFt%2C%20v%E1%BA%BD%20tay%20tr%C3%AAn%20b%E1%BA%A3ng%20tr%E1%BA%AFng%20v%E1%BB%81%20qu%C3%A1%20tr%C3%ACnh%20quang%20h%E1%BB%A3p%2C%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20cho%20m%E1%BB%99t%20l%E1%BB%9Bp%20h%E1%BB%8Dc%20sinh%20h%E1%BB%8Dc%20c%E1%BA%A5p%20trung%20h%E1%BB%8Dc%20ph%E1%BB%95%20th%C3%B4ng.%20S%C6%A1%20%C4%91%E1%BB%93%20n%C3%AAn%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%A1c%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20(m%E1%BA%B7t%20tr%E1%BB%9Di%2C%20c%C3%A2y%20c%E1%BB%91i%2C%20gi%E1%BB%8Dt%20n%C6%B0%E1%BB%9Bc%2C%20ph%C3%A2n%20t%E1%BB%AD%20CO2%2FO2)%20v%C3%A0%20c%C3%A1c%20nh%C3%A3n%20vi%E1%BA%BFt%20tay%20r%C3%B5%20r%C3%A0ng.%20C%C3%A1c%20m%C5%A9i%20t%C3%AAn%20n%C3%AAn%20th%E1%BB%83%20hi%E1%BB%87n%20r%C3%B5%20r%C3%A0ng%20d%C3%B2ng%20ch%E1%BA%A3y%20c%E1%BB%A7a%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20v%C3%A0%20v%E1%BA%ADt%20ch%E1%BA%A5t.%20Phong%20c%C3%A1ch%20n%C3%AAn%20s%E1%BA%A1ch%20s%E1%BA%BD%20v%C3%A0%20d%E1%BB%85%20theo%20d%C3%B5i%2C%20m%C3%B4%20ph%E1%BB%8Fng%20m%E1%BB%99t%20b%E1%BA%A3n%20v%E1%BA%BD%20b%E1%BA%A3ng%20tr%E1%BA%AFng%20c%E1%BB%A7a%20gi%C3%A1o%20vi%C3%AAn%20th%E1%BB%B1c%20th%E1%BB%A5%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20suy%20lu%E1%BA%ADn%20tr%E1%BB%B1c%20quan%20d%E1%BB%B1a%20tr%C3%AAn%20ki%E1%BA%BFn%20th%E1%BB%A9c%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%C3%A0%20%E1%BB%A9ng%20d%E1%BB%A5ng%20gi%C3%A1o%20d%E1%BB%A5c.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BA%A3n%20gi%E1%BA%A3i%20th%C3%ADch%20chi%20ti%E1%BA%BFt%2C%20v%E1%BA%BD%20tay%20tr%C3%AAn%20b%E1%BA%A3ng%20tr%E1%BA%AFng%20v%E1%BB%81%20qu%C3%A1%20tr%C3%ACnh%20quang%20h%E1%BB%A3p%2C%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20cho%20m%E1%BB%99t%20l%E1%BB%9Bp%20h%E1%BB%8Dc%20sinh%20h%E1%BB%8Dc%20c%E1%BA%A5p%20trung%20h%E1%BB%8Dc%20ph%E1%BB%95%20th%C3%B4ng.%20S%C6%A1%20%C4%91%E1%BB%93%20n%C3%AAn%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%A1c%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20(m%E1%BA%B7t%20tr%E1%BB%9Di%2C%20c%C3%A2y%20c%E1%BB%91i%2C%20gi%E1%BB%8Dt%20n%C6%B0%E1%BB%9Bc%2C%20ph%C3%A2n%20t%E1%BB%AD%20CO2%2FO2)%20v%C3%A0%20c%C3%A1c%20nh%C3%A3n%20vi%E1%BA%BFt%20tay%20r%C3%B5%20r%C3%A0ng.%20C%C3%A1c%20m%C5%A9i%20t%C3%AAn%20n%C3%AAn%20th%E1%BB%83%20hi%E1%BB%87n%20r%C3%B5%20r%C3%A0ng%20d%C3%B2ng%20ch%E1%BA%A3y%20c%E1%BB%A7a%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20v%C3%A0%20v%E1%BA%ADt%20ch%E1%BA%A5t.%20Phong%20c%C3%A1ch%20n%C3%AAn%20s%E1%BA%A1ch%20s%E1%BA%BD%20v%C3%A0%20d%E1%BB%85%20theo%20d%C3%B5i%2C%20m%C3%B4%20ph%E1%BB%8Fng%20m%E1%BB%99t%20b%E1%BA%A3n%20v%E1%BA%BD%20b%E1%BA%A3ng%20tr%E1%BA%AFng%20c%E1%BB%A7a%20gi%C3%A1o%20vi%C3%AAn%20th%E1%BB%B1c%20th%E1%BB%A5%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20suy%20lu%E1%BA%ADn%20tr%E1%BB%B1c%20quan%20d%E1%BB%B1a%20tr%C3%AAn%20ki%E1%BA%BFn%20th%E1%BB%A9c%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%C3%A0%20%E1%BB%A9ng%20d%E1%BB%A5ng%20gi%C3%A1o%20d%E1%BB%A5c.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 47: Tắm Serene để Tự Chăm Sóc
-=======
-### No. 50: Tắm Serene để Tự Chăm Sóc
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 51: Tắm Serene để Tự Chăm Sóc
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1888,15 +1779,11 @@ Một hình ảnh thanh bình và êm dịu cho bài đăng về chăm sóc bả
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20thanh%20b%C3%ACnh%20v%C3%A0%20%C3%AAm%20d%E1%BB%8Bu%20cho%20b%C3%A0i%20%C4%91%C4%83ng%20v%E1%BB%81%20ch%C4%83m%20s%C3%B3c%20b%E1%BA%A3n%20th%C3%A2n%20v%C3%A0%20s%E1%BB%A9c%20kh%E1%BB%8Fe%20tinh%20th%E1%BA%A7n.%20Khung%20c%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20b%E1%BB%93n%20t%E1%BA%AFm%20%C4%91%C6%B0%E1%BB%A3c%20v%E1%BA%BD%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20c%C3%A1nh%20hoa%20n%E1%BB%95i%20tr%C3%AAn%20m%E1%BA%B7t%20n%C6%B0%E1%BB%9Bc.%20M%E1%BB%99t%20cu%E1%BB%91n%20s%C3%A1ch%20v%C3%A0%20m%E1%BB%99t%20t%C3%A1ch%20tr%C3%A0%20%C4%91%E1%BA%B7t%20tr%C3%AAn%20khay%20g%E1%BB%97%20k%C3%AA%20tr%C3%AAn%20b%E1%BB%93n%20t%E1%BA%AFm.%20C%C4%83n%20ph%C3%B2ng%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BA%AFp%20s%C3%A1ng%20b%E1%BA%B1ng%20n%E1%BA%BFn%2C%20t%E1%BA%A1o%20ra%20m%E1%BB%99t%20kh%C3%B4ng%20kh%C3%AD%20%E1%BA%A5m%20%C3%A1p%20v%C3%A0%20th%C6%B0%20gi%C3%A3n.%20H%C3%ACnh%20%E1%BA%A3nh%20n%C3%AAn%20l%C3%A0%20m%E1%BB%99t%20l%E1%BB%9Di%20m%E1%BB%9Di%20tr%E1%BB%B1c%20quan%20%C4%91%E1%BB%83%20th%C6%B0%20gi%C3%A3n%20v%C3%A0%20ngh%E1%BB%89%20ng%C6%A1i%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20chi%E1%BA%BFu%20s%C3%A1ng%20v%C3%A0%20k%E1%BA%BFt%20xu%E1%BA%A5t%20kh%C3%B4ng%20kh%C3%AD%20ti%C3%AAn%20ti%E1%BA%BFn.%20%E2%80%93ar%203%3A2)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20thanh%20b%C3%ACnh%20v%C3%A0%20%C3%AAm%20d%E1%BB%8Bu%20cho%20b%C3%A0i%20%C4%91%C4%83ng%20v%E1%BB%81%20ch%C4%83m%20s%C3%B3c%20b%E1%BA%A3n%20th%C3%A2n%20v%C3%A0%20s%E1%BB%A9c%20kh%E1%BB%8Fe%20tinh%20th%E1%BA%A7n.%20Khung%20c%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20b%E1%BB%93n%20t%E1%BA%AFm%20%C4%91%C6%B0%E1%BB%A3c%20v%E1%BA%BD%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20c%C3%A1nh%20hoa%20n%E1%BB%95i%20tr%C3%AAn%20m%E1%BA%B7t%20n%C6%B0%E1%BB%9Bc.%20M%E1%BB%99t%20cu%E1%BB%91n%20s%C3%A1ch%20v%C3%A0%20m%E1%BB%99t%20t%C3%A1ch%20tr%C3%A0%20%C4%91%E1%BA%B7t%20tr%C3%AAn%20khay%20g%E1%BB%97%20k%C3%AA%20tr%C3%AAn%20b%E1%BB%93n%20t%E1%BA%AFm.%20C%C4%83n%20ph%C3%B2ng%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BA%AFp%20s%C3%A1ng%20b%E1%BA%B1ng%20n%E1%BA%BFn%2C%20t%E1%BA%A1o%20ra%20m%E1%BB%99t%20kh%C3%B4ng%20kh%C3%AD%20%E1%BA%A5m%20%C3%A1p%20v%C3%A0%20th%C6%B0%20gi%C3%A3n.%20H%C3%ACnh%20%E1%BA%A3nh%20n%C3%AAn%20l%C3%A0%20m%E1%BB%99t%20l%E1%BB%9Di%20m%E1%BB%9Di%20tr%E1%BB%B1c%20quan%20%C4%91%E1%BB%83%20th%C6%B0%20gi%C3%A3n%20v%C3%A0%20ngh%E1%BB%89%20ng%C6%A1i%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20chi%E1%BA%BFu%20s%C3%A1ng%20v%C3%A0%20k%E1%BA%BFt%20xu%E1%BA%A5t%20kh%C3%B4ng%20kh%C3%AD%20ti%C3%AAn%20ti%E1%BA%BFn.%20%E2%80%93ar%203%3A2)**
 
 ---
 
-<<<<<<< HEAD
-### No. 48: Xưởng vẽ bừa bộn của nghệ sĩ
-=======
-### No. 51: Xưởng vẽ bừa bộn của nghệ sĩ
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 52: Xưởng vẽ bừa bộn của nghệ sĩ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1925,15 +1812,11 @@ Một bức ảnh chụp xưởng vẽ của một nghệ sĩ, tuy lộn xộn n
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ch%E1%BB%A5p%20x%C6%B0%E1%BB%9Fng%20v%E1%BA%BD%20c%E1%BB%A7a%20m%E1%BB%99t%20ngh%E1%BB%87%20s%C4%A9%2C%20tuy%20l%E1%BB%99n%20x%E1%BB%99n%20nh%C6%B0ng%20%C4%91%E1%BA%A7y%20c%E1%BA%A3m%20h%E1%BB%A9ng.%20C%C3%A1c%20b%E1%BB%A9c%20tranh%20s%C6%A1n%20d%E1%BA%A7u%20t%E1%BB%B1a%20v%C3%A0o%20t%C6%B0%E1%BB%9Dng%2C%20m%E1%BB%99t%20s%E1%BB%91%20%C4%91%C3%A3%20ho%C3%A0n%20th%C3%A0nh%2C%20m%E1%BB%99t%20s%E1%BB%91%20%C4%91ang%20dang%20d%E1%BB%9F.%20Nh%E1%BB%AFng%20l%E1%BB%8D%20c%E1%BB%8D%20v%E1%BA%BD%2C%20tu%C3%BDp%20m%C3%A0u%20v%C3%A0%20b%E1%BA%A3ng%20pha%20m%C3%A0u%20n%E1%BA%B1m%20r%E1%BA%A3i%20r%C3%A1c%20kh%E1%BA%AFp%20n%C6%A1i.%20S%C3%A0n%20nh%C3%A0%20d%C3%ADnh%20%C4%91%E1%BA%A7y%20v%E1%BA%BFt%20s%C6%A1n.%20%C3%81nh%20s%C3%A1ng%20t%E1%BB%B1%20nhi%C3%AAn%20chi%E1%BA%BFu%20v%C3%A0o%20t%E1%BB%AB%20m%E1%BB%99t%20c%E1%BB%ADa%20s%E1%BB%95%20l%E1%BB%9Bn%20h%C6%B0%E1%BB%9Bng%20B%E1%BA%AFc.%20B%E1%BB%A9c%20%E1%BA%A3nh%20n%C3%AAn%20t%C3%B4n%20vinh%20qu%C3%A1%20tr%C3%ACnh%20s%C3%A1ng%20t%E1%BA%A1o%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20t%C3%A1i%20hi%E1%BB%87n%20nh%E1%BB%AFng%20c%E1%BA%A3nh%20ph%E1%BB%A9c%20t%E1%BA%A1p%2C%20h%E1%BB%97n%20lo%E1%BA%A1n%20v%E1%BB%9Bi%20%C4%91%E1%BB%99%20ch%C3%A2n%20th%E1%BB%B1c%20v%C3%A0%20m%E1%BA%A1ch%20l%E1%BA%A1c%20cao.%20%E2%80%93ar%204%3A3)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ch%E1%BB%A5p%20x%C6%B0%E1%BB%9Fng%20v%E1%BA%BD%20c%E1%BB%A7a%20m%E1%BB%99t%20ngh%E1%BB%87%20s%C4%A9%2C%20tuy%20l%E1%BB%99n%20x%E1%BB%99n%20nh%C6%B0ng%20%C4%91%E1%BA%A7y%20c%E1%BA%A3m%20h%E1%BB%A9ng.%20C%C3%A1c%20b%E1%BB%A9c%20tranh%20s%C6%A1n%20d%E1%BA%A7u%20t%E1%BB%B1a%20v%C3%A0o%20t%C6%B0%E1%BB%9Dng%2C%20m%E1%BB%99t%20s%E1%BB%91%20%C4%91%C3%A3%20ho%C3%A0n%20th%C3%A0nh%2C%20m%E1%BB%99t%20s%E1%BB%91%20%C4%91ang%20dang%20d%E1%BB%9F.%20Nh%E1%BB%AFng%20l%E1%BB%8D%20c%E1%BB%8D%20v%E1%BA%BD%2C%20tu%C3%BDp%20m%C3%A0u%20v%C3%A0%20b%E1%BA%A3ng%20pha%20m%C3%A0u%20n%E1%BA%B1m%20r%E1%BA%A3i%20r%C3%A1c%20kh%E1%BA%AFp%20n%C6%A1i.%20S%C3%A0n%20nh%C3%A0%20d%C3%ADnh%20%C4%91%E1%BA%A7y%20v%E1%BA%BFt%20s%C6%A1n.%20%C3%81nh%20s%C3%A1ng%20t%E1%BB%B1%20nhi%C3%AAn%20chi%E1%BA%BFu%20v%C3%A0o%20t%E1%BB%AB%20m%E1%BB%99t%20c%E1%BB%ADa%20s%E1%BB%95%20l%E1%BB%9Bn%20h%C6%B0%E1%BB%9Bng%20B%E1%BA%AFc.%20B%E1%BB%A9c%20%E1%BA%A3nh%20n%C3%AAn%20t%C3%B4n%20vinh%20qu%C3%A1%20tr%C3%ACnh%20s%C3%A1ng%20t%E1%BA%A1o%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20t%C3%A1i%20hi%E1%BB%87n%20nh%E1%BB%AFng%20c%E1%BA%A3nh%20ph%E1%BB%A9c%20t%E1%BA%A1p%2C%20h%E1%BB%97n%20lo%E1%BA%A1n%20v%E1%BB%9Bi%20%C4%91%E1%BB%99%20ch%C3%A2n%20th%E1%BB%B1c%20v%C3%A0%20m%E1%BA%A1ch%20l%E1%BA%A1c%20cao.%20%E2%80%93ar%204%3A3)**
 
 ---
 
-<<<<<<< HEAD
-### No. 49: Sô-cô-la Nóng Giáng Sinh Ấm Cúng
-=======
-### No. 52: Sô-cô-la Nóng Giáng Sinh Ấm Cúng
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 53: Sô-cô-la Nóng Giáng Sinh Ấm Cúng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1962,15 +1845,11 @@ Một bức ảnh ấm cúng và đậm chất lễ hội cho bài đăng Instag
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20%E1%BA%A5m%20c%C3%BAng%20v%C3%A0%20%C4%91%E1%BA%ADm%20ch%E1%BA%A5t%20l%E1%BB%85%20h%E1%BB%99i%20cho%20b%C3%A0i%20%C4%91%C4%83ng%20Instagram%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20Gi%C3%A1ng%20sinh.%20C%E1%BA%A3nh%20ch%E1%BB%A5p%20c%E1%BA%ADn%20c%E1%BA%A3nh%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20%C4%91ang%20c%E1%BA%A7m%20c%E1%BB%91c%20s%C3%B4%20c%C3%B4%20la%20n%C3%B3ng%20l%E1%BB%9Bn%20v%E1%BB%9Bi%20kem%20t%C6%B0%C6%A1i%20v%C3%A0%20m%E1%BB%99t%20c%C3%A2y%20k%E1%BA%B9o%20g%E1%BA%ADy.%20%E1%BB%9E%20h%E1%BA%ADu%20c%E1%BA%A3nh%2C%20c%C3%A2y%20th%C3%B4ng%20Noel%20v%E1%BB%9Bi%20%C4%91%C3%A8n%20nh%E1%BA%A5p%20nh%C3%A1y%20%C4%91%C6%B0%E1%BB%A3c%20l%C3%A0m%20m%E1%BB%9D%20nh%E1%BA%B9%20nh%C3%A0ng.%20Ng%C6%B0%E1%BB%9Di%20%C4%91%C3%B3%20%C4%91ang%20m%E1%BA%B7c%20m%E1%BB%99t%20chi%E1%BA%BFc%20%C3%A1o%20len%20d%E1%BB%87t%20kim%20d%C3%A0y%20d%E1%BA%B7n.%20B%E1%BB%A9c%20%E1%BA%A3nh%20n%C3%AAn%20g%E1%BB%A3i%20l%C3%AAn%20c%E1%BA%A3m%20gi%C3%A1c%20%E1%BA%A5m%20%C3%A1p%2C%20tho%E1%BA%A3i%20m%C3%A1i%20v%C3%A0%20kh%C3%B4ng%20kh%C3%AD%20l%E1%BB%85%20h%E1%BB%99i%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20ki%E1%BB%83m%20so%C3%A1t%20m%E1%BA%A1nh%20m%E1%BA%BD%20%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20v%C3%A0%20t%C3%A2m%20tr%E1%BA%A1ng.%20%E2%80%93ar%204%3A5)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20%E1%BA%A5m%20c%C3%BAng%20v%C3%A0%20%C4%91%E1%BA%ADm%20ch%E1%BA%A5t%20l%E1%BB%85%20h%E1%BB%99i%20cho%20b%C3%A0i%20%C4%91%C4%83ng%20Instagram%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20Gi%C3%A1ng%20sinh.%20C%E1%BA%A3nh%20ch%E1%BB%A5p%20c%E1%BA%ADn%20c%E1%BA%A3nh%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20%C4%91ang%20c%E1%BA%A7m%20c%E1%BB%91c%20s%C3%B4%20c%C3%B4%20la%20n%C3%B3ng%20l%E1%BB%9Bn%20v%E1%BB%9Bi%20kem%20t%C6%B0%C6%A1i%20v%C3%A0%20m%E1%BB%99t%20c%C3%A2y%20k%E1%BA%B9o%20g%E1%BA%ADy.%20%E1%BB%9E%20h%E1%BA%ADu%20c%E1%BA%A3nh%2C%20c%C3%A2y%20th%C3%B4ng%20Noel%20v%E1%BB%9Bi%20%C4%91%C3%A8n%20nh%E1%BA%A5p%20nh%C3%A1y%20%C4%91%C6%B0%E1%BB%A3c%20l%C3%A0m%20m%E1%BB%9D%20nh%E1%BA%B9%20nh%C3%A0ng.%20Ng%C6%B0%E1%BB%9Di%20%C4%91%C3%B3%20%C4%91ang%20m%E1%BA%B7c%20m%E1%BB%99t%20chi%E1%BA%BFc%20%C3%A1o%20len%20d%E1%BB%87t%20kim%20d%C3%A0y%20d%E1%BA%B7n.%20B%E1%BB%A9c%20%E1%BA%A3nh%20n%C3%AAn%20g%E1%BB%A3i%20l%C3%AAn%20c%E1%BA%A3m%20gi%C3%A1c%20%E1%BA%A5m%20%C3%A1p%2C%20tho%E1%BA%A3i%20m%C3%A1i%20v%C3%A0%20kh%C3%B4ng%20kh%C3%AD%20l%E1%BB%85%20h%E1%BB%99i%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20ki%E1%BB%83m%20so%C3%A1t%20m%E1%BA%A1nh%20m%E1%BA%BD%20%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20v%C3%A0%20t%C3%A2m%20tr%E1%BA%A1ng.%20%E2%80%93ar%204%3A5)**
 
 ---
 
-<<<<<<< HEAD
-### No. 50: Cấu hình chơi game cao cấp
-=======
-### No. 53: Cấu hình chơi game cao cấp
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 54: Cấu hình chơi game cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1999,15 +1878,11 @@ Một bức ảnh về dàn máy chơi game cao cấp, sẵn sàng cho buổi ph
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20v%E1%BB%81%20d%C3%A0n%20m%C3%A1y%20ch%C6%A1i%20game%20cao%20c%E1%BA%A5p%2C%20s%E1%BA%B5n%20s%C3%A0ng%20cho%20bu%E1%BB%95i%20ph%C3%A1t%20tr%E1%BB%B1c%20ti%E1%BA%BFp.%20D%C3%A0n%20m%C3%A1y%20bao%20g%E1%BB%93m%20m%E1%BB%99t%20PC%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%E1%BB%9Bi%20%C4%91%C3%A8n%20RGB%2C%20nhi%E1%BB%81u%20m%C3%A0n%20h%C3%ACnh%20hi%E1%BB%83n%20th%E1%BB%8B%20c%E1%BA%A3nh%20game%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%2C%20m%E1%BB%99t%20micro%20chuy%C3%AAn%20nghi%E1%BB%87p%20v%C3%A0%20m%E1%BB%99t%20gh%E1%BA%BF%20gaming%20ki%E1%BB%83u%20d%C3%A1ng%20%C4%91%E1%BA%B9p.%20C%C4%83n%20ph%C3%B2ng%20t%E1%BB%91i%2C%20%C3%A1nh%20s%C3%A1ng%20duy%20nh%E1%BA%A5t%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20m%C3%A0n%20h%C3%ACnh%20v%C3%A0%20%C4%91%C3%A8n%20RGB%2C%20t%E1%BA%A1o%20ra%20m%E1%BB%99t%20b%E1%BA%A7u%20kh%C3%B4ng%20kh%C3%AD%20t%C6%B0%C6%A1ng%20lai%20v%C3%A0%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20s%E1%BB%B1%20am%20hi%E1%BB%83u%20v%E1%BB%81%20c%C3%A1c%20ti%E1%BB%83u%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20t%C3%ADnh%20th%E1%BA%A9m%20m%E1%BB%B9%20%C4%91%E1%BA%B7c%20tr%C6%B0ng%20c%E1%BB%A7a%20ch%C3%BAng.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20v%E1%BB%81%20d%C3%A0n%20m%C3%A1y%20ch%C6%A1i%20game%20cao%20c%E1%BA%A5p%2C%20s%E1%BA%B5n%20s%C3%A0ng%20cho%20bu%E1%BB%95i%20ph%C3%A1t%20tr%E1%BB%B1c%20ti%E1%BA%BFp.%20D%C3%A0n%20m%C3%A1y%20bao%20g%E1%BB%93m%20m%E1%BB%99t%20PC%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%E1%BB%9Bi%20%C4%91%C3%A8n%20RGB%2C%20nhi%E1%BB%81u%20m%C3%A0n%20h%C3%ACnh%20hi%E1%BB%83n%20th%E1%BB%8B%20c%E1%BA%A3nh%20game%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%2C%20m%E1%BB%99t%20micro%20chuy%C3%AAn%20nghi%E1%BB%87p%20v%C3%A0%20m%E1%BB%99t%20gh%E1%BA%BF%20gaming%20ki%E1%BB%83u%20d%C3%A1ng%20%C4%91%E1%BA%B9p.%20C%C4%83n%20ph%C3%B2ng%20t%E1%BB%91i%2C%20%C3%A1nh%20s%C3%A1ng%20duy%20nh%E1%BA%A5t%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20m%C3%A0n%20h%C3%ACnh%20v%C3%A0%20%C4%91%C3%A8n%20RGB%2C%20t%E1%BA%A1o%20ra%20m%E1%BB%99t%20b%E1%BA%A7u%20kh%C3%B4ng%20kh%C3%AD%20t%C6%B0%C6%A1ng%20lai%20v%C3%A0%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20s%E1%BB%B1%20am%20hi%E1%BB%83u%20v%E1%BB%81%20c%C3%A1c%20ti%E1%BB%83u%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20t%C3%ADnh%20th%E1%BA%A9m%20m%E1%BB%B9%20%C4%91%E1%BA%B7c%20tr%C6%B0ng%20c%E1%BB%A7a%20ch%C3%BAng.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 51: Đâm Chồi Qua Đất Khô
-=======
-### No. 54: Đâm Chồi Qua Đất Khô
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 55: Đâm Chồi Qua Đất Khô
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2036,15 +1911,11 @@ Một hình ảnh mạnh mẽ và đầy suy tư về một mầm xanh duy nhấ
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%C3%A0%20%C4%91%E1%BA%A7y%20suy%20t%C6%B0%20v%E1%BB%81%20m%E1%BB%99t%20m%E1%BA%A7m%20xanh%20duy%20nh%E1%BA%A5t%20%C4%91ang%20v%C6%B0%C6%A1n%20l%C3%AAn%20qua%20m%E1%BB%99t%20v%E1%BA%BFt%20n%E1%BB%A9t%20tr%C3%AAn%20n%E1%BB%81n%20%C4%91%E1%BA%A5t%20kh%C3%B4%20c%E1%BA%B1n%2C%20c%E1%BA%B1n%20c%E1%BB%97i.%20H%C3%ACnh%20%E1%BA%A3nh%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%A5p%20c%E1%BA%ADn%20c%E1%BA%A3nh%2C%20t%E1%BA%ADp%20trung%20v%C3%A0o%20m%E1%BA%A7m%20c%C3%A2y%20non%20y%E1%BA%BFu%20%E1%BB%9Bt.%20%C3%81nh%20s%C3%A1ng%20k%E1%BB%8Bch%20t%C3%ADnh%2C%20v%E1%BB%9Bi%20m%E1%BB%99t%20tia%20s%C3%A1ng%20duy%20nh%E1%BA%A5t%20chi%E1%BA%BFu%20r%E1%BB%8Di%20m%E1%BA%A7m%20c%C3%A2y.%20H%C3%ACnh%20%E1%BA%A3nh%20n%C3%AAn%20t%C6%B0%E1%BB%A3ng%20tr%C6%B0ng%20cho%20hy%20v%E1%BB%8Dng%2C%20s%E1%BB%B1%20ki%C3%AAn%20c%C6%B0%E1%BB%9Dng%20v%C3%A0%20t%E1%BA%A7m%20quan%20tr%E1%BB%8Dng%20c%E1%BB%A7a%20vi%E1%BB%87c%20b%E1%BA%A3o%20t%E1%BB%93n%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20truy%E1%BB%81n%20t%E1%BA%A3i%20c%C3%A1c%20kh%C3%A1i%20ni%E1%BB%87m%20ph%E1%BB%A9c%20t%E1%BA%A1p%20b%E1%BA%B1ng%20h%C3%ACnh%20%E1%BA%A3nh.%20%E2%80%93ar%203%3A2)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%C3%A0%20%C4%91%E1%BA%A7y%20suy%20t%C6%B0%20v%E1%BB%81%20m%E1%BB%99t%20m%E1%BA%A7m%20xanh%20duy%20nh%E1%BA%A5t%20%C4%91ang%20v%C6%B0%C6%A1n%20l%C3%AAn%20qua%20m%E1%BB%99t%20v%E1%BA%BFt%20n%E1%BB%A9t%20tr%C3%AAn%20n%E1%BB%81n%20%C4%91%E1%BA%A5t%20kh%C3%B4%20c%E1%BA%B1n%2C%20c%E1%BA%B1n%20c%E1%BB%97i.%20H%C3%ACnh%20%E1%BA%A3nh%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%A5p%20c%E1%BA%ADn%20c%E1%BA%A3nh%2C%20t%E1%BA%ADp%20trung%20v%C3%A0o%20m%E1%BA%A7m%20c%C3%A2y%20non%20y%E1%BA%BFu%20%E1%BB%9Bt.%20%C3%81nh%20s%C3%A1ng%20k%E1%BB%8Bch%20t%C3%ADnh%2C%20v%E1%BB%9Bi%20m%E1%BB%99t%20tia%20s%C3%A1ng%20duy%20nh%E1%BA%A5t%20chi%E1%BA%BFu%20r%E1%BB%8Di%20m%E1%BA%A7m%20c%C3%A2y.%20H%C3%ACnh%20%E1%BA%A3nh%20n%C3%AAn%20t%C6%B0%E1%BB%A3ng%20tr%C6%B0ng%20cho%20hy%20v%E1%BB%8Dng%2C%20s%E1%BB%B1%20ki%C3%AAn%20c%C6%B0%E1%BB%9Dng%20v%C3%A0%20t%E1%BA%A7m%20quan%20tr%E1%BB%8Dng%20c%E1%BB%A7a%20vi%E1%BB%87c%20b%E1%BA%A3o%20t%E1%BB%93n%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20truy%E1%BB%81n%20t%E1%BA%A3i%20c%C3%A1c%20kh%C3%A1i%20ni%E1%BB%87m%20ph%E1%BB%A9c%20t%E1%BA%A1p%20b%E1%BA%B1ng%20h%C3%ACnh%20%E1%BA%A3nh.%20%E2%80%93ar%203%3A2)**
 
 ---
 
-<<<<<<< HEAD
-### No. 52: Ảnh Chụp Bảng Phấn Mắt Macro
-=======
-### No. 55: Ảnh Chụp Bảng Phấn Mắt Macro
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 56: Ảnh Chụp Bảng Phấn Mắt Macro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2073,15 +1944,11 @@ Một bức ảnh macro, mang tính nghệ thuật về một bảng phấn mắ
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20macro%2C%20mang%20t%C3%ADnh%20ngh%E1%BB%87%20thu%E1%BA%ADt%20v%E1%BB%81%20m%E1%BB%99t%20b%E1%BA%A3ng%20ph%E1%BA%A5n%20m%E1%BA%AFt%20m%E1%BB%9Bi%20cho%20b%C3%A0i%20%C4%91%C3%A1nh%20gi%C3%A1%20c%E1%BB%A7a%20m%E1%BB%99t%20blogger%20l%C3%A0m%20%C4%91%E1%BA%B9p.%20B%E1%BB%A9c%20%E1%BA%A3nh%20t%E1%BA%ADp%20trung%20v%C3%A0o%20k%E1%BA%BFt%20c%E1%BA%A5u%20c%E1%BB%A7a%20c%C3%A1c%20lo%E1%BA%A1i%20ph%E1%BA%A5n%20m%E1%BA%AFt%20kh%C3%A1c%20nhau%2C%20v%E1%BB%9Bi%20m%E1%BB%99t%20c%C3%A2y%20c%E1%BB%8D%20l%C6%B0%E1%BB%9Bt%20qua%20m%E1%BB%99t%20trong%20c%C3%A1c%20m%C3%A0u%2C%20t%E1%BA%A1o%20ra%20m%E1%BB%99t%20%C4%91%C3%A1m%20b%E1%BB%A5i%20nh%E1%BB%8F%20c%C3%B3%20s%E1%BA%AFc%20t%E1%BB%91.%20%C3%81nh%20s%C3%A1ng%20trong%20tr%E1%BA%BBo%20v%C3%A0%20t%C6%B0%C6%A1i%20s%C3%A1ng%2C%20th%E1%BB%83%20hi%E1%BB%87n%20m%C3%A0u%20s%E1%BA%AFc%20v%C3%A0%20%C4%91%E1%BB%99%20l%E1%BA%A5p%20l%C3%A1nh%20ch%C3%A2n%20th%E1%BB%B1c%20c%E1%BB%A7a%20s%E1%BA%A3n%20ph%E1%BA%A9m.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20s%E1%BB%B1%20chi%20ti%E1%BA%BFt%20v%C3%A0%20ch%C3%ADnh%20x%C3%A1c%20c%E1%BB%B1c%20cao%20trong%20vi%E1%BB%87c%20th%E1%BB%83%20hi%E1%BB%87n%20k%E1%BA%BFt%20c%E1%BA%A5u%20v%C3%A0%20c%C3%A1c%20h%E1%BA%A1t.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20macro%2C%20mang%20t%C3%ADnh%20ngh%E1%BB%87%20thu%E1%BA%ADt%20v%E1%BB%81%20m%E1%BB%99t%20b%E1%BA%A3ng%20ph%E1%BA%A5n%20m%E1%BA%AFt%20m%E1%BB%9Bi%20cho%20b%C3%A0i%20%C4%91%C3%A1nh%20gi%C3%A1%20c%E1%BB%A7a%20m%E1%BB%99t%20blogger%20l%C3%A0m%20%C4%91%E1%BA%B9p.%20B%E1%BB%A9c%20%E1%BA%A3nh%20t%E1%BA%ADp%20trung%20v%C3%A0o%20k%E1%BA%BFt%20c%E1%BA%A5u%20c%E1%BB%A7a%20c%C3%A1c%20lo%E1%BA%A1i%20ph%E1%BA%A5n%20m%E1%BA%AFt%20kh%C3%A1c%20nhau%2C%20v%E1%BB%9Bi%20m%E1%BB%99t%20c%C3%A2y%20c%E1%BB%8D%20l%C6%B0%E1%BB%9Bt%20qua%20m%E1%BB%99t%20trong%20c%C3%A1c%20m%C3%A0u%2C%20t%E1%BA%A1o%20ra%20m%E1%BB%99t%20%C4%91%C3%A1m%20b%E1%BB%A5i%20nh%E1%BB%8F%20c%C3%B3%20s%E1%BA%AFc%20t%E1%BB%91.%20%C3%81nh%20s%C3%A1ng%20trong%20tr%E1%BA%BBo%20v%C3%A0%20t%C6%B0%C6%A1i%20s%C3%A1ng%2C%20th%E1%BB%83%20hi%E1%BB%87n%20m%C3%A0u%20s%E1%BA%AFc%20v%C3%A0%20%C4%91%E1%BB%99%20l%E1%BA%A5p%20l%C3%A1nh%20ch%C3%A2n%20th%E1%BB%B1c%20c%E1%BB%A7a%20s%E1%BA%A3n%20ph%E1%BA%A9m.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20s%E1%BB%B1%20chi%20ti%E1%BA%BFt%20v%C3%A0%20ch%C3%ADnh%20x%C3%A1c%20c%E1%BB%B1c%20cao%20trong%20vi%E1%BB%87c%20th%E1%BB%83%20hi%E1%BB%87n%20k%E1%BA%BFt%20c%E1%BA%A5u%20v%C3%A0%20c%C3%A1c%20h%E1%BA%A1t.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 53: Bộ Sưu Tập Đĩa Than Cổ Điển
-=======
-### No. 56: Bộ Sưu Tập Đĩa Than Cổ Điển
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 57: Bộ Sưu Tập Đĩa Than Cổ Điển
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2110,15 +1977,11 @@ Một bức ảnh chụp bộ sưu tập đĩa than cổ điển nằm rải rá
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ch%E1%BB%A5p%20b%E1%BB%99%20s%C6%B0u%20t%E1%BA%ADp%20%C4%91%C4%A9a%20than%20c%E1%BB%95%20%C4%91i%E1%BB%83n%20n%E1%BA%B1m%20r%E1%BA%A3i%20r%C3%A1c%20tr%C3%AAn%20s%C3%A0n%20g%E1%BB%97%2C%20v%E1%BB%9Bi%20m%E1%BB%99t%20m%C3%A1y%20nghe%20%C4%91%C4%A9a%20%E1%BB%9F%20g%C3%B3c.%20Ti%C3%AAu%20%C4%91i%E1%BB%83m%20l%C3%A0%20b%C3%ACa%20c%E1%BB%A7a%20m%E1%BB%99t%20v%C3%A0i%20album%20mang%20t%C3%ADnh%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng.%20%C3%81nh%20s%C3%A1ng%20%E1%BA%A5m%20%C3%A1p%20v%C3%A0%20ho%C3%A0i%20c%E1%BB%95%2C%20v%E1%BB%9Bi%20hi%E1%BB%87u%20%E1%BB%A9ng%20l%C3%A0m%20m%E1%BB%9D%20vi%E1%BB%81n%20nh%E1%BA%B9.%20B%E1%BB%A9c%20%E1%BA%A3nh%20n%C3%AAn%20g%E1%BB%A3i%20l%C3%AAn%20t%C3%ACnh%20y%C3%AAu%20%C3%A2m%20nh%E1%BA%A1c%20v%C3%A0%20tr%E1%BA%A3i%20nghi%E1%BB%87m%20h%E1%BB%AFu%20h%C3%ACnh%20khi%20nghe%20%C4%91%C4%A9a%20than%2C%20th%E1%BB%83%20hi%E1%BB%87n%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%E1%BB%81%20c%C3%A1c%20hi%E1%BB%87n%20v%E1%BA%ADt%20v%C4%83n%20h%C3%B3a.%20%E2%80%93ar%201%3A1)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ch%E1%BB%A5p%20b%E1%BB%99%20s%C6%B0u%20t%E1%BA%ADp%20%C4%91%C4%A9a%20than%20c%E1%BB%95%20%C4%91i%E1%BB%83n%20n%E1%BA%B1m%20r%E1%BA%A3i%20r%C3%A1c%20tr%C3%AAn%20s%C3%A0n%20g%E1%BB%97%2C%20v%E1%BB%9Bi%20m%E1%BB%99t%20m%C3%A1y%20nghe%20%C4%91%C4%A9a%20%E1%BB%9F%20g%C3%B3c.%20Ti%C3%AAu%20%C4%91i%E1%BB%83m%20l%C3%A0%20b%C3%ACa%20c%E1%BB%A7a%20m%E1%BB%99t%20v%C3%A0i%20album%20mang%20t%C3%ADnh%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng.%20%C3%81nh%20s%C3%A1ng%20%E1%BA%A5m%20%C3%A1p%20v%C3%A0%20ho%C3%A0i%20c%E1%BB%95%2C%20v%E1%BB%9Bi%20hi%E1%BB%87u%20%E1%BB%A9ng%20l%C3%A0m%20m%E1%BB%9D%20vi%E1%BB%81n%20nh%E1%BA%B9.%20B%E1%BB%A9c%20%E1%BA%A3nh%20n%C3%AAn%20g%E1%BB%A3i%20l%C3%AAn%20t%C3%ACnh%20y%C3%AAu%20%C3%A2m%20nh%E1%BA%A1c%20v%C3%A0%20tr%E1%BA%A3i%20nghi%E1%BB%87m%20h%E1%BB%AFu%20h%C3%ACnh%20khi%20nghe%20%C4%91%C4%A9a%20than%2C%20th%E1%BB%83%20hi%E1%BB%87n%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%E1%BB%81%20c%C3%A1c%20hi%E1%BB%87n%20v%E1%BA%ADt%20v%C4%83n%20h%C3%B3a.%20%E2%80%93ar%201%3A1)**
 
 ---
 
-<<<<<<< HEAD
-### No. 54: Góc Đọc Sách Đầy Ánh Sáng
-=======
-### No. 57: Góc Đọc Sách Đầy Ánh Sáng
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 58: Góc Đọc Sách Đầy Ánh Sáng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2147,15 +2010,11 @@ Một bức ảnh chụp góc đọc sách được trang trí đẹp mắt, tr�
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ch%E1%BB%A5p%20g%C3%B3c%20%C4%91%E1%BB%8Dc%20s%C3%A1ch%20%C4%91%C6%B0%E1%BB%A3c%20trang%20tr%C3%AD%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%2C%20tr%C3%A0n%20ng%E1%BA%ADp%20%C3%A1nh%20s%C3%A1ng%20trong%20m%E1%BB%99t%20ng%C3%B4i%20nh%C3%A0.%20G%C3%B3c%20n%C3%A0y%20c%C3%B3%20m%E1%BB%99t%20chi%E1%BA%BFc%20gh%E1%BA%BF%20b%C3%A0nh%20tho%E1%BA%A3i%20m%C3%A1i%2C%20m%E1%BB%99t%20gi%C3%A1%20s%C3%A1ch%20%C4%91%E1%BA%A7y%20%E1%BA%AFp%2C%20m%E1%BB%99t%20t%E1%BA%A5m%20th%E1%BA%A3m%20m%E1%BB%81m%20m%E1%BA%A1i%20v%C3%A0%20m%E1%BB%99t%20ch%E1%BA%ADu%20c%C3%A2y%20l%E1%BB%9Bn.%20N%E1%BA%AFng%20chi%E1%BB%81u%20chi%E1%BA%BFu%20qua%20c%E1%BB%ADa%20s%E1%BB%95%2C%20t%E1%BA%A1o%20n%C3%AAn%20m%E1%BB%99t%20kh%C3%B4ng%20gian%20%E1%BA%A5m%20%C3%A1p%20v%C3%A0%20m%E1%BB%9Di%20g%E1%BB%8Di.%20H%C3%ACnh%20%E1%BA%A3nh%20n%C3%A0y%20n%C3%AAn%20truy%E1%BB%81n%20c%E1%BA%A3m%20h%E1%BB%A9ng%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20t%E1%BA%A1o%20ra%20nh%E1%BB%AFng%20g%C3%B3c%20nh%E1%BB%8F%20%E1%BA%A5m%20c%C3%BAng%20c%E1%BB%A7a%20ri%C3%AAng%20m%C3%ACnh%2C%20th%E1%BB%83%20hi%E1%BB%87n%20%C3%A1nh%20s%C3%A1ng%20n%E1%BB%99i%20th%E1%BA%A5t%20ch%C3%A2n%20th%E1%BB%B1c%20v%C3%A0%20c%E1%BA%A3m%20gi%C3%A1c%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%E1%BB%81%20kh%C3%B4ng%20gian.%20%E2%80%93ar%203%3A4)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ch%E1%BB%A5p%20g%C3%B3c%20%C4%91%E1%BB%8Dc%20s%C3%A1ch%20%C4%91%C6%B0%E1%BB%A3c%20trang%20tr%C3%AD%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%2C%20tr%C3%A0n%20ng%E1%BA%ADp%20%C3%A1nh%20s%C3%A1ng%20trong%20m%E1%BB%99t%20ng%C3%B4i%20nh%C3%A0.%20G%C3%B3c%20n%C3%A0y%20c%C3%B3%20m%E1%BB%99t%20chi%E1%BA%BFc%20gh%E1%BA%BF%20b%C3%A0nh%20tho%E1%BA%A3i%20m%C3%A1i%2C%20m%E1%BB%99t%20gi%C3%A1%20s%C3%A1ch%20%C4%91%E1%BA%A7y%20%E1%BA%AFp%2C%20m%E1%BB%99t%20t%E1%BA%A5m%20th%E1%BA%A3m%20m%E1%BB%81m%20m%E1%BA%A1i%20v%C3%A0%20m%E1%BB%99t%20ch%E1%BA%ADu%20c%C3%A2y%20l%E1%BB%9Bn.%20N%E1%BA%AFng%20chi%E1%BB%81u%20chi%E1%BA%BFu%20qua%20c%E1%BB%ADa%20s%E1%BB%95%2C%20t%E1%BA%A1o%20n%C3%AAn%20m%E1%BB%99t%20kh%C3%B4ng%20gian%20%E1%BA%A5m%20%C3%A1p%20v%C3%A0%20m%E1%BB%9Di%20g%E1%BB%8Di.%20H%C3%ACnh%20%E1%BA%A3nh%20n%C3%A0y%20n%C3%AAn%20truy%E1%BB%81n%20c%E1%BA%A3m%20h%E1%BB%A9ng%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20t%E1%BA%A1o%20ra%20nh%E1%BB%AFng%20g%C3%B3c%20nh%E1%BB%8F%20%E1%BA%A5m%20c%C3%BAng%20c%E1%BB%A7a%20ri%C3%AAng%20m%C3%ACnh%2C%20th%E1%BB%83%20hi%E1%BB%87n%20%C3%A1nh%20s%C3%A1ng%20n%E1%BB%99i%20th%E1%BA%A5t%20ch%C3%A2n%20th%E1%BB%B1c%20v%C3%A0%20c%E1%BA%A3m%20gi%C3%A1c%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%E1%BB%81%20kh%C3%B4ng%20gian.%20%E2%80%93ar%203%3A4)**
 
 ---
 
-<<<<<<< HEAD
-### No. 55: Phối Đồ Tối Giản Thanh Lịch Chụp Từ Trên Xuống
-=======
-### No. 58: Phối Đồ Tối Giản Thanh Lịch Chụp Từ Trên Xuống
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 59: Phối Đồ Tối Giản Thanh Lịch Chụp Từ Trên Xuống
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2184,15 +2043,11 @@ Một bức ảnh flat-lay tối giản và sang trọng về một bộ trang p
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20flat-lay%20t%E1%BB%91i%20gi%E1%BA%A3n%20v%C3%A0%20sang%20tr%E1%BB%8Dng%20v%E1%BB%81%20m%E1%BB%99t%20b%E1%BB%99%20trang%20ph%E1%BB%A5c%20%C4%91%C6%B0%E1%BB%A3c%20tuy%E1%BB%83n%20ch%E1%BB%8Dn%20cho%20b%C3%A0i%20%C4%91%C4%83ng%20%22look%20of%20the%20day%22.%20B%E1%BB%99%20trang%20ph%E1%BB%A5c%20bao%20g%E1%BB%93m%20m%E1%BB%99t%20chi%E1%BA%BFc%20qu%E1%BA%A7n%20jean%20vintage%2C%20m%E1%BB%99t%20chi%E1%BA%BFc%20%C3%A1o%20s%C6%A1%20mi%20linen%20tr%E1%BA%AFng%2C%20m%E1%BB%99t%20%C4%91%C3%B4i%20sandal%20da%2C%20m%E1%BB%99t%20chi%E1%BA%BFc%20m%C5%A9%20r%C6%A1m%20v%C3%A0%20%C4%91%E1%BB%93%20trang%20s%E1%BB%A9c%20v%C3%A0ng%20tinh%20x%E1%BA%A3o.%20C%C3%A1c%20m%C3%B3n%20%C4%91%E1%BB%93%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BA%AFp%20x%E1%BA%BFp%20g%E1%BB%8Dn%20g%C3%A0ng%20tr%C3%AAn%20s%C3%A0n%20g%E1%BB%97%20tr%E1%BA%AFng%20s%E1%BA%A1ch%20s%E1%BA%BD.%20%C3%81nh%20s%C3%A1ng%20t%E1%BB%B1%20nhi%C3%AAn%20v%C3%A0%20d%E1%BB%8Bu%20nh%E1%BA%B9.%20H%C3%ACnh%20%E1%BA%A3nh%20ph%E1%BA%A3i%20s%E1%BA%A1ch%20s%E1%BA%BD%2C%20phong%20c%C3%A1ch%20v%C3%A0%20truy%E1%BB%81n%20c%E1%BA%A3m%20h%E1%BB%A9ng%2C%20th%E1%BB%83%20hi%E1%BB%87n%20s%E1%BB%B1%20s%E1%BA%AFp%20%C4%91%E1%BA%B7t%20v%E1%BA%ADt%20th%E1%BB%83%20ch%C3%ADnh%20x%C3%A1c%20v%C3%A0%20k%E1%BA%BFt%20xu%E1%BA%A5t%20k%E1%BA%BFt%20c%E1%BA%A5u.%20%E2%80%93ar%204%3A5)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20flat-lay%20t%E1%BB%91i%20gi%E1%BA%A3n%20v%C3%A0%20sang%20tr%E1%BB%8Dng%20v%E1%BB%81%20m%E1%BB%99t%20b%E1%BB%99%20trang%20ph%E1%BB%A5c%20%C4%91%C6%B0%E1%BB%A3c%20tuy%E1%BB%83n%20ch%E1%BB%8Dn%20cho%20b%C3%A0i%20%C4%91%C4%83ng%20%22look%20of%20the%20day%22.%20B%E1%BB%99%20trang%20ph%E1%BB%A5c%20bao%20g%E1%BB%93m%20m%E1%BB%99t%20chi%E1%BA%BFc%20qu%E1%BA%A7n%20jean%20vintage%2C%20m%E1%BB%99t%20chi%E1%BA%BFc%20%C3%A1o%20s%C6%A1%20mi%20linen%20tr%E1%BA%AFng%2C%20m%E1%BB%99t%20%C4%91%C3%B4i%20sandal%20da%2C%20m%E1%BB%99t%20chi%E1%BA%BFc%20m%C5%A9%20r%C6%A1m%20v%C3%A0%20%C4%91%E1%BB%93%20trang%20s%E1%BB%A9c%20v%C3%A0ng%20tinh%20x%E1%BA%A3o.%20C%C3%A1c%20m%C3%B3n%20%C4%91%E1%BB%93%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BA%AFp%20x%E1%BA%BFp%20g%E1%BB%8Dn%20g%C3%A0ng%20tr%C3%AAn%20s%C3%A0n%20g%E1%BB%97%20tr%E1%BA%AFng%20s%E1%BA%A1ch%20s%E1%BA%BD.%20%C3%81nh%20s%C3%A1ng%20t%E1%BB%B1%20nhi%C3%AAn%20v%C3%A0%20d%E1%BB%8Bu%20nh%E1%BA%B9.%20H%C3%ACnh%20%E1%BA%A3nh%20ph%E1%BA%A3i%20s%E1%BA%A1ch%20s%E1%BA%BD%2C%20phong%20c%C3%A1ch%20v%C3%A0%20truy%E1%BB%81n%20c%E1%BA%A3m%20h%E1%BB%A9ng%2C%20th%E1%BB%83%20hi%E1%BB%87n%20s%E1%BB%B1%20s%E1%BA%AFp%20%C4%91%E1%BA%B7t%20v%E1%BA%ADt%20th%E1%BB%83%20ch%C3%ADnh%20x%C3%A1c%20v%C3%A0%20k%E1%BA%BFt%20xu%E1%BA%A5t%20k%E1%BA%BFt%20c%E1%BA%A5u.%20%E2%80%93ar%204%3A5)**
 
 ---
 
-<<<<<<< HEAD
-### No. 56: Khung cảnh chợ đêm Đài Bắc sôi động
-=======
-### No. 59: Khung cảnh chợ đêm Đài Bắc sôi động
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 60: Khung cảnh chợ đêm Đài Bắc sôi động
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2221,15 +2076,11 @@ Một bức ảnh ghi lại khung cảnh đường phố sôi động của mộ
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ghi%20l%E1%BA%A1i%20khung%20c%E1%BA%A3nh%20%C4%91%C6%B0%E1%BB%9Dng%20ph%E1%BB%91%20s%C3%B4i%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20m%E1%BB%99t%20khu%20ch%E1%BB%A3%20%C4%91%C3%AAm%20%E1%BB%9F%20%C4%90%C3%A0i%20B%E1%BA%AFc.%20Khung%20c%E1%BA%A3nh%20%C4%91%C3%B4ng%20%C4%91%C3%BAc%20ng%C6%B0%E1%BB%9Di%20qua%20l%E1%BA%A1i%2C%20kh%C3%B4ng%20kh%C3%AD%20tr%C3%A0n%20ng%E1%BA%ADp%20h%C6%A1i%20n%C6%B0%E1%BB%9Bc%20t%E1%BB%AB%20c%C3%A1c%20qu%E1%BA%A7y%20h%C3%A0ng%20%C4%83n%20u%E1%BB%91ng.%20Ch%E1%BB%A3%20%C4%91%C6%B0%E1%BB%A3c%20chi%E1%BA%BFu%20s%C3%A1ng%20b%E1%BB%9Fi%20s%E1%BB%B1%20pha%20tr%E1%BB%99n%20h%E1%BB%97n%20lo%E1%BA%A1n%20nh%C6%B0ng%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%20c%E1%BB%A7a%20%C4%91%C3%A8n%20l%E1%BB%93ng%20%C4%91%E1%BB%8F%20v%C3%A0%20%C4%91%C3%A8n%20hu%E1%BB%B3nh%20quang.%20H%C3%ACnh%20%E1%BA%A3nh%20ph%E1%BA%A3i%20tr%C3%A0n%20%C4%91%E1%BA%A7y%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20v%C3%A0%20chi%20ti%E1%BA%BFt%2C%20ghi%20l%E1%BA%A1i%20b%E1%BA%A7u%20kh%C3%B4ng%20kh%C3%AD%20ch%C3%A2n%20th%E1%BB%B1c%20c%E1%BB%A7a%20%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%20v%E1%BB%9Bi%20%C4%91%E1%BB%99%20g%E1%BA%AFn%20k%E1%BA%BFt%20c%E1%BA%A3nh%20cao%20v%C3%A0%20ki%E1%BA%BFn%20th%E1%BB%A9c%20th%E1%BA%BF%20gi%E1%BB%9Bi%20phong%20ph%C3%BA.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ghi%20l%E1%BA%A1i%20khung%20c%E1%BA%A3nh%20%C4%91%C6%B0%E1%BB%9Dng%20ph%E1%BB%91%20s%C3%B4i%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20m%E1%BB%99t%20khu%20ch%E1%BB%A3%20%C4%91%C3%AAm%20%E1%BB%9F%20%C4%90%C3%A0i%20B%E1%BA%AFc.%20Khung%20c%E1%BA%A3nh%20%C4%91%C3%B4ng%20%C4%91%C3%BAc%20ng%C6%B0%E1%BB%9Di%20qua%20l%E1%BA%A1i%2C%20kh%C3%B4ng%20kh%C3%AD%20tr%C3%A0n%20ng%E1%BA%ADp%20h%C6%A1i%20n%C6%B0%E1%BB%9Bc%20t%E1%BB%AB%20c%C3%A1c%20qu%E1%BA%A7y%20h%C3%A0ng%20%C4%83n%20u%E1%BB%91ng.%20Ch%E1%BB%A3%20%C4%91%C6%B0%E1%BB%A3c%20chi%E1%BA%BFu%20s%C3%A1ng%20b%E1%BB%9Fi%20s%E1%BB%B1%20pha%20tr%E1%BB%99n%20h%E1%BB%97n%20lo%E1%BA%A1n%20nh%C6%B0ng%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%20c%E1%BB%A7a%20%C4%91%C3%A8n%20l%E1%BB%93ng%20%C4%91%E1%BB%8F%20v%C3%A0%20%C4%91%C3%A8n%20hu%E1%BB%B3nh%20quang.%20H%C3%ACnh%20%E1%BA%A3nh%20ph%E1%BA%A3i%20tr%C3%A0n%20%C4%91%E1%BA%A7y%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20v%C3%A0%20chi%20ti%E1%BA%BFt%2C%20ghi%20l%E1%BA%A1i%20b%E1%BA%A7u%20kh%C3%B4ng%20kh%C3%AD%20ch%C3%A2n%20th%E1%BB%B1c%20c%E1%BB%A7a%20%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%20v%E1%BB%9Bi%20%C4%91%E1%BB%99%20g%E1%BA%AFn%20k%E1%BA%BFt%20c%E1%BA%A3nh%20cao%20v%C3%A0%20ki%E1%BA%BFn%20th%E1%BB%A9c%20th%E1%BA%BF%20gi%E1%BB%9Bi%20phong%20ph%C3%BA.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 57: Khung cảnh núi non nhìn từ lều
-=======
-### No. 60: Khung cảnh núi non nhìn từ lều
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 61: Khung cảnh núi non nhìn từ lều
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2258,15 +2109,11 @@ Một bức ảnh ngoạn mục chụp từ góc nhìn của một người đan
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ngo%E1%BA%A1n%20m%E1%BB%A5c%20ch%E1%BB%A5p%20t%E1%BB%AB%20g%C3%B3c%20nh%C3%ACn%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20%C4%91ang%20ng%E1%BB%93i%20b%C3%AAn%20trong%20l%E1%BB%81u%2C%20nh%C3%ACn%20ra%20khung%20c%E1%BA%A3nh%20n%C3%BAi%20non%20tuy%E1%BB%87t%20%C4%91%E1%BA%B9p%20l%C3%BAc%20b%C3%ACnh%20minh.%20C%E1%BB%ADa%20l%E1%BB%81u%20%C4%91%C3%B3ng%20khung%20t%E1%BA%A7m%20nh%C3%ACn%20ra%20h%E1%BB%93%20tr%C3%AAn%20n%C3%BAi%20cao%20trong%20v%E1%BA%AFt%20v%C3%A0%20nh%E1%BB%AFng%20%C4%91%E1%BB%89nh%20n%C3%BAi%20ph%E1%BB%A7%20tuy%E1%BA%BFt%20%C4%91%C3%B3n%20nh%E1%BB%AFng%20tia%20n%E1%BA%AFng%20%C4%91%E1%BA%A7u%20ti%C3%AAn.%20B%C3%AAn%20trong%20l%E1%BB%81u%20%E1%BA%A5m%20c%C3%BAng%2C%20v%E1%BB%9Bi%20t%C3%BAi%20ng%E1%BB%A7%20v%C3%A0%20c%E1%BB%91c%20c%E1%BA%AFm%20tr%E1%BA%A1i%20b%E1%BA%B1ng%20kim%20lo%E1%BA%A1i.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20s%E1%BB%B1%20hi%E1%BB%83u%20bi%E1%BA%BFt%20kh%C3%B4ng%20gian%20ph%E1%BB%A9c%20t%E1%BA%A1p%20v%C3%A0%20kh%E1%BA%A3%20n%C4%83ng%20k%E1%BA%BFt%20h%E1%BB%A3p%20li%E1%BB%81n%20m%E1%BA%A1ch%20c%C3%A1c%20c%E1%BA%A3nh%20b%C3%AAn%20trong%20v%C3%A0%20b%C3%AAn%20ngo%C3%A0i.%20%E2%80%93ar%203%3A2)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ngo%E1%BA%A1n%20m%E1%BB%A5c%20ch%E1%BB%A5p%20t%E1%BB%AB%20g%C3%B3c%20nh%C3%ACn%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20%C4%91ang%20ng%E1%BB%93i%20b%C3%AAn%20trong%20l%E1%BB%81u%2C%20nh%C3%ACn%20ra%20khung%20c%E1%BA%A3nh%20n%C3%BAi%20non%20tuy%E1%BB%87t%20%C4%91%E1%BA%B9p%20l%C3%BAc%20b%C3%ACnh%20minh.%20C%E1%BB%ADa%20l%E1%BB%81u%20%C4%91%C3%B3ng%20khung%20t%E1%BA%A7m%20nh%C3%ACn%20ra%20h%E1%BB%93%20tr%C3%AAn%20n%C3%BAi%20cao%20trong%20v%E1%BA%AFt%20v%C3%A0%20nh%E1%BB%AFng%20%C4%91%E1%BB%89nh%20n%C3%BAi%20ph%E1%BB%A7%20tuy%E1%BA%BFt%20%C4%91%C3%B3n%20nh%E1%BB%AFng%20tia%20n%E1%BA%AFng%20%C4%91%E1%BA%A7u%20ti%C3%AAn.%20B%C3%AAn%20trong%20l%E1%BB%81u%20%E1%BA%A5m%20c%C3%BAng%2C%20v%E1%BB%9Bi%20t%C3%BAi%20ng%E1%BB%A7%20v%C3%A0%20c%E1%BB%91c%20c%E1%BA%AFm%20tr%E1%BA%A1i%20b%E1%BA%B1ng%20kim%20lo%E1%BA%A1i.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20s%E1%BB%B1%20hi%E1%BB%83u%20bi%E1%BA%BFt%20kh%C3%B4ng%20gian%20ph%E1%BB%A9c%20t%E1%BA%A1p%20v%C3%A0%20kh%E1%BA%A3%20n%C4%83ng%20k%E1%BA%BFt%20h%E1%BB%A3p%20li%E1%BB%81n%20m%E1%BA%A1ch%20c%C3%A1c%20c%E1%BA%A3nh%20b%C3%AAn%20trong%20v%C3%A0%20b%C3%AAn%20ngo%C3%A0i.%20%E2%80%93ar%203%3A2)**
 
 ---
 
-<<<<<<< HEAD
-### No. 58: Dã Ngoại Lãng Mạn Giữa Cánh Đồng Hoa Oải Hương
-=======
-### No. 61: Dã Ngoại Lãng Mạn Giữa Cánh Đồng Hoa Oải Hương
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 62: Dã Ngoại Lãng Mạn Giữa Cánh Đồng Hoa Oải Hương
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2295,15 +2142,11 @@ Một bức ảnh lãng mạn và mơ màng về một cặp đôi đang dã ngo
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20l%C3%A3ng%20m%E1%BA%A1n%20v%C3%A0%20m%C6%A1%20m%C3%A0ng%20v%E1%BB%81%20m%E1%BB%99t%20c%E1%BA%B7p%20%C4%91%C3%B4i%20%C4%91ang%20d%C3%A3%20ngo%E1%BA%A1i%20l%C3%BAc%20ho%C3%A0ng%20h%C3%B4n%20t%E1%BA%A1i%20c%C3%A1nh%20%C4%91%E1%BB%93ng%20hoa%20o%E1%BA%A3i%20h%C6%B0%C6%A1ng%20%E1%BB%9F%20Provence%2C%20Ph%C3%A1p.%20H%E1%BB%8D%20%C4%91ang%20c%C6%B0%E1%BB%9Di%20%C4%91%C3%B9a%20v%C3%A0%20c%C3%B9ng%20nhau%20th%C6%B0%E1%BB%9Fng%20th%E1%BB%A9c%20m%E1%BB%99t%20chai%20r%C6%B0%E1%BB%A3u%20vang.%20M%E1%BA%B7t%20tr%E1%BB%9Di%20l%E1%BA%B7n%20t%E1%BA%A1o%20ra%20%C3%A1nh%20s%C3%A1ng%20%E1%BA%A5m%20%C3%A1p%20tuy%E1%BB%87t%20%C4%91%E1%BA%B9p%20v%C3%A0%20nh%E1%BB%AFng%20b%C3%B3ng%20%C4%91%E1%BB%95%20d%C3%A0i.%20Kh%C3%B4ng%20kh%C3%AD%20tr%C3%A0n%20ng%E1%BA%ADp%20m%E1%BB%99t%20l%C3%A0n%20s%C6%B0%C6%A1ng%20t%C3%ADm%20nh%E1%BA%B9%20nh%C3%A0ng%20t%E1%BB%AB%20hoa%20o%E1%BA%A3i%20h%C6%B0%C6%A1ng.%20B%E1%BB%A9c%20%E1%BA%A3nh%20n%C3%AAn%20mang%20l%E1%BA%A1i%20c%E1%BA%A3m%20gi%C3%A1c%20th%C3%A2n%20m%E1%BA%ADt%20v%C3%A0%20k%E1%BB%B3%20di%E1%BB%87u%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20d%E1%BB%B1ng%20h%C3%ACnh%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ti%C3%AAn%20ti%E1%BA%BFn%20v%C3%A0%20s%E1%BB%B1%20nh%E1%BA%A5t%20qu%C3%A1n%20c%E1%BA%A3m%20x%C3%BAc%20gi%E1%BB%AFa%20c%C3%A1c%20ch%E1%BB%A7%20th%E1%BB%83.%20%E2%80%93ar%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20l%C3%A3ng%20m%E1%BA%A1n%20v%C3%A0%20m%C6%A1%20m%C3%A0ng%20v%E1%BB%81%20m%E1%BB%99t%20c%E1%BA%B7p%20%C4%91%C3%B4i%20%C4%91ang%20d%C3%A3%20ngo%E1%BA%A1i%20l%C3%BAc%20ho%C3%A0ng%20h%C3%B4n%20t%E1%BA%A1i%20c%C3%A1nh%20%C4%91%E1%BB%93ng%20hoa%20o%E1%BA%A3i%20h%C6%B0%C6%A1ng%20%E1%BB%9F%20Provence%2C%20Ph%C3%A1p.%20H%E1%BB%8D%20%C4%91ang%20c%C6%B0%E1%BB%9Di%20%C4%91%C3%B9a%20v%C3%A0%20c%C3%B9ng%20nhau%20th%C6%B0%E1%BB%9Fng%20th%E1%BB%A9c%20m%E1%BB%99t%20chai%20r%C6%B0%E1%BB%A3u%20vang.%20M%E1%BA%B7t%20tr%E1%BB%9Di%20l%E1%BA%B7n%20t%E1%BA%A1o%20ra%20%C3%A1nh%20s%C3%A1ng%20%E1%BA%A5m%20%C3%A1p%20tuy%E1%BB%87t%20%C4%91%E1%BA%B9p%20v%C3%A0%20nh%E1%BB%AFng%20b%C3%B3ng%20%C4%91%E1%BB%95%20d%C3%A0i.%20Kh%C3%B4ng%20kh%C3%AD%20tr%C3%A0n%20ng%E1%BA%ADp%20m%E1%BB%99t%20l%C3%A0n%20s%C6%B0%C6%A1ng%20t%C3%ADm%20nh%E1%BA%B9%20nh%C3%A0ng%20t%E1%BB%AB%20hoa%20o%E1%BA%A3i%20h%C6%B0%C6%A1ng.%20B%E1%BB%A9c%20%E1%BA%A3nh%20n%C3%AAn%20mang%20l%E1%BA%A1i%20c%E1%BA%A3m%20gi%C3%A1c%20th%C3%A2n%20m%E1%BA%ADt%20v%C3%A0%20k%E1%BB%B3%20di%E1%BB%87u%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20d%E1%BB%B1ng%20h%C3%ACnh%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ti%C3%AAn%20ti%E1%BA%BFn%20v%C3%A0%20s%E1%BB%B1%20nh%E1%BA%A5t%20qu%C3%A1n%20c%E1%BA%A3m%20x%C3%BAc%20gi%E1%BB%AFa%20c%C3%A1c%20ch%E1%BB%A7%20th%E1%BB%83.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 59: Ảnh Chụp Từ Trên Cao Quá Trình Chế Tác Thư Pháp
-=======
-### No. 62: Ảnh Chụp Từ Trên Cao Quá Trình Chế Tác Thư Pháp
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 63: Ảnh Chụp Từ Trên Cao Quá Trình Chế Tác Thư Pháp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2332,15 +2175,11 @@ Một bức ảnh chụp từ trên cao được tạo kiểu đẹp mắt về 
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ch%E1%BB%A5p%20t%E1%BB%AB%20tr%C3%AAn%20cao%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20ki%E1%BB%83u%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%20v%E1%BB%81%20m%E1%BB%99t%20chi%E1%BA%BFc%20b%C3%A0n%20th%E1%BB%A7%20c%C3%B4ng%20n%C6%A1i%20ai%20%C4%91%C3%B3%20%C4%91ang%20luy%E1%BB%87n%20th%C6%B0%20ph%C3%A1p.%20Khung%20c%E1%BA%A3nh%20bao%20g%E1%BB%93m%20m%E1%BB%99t%20l%E1%BB%8D%20m%E1%BB%B1c%20%C4%91en%2C%20m%E1%BB%99t%20c%C3%A2y%20b%C3%BAt%20ch%E1%BA%A5m%20m%E1%BB%B1c%2C%20m%E1%BB%99t%20t%E1%BB%9D%20gi%E1%BA%A5y%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20cao%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20n%C3%A9t%20ch%E1%BB%AF%20thanh%20l%E1%BB%8Bch%20v%C3%A0%20v%C3%A0i%20b%C3%B4ng%20hoa%20kh%C3%B4%20%C4%91%E1%BB%83%20trang%20tr%C3%AD.%20%C3%81nh%20s%C3%A1ng%20d%E1%BB%8Bu%20nh%E1%BA%B9%20v%C3%A0%20t%E1%BA%ADp%20trung%20v%C3%A0o%20th%C6%B0%20ph%C3%A1p.%20H%C3%ACnh%20%E1%BA%A3nh%20n%C3%AAn%20thanh%20b%C3%ACnh%20v%C3%A0%20truy%E1%BB%81n%20c%E1%BA%A3m%20h%E1%BB%A9ng%2C%20ho%C3%A0n%20h%E1%BA%A3o%20cho%20ngu%E1%BB%93n%20c%E1%BA%A5p%20d%E1%BB%AF%20li%E1%BB%87u%20Instagram%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20s%E1%BB%9F%20th%C3%ADch%20s%C3%A1ng%20t%E1%BA%A1o%2C%20th%E1%BB%83%20hi%E1%BB%87n%20chi%20ti%E1%BA%BFt%20tinh%20x%E1%BA%A3o%20v%C3%A0%20c%C3%A1ch%20s%E1%BA%AFp%20x%E1%BA%BFp%20v%E1%BA%ADt%20th%E1%BB%83.%20%E2%80%93ar%201%3A1)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ch%E1%BB%A5p%20t%E1%BB%AB%20tr%C3%AAn%20cao%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20ki%E1%BB%83u%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%20v%E1%BB%81%20m%E1%BB%99t%20chi%E1%BA%BFc%20b%C3%A0n%20th%E1%BB%A7%20c%C3%B4ng%20n%C6%A1i%20ai%20%C4%91%C3%B3%20%C4%91ang%20luy%E1%BB%87n%20th%C6%B0%20ph%C3%A1p.%20Khung%20c%E1%BA%A3nh%20bao%20g%E1%BB%93m%20m%E1%BB%99t%20l%E1%BB%8D%20m%E1%BB%B1c%20%C4%91en%2C%20m%E1%BB%99t%20c%C3%A2y%20b%C3%BAt%20ch%E1%BA%A5m%20m%E1%BB%B1c%2C%20m%E1%BB%99t%20t%E1%BB%9D%20gi%E1%BA%A5y%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20cao%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20n%C3%A9t%20ch%E1%BB%AF%20thanh%20l%E1%BB%8Bch%20v%C3%A0%20v%C3%A0i%20b%C3%B4ng%20hoa%20kh%C3%B4%20%C4%91%E1%BB%83%20trang%20tr%C3%AD.%20%C3%81nh%20s%C3%A1ng%20d%E1%BB%8Bu%20nh%E1%BA%B9%20v%C3%A0%20t%E1%BA%ADp%20trung%20v%C3%A0o%20th%C6%B0%20ph%C3%A1p.%20H%C3%ACnh%20%E1%BA%A3nh%20n%C3%AAn%20thanh%20b%C3%ACnh%20v%C3%A0%20truy%E1%BB%81n%20c%E1%BA%A3m%20h%E1%BB%A9ng%2C%20ho%C3%A0n%20h%E1%BA%A3o%20cho%20ngu%E1%BB%93n%20c%E1%BA%A5p%20d%E1%BB%AF%20li%E1%BB%87u%20Instagram%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20s%E1%BB%9F%20th%C3%ADch%20s%C3%A1ng%20t%E1%BA%A1o%2C%20th%E1%BB%83%20hi%E1%BB%87n%20chi%20ti%E1%BA%BFt%20tinh%20x%E1%BA%A3o%20v%C3%A0%20c%C3%A1ch%20s%E1%BA%AFp%20x%E1%BA%BFp%20v%E1%BA%ADt%20th%E1%BB%83.%20%E2%80%93ar%201%3A1)**
 
 ---
 
-<<<<<<< HEAD
-### No. 60: Ảnh chụp buổi tập luyện của vận động viên nữ năng động
-=======
-### No. 63: Ảnh chụp buổi tập luyện của vận động viên nữ năng động
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 64: Ảnh chụp buổi tập luyện của vận động viên nữ năng động
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2369,15 +2208,11 @@ Một bức ảnh sống động và mạnh mẽ về một nữ vận động v
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%20v%C3%A0%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%E1%BB%81%20m%E1%BB%99t%20n%E1%BB%AF%20v%E1%BA%ADn%20%C4%91%E1%BB%99ng%20vi%C3%AAn%20%C4%91ang%20t%E1%BA%ADp%20luy%E1%BB%87n%20gi%E1%BB%AFa%20ch%E1%BB%ABng%20trong%20m%E1%BB%99t%20ph%C3%B2ng%20gym%20%C4%91%C3%B4%20th%E1%BB%8B%20b%E1%BB%A5i%20b%E1%BA%B7m.%20C%C3%B4%20%E1%BA%A5y%20%C4%91ang%20n%C3%A2ng%20m%E1%BB%99t%20thanh%20t%E1%BA%A1%20n%E1%BA%B7ng%2C%20c%C6%A1%20b%E1%BA%AFp%20s%C4%83n%20ch%E1%BA%AFc%20v%C3%A0%20c%C4%83ng%20c%E1%BB%A9ng.%20%C3%81nh%20s%C3%A1ng%20k%E1%BB%8Bch%20t%C3%ADnh%20v%C3%A0%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20cao%2C%20v%E1%BB%9Bi%20%C3%A1nh%20s%C3%A1ng%20chi%E1%BA%BFu%20qua%20m%E1%BB%99t%20c%E1%BB%ADa%20s%E1%BB%95%20l%E1%BB%9Bn%2C%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20c%C3%A1c%20h%E1%BA%A1t%20b%E1%BB%A5i%20trong%20kh%C3%B4ng%20kh%C3%AD.%20B%E1%BB%A9c%20%E1%BA%A3nh%20n%C3%AAn%20truy%E1%BB%81n%20t%E1%BA%A3i%20s%E1%BB%A9c%20m%E1%BA%A1nh%2C%20s%E1%BB%B1%20quy%E1%BA%BFt%20t%C3%A2m%20v%C3%A0%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20th%C3%B4%20s%C6%A1%2C%20th%E1%BB%83%20hi%E1%BB%87n%20h%C3%ACnh%20%E1%BA%A3nh%20gi%E1%BA%A3i%20ph%E1%BA%ABu%20ch%C3%ADnh%20x%C3%A1c%20v%C3%A0%20%C3%A1nh%20s%C3%A1ng%20t%E1%BA%A1o%20kh%C3%B4ng%20kh%C3%AD.%20%E2%80%93ar%204%3A5)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%20v%C3%A0%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%E1%BB%81%20m%E1%BB%99t%20n%E1%BB%AF%20v%E1%BA%ADn%20%C4%91%E1%BB%99ng%20vi%C3%AAn%20%C4%91ang%20t%E1%BA%ADp%20luy%E1%BB%87n%20gi%E1%BB%AFa%20ch%E1%BB%ABng%20trong%20m%E1%BB%99t%20ph%C3%B2ng%20gym%20%C4%91%C3%B4%20th%E1%BB%8B%20b%E1%BB%A5i%20b%E1%BA%B7m.%20C%C3%B4%20%E1%BA%A5y%20%C4%91ang%20n%C3%A2ng%20m%E1%BB%99t%20thanh%20t%E1%BA%A1%20n%E1%BA%B7ng%2C%20c%C6%A1%20b%E1%BA%AFp%20s%C4%83n%20ch%E1%BA%AFc%20v%C3%A0%20c%C4%83ng%20c%E1%BB%A9ng.%20%C3%81nh%20s%C3%A1ng%20k%E1%BB%8Bch%20t%C3%ADnh%20v%C3%A0%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20cao%2C%20v%E1%BB%9Bi%20%C3%A1nh%20s%C3%A1ng%20chi%E1%BA%BFu%20qua%20m%E1%BB%99t%20c%E1%BB%ADa%20s%E1%BB%95%20l%E1%BB%9Bn%2C%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20c%C3%A1c%20h%E1%BA%A1t%20b%E1%BB%A5i%20trong%20kh%C3%B4ng%20kh%C3%AD.%20B%E1%BB%A9c%20%E1%BA%A3nh%20n%C3%AAn%20truy%E1%BB%81n%20t%E1%BA%A3i%20s%E1%BB%A9c%20m%E1%BA%A1nh%2C%20s%E1%BB%B1%20quy%E1%BA%BFt%20t%C3%A2m%20v%C3%A0%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20th%C3%B4%20s%C6%A1%2C%20th%E1%BB%83%20hi%E1%BB%87n%20h%C3%ACnh%20%E1%BA%A3nh%20gi%E1%BA%A3i%20ph%E1%BA%ABu%20ch%C3%ADnh%20x%C3%A1c%20v%C3%A0%20%C3%A1nh%20s%C3%A1ng%20t%E1%BA%A1o%20kh%C3%B4ng%20kh%C3%AD.%20%E2%80%93ar%204%3A5)**
 
 ---
 
-<<<<<<< HEAD
-### No. 61: Ảnh Chụp Bánh Kếp Hấp Dẫn
-=======
-### No. 64: Ảnh Chụp Bánh Kếp Hấp Dẫn
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 65: Ảnh Chụp Bánh Kếp Hấp Dẫn
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2406,15 +2241,11 @@ Một bức ảnh cận cảnh cực kỳ hấp dẫn về một chồng bánh p
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20c%E1%BA%ADn%20c%E1%BA%A3nh%20c%E1%BB%B1c%20k%E1%BB%B3%20h%E1%BA%A5p%20d%E1%BA%ABn%20v%E1%BB%81%20m%E1%BB%99t%20ch%E1%BB%93ng%20b%C3%A1nh%20pancake%20m%E1%BB%81m%20m%E1%BB%8Bn%2C%20d%C3%A0nh%20cho%20m%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i%20c%E1%BB%A7a%20m%E1%BB%99t%20blogger%20%E1%BA%A9m%20th%E1%BB%B1c.%20Nh%E1%BB%AFng%20chi%E1%BA%BFc%20b%C3%A1nh%20pancake%20%C4%91%C6%B0%E1%BB%A3c%20r%C6%B0%E1%BB%9Bi%20si-r%C3%B4%20phong%2C%20b%C3%AAn%20tr%C3%AAn%20c%C3%B3%20m%E1%BB%99t%20mi%E1%BA%BFng%20b%C6%A1%20%C4%91ang%20tan%20ch%E1%BA%A3y%2C%20v%C3%A0%20%C4%91%C6%B0%E1%BB%A3c%20trang%20tr%C3%AD%20b%E1%BA%B1ng%20qu%E1%BA%A3%20vi%E1%BB%87t%20qu%E1%BA%A5t%20v%C3%A0%20qu%E1%BA%A3%20m%C3%A2m%20x%C3%B4i%20t%C6%B0%C6%A1i.%20H%C6%A1i%20n%C6%B0%E1%BB%9Bc%20n%C3%AAn%20b%E1%BB%91c%20l%C3%AAn%20nh%E1%BA%B9%20nh%C3%A0ng%20t%E1%BB%AB%20ch%E1%BB%93ng%20b%C3%A1nh.%20%C3%81nh%20s%C3%A1ng%20n%C3%AAn%20%E1%BA%A5m%20%C3%A1p%20v%C3%A0%20m%E1%BB%9Di%20g%E1%BB%8Di%2C%20l%C3%A0m%20cho%20m%C3%B3n%20%C4%83n%20tr%C3%B4ng%20kh%C3%B4ng%20th%E1%BB%83%20c%C6%B0%E1%BB%A1ng%20l%E1%BA%A1i.%20Ti%C3%AAu%20%C4%91i%E1%BB%83m%20s%E1%BA%AFc%20n%C3%A9t%20v%C3%A0o%20k%E1%BA%BFt%20c%E1%BA%A5u%20c%E1%BB%A7a%20b%C3%A1nh%20pancake%20v%C3%A0%20si-r%C3%B4%20%C3%B3ng%20%C3%A1nh%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20k%E1%BA%BFt%20xu%E1%BA%A5t%20m%C3%B3n%20%C4%83n%20si%C3%AAu%20th%E1%BB%B1c.%20%E2%80%93ar%201%3A1)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20c%E1%BA%ADn%20c%E1%BA%A3nh%20c%E1%BB%B1c%20k%E1%BB%B3%20h%E1%BA%A5p%20d%E1%BA%ABn%20v%E1%BB%81%20m%E1%BB%99t%20ch%E1%BB%93ng%20b%C3%A1nh%20pancake%20m%E1%BB%81m%20m%E1%BB%8Bn%2C%20d%C3%A0nh%20cho%20m%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i%20c%E1%BB%A7a%20m%E1%BB%99t%20blogger%20%E1%BA%A9m%20th%E1%BB%B1c.%20Nh%E1%BB%AFng%20chi%E1%BA%BFc%20b%C3%A1nh%20pancake%20%C4%91%C6%B0%E1%BB%A3c%20r%C6%B0%E1%BB%9Bi%20si-r%C3%B4%20phong%2C%20b%C3%AAn%20tr%C3%AAn%20c%C3%B3%20m%E1%BB%99t%20mi%E1%BA%BFng%20b%C6%A1%20%C4%91ang%20tan%20ch%E1%BA%A3y%2C%20v%C3%A0%20%C4%91%C6%B0%E1%BB%A3c%20trang%20tr%C3%AD%20b%E1%BA%B1ng%20qu%E1%BA%A3%20vi%E1%BB%87t%20qu%E1%BA%A5t%20v%C3%A0%20qu%E1%BA%A3%20m%C3%A2m%20x%C3%B4i%20t%C6%B0%C6%A1i.%20H%C6%A1i%20n%C6%B0%E1%BB%9Bc%20n%C3%AAn%20b%E1%BB%91c%20l%C3%AAn%20nh%E1%BA%B9%20nh%C3%A0ng%20t%E1%BB%AB%20ch%E1%BB%93ng%20b%C3%A1nh.%20%C3%81nh%20s%C3%A1ng%20n%C3%AAn%20%E1%BA%A5m%20%C3%A1p%20v%C3%A0%20m%E1%BB%9Di%20g%E1%BB%8Di%2C%20l%C3%A0m%20cho%20m%C3%B3n%20%C4%83n%20tr%C3%B4ng%20kh%C3%B4ng%20th%E1%BB%83%20c%C6%B0%E1%BB%A1ng%20l%E1%BA%A1i.%20Ti%C3%AAu%20%C4%91i%E1%BB%83m%20s%E1%BA%AFc%20n%C3%A9t%20v%C3%A0o%20k%E1%BA%BFt%20c%E1%BA%A5u%20c%E1%BB%A7a%20b%C3%A1nh%20pancake%20v%C3%A0%20si-r%C3%B4%20%C3%B3ng%20%C3%A1nh%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20k%E1%BA%BFt%20xu%E1%BA%A5t%20m%C3%B3n%20%C4%83n%20si%C3%AAu%20th%E1%BB%B1c.%20%E2%80%93ar%201%3A1)**
 
 ---
 
-<<<<<<< HEAD
-### No. 62: Phong cách đường phố của người có ảnh hưởng thời trang Paris
-=======
-### No. 65: Phong cách đường phố của người có ảnh hưởng thời trang Paris
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 66: Phong cách đường phố của người có ảnh hưởng thời trang Paris
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2443,15 +2274,11 @@ Một bức ảnh street style của một influencer thời trang ở Paris tro
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20street%20style%20c%E1%BB%A7a%20m%E1%BB%99t%20influencer%20th%E1%BB%9Di%20trang%20%E1%BB%9F%20Paris%20trong%20Tu%E1%BA%A7n%20l%E1%BB%85%20th%E1%BB%9Di%20trang.%20C%C3%B4%20%E1%BA%A5y%20%C4%91ang%20m%E1%BA%B7c%20m%E1%BB%99t%20b%E1%BB%99%20trang%20ph%E1%BB%A5c%20avant-garde%20v%C3%A0%20t%E1%BB%B1%20tin%20t%E1%BA%A1o%20d%C3%A1ng%20tr%C6%B0%E1%BB%9Bc%20Kim%20t%E1%BB%B1%20th%C3%A1p%20Louvre.%20Ph%C3%B4ng%20n%E1%BB%81n%20h%C6%A1i%20m%E1%BB%9D%20%C4%91%E1%BB%83%20gi%E1%BB%AF%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20v%C3%A0o%20c%C3%B4%20%E1%BA%A5y%2C%20nh%C6%B0ng%20%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%20mang%20t%C3%ADnh%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20v%E1%BA%ABn%20c%C3%B3%20th%E1%BB%83%20nh%E1%BA%ADn%20ra.%20%C3%81nh%20s%C3%A1ng%20n%C3%AAn%20l%C3%A0%20tr%E1%BB%9Di%20nhi%E1%BB%81u%20m%C3%A2y%20nh%C6%B0ng%20v%E1%BA%ABn%20s%C3%A1ng%2C%20%C4%91%E1%BA%B7c%20tr%C6%B0ng%20c%E1%BB%A7a%20Paris%2C%20t%E1%BA%A1o%20ra%20nh%E1%BB%AFng%20b%C3%B3ng%20%C4%91%E1%BB%95%20m%E1%BB%81m%20m%E1%BA%A1i%20v%C3%A0%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20m%C3%A0u%20s%E1%BA%AFc%20c%C5%A9ng%20nh%C6%B0%20k%E1%BA%BFt%20c%E1%BA%A5u%20c%E1%BB%A7a%20trang%20ph%E1%BB%A5c%20c%C3%B4%20%E1%BA%A5y.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20s%E1%BB%B1%20nh%E1%BA%A5t%20qu%C3%A1n%20cao%20v%E1%BB%81%20chi%20ti%E1%BA%BFt%20ch%E1%BB%A7%20th%E1%BB%83%20v%C3%A0%20b%E1%BB%91i%20c%E1%BA%A3nh%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ch%C3%ADnh%20x%C3%A1c.%20%E2%80%93ar%203%3A4)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20street%20style%20c%E1%BB%A7a%20m%E1%BB%99t%20influencer%20th%E1%BB%9Di%20trang%20%E1%BB%9F%20Paris%20trong%20Tu%E1%BA%A7n%20l%E1%BB%85%20th%E1%BB%9Di%20trang.%20C%C3%B4%20%E1%BA%A5y%20%C4%91ang%20m%E1%BA%B7c%20m%E1%BB%99t%20b%E1%BB%99%20trang%20ph%E1%BB%A5c%20avant-garde%20v%C3%A0%20t%E1%BB%B1%20tin%20t%E1%BA%A1o%20d%C3%A1ng%20tr%C6%B0%E1%BB%9Bc%20Kim%20t%E1%BB%B1%20th%C3%A1p%20Louvre.%20Ph%C3%B4ng%20n%E1%BB%81n%20h%C6%A1i%20m%E1%BB%9D%20%C4%91%E1%BB%83%20gi%E1%BB%AF%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20v%C3%A0o%20c%C3%B4%20%E1%BA%A5y%2C%20nh%C6%B0ng%20%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%20mang%20t%C3%ADnh%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20v%E1%BA%ABn%20c%C3%B3%20th%E1%BB%83%20nh%E1%BA%ADn%20ra.%20%C3%81nh%20s%C3%A1ng%20n%C3%AAn%20l%C3%A0%20tr%E1%BB%9Di%20nhi%E1%BB%81u%20m%C3%A2y%20nh%C6%B0ng%20v%E1%BA%ABn%20s%C3%A1ng%2C%20%C4%91%E1%BA%B7c%20tr%C6%B0ng%20c%E1%BB%A7a%20Paris%2C%20t%E1%BA%A1o%20ra%20nh%E1%BB%AFng%20b%C3%B3ng%20%C4%91%E1%BB%95%20m%E1%BB%81m%20m%E1%BA%A1i%20v%C3%A0%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20m%C3%A0u%20s%E1%BA%AFc%20c%C5%A9ng%20nh%C6%B0%20k%E1%BA%BFt%20c%E1%BA%A5u%20c%E1%BB%A7a%20trang%20ph%E1%BB%A5c%20c%C3%B4%20%E1%BA%A5y.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20s%E1%BB%B1%20nh%E1%BA%A5t%20qu%C3%A1n%20cao%20v%E1%BB%81%20chi%20ti%E1%BA%BFt%20ch%E1%BB%A7%20th%E1%BB%83%20v%C3%A0%20b%E1%BB%91i%20c%E1%BA%A3nh%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ch%C3%ADnh%20x%C3%A1c.%20%E2%80%93ar%203%3A4)**
 
 ---
 
-<<<<<<< HEAD
-### No. 63: Chó con Golden Retriever trong lá mùa thu
-=======
-### No. 66: Chó con Golden Retriever trong lá mùa thu
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 67: Chó con Golden Retriever trong lá mùa thu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2480,15 +2307,11 @@ Một bức ảnh chân thực, ấm áp về một chú chó Golden Retriever c
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ch%C3%A2n%20th%E1%BB%B1c%2C%20%E1%BA%A5m%20%C3%A1p%20v%E1%BB%81%20m%E1%BB%99t%20ch%C3%BA%20ch%C3%B3%20Golden%20Retriever%20con%20%C4%91ang%20ch%C6%A1i%20%C4%91%C3%B9a%20trong%20c%C3%A1nh%20%C4%91%E1%BB%93ng%20l%C3%A1%20m%C3%B9a%20thu.%20Ch%C3%BA%20ch%C3%B3%20%C4%91ang%20%E1%BB%9F%20gi%E1%BB%AFa%20c%C3%BA%20nh%E1%BA%A3y%2C%20l%C3%A1%20bay%20xung%20quanh%2C%20v%E1%BB%9Bi%20v%E1%BA%BB%20m%E1%BA%B7t%20vui%20t%C6%B0%C6%A1i.%20%C3%81nh%20n%E1%BA%AFng%20chi%E1%BB%81u%20n%C3%AAn%20t%E1%BA%A1o%20ra%20m%E1%BB%99t%20%C3%A1nh%20s%C3%A1ng%20v%C3%A0ng%20tuy%E1%BB%87t%20%C4%91%E1%BA%B9p%20t%E1%BB%AB%20ph%C3%ADa%20sau%2C%20l%C3%A0m%20cho%20khung%20c%E1%BA%A3nh%20tr%E1%BB%9F%20n%C3%AAn%20%E1%BA%A5m%20%C3%A1p%20v%C3%A0%20k%E1%BB%B3%20di%E1%BB%87u.%20Ti%C3%AAu%20%C4%91i%E1%BB%83m%20n%C3%AAn%20ho%C3%A0n%20h%E1%BA%A3o%20v%C3%A0o%20%C4%91%C3%B4i%20m%E1%BA%AFt%20c%E1%BB%A7a%20ch%C3%BA%20ch%C3%B3%20con%2C%20n%E1%BA%AFm%20b%E1%BA%AFt%20tinh%20th%E1%BA%A7n%20vui%20t%C6%B0%C6%A1i%20c%E1%BB%A7a%20n%C3%B3.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20th%E1%BB%83%20hi%E1%BB%87n%20h%C3%A0nh%20%C4%91%E1%BB%99ng%20n%C4%83ng%20%C4%91%E1%BB%99ng%20v%C3%A0%20c%E1%BA%A3m%20x%C3%BAc%20%E1%BB%9F%20%C4%91%E1%BB%99ng%20v%E1%BA%ADt.%20%E2%80%93ar%203%3A2)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ch%C3%A2n%20th%E1%BB%B1c%2C%20%E1%BA%A5m%20%C3%A1p%20v%E1%BB%81%20m%E1%BB%99t%20ch%C3%BA%20ch%C3%B3%20Golden%20Retriever%20con%20%C4%91ang%20ch%C6%A1i%20%C4%91%C3%B9a%20trong%20c%C3%A1nh%20%C4%91%E1%BB%93ng%20l%C3%A1%20m%C3%B9a%20thu.%20Ch%C3%BA%20ch%C3%B3%20%C4%91ang%20%E1%BB%9F%20gi%E1%BB%AFa%20c%C3%BA%20nh%E1%BA%A3y%2C%20l%C3%A1%20bay%20xung%20quanh%2C%20v%E1%BB%9Bi%20v%E1%BA%BB%20m%E1%BA%B7t%20vui%20t%C6%B0%C6%A1i.%20%C3%81nh%20n%E1%BA%AFng%20chi%E1%BB%81u%20n%C3%AAn%20t%E1%BA%A1o%20ra%20m%E1%BB%99t%20%C3%A1nh%20s%C3%A1ng%20v%C3%A0ng%20tuy%E1%BB%87t%20%C4%91%E1%BA%B9p%20t%E1%BB%AB%20ph%C3%ADa%20sau%2C%20l%C3%A0m%20cho%20khung%20c%E1%BA%A3nh%20tr%E1%BB%9F%20n%C3%AAn%20%E1%BA%A5m%20%C3%A1p%20v%C3%A0%20k%E1%BB%B3%20di%E1%BB%87u.%20Ti%C3%AAu%20%C4%91i%E1%BB%83m%20n%C3%AAn%20ho%C3%A0n%20h%E1%BA%A3o%20v%C3%A0o%20%C4%91%C3%B4i%20m%E1%BA%AFt%20c%E1%BB%A7a%20ch%C3%BA%20ch%C3%B3%20con%2C%20n%E1%BA%AFm%20b%E1%BA%AFt%20tinh%20th%E1%BA%A7n%20vui%20t%C6%B0%C6%A1i%20c%E1%BB%A7a%20n%C3%B3.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20th%E1%BB%83%20hi%E1%BB%87n%20h%C3%A0nh%20%C4%91%E1%BB%99ng%20n%C4%83ng%20%C4%91%E1%BB%99ng%20v%C3%A0%20c%E1%BA%A3m%20x%C3%BAc%20%E1%BB%9F%20%C4%91%E1%BB%99ng%20v%E1%BA%ADt.%20%E2%80%93ar%203%3A2)**
 
 ---
 
-<<<<<<< HEAD
-### No. 64: Cảnh quay du lịch một mình đậm chất điện ảnh
-=======
-### No. 67: Cảnh quay du lịch một mình đậm chất điện ảnh
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 68: Cảnh quay du lịch một mình đậm chất điện ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2517,15 +2340,11 @@ Một bức ảnh chân thực, đậm chất điện ảnh về một phụ n�
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ch%C3%A2n%20th%E1%BB%B1c%2C%20%C4%91%E1%BA%ADm%20ch%E1%BA%A5t%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20v%E1%BB%81%20m%E1%BB%99t%20ph%E1%BB%A5%20n%E1%BB%AF%20tr%E1%BA%BB%20%C4%91ang%20trong%20chuy%E1%BA%BFn%20phi%C3%AAu%20l%C6%B0u%20du%20l%E1%BB%8Bch%20m%E1%BB%99t%20m%C3%ACnh%2C%20ng%E1%BB%93i%20c%E1%BA%A1nh%20c%E1%BB%ADa%20s%E1%BB%95%20c%E1%BB%A7a%20m%E1%BB%99t%20chuy%E1%BA%BFn%20t%C3%A0u%20%C4%91ang%20di%20chuy%E1%BB%83n.%20C%C3%B4%20%E1%BA%A5y%20nh%C3%ACn%20%C4%91%C4%83m%20chi%C3%AAu%20v%C3%A0o%20phong%20c%E1%BA%A3nh%20%C4%91ang%20l%C6%B0%E1%BB%9Bt%20qua%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20ng%E1%BB%8Dn%20%C4%91%E1%BB%93i%20xanh%20thoai%20tho%E1%BA%A3i%20v%C3%A0%20n%C3%BAi%20non%20m%E1%BB%9D%20s%C6%B0%C6%A1ng.%20H%C3%ACnh%20%E1%BA%A3nh%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20n%E1%BB%99i%20th%E1%BA%A5t%20t%C3%A0u%20h%C6%A1i%20hi%E1%BB%87n%20r%C3%B5%20tr%C3%AAn%20c%E1%BB%ADa%20s%E1%BB%95.%20Ph%E1%BB%91i%20m%C3%A0u%20n%C3%AAn%20u%20%C3%A1m%20v%C3%A0%20%C4%91%E1%BA%A7y%20kh%C3%B4ng%20kh%C3%AD%2C%20v%E1%BB%9Bi%20m%E1%BB%99t%20ch%C3%BAt%20nhi%E1%BB%85u%20h%E1%BA%A1t%20phim%20%C4%91%E1%BB%83%20g%E1%BB%A3i%20l%C3%AAn%20c%E1%BA%A3m%20gi%C3%A1c%20khao%20kh%C3%A1t%20x%C3%AA%20d%E1%BB%8Bch%20v%C3%A0%20n%E1%BB%99i%20t%C3%A2m.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20ki%E1%BB%83m%20so%C3%A1t%20%C3%A1nh%20s%C3%A1ng%2C%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20v%C3%A0%20t%C3%A2m%20tr%E1%BA%A1ng%20n%C3%A2ng%20cao%20cho%20b%C3%A0i%20%C4%91%C4%83ng%20c%E1%BB%A7a%20m%E1%BB%99t%20blogger%20du%20l%E1%BB%8Bch.%20%E2%80%93ar%204%3A5)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ch%C3%A2n%20th%E1%BB%B1c%2C%20%C4%91%E1%BA%ADm%20ch%E1%BA%A5t%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20v%E1%BB%81%20m%E1%BB%99t%20ph%E1%BB%A5%20n%E1%BB%AF%20tr%E1%BA%BB%20%C4%91ang%20trong%20chuy%E1%BA%BFn%20phi%C3%AAu%20l%C6%B0u%20du%20l%E1%BB%8Bch%20m%E1%BB%99t%20m%C3%ACnh%2C%20ng%E1%BB%93i%20c%E1%BA%A1nh%20c%E1%BB%ADa%20s%E1%BB%95%20c%E1%BB%A7a%20m%E1%BB%99t%20chuy%E1%BA%BFn%20t%C3%A0u%20%C4%91ang%20di%20chuy%E1%BB%83n.%20C%C3%B4%20%E1%BA%A5y%20nh%C3%ACn%20%C4%91%C4%83m%20chi%C3%AAu%20v%C3%A0o%20phong%20c%E1%BA%A3nh%20%C4%91ang%20l%C6%B0%E1%BB%9Bt%20qua%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20ng%E1%BB%8Dn%20%C4%91%E1%BB%93i%20xanh%20thoai%20tho%E1%BA%A3i%20v%C3%A0%20n%C3%BAi%20non%20m%E1%BB%9D%20s%C6%B0%C6%A1ng.%20H%C3%ACnh%20%E1%BA%A3nh%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20n%E1%BB%99i%20th%E1%BA%A5t%20t%C3%A0u%20h%C6%A1i%20hi%E1%BB%87n%20r%C3%B5%20tr%C3%AAn%20c%E1%BB%ADa%20s%E1%BB%95.%20Ph%E1%BB%91i%20m%C3%A0u%20n%C3%AAn%20u%20%C3%A1m%20v%C3%A0%20%C4%91%E1%BA%A7y%20kh%C3%B4ng%20kh%C3%AD%2C%20v%E1%BB%9Bi%20m%E1%BB%99t%20ch%C3%BAt%20nhi%E1%BB%85u%20h%E1%BA%A1t%20phim%20%C4%91%E1%BB%83%20g%E1%BB%A3i%20l%C3%AAn%20c%E1%BA%A3m%20gi%C3%A1c%20khao%20kh%C3%A1t%20x%C3%AA%20d%E1%BB%8Bch%20v%C3%A0%20n%E1%BB%99i%20t%C3%A2m.%20%C4%90i%E1%BB%81u%20n%C3%A0y%20th%E1%BB%83%20hi%E1%BB%87n%20kh%E1%BA%A3%20n%C4%83ng%20ki%E1%BB%83m%20so%C3%A1t%20%C3%A1nh%20s%C3%A1ng%2C%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20v%C3%A0%20t%C3%A2m%20tr%E1%BA%A1ng%20n%C3%A2ng%20cao%20cho%20b%C3%A0i%20%C4%91%C4%83ng%20c%E1%BB%A7a%20m%E1%BB%99t%20blogger%20du%20l%E1%BB%8Bch.%20%E2%80%93ar%204%3A5)**
 
 ---
 
-<<<<<<< HEAD
-### No. 65: Lưới nghệ thuật phim ba ô
-=======
-### No. 68: Lưới nghệ thuật phim ba ô
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 69: Lưới nghệ thuật phim ba ô
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2555,15 +2374,11 @@ Chỉnh sửa hình ảnh thành một bức chân dung nghệ thuật có kết
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Ch%E1%BB%89nh%20s%E1%BB%ADa%20h%C3%ACnh%20%E1%BA%A3nh%20th%C3%A0nh%20m%E1%BB%99t%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20ngh%E1%BB%87%20thu%E1%BA%ADt%20c%C3%B3%20k%E1%BA%BFt%20c%E1%BA%A5u%20phim%20l%C6%B0%E1%BB%9Bi%20ba%20%C3%B4%20%C4%91%E1%BB%81u%20nhau.%20B%E1%BB%91i%20c%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20bu%E1%BB%95i%20chi%E1%BB%81u%20xanh%20m%C3%A1t.%20M%E1%BA%B7t%20tr%E1%BB%9Di%20%C4%91ang%20chi%E1%BA%BFu%20s%C3%A1ng%20r%E1%BB%B1c%20r%E1%BB%A1.%20Nh%C3%A2n%20v%E1%BA%ADt%20trong%20%E1%BA%A3nh%20nh%E1%BA%A5t%20qu%C3%A1n%20v%E1%BB%9Bi%20h%C3%ACnh%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu%2C%20m%E1%BA%B7c%20m%E1%BB%99t%20chi%E1%BA%BFc%20%7Bargument%20name%3D%22clothing%22%20default%3D%22v%C3%A1y%20tr%E1%BA%AFng%22%7D.%20C%E1%BA%A3nh%20%C4%91%E1%BA%A7u%20ti%C3%AAn%20l%C3%A0%20m%E1%BB%99t%20c%E1%BA%A3nh%20trung%20b%C3%ACnh%2C%20ch%E1%BB%A5p%20t%E1%BB%AB%20b%C3%AAn%20c%E1%BA%A1nh%2C%20nh%C3%A2n%20v%E1%BA%ADt%20%C4%91ang%20ch%E1%BA%A1y%20v%E1%BB%81%20ph%C3%ADa%20%7Bargument%20name%3D%22direction%22%20default%3D%22b%C3%AAn%20ph%E1%BA%A3i%22%7D%20trong%20m%E1%BB%99t%20khu%20v%C6%B0%E1%BB%9Dn%20Monet%20xanh%20m%C6%B0%E1%BB%9Bt%2C%20ph%C6%A1i%20s%C3%A1ng%20qu%C3%A1%20m%E1%BB%A9c%2C%20tay%20c%E1%BA%A7m%20m%E1%BB%99t%20%7Bargument%20name%3D%22item%22%20default%3D%22b%C3%B3%20hoa%20l%E1%BB%99ng%20l%E1%BA%ABy%22%7D.%20C%E1%BA%A3nh%20th%E1%BB%A9%20hai%20l%C3%A0%20m%E1%BB%99t%20c%E1%BA%ADn%20c%E1%BA%A3nh%2C%20ch%E1%BB%A5p%20b%C3%B3%20hoa%2C%20ph%C6%A1i%20s%C3%A1ng%20qu%C3%A1%20m%E1%BB%A9c%2C%20l%C3%A0m%20m%E1%BB%9D%20%C4%91%E1%BB%99ng.%20C%E1%BA%A3nh%20th%E1%BB%A9%20ba%20l%C3%A0%20m%E1%BB%99t%20c%E1%BA%ADn%20c%E1%BA%A3nh%20l%E1%BB%9Bn%20c%E1%BB%A7a%20nh%C3%A2n%20v%E1%BA%ADt%2C%20h%C3%ACnh%20%E1%BA%A3nh%20nh%C3%A2n%20v%E1%BA%ADt%20%C4%91ang%20ch%E1%BA%A1y%2C%20h%C6%B0%E1%BB%9Bng%20v%E1%BB%81%20b%C3%AAn%20ph%E1%BA%A3i%2C%20ph%C6%A1i%20s%C3%A1ng%20qu%C3%A1%20m%E1%BB%A9c%2C%20l%C3%A0m%20m%E1%BB%9D%20%C4%91%E1%BB%99ng%2C%20h%E1%BA%ADu%20c%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20khu%20v%C6%B0%E1%BB%9Dn%20xanh%2C%20t%E1%BA%A1o%20%C3%A1nh%20s%C3%A1ng%20cho%20m%E1%BA%AFt%20nh%C3%A2n%20v%E1%BA%ADt%2C%20cho%20ph%C3%A9p%20bi%E1%BB%83u%20c%E1%BA%A3m%20c%E1%BB%A7a%20nh%C3%A2n%20v%E1%BA%ADt%20mang%20l%E1%BA%A1i%20c%E1%BA%A3m%20gi%C3%A1c%20u%20s%E1%BA%A7u%20v%C3%A0%20hy%20v%E1%BB%8Dng.%20Nhi%E1%BA%BFp%20%E1%BA%A3nh%20ch%C3%A2n%20dung%2C%20phong%20c%C3%A1ch%20t%E1%BA%A1o%20%E1%BA%A3nh%20v%E1%BB%9Bi%20hi%E1%BB%87u%20%E1%BB%A9ng%20%C4%91%C3%A8n%20flash%20m%E1%BA%A1nh%2C%20tr%E1%BB%B1c%20ti%E1%BA%BFp%3A%20ch%E1%BA%BF%20%C4%91%E1%BB%99%20n%E1%BB%95i%20b%E1%BA%ADt%2C%20ph%C6%A1i%20s%C3%A1ng%20ti%E1%BB%81n%20c%E1%BA%A3nh%2C%20si%C3%AAu%20th%E1%BB%B1c%2C%20kh%C3%B4ng%20kh%C3%AD%20%C3%A1nh%20s%C3%A1ng%20v%C3%A0%20b%C3%B3ng%20t%E1%BB%91i%2C%20%C3%A1nh%20s%C3%A1ng%20v%C3%A0%20b%C3%B3ng%20t%E1%BB%91i%20l%E1%BA%A5p%20l%C3%A1nh%20tinh%20t%E1%BA%BF%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20phim%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20m%C6%A1%20m%C3%A0ng%2C%20l%C3%A0m%20m%E1%BB%9D%20%C4%91%E1%BB%99ng%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20m%C3%A0n%20tr%E1%BA%ADp%20ch%E1%BA%ADm%2C%20phim%20d%C6%B0%C6%A1ng%20b%E1%BA%A3n%20v%C3%A0%20%C3%A2m%20b%E1%BA%A3n%2C%20phim%20b%C3%B3c%20t%C3%A1ch%2C%20t%E1%BB%91i%20gi%E1%BA%A3n%2C%20b%E1%BB%91%20c%E1%BB%A5c%20c%E1%BB%B1c%20%C4%91oan%2C%20h%E1%BB%8Da%20ti%E1%BA%BFt%20m%E1%BB%9D%20vi%E1%BB%81n%2C%20r%C3%B2%20r%E1%BB%89%20%C3%A1nh%20s%C3%A1ng.%20Ph%E1%BB%A5%20%C4%91%E1%BB%81%20n%E1%BA%B1m%20%E1%BB%9F%20gi%E1%BB%AFa%20d%C6%B0%E1%BB%9Bi%20c%C3%B9ng%2C%20l%C6%B0%E1%BB%9Bi%20ba%20%C3%B4%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BB%95ng%20h%E1%BB%A3p%20th%C3%A0nh%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh.%20T%E1%BB%B7%20l%E1%BB%87%203%3A4.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=Ch%E1%BB%89nh%20s%E1%BB%ADa%20h%C3%ACnh%20%E1%BA%A3nh%20th%C3%A0nh%20m%E1%BB%99t%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20ngh%E1%BB%87%20thu%E1%BA%ADt%20c%C3%B3%20k%E1%BA%BFt%20c%E1%BA%A5u%20phim%20l%C6%B0%E1%BB%9Bi%20ba%20%C3%B4%20%C4%91%E1%BB%81u%20nhau.%20B%E1%BB%91i%20c%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20bu%E1%BB%95i%20chi%E1%BB%81u%20xanh%20m%C3%A1t.%20M%E1%BA%B7t%20tr%E1%BB%9Di%20%C4%91ang%20chi%E1%BA%BFu%20s%C3%A1ng%20r%E1%BB%B1c%20r%E1%BB%A1.%20Nh%C3%A2n%20v%E1%BA%ADt%20trong%20%E1%BA%A3nh%20nh%E1%BA%A5t%20qu%C3%A1n%20v%E1%BB%9Bi%20h%C3%ACnh%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu%2C%20m%E1%BA%B7c%20m%E1%BB%99t%20chi%E1%BA%BFc%20%7Bargument%20name%3D%22clothing%22%20default%3D%22v%C3%A1y%20tr%E1%BA%AFng%22%7D.%20C%E1%BA%A3nh%20%C4%91%E1%BA%A7u%20ti%C3%AAn%20l%C3%A0%20m%E1%BB%99t%20c%E1%BA%A3nh%20trung%20b%C3%ACnh%2C%20ch%E1%BB%A5p%20t%E1%BB%AB%20b%C3%AAn%20c%E1%BA%A1nh%2C%20nh%C3%A2n%20v%E1%BA%ADt%20%C4%91ang%20ch%E1%BA%A1y%20v%E1%BB%81%20ph%C3%ADa%20%7Bargument%20name%3D%22direction%22%20default%3D%22b%C3%AAn%20ph%E1%BA%A3i%22%7D%20trong%20m%E1%BB%99t%20khu%20v%C6%B0%E1%BB%9Dn%20Monet%20xanh%20m%C6%B0%E1%BB%9Bt%2C%20ph%C6%A1i%20s%C3%A1ng%20qu%C3%A1%20m%E1%BB%A9c%2C%20tay%20c%E1%BA%A7m%20m%E1%BB%99t%20%7Bargument%20name%3D%22item%22%20default%3D%22b%C3%B3%20hoa%20l%E1%BB%99ng%20l%E1%BA%ABy%22%7D.%20C%E1%BA%A3nh%20th%E1%BB%A9%20hai%20l%C3%A0%20m%E1%BB%99t%20c%E1%BA%ADn%20c%E1%BA%A3nh%2C%20ch%E1%BB%A5p%20b%C3%B3%20hoa%2C%20ph%C6%A1i%20s%C3%A1ng%20qu%C3%A1%20m%E1%BB%A9c%2C%20l%C3%A0m%20m%E1%BB%9D%20%C4%91%E1%BB%99ng.%20C%E1%BA%A3nh%20th%E1%BB%A9%20ba%20l%C3%A0%20m%E1%BB%99t%20c%E1%BA%ADn%20c%E1%BA%A3nh%20l%E1%BB%9Bn%20c%E1%BB%A7a%20nh%C3%A2n%20v%E1%BA%ADt%2C%20h%C3%ACnh%20%E1%BA%A3nh%20nh%C3%A2n%20v%E1%BA%ADt%20%C4%91ang%20ch%E1%BA%A1y%2C%20h%C6%B0%E1%BB%9Bng%20v%E1%BB%81%20b%C3%AAn%20ph%E1%BA%A3i%2C%20ph%C6%A1i%20s%C3%A1ng%20qu%C3%A1%20m%E1%BB%A9c%2C%20l%C3%A0m%20m%E1%BB%9D%20%C4%91%E1%BB%99ng%2C%20h%E1%BA%ADu%20c%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20khu%20v%C6%B0%E1%BB%9Dn%20xanh%2C%20t%E1%BA%A1o%20%C3%A1nh%20s%C3%A1ng%20cho%20m%E1%BA%AFt%20nh%C3%A2n%20v%E1%BA%ADt%2C%20cho%20ph%C3%A9p%20bi%E1%BB%83u%20c%E1%BA%A3m%20c%E1%BB%A7a%20nh%C3%A2n%20v%E1%BA%ADt%20mang%20l%E1%BA%A1i%20c%E1%BA%A3m%20gi%C3%A1c%20u%20s%E1%BA%A7u%20v%C3%A0%20hy%20v%E1%BB%8Dng.%20Nhi%E1%BA%BFp%20%E1%BA%A3nh%20ch%C3%A2n%20dung%2C%20phong%20c%C3%A1ch%20t%E1%BA%A1o%20%E1%BA%A3nh%20v%E1%BB%9Bi%20hi%E1%BB%87u%20%E1%BB%A9ng%20%C4%91%C3%A8n%20flash%20m%E1%BA%A1nh%2C%20tr%E1%BB%B1c%20ti%E1%BA%BFp%3A%20ch%E1%BA%BF%20%C4%91%E1%BB%99%20n%E1%BB%95i%20b%E1%BA%ADt%2C%20ph%C6%A1i%20s%C3%A1ng%20ti%E1%BB%81n%20c%E1%BA%A3nh%2C%20si%C3%AAu%20th%E1%BB%B1c%2C%20kh%C3%B4ng%20kh%C3%AD%20%C3%A1nh%20s%C3%A1ng%20v%C3%A0%20b%C3%B3ng%20t%E1%BB%91i%2C%20%C3%A1nh%20s%C3%A1ng%20v%C3%A0%20b%C3%B3ng%20t%E1%BB%91i%20l%E1%BA%A5p%20l%C3%A1nh%20tinh%20t%E1%BA%BF%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20phim%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20m%C6%A1%20m%C3%A0ng%2C%20l%C3%A0m%20m%E1%BB%9D%20%C4%91%E1%BB%99ng%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20m%C3%A0n%20tr%E1%BA%ADp%20ch%E1%BA%ADm%2C%20phim%20d%C6%B0%C6%A1ng%20b%E1%BA%A3n%20v%C3%A0%20%C3%A2m%20b%E1%BA%A3n%2C%20phim%20b%C3%B3c%20t%C3%A1ch%2C%20t%E1%BB%91i%20gi%E1%BA%A3n%2C%20b%E1%BB%91%20c%E1%BB%A5c%20c%E1%BB%B1c%20%C4%91oan%2C%20h%E1%BB%8Da%20ti%E1%BA%BFt%20m%E1%BB%9D%20vi%E1%BB%81n%2C%20r%C3%B2%20r%E1%BB%89%20%C3%A1nh%20s%C3%A1ng.%20Ph%E1%BB%A5%20%C4%91%E1%BB%81%20n%E1%BA%B1m%20%E1%BB%9F%20gi%E1%BB%AFa%20d%C6%B0%E1%BB%9Bi%20c%C3%B9ng%2C%20l%C6%B0%E1%BB%9Bi%20ba%20%C3%B4%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BB%95ng%20h%E1%BB%A3p%20th%C3%A0nh%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh.%20T%E1%BB%B7%20l%E1%BB%87%203%3A4.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 66: Hello Kitty: Hỗn Loạn Văn Phòng
-=======
-### No. 69: Hello Kitty: Hỗn Loạn Văn Phòng
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 70: Hello Kitty: Hỗn Loạn Văn Phòng
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2592,15 +2407,11 @@ h0674kz, hello kitty thổi tung văn phòng, phong cách phim cổ điển, h�
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=h0674kz%2C%20hello%20kitty%20th%E1%BB%95i%20tung%20v%C4%83n%20ph%C3%B2ng%2C%20phong%20c%C3%A1ch%20phim%20c%E1%BB%95%20%C4%91i%E1%BB%83n%2C%20h%E1%BA%A1t%20m%E1%BB%8Bn)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=h0674kz%2C%20hello%20kitty%20th%E1%BB%95i%20tung%20v%C4%83n%20ph%C3%B2ng%2C%20phong%20c%C3%A1ch%20phim%20c%E1%BB%95%20%C4%91i%E1%BB%83n%2C%20h%E1%BA%A1t%20m%E1%BB%8Bn)**
 
 ---
 
-<<<<<<< HEAD
-### No. 67: Đài phun nước pha lê với những vì sao
-=======
-### No. 70: Đài phun nước pha lê với những vì sao
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 71: Đài phun nước pha lê với những vì sao
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2629,15 +2440,11 @@ h0674kz, hình dán ngôi sao đầy màu sắc, đài phun nước trang trí b
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=h0674kz%2C%20h%C3%ACnh%20d%C3%A1n%20ng%C3%B4i%20sao%20%C4%91%E1%BA%A7y%20m%C3%A0u%20s%E1%BA%AFc%2C%20%C4%91%C3%A0i%20phun%20n%C6%B0%E1%BB%9Bc%20trang%20tr%C3%AD%20b%E1%BA%B1ng%20chu%E1%BB%97i%20h%E1%BA%A1t%20pha%20l%C3%AA%20s%C3%A1ng%20l%E1%BA%A5p%20l%C3%A1nh%2C%20phong%20c%C3%A1ch%20phim%20c%E1%BB%95%20%C4%91i%E1%BB%83n%2C%20h%E1%BA%A1t%20m%E1%BB%8Bn)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=h0674kz%2C%20h%C3%ACnh%20d%C3%A1n%20ng%C3%B4i%20sao%20%C4%91%E1%BA%A7y%20m%C3%A0u%20s%E1%BA%AFc%2C%20%C4%91%C3%A0i%20phun%20n%C6%B0%E1%BB%9Bc%20trang%20tr%C3%AD%20b%E1%BA%B1ng%20chu%E1%BB%97i%20h%E1%BA%A1t%20pha%20l%C3%AA%20s%C3%A1ng%20l%E1%BA%A5p%20l%C3%A1nh%2C%20phong%20c%C3%A1ch%20phim%20c%E1%BB%95%20%C4%91i%E1%BB%83n%2C%20h%E1%BA%A1t%20m%E1%BB%8Bn)**
 
 ---
 
-<<<<<<< HEAD
-### No. 68: Khoảnh khắc Geisha Kyoto
-=======
-### No. 71: Khoảnh khắc Geisha Kyoto
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 72: Khoảnh khắc Geisha Kyoto
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2666,15 +2473,11 @@ Geisha (chi tiết kimono truyền thống, trang điểm mặt trắng) đi tr�
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Geisha%20(chi%20ti%E1%BA%BFt%20kimono%20truy%E1%BB%81n%20th%E1%BB%91ng%2C%20trang%20%C4%91i%E1%BB%83m%20m%E1%BA%B7t%20tr%E1%BA%AFng)%20%C4%91i%20tr%C3%AAn%20con%20%C4%91%C6%B0%E1%BB%9Dng%20l%C3%A1t%20%C4%91%C3%A1%20Gion%2C%20hai%20b%C3%AAn%20l%C3%A0%20nh%E1%BB%AFng%20c%C3%A2y%20hoa%20anh%20%C4%91%C3%A0o%20Yoshino%20n%E1%BB%9F%20r%E1%BB%99%2C%20c%C3%A1nh%20hoa%20h%E1%BB%93ng%20r%C6%A1i%20l%E1%BA%A3%20t%E1%BA%A3%2C%20%C3%A1nh%20s%C3%A1ng%20khu%E1%BA%BFch%20t%C3%A1n%20d%E1%BB%8Bu%20nh%E1%BA%B9%20(ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20%C3%A1nh%20s%C3%A1ng%20ng%C3%A0y%20nhi%E1%BB%81u%20m%C3%A2y)%2C%20th%E1%BA%A9m%20m%E1%BB%B9%20phim%20Nh%E1%BA%ADt%20B%E1%BA%A3n%20(phong%20c%C3%A1ch%20Hirokazu%20Kore-eda)%2C%20%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20n%C3%B4ng%2050mm%20l%C3%A0m%20m%E1%BB%9D%20h%E1%BA%ADu%20c%E1%BA%A3nh%2C%20t%C3%B4ng%20m%C3%A0u%20phim%20(m%C3%B4%20ph%E1%BB%8Fng%20Fujifilm%20Pro%20400H)%2C%20kh%C3%B4ng%20kh%C3%AD%20Zen%20t%C4%A9nh%20l%E1%BA%B7ng%2C%20b%E1%BB%91%20c%E1%BB%A5c%20d%E1%BB%8Dc%20ph%C3%B9%20h%E1%BB%A3p%20l%C3%A0m%20h%C3%ACnh%20n%E1%BB%81n%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=Geisha%20(chi%20ti%E1%BA%BFt%20kimono%20truy%E1%BB%81n%20th%E1%BB%91ng%2C%20trang%20%C4%91i%E1%BB%83m%20m%E1%BA%B7t%20tr%E1%BA%AFng)%20%C4%91i%20tr%C3%AAn%20con%20%C4%91%C6%B0%E1%BB%9Dng%20l%C3%A1t%20%C4%91%C3%A1%20Gion%2C%20hai%20b%C3%AAn%20l%C3%A0%20nh%E1%BB%AFng%20c%C3%A2y%20hoa%20anh%20%C4%91%C3%A0o%20Yoshino%20n%E1%BB%9F%20r%E1%BB%99%2C%20c%C3%A1nh%20hoa%20h%E1%BB%93ng%20r%C6%A1i%20l%E1%BA%A3%20t%E1%BA%A3%2C%20%C3%A1nh%20s%C3%A1ng%20khu%E1%BA%BFch%20t%C3%A1n%20d%E1%BB%8Bu%20nh%E1%BA%B9%20(ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20%C3%A1nh%20s%C3%A1ng%20ng%C3%A0y%20nhi%E1%BB%81u%20m%C3%A2y)%2C%20th%E1%BA%A9m%20m%E1%BB%B9%20phim%20Nh%E1%BA%ADt%20B%E1%BA%A3n%20(phong%20c%C3%A1ch%20Hirokazu%20Kore-eda)%2C%20%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20n%C3%B4ng%2050mm%20l%C3%A0m%20m%E1%BB%9D%20h%E1%BA%ADu%20c%E1%BA%A3nh%2C%20t%C3%B4ng%20m%C3%A0u%20phim%20(m%C3%B4%20ph%E1%BB%8Fng%20Fujifilm%20Pro%20400H)%2C%20kh%C3%B4ng%20kh%C3%AD%20Zen%20t%C4%A9nh%20l%E1%BA%B7ng%2C%20b%E1%BB%91%20c%E1%BB%A5c%20d%E1%BB%8Dc%20ph%C3%B9%20h%E1%BB%A3p%20l%C3%A0m%20h%C3%ACnh%20n%E1%BB%81n%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i)**
 
 ---
 
-<<<<<<< HEAD
-### No. 69: Đêm Giáng sinh ở NYC
-=======
-### No. 72: Đêm Giáng sinh ở NYC
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 73: Đêm Giáng sinh ở NYC
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2704,15 +2507,11 @@ Một lời nhắc về đêm thành phố lễ hội ghi lại Giáng sinh ở 
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22location%22%20default%3D%22%C4%90%E1%BA%A1i%20l%E1%BB%99%20s%E1%BB%91%205%20New%20York%22%7D%20C%E1%BA%A3nh%20%C4%91%C3%AAm%20Gi%C3%A1ng%20sinh%2C%20c%C3%A2y%20th%C3%B4ng%20Noel%20kh%E1%BB%95ng%20l%E1%BB%93%20cao%2020%20m%C3%A9t%20t%E1%BA%A1i%20Rockefeller%20Center%20%C4%91%C6%B0%E1%BB%A3c%20bao%20ph%E1%BB%A7%20b%E1%BB%9Fi%20%C4%91%C3%A8n%20m%C3%A0u%2C%20tuy%E1%BA%BFt%20r%C6%A1i%20(%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20l%C3%A0m%20m%E1%BB%9D%20th%C3%A0nh%20c%C3%A1c%20%C4%91%E1%BB%91m%20s%C3%A1ng)%2C%20%C3%A1nh%20%C4%91%C3%A8n%20%E1%BA%A5m%20%C3%A1p%20t%E1%BB%AB%20c%C3%A1c%20c%E1%BB%ADa%20s%E1%BB%95%20c%E1%BB%ADa%20h%C3%A0ng%20hai%20b%C3%AAn%20%C4%91%C6%B0%E1%BB%9Dng%2C%20b%C3%B3ng%20d%C3%A1ng%20ng%C6%B0%E1%BB%9Di%20%C4%91i%20b%E1%BB%99%20m%E1%BA%B7c%20qu%E1%BA%A7n%20%C3%A1o%20m%C3%B9a%20%C4%91%C3%B4ng%2C%20s%E1%BB%B1%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20gi%E1%BB%AFa%20t%C3%B4ng%20m%C3%A0u%20%E1%BA%A5m%20v%C3%A0%20%C4%91%C3%AAm%20tuy%E1%BA%BFt%20xanh%20l%E1%BA%A1nh%20l%E1%BA%BDo%2C%20kh%C3%B4ng%20kh%C3%AD%20l%E1%BB%85%20h%E1%BB%99i%20m%E1%BA%A1nh%20m%E1%BA%BD%2C%20nhi%E1%BA%BFp%20%E1%BA%A3nh%20%C4%91%C3%AAm%20%C4%91%C3%B4%20th%E1%BB%8B%20ph%C6%A1i%20s%C3%A1ng%20d%C3%A0i%202%20gi%C3%A2y%20b%E1%BA%AFt%20%C3%A1nh%20s%C3%A1ng%2C%20ch%E1%BB%89nh%20m%C3%A0u%20chu%E1%BA%A9n%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%2C%20b%E1%BB%91%20c%E1%BB%A5c%20b%C6%B0u%20thi%E1%BA%BFp%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22location%22%20default%3D%22%C4%90%E1%BA%A1i%20l%E1%BB%99%20s%E1%BB%91%205%20New%20York%22%7D%20C%E1%BA%A3nh%20%C4%91%C3%AAm%20Gi%C3%A1ng%20sinh%2C%20c%C3%A2y%20th%C3%B4ng%20Noel%20kh%E1%BB%95ng%20l%E1%BB%93%20cao%2020%20m%C3%A9t%20t%E1%BA%A1i%20Rockefeller%20Center%20%C4%91%C6%B0%E1%BB%A3c%20bao%20ph%E1%BB%A7%20b%E1%BB%9Fi%20%C4%91%C3%A8n%20m%C3%A0u%2C%20tuy%E1%BA%BFt%20r%C6%A1i%20(%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20l%C3%A0m%20m%E1%BB%9D%20th%C3%A0nh%20c%C3%A1c%20%C4%91%E1%BB%91m%20s%C3%A1ng)%2C%20%C3%A1nh%20%C4%91%C3%A8n%20%E1%BA%A5m%20%C3%A1p%20t%E1%BB%AB%20c%C3%A1c%20c%E1%BB%ADa%20s%E1%BB%95%20c%E1%BB%ADa%20h%C3%A0ng%20hai%20b%C3%AAn%20%C4%91%C6%B0%E1%BB%9Dng%2C%20b%C3%B3ng%20d%C3%A1ng%20ng%C6%B0%E1%BB%9Di%20%C4%91i%20b%E1%BB%99%20m%E1%BA%B7c%20qu%E1%BA%A7n%20%C3%A1o%20m%C3%B9a%20%C4%91%C3%B4ng%2C%20s%E1%BB%B1%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20gi%E1%BB%AFa%20t%C3%B4ng%20m%C3%A0u%20%E1%BA%A5m%20v%C3%A0%20%C4%91%C3%AAm%20tuy%E1%BA%BFt%20xanh%20l%E1%BA%A1nh%20l%E1%BA%BDo%2C%20kh%C3%B4ng%20kh%C3%AD%20l%E1%BB%85%20h%E1%BB%99i%20m%E1%BA%A1nh%20m%E1%BA%BD%2C%20nhi%E1%BA%BFp%20%E1%BA%A3nh%20%C4%91%C3%AAm%20%C4%91%C3%B4%20th%E1%BB%8B%20ph%C6%A1i%20s%C3%A1ng%20d%C3%A0i%202%20gi%C3%A2y%20b%E1%BA%AFt%20%C3%A1nh%20s%C3%A1ng%2C%20ch%E1%BB%89nh%20m%C3%A0u%20chu%E1%BA%A9n%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%2C%20b%E1%BB%91%20c%E1%BB%A5c%20b%C6%B0u%20thi%E1%BA%BFp%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 70: Khung cảnh cắm trại lúc hoàng hôn
-=======
-### No. 73: Khung cảnh cắm trại lúc hoàng hôn
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 74: Khung cảnh cắm trại lúc hoàng hôn
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2741,15 +2540,11 @@ Cảnh hoàng hôn tại khu cắm trại trên núi, chi tiết lều dã ngo�
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=C%E1%BA%A3nh%20ho%C3%A0ng%20h%C3%B4n%20t%E1%BA%A1i%20khu%20c%E1%BA%AFm%20tr%E1%BA%A1i%20tr%C3%AAn%20n%C3%BAi%2C%20chi%20ti%E1%BA%BFt%20l%E1%BB%81u%20d%C3%A3%20ngo%E1%BA%A1i%20chuy%C3%AAn%20nghi%E1%BB%87p%20(The%20North%20Face)%20hi%E1%BB%87n%20r%C3%B5%2C%20ng%E1%BB%8Dn%20l%E1%BB%ADa%20tr%E1%BA%A1i%20b%E1%BA%ADp%20b%C3%B9ng%20%E1%BB%9F%20ti%E1%BB%81n%20c%E1%BA%A3nh%2C%20b%E1%BA%A7u%20tr%E1%BB%9Di%20%C4%91%E1%BA%A7y%20sao%20v%C3%A0%20d%E1%BA%A3i%20ng%C3%A2n%20h%C3%A0%20r%C3%B5%20n%C3%A9t%20%E1%BB%9F%20h%E1%BA%ADu%20c%E1%BA%A3nh%20(ph%C6%A1i%20s%C3%A1ng%20ch%E1%BB%93ng%20nhi%E1%BB%81u%20%E1%BA%A3nh)%2C%20nh%E1%BB%AFng%20chi%E1%BA%BFc%20gh%E1%BA%BF%20c%E1%BA%AFm%20tr%E1%BA%A1i%20tho%E1%BA%A3i%20m%C3%A1i%2C%20%C4%91%E1%BB%93%20u%E1%BB%91ng%20n%C3%B3ng%20b%E1%BB%91c%20h%C6%A1i%20tr%C3%AAn%20b%C3%A0n%20g%E1%BB%97%2C%20t%C3%B4ng%20m%C3%A0u%20%E1%BA%A5m%202800K%20t%E1%BA%A1o%20kh%C3%B4ng%20kh%C3%AD%2C%20nhi%E1%BA%BFp%20%E1%BA%A3nh%20th%E1%BA%A9m%20m%E1%BB%B9%20phong%20c%C3%A1ch%20s%E1%BB%91ng%20ngo%C3%A0i%20tr%E1%BB%9Di%2C%20%E1%BB%91ng%20k%C3%ADnh%20g%C3%B3c%20r%E1%BB%99ng%2024mm%20th%E1%BB%83%20hi%E1%BB%87n%20to%C3%A0n%20c%E1%BA%A3nh%2C%20phong%20c%C3%A1ch%20National%20Geographic%2C%20b%E1%BB%91%20c%E1%BB%A5c%20ngang%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=C%E1%BA%A3nh%20ho%C3%A0ng%20h%C3%B4n%20t%E1%BA%A1i%20khu%20c%E1%BA%AFm%20tr%E1%BA%A1i%20tr%C3%AAn%20n%C3%BAi%2C%20chi%20ti%E1%BA%BFt%20l%E1%BB%81u%20d%C3%A3%20ngo%E1%BA%A1i%20chuy%C3%AAn%20nghi%E1%BB%87p%20(The%20North%20Face)%20hi%E1%BB%87n%20r%C3%B5%2C%20ng%E1%BB%8Dn%20l%E1%BB%ADa%20tr%E1%BA%A1i%20b%E1%BA%ADp%20b%C3%B9ng%20%E1%BB%9F%20ti%E1%BB%81n%20c%E1%BA%A3nh%2C%20b%E1%BA%A7u%20tr%E1%BB%9Di%20%C4%91%E1%BA%A7y%20sao%20v%C3%A0%20d%E1%BA%A3i%20ng%C3%A2n%20h%C3%A0%20r%C3%B5%20n%C3%A9t%20%E1%BB%9F%20h%E1%BA%ADu%20c%E1%BA%A3nh%20(ph%C6%A1i%20s%C3%A1ng%20ch%E1%BB%93ng%20nhi%E1%BB%81u%20%E1%BA%A3nh)%2C%20nh%E1%BB%AFng%20chi%E1%BA%BFc%20gh%E1%BA%BF%20c%E1%BA%AFm%20tr%E1%BA%A1i%20tho%E1%BA%A3i%20m%C3%A1i%2C%20%C4%91%E1%BB%93%20u%E1%BB%91ng%20n%C3%B3ng%20b%E1%BB%91c%20h%C6%A1i%20tr%C3%AAn%20b%C3%A0n%20g%E1%BB%97%2C%20t%C3%B4ng%20m%C3%A0u%20%E1%BA%A5m%202800K%20t%E1%BA%A1o%20kh%C3%B4ng%20kh%C3%AD%2C%20nhi%E1%BA%BFp%20%E1%BA%A3nh%20th%E1%BA%A9m%20m%E1%BB%B9%20phong%20c%C3%A1ch%20s%E1%BB%91ng%20ngo%C3%A0i%20tr%E1%BB%9Di%2C%20%E1%BB%91ng%20k%C3%ADnh%20g%C3%B3c%20r%E1%BB%99ng%2024mm%20th%E1%BB%83%20hi%E1%BB%87n%20to%C3%A0n%20c%E1%BA%A3nh%2C%20phong%20c%C3%A1ch%20National%20Geographic%2C%20b%E1%BB%91%20c%E1%BB%A5c%20ngang%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 71: Tập Luyện Cường Độ Cao Đơn Sắc
-=======
-### No. 74: Tập Luyện Cường Độ Cao Đơn Sắc
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 75: Tập Luyện Cường Độ Cao Đơn Sắc
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2779,15 +2574,11 @@ Cận cảnh {argument name="subject" default="người phụ nữ lực lưỡn
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=C%E1%BA%ADn%20c%E1%BA%A3nh%20%7Bargument%20name%3D%22subject%22%20default%3D%22ng%C6%B0%E1%BB%9Di%20ph%E1%BB%A5%20n%E1%BB%AF%20l%E1%BB%B1c%20l%C6%B0%E1%BB%A1ng%22%7D%20%C4%91ang%20n%C3%A2ng%20t%E1%BA%A1%20trong%20bu%E1%BB%95i%20t%E1%BA%ADp%20s%E1%BB%A9c%20m%E1%BA%A1nh%2C%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20c%C6%A1%20b%E1%BA%AFp%20r%C3%B5%20r%C3%A0ng%2C%20nh%E1%BB%AFng%20gi%E1%BB%8Dt%20m%E1%BB%93%20h%C3%B4i%20l%E1%BA%A5p%20l%C3%A1nh%20tr%C3%AAn%20da%2C%20%C3%A1nh%20s%C3%A1ng%20b%C3%AAn%20h%C3%B4ng%20%E1%BA%A5n%20t%C6%B0%E1%BB%A3ng%20chi%E1%BA%BFu%20m%E1%BA%A1nh%20t%E1%BB%AB%20g%C3%B3c%2090%20%C4%91%E1%BB%99%20b%C3%AAn%20tr%C3%A1i%2C%20thi%E1%BA%BFt%20b%E1%BB%8B%20n%E1%BB%81n%20m%E1%BB%9D%2C%20t%C3%B4ng%20m%C3%A0u%20%C4%91en%20tr%E1%BA%AFng%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20cao%20l%C3%A0m%20t%C4%83ng%20c%E1%BA%A3m%20gi%C3%A1c%20m%E1%BA%A1nh%20m%E1%BA%BD%2C%20nhi%E1%BA%BFp%20%E1%BA%A3nh%20th%E1%BB%83%20thao%20t%E1%BB%91c%20%C4%91%E1%BB%99%20m%C3%A0n%20tr%E1%BA%ADp%20cao%201%2F1000%20gi%C3%A2y%20%C4%91%C3%B3ng%20b%C4%83ng%20kho%E1%BA%A3nh%20kh%E1%BA%AFc%2C%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%E1%BA%A1t%20chu%E1%BA%A9n%20qu%E1%BA%A3ng%20c%C3%A1o%20Nike%2C%20b%E1%BB%91%20c%E1%BB%A5c%20vu%C3%B4ng%201%3A1%2C%20l%C3%A0m%20s%E1%BA%AFc%20n%C3%A9t%20c%E1%BA%A1nh%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng%20k%E1%BA%BFt%20c%E1%BA%A5u)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=C%E1%BA%ADn%20c%E1%BA%A3nh%20%7Bargument%20name%3D%22subject%22%20default%3D%22ng%C6%B0%E1%BB%9Di%20ph%E1%BB%A5%20n%E1%BB%AF%20l%E1%BB%B1c%20l%C6%B0%E1%BB%A1ng%22%7D%20%C4%91ang%20n%C3%A2ng%20t%E1%BA%A1%20trong%20bu%E1%BB%95i%20t%E1%BA%ADp%20s%E1%BB%A9c%20m%E1%BA%A1nh%2C%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20c%C6%A1%20b%E1%BA%AFp%20r%C3%B5%20r%C3%A0ng%2C%20nh%E1%BB%AFng%20gi%E1%BB%8Dt%20m%E1%BB%93%20h%C3%B4i%20l%E1%BA%A5p%20l%C3%A1nh%20tr%C3%AAn%20da%2C%20%C3%A1nh%20s%C3%A1ng%20b%C3%AAn%20h%C3%B4ng%20%E1%BA%A5n%20t%C6%B0%E1%BB%A3ng%20chi%E1%BA%BFu%20m%E1%BA%A1nh%20t%E1%BB%AB%20g%C3%B3c%2090%20%C4%91%E1%BB%99%20b%C3%AAn%20tr%C3%A1i%2C%20thi%E1%BA%BFt%20b%E1%BB%8B%20n%E1%BB%81n%20m%E1%BB%9D%2C%20t%C3%B4ng%20m%C3%A0u%20%C4%91en%20tr%E1%BA%AFng%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20cao%20l%C3%A0m%20t%C4%83ng%20c%E1%BA%A3m%20gi%C3%A1c%20m%E1%BA%A1nh%20m%E1%BA%BD%2C%20nhi%E1%BA%BFp%20%E1%BA%A3nh%20th%E1%BB%83%20thao%20t%E1%BB%91c%20%C4%91%E1%BB%99%20m%C3%A0n%20tr%E1%BA%ADp%20cao%201%2F1000%20gi%C3%A2y%20%C4%91%C3%B3ng%20b%C4%83ng%20kho%E1%BA%A3nh%20kh%E1%BA%AFc%2C%20h%C3%ACnh%20%E1%BA%A3nh%20%C4%91%E1%BA%A1t%20chu%E1%BA%A9n%20qu%E1%BA%A3ng%20c%C3%A1o%20Nike%2C%20b%E1%BB%91%20c%E1%BB%A5c%20vu%C3%B4ng%201%3A1%2C%20l%C3%A0m%20s%E1%BA%AFc%20n%C3%A9t%20c%E1%BA%A1nh%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng%20k%E1%BA%BFt%20c%E1%BA%A5u)**
 
 ---
 
-<<<<<<< HEAD
-### No. 72: Nội thất Tàu vũ trụ ISS
-=======
-### No. 75: Nội thất Tàu vũ trụ ISS
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 76: Nội thất Tàu vũ trụ ISS
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2816,15 +2607,11 @@ Môi trường vật lý thực tế bên trong Trạm Vũ trụ Quốc tế, ph
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20v%E1%BA%ADt%20l%C3%BD%20th%E1%BB%B1c%20t%E1%BA%BF%20b%C3%AAn%20trong%20Tr%E1%BA%A1m%20V%C5%A9%20tr%E1%BB%A5%20Qu%E1%BB%91c%20t%E1%BA%BF%2C%20phi%20h%C3%A0nh%20gia%20(chi%20ti%E1%BA%BFt%20b%E1%BB%99%20%C4%91%E1%BB%93%20v%C5%A9%20tr%E1%BB%A5%20c%E1%BB%A7a%20NASA)%20%C4%91ang%20l%C6%A1%20l%E1%BB%ADng%20trong%20tr%E1%BA%A1ng%20th%C3%A1i%20kh%C3%B4ng%20tr%E1%BB%8Dng%20l%E1%BB%B1c%2C%20b%E1%BA%A7u%20kh%C3%AD%20quy%E1%BB%83n%20m%C3%A0u%20xanh%20c%E1%BB%A7a%20Tr%C3%A1i%20%C4%90%E1%BA%A5t%20b%C3%AAn%20ngo%C3%A0i%20c%C3%B3%20th%E1%BB%83%20nh%C3%ACn%20th%E1%BA%A5y%20qua%20%C3%B4%20c%E1%BB%ADa%20s%E1%BB%95%2C%20%C4%91%C3%A8n%20b%C3%A1o%20thi%E1%BA%BFt%20b%E1%BB%8B%20b%C3%AAn%20trong%20cung%20c%E1%BA%A5p%20%C3%A1nh%20s%C3%A1ng%20xung%20quanh%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20hao%20m%C3%B2n%20c%E1%BB%A7a%20v%C3%A1ch%20ng%C4%83n%20kim%20lo%E1%BA%A1i%20ch%C3%A2n%20th%E1%BB%B1c%2C%20chi%20ti%E1%BA%BFt%20d%E1%BB%A5ng%20c%E1%BB%A5%20khoa%20h%E1%BB%8Dc%20ch%C3%ADnh%20x%C3%A1c%2C%20phong%20c%C3%A1ch%20ch%E1%BB%A5p%20%E1%BA%A3nh%20ch%C3%ADnh%20th%E1%BB%A9c%20c%E1%BB%A7a%20NASA%2C%20%E1%BB%91ng%20k%C3%ADnh%20g%C3%B3c%20r%E1%BB%99ng%2016mm%20ghi%20l%E1%BA%A1i%20kh%C3%B4ng%20gian%20h%E1%BA%B9p%2C%20m%C3%B4%20ph%E1%BB%8Fng%20%C3%A1nh%20s%C3%A1ng%20v%E1%BA%ADt%20l%C3%BD%20th%E1%BB%B1c%20t%E1%BA%BF)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20v%E1%BA%ADt%20l%C3%BD%20th%E1%BB%B1c%20t%E1%BA%BF%20b%C3%AAn%20trong%20Tr%E1%BA%A1m%20V%C5%A9%20tr%E1%BB%A5%20Qu%E1%BB%91c%20t%E1%BA%BF%2C%20phi%20h%C3%A0nh%20gia%20(chi%20ti%E1%BA%BFt%20b%E1%BB%99%20%C4%91%E1%BB%93%20v%C5%A9%20tr%E1%BB%A5%20c%E1%BB%A7a%20NASA)%20%C4%91ang%20l%C6%A1%20l%E1%BB%ADng%20trong%20tr%E1%BA%A1ng%20th%C3%A1i%20kh%C3%B4ng%20tr%E1%BB%8Dng%20l%E1%BB%B1c%2C%20b%E1%BA%A7u%20kh%C3%AD%20quy%E1%BB%83n%20m%C3%A0u%20xanh%20c%E1%BB%A7a%20Tr%C3%A1i%20%C4%90%E1%BA%A5t%20b%C3%AAn%20ngo%C3%A0i%20c%C3%B3%20th%E1%BB%83%20nh%C3%ACn%20th%E1%BA%A5y%20qua%20%C3%B4%20c%E1%BB%ADa%20s%E1%BB%95%2C%20%C4%91%C3%A8n%20b%C3%A1o%20thi%E1%BA%BFt%20b%E1%BB%8B%20b%C3%AAn%20trong%20cung%20c%E1%BA%A5p%20%C3%A1nh%20s%C3%A1ng%20xung%20quanh%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20hao%20m%C3%B2n%20c%E1%BB%A7a%20v%C3%A1ch%20ng%C4%83n%20kim%20lo%E1%BA%A1i%20ch%C3%A2n%20th%E1%BB%B1c%2C%20chi%20ti%E1%BA%BFt%20d%E1%BB%A5ng%20c%E1%BB%A5%20khoa%20h%E1%BB%8Dc%20ch%C3%ADnh%20x%C3%A1c%2C%20phong%20c%C3%A1ch%20ch%E1%BB%A5p%20%E1%BA%A3nh%20ch%C3%ADnh%20th%E1%BB%A9c%20c%E1%BB%A7a%20NASA%2C%20%E1%BB%91ng%20k%C3%ADnh%20g%C3%B3c%20r%E1%BB%99ng%2016mm%20ghi%20l%E1%BA%A1i%20kh%C3%B4ng%20gian%20h%E1%BA%B9p%2C%20m%C3%B4%20ph%E1%BB%8Fng%20%C3%A1nh%20s%C3%A1ng%20v%E1%BA%ADt%20l%C3%BD%20th%E1%BB%B1c%20t%E1%BA%BF)**
 
 ---
 
-<<<<<<< HEAD
-### No. 73: Trực quan hóa Mạng nơ-ron
-=======
-### No. 76: Trực quan hóa Mạng nơ-ron
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 77: Trực quan hóa Mạng nơ-ron
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2853,15 +2640,11 @@ Trực quan hóa luồng dữ liệu cấu trúc 3D mạng nơ-ron, các nút n�
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Tr%E1%BB%B1c%20quan%20h%C3%B3a%20lu%E1%BB%93ng%20d%E1%BB%AF%20li%E1%BB%87u%20c%E1%BA%A5u%20tr%C3%BAc%203D%20m%E1%BA%A1ng%20n%C6%A1-ron%2C%20c%C3%A1c%20n%C3%BAt%20n%C6%A1-ron%20%C4%91a%20l%E1%BB%9Bp%20(h%C3%ACnh%20c%E1%BA%A7u%20m%C3%A0u%20xanh%20lam%20ph%C3%A1t%20s%C3%A1ng)%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BA%AFp%20x%E1%BA%BFp%20theo%20ma%20tr%E1%BA%ADn%2C%20lu%E1%BB%93ng%20d%E1%BB%AF%20li%E1%BB%87u%20ch%E1%BA%A3y%20trong%20c%C3%A1c%20%C4%91%C6%B0%E1%BB%9Dng%20k%E1%BA%BFt%20n%E1%BB%91i%20d%C6%B0%E1%BB%9Bi%20d%E1%BA%A1ng%20c%C3%A1c%20lu%E1%BB%93ng%20h%E1%BA%A1t%20ph%C3%A1t%20s%C3%A1ng%2C%20b%E1%BA%A3ng%20m%C3%A0u%20gradient%20c%C3%B4ng%20ngh%E1%BB%87%20xanh-t%C3%ADm%20(%234A90E2%20%C4%91%E1%BA%BFn%20%239013FE)%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20k%C3%ADnh%20m%E1%BB%9D%2C%20k%E1%BA%BFt%20xu%E1%BA%A5t%203D%20C4D%2C%20%C4%91%E1%BB%99%20r%C3%B5%20n%C3%A9t%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20minh%20h%E1%BB%8Da%20khoa%20h%E1%BB%8Dc%20ph%E1%BB%95%20th%C3%B4ng%2C%20ph%C3%B9%20h%E1%BB%A3p%20cho%20c%C3%A1c%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20b%C3%A0i%20vi%E1%BA%BFt%20k%E1%BB%B9%20thu%E1%BA%ADt%20AI%2C%20b%E1%BB%91%20c%E1%BB%A5c%20ngang%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=Tr%E1%BB%B1c%20quan%20h%C3%B3a%20lu%E1%BB%93ng%20d%E1%BB%AF%20li%E1%BB%87u%20c%E1%BA%A5u%20tr%C3%BAc%203D%20m%E1%BA%A1ng%20n%C6%A1-ron%2C%20c%C3%A1c%20n%C3%BAt%20n%C6%A1-ron%20%C4%91a%20l%E1%BB%9Bp%20(h%C3%ACnh%20c%E1%BA%A7u%20m%C3%A0u%20xanh%20lam%20ph%C3%A1t%20s%C3%A1ng)%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BA%AFp%20x%E1%BA%BFp%20theo%20ma%20tr%E1%BA%ADn%2C%20lu%E1%BB%93ng%20d%E1%BB%AF%20li%E1%BB%87u%20ch%E1%BA%A3y%20trong%20c%C3%A1c%20%C4%91%C6%B0%E1%BB%9Dng%20k%E1%BA%BFt%20n%E1%BB%91i%20d%C6%B0%E1%BB%9Bi%20d%E1%BA%A1ng%20c%C3%A1c%20lu%E1%BB%93ng%20h%E1%BA%A1t%20ph%C3%A1t%20s%C3%A1ng%2C%20b%E1%BA%A3ng%20m%C3%A0u%20gradient%20c%C3%B4ng%20ngh%E1%BB%87%20xanh-t%C3%ADm%20(%234A90E2%20%C4%91%E1%BA%BFn%20%239013FE)%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20k%C3%ADnh%20m%E1%BB%9D%2C%20k%E1%BA%BFt%20xu%E1%BA%A5t%203D%20C4D%2C%20%C4%91%E1%BB%99%20r%C3%B5%20n%C3%A9t%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20minh%20h%E1%BB%8Da%20khoa%20h%E1%BB%8Dc%20ph%E1%BB%95%20th%C3%B4ng%2C%20ph%C3%B9%20h%E1%BB%A3p%20cho%20c%C3%A1c%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20b%C3%A0i%20vi%E1%BA%BFt%20k%E1%BB%B9%20thu%E1%BA%ADt%20AI%2C%20b%E1%BB%91%20c%E1%BB%A5c%20ngang%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 74: Nội thất Wabi-Sabi Nhật Bản
-=======
-### No. 77: Nội thất Wabi-Sabi Nhật Bản
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 78: Nội thất Wabi-Sabi Nhật Bản
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2891,15 +2674,11 @@ Nội thất toàn cảnh homestay tối giản kiểu Nhật Bản {argument na
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=N%E1%BB%99i%20th%E1%BA%A5t%20to%C3%A0n%20c%E1%BA%A3nh%20homestay%20t%E1%BB%91i%20gi%E1%BA%A3n%20ki%E1%BB%83u%20Nh%E1%BA%ADt%20B%E1%BA%A3n%20%7Bargument%20name%3D%22area%22%20default%3D%2260%20m%C3%A9t%20vu%C3%B4ng%22%7D%2C%20chi%E1%BA%BFu%20tatami%20(m%C3%A0u%20r%C6%A1m%20%23D4C5A0)%2C%20b%C3%A0n%20tr%C3%A0%20th%E1%BA%A5p%20b%E1%BA%B1ng%20g%E1%BB%97%20mun%2C%20%C3%A1nh%20s%C3%A1ng%20t%E1%BB%B1%20nhi%C3%AAn%20%E1%BA%A5m%20%C3%A1p%20xuy%C3%AAn%20qua%20c%E1%BB%ADa%20shoji%20(ch%E1%BA%A5t%20li%E1%BB%87u%20gi%E1%BA%A5y%20washi%20b%C3%A1n%20trong%20su%E1%BB%91t)%20t%E1%BA%A1o%20th%C3%A0nh%20%C3%A1nh%20s%C3%A1ng%20v%C3%A0%20b%C3%B3ng%20%C4%91%E1%BB%95%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20t%C6%B0%E1%BB%9Dng%20%C4%91%E1%BA%A5t%20n%E1%BB%87n%20c%C3%B3%20k%E1%BA%BFt%20c%E1%BA%A5u%20th%C3%B4%20r%C3%A1p%2C%20kh%C3%B4ng%20gian%20tr%E1%BA%AFng%20th%E1%BB%83%20hi%E1%BB%87n%20th%E1%BA%A9m%20m%E1%BB%B9%20wabi-sabi%2C%20ph%E1%BB%A5c%20d%E1%BB%B1ng%20t%E1%BB%B7%20l%E1%BB%87%20ki%E1%BA%BFn%20tr%C3%BAc%20th%E1%BB%B1c%201%3A1%2C%20%E1%BB%91ng%20k%C3%ADnh%20si%C3%AAu%20r%E1%BB%99ng%2016mm%20th%E1%BB%83%20hi%E1%BB%87n%20c%E1%BA%A3m%20gi%C3%A1c%20kh%C3%B4ng%20gian%2C%20phong%20c%C3%A1ch%20ch%E1%BB%A5p%20%E1%BA%A3nh%20th%E1%BA%A9m%20m%E1%BB%B9%20Kinfolk%20lifestyle)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=N%E1%BB%99i%20th%E1%BA%A5t%20to%C3%A0n%20c%E1%BA%A3nh%20homestay%20t%E1%BB%91i%20gi%E1%BA%A3n%20ki%E1%BB%83u%20Nh%E1%BA%ADt%20B%E1%BA%A3n%20%7Bargument%20name%3D%22area%22%20default%3D%2260%20m%C3%A9t%20vu%C3%B4ng%22%7D%2C%20chi%E1%BA%BFu%20tatami%20(m%C3%A0u%20r%C6%A1m%20%23D4C5A0)%2C%20b%C3%A0n%20tr%C3%A0%20th%E1%BA%A5p%20b%E1%BA%B1ng%20g%E1%BB%97%20mun%2C%20%C3%A1nh%20s%C3%A1ng%20t%E1%BB%B1%20nhi%C3%AAn%20%E1%BA%A5m%20%C3%A1p%20xuy%C3%AAn%20qua%20c%E1%BB%ADa%20shoji%20(ch%E1%BA%A5t%20li%E1%BB%87u%20gi%E1%BA%A5y%20washi%20b%C3%A1n%20trong%20su%E1%BB%91t)%20t%E1%BA%A1o%20th%C3%A0nh%20%C3%A1nh%20s%C3%A1ng%20v%C3%A0%20b%C3%B3ng%20%C4%91%E1%BB%95%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20t%C6%B0%E1%BB%9Dng%20%C4%91%E1%BA%A5t%20n%E1%BB%87n%20c%C3%B3%20k%E1%BA%BFt%20c%E1%BA%A5u%20th%C3%B4%20r%C3%A1p%2C%20kh%C3%B4ng%20gian%20tr%E1%BA%AFng%20th%E1%BB%83%20hi%E1%BB%87n%20th%E1%BA%A9m%20m%E1%BB%B9%20wabi-sabi%2C%20ph%E1%BB%A5c%20d%E1%BB%B1ng%20t%E1%BB%B7%20l%E1%BB%87%20ki%E1%BA%BFn%20tr%C3%BAc%20th%E1%BB%B1c%201%3A1%2C%20%E1%BB%91ng%20k%C3%ADnh%20si%C3%AAu%20r%E1%BB%99ng%2016mm%20th%E1%BB%83%20hi%E1%BB%87n%20c%E1%BA%A3m%20gi%C3%A1c%20kh%C3%B4ng%20gian%2C%20phong%20c%C3%A1ch%20ch%E1%BB%A5p%20%E1%BA%A3nh%20th%E1%BA%A9m%20m%E1%BB%B9%20Kinfolk%20lifestyle)**
 
 ---
 
-<<<<<<< HEAD
-### No. 75: Chụp ảnh sản phẩm cao cấp
-=======
-### No. 78: Chụp ảnh sản phẩm cao cấp
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 79: Chụp ảnh sản phẩm cao cấp
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2929,15 +2708,11 @@ Cận cảnh {argument name="product" default="thỏi son cao cấp"} đặt tr�
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=C%E1%BA%ADn%20c%E1%BA%A3nh%20%7Bargument%20name%3D%22product%22%20default%3D%22th%E1%BB%8Fi%20son%20cao%20c%E1%BA%A5p%22%7D%20%C4%91%E1%BA%B7t%20tr%C3%AAn%20m%E1%BA%B7t%20b%C3%A0n%20%C4%91%C3%A1%20c%E1%BA%A9m%20th%E1%BA%A1ch%20%C4%91en%20b%C3%B3ng%2C%20nh%E1%BB%AFng%20c%C3%A1nh%20hoa%20h%E1%BB%93ng%20t%C6%B0%C6%A1i%20t%E1%BA%A3n%20m%C3%A1t%20t%E1%BB%B1%20nhi%C3%AAn%2C%20hai%20softbox%20chi%E1%BA%BFu%20s%C3%A1ng%20t%E1%BB%AB%20hai%20b%C3%AAn%2045%20%C4%91%E1%BB%99%20k%E1%BA%BFt%20h%E1%BB%A3p%20v%E1%BB%9Bi%20%C4%91%C3%A8n%20soft%20light%20t%E1%BB%95%20ong%20ph%C3%ADa%20tr%C3%AAn%20%C4%91%E1%BB%83%20lo%E1%BA%A1i%20b%E1%BB%8F%20ch%C3%B3i%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20d%E1%BA%A1ng%20kem%20l%E1%BB%8Fng%20th%E1%BB%83%20hi%E1%BB%87n%20ch%C3%A2n%20th%E1%BB%B1c%20%C4%91%E1%BB%99%20b%C3%B3ng%20tinh%20t%E1%BA%BF%2C%20n%E1%BB%81n%20tr%E1%BA%AFng%20tinh%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%9Dng%20n%E1%BB%91i%20%E1%BB%9F%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20render%20C4D%2C%20%E1%BB%91ng%20k%C3%ADnh%20macro%20100mm%20b%E1%BA%AFt%20tr%E1%BB%8Dn%20chi%20ti%E1%BA%BFt%2C%20nhi%E1%BA%BFp%20%E1%BA%A3nh%20s%E1%BA%A3n%20ph%E1%BA%A9m%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%2C%20b%E1%BB%91%20c%E1%BB%A5c%20trang%20chi%20ti%E1%BA%BFt%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD%2016%3A9%2C%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20ch%E1%BB%89nh%20s%E1%BB%ADa%20ch%C3%ADnh%20x%C3%A1c%20b%E1%BA%B1ng%20Photoshop)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=C%E1%BA%ADn%20c%E1%BA%A3nh%20%7Bargument%20name%3D%22product%22%20default%3D%22th%E1%BB%8Fi%20son%20cao%20c%E1%BA%A5p%22%7D%20%C4%91%E1%BA%B7t%20tr%C3%AAn%20m%E1%BA%B7t%20b%C3%A0n%20%C4%91%C3%A1%20c%E1%BA%A9m%20th%E1%BA%A1ch%20%C4%91en%20b%C3%B3ng%2C%20nh%E1%BB%AFng%20c%C3%A1nh%20hoa%20h%E1%BB%93ng%20t%C6%B0%C6%A1i%20t%E1%BA%A3n%20m%C3%A1t%20t%E1%BB%B1%20nhi%C3%AAn%2C%20hai%20softbox%20chi%E1%BA%BFu%20s%C3%A1ng%20t%E1%BB%AB%20hai%20b%C3%AAn%2045%20%C4%91%E1%BB%99%20k%E1%BA%BFt%20h%E1%BB%A3p%20v%E1%BB%9Bi%20%C4%91%C3%A8n%20soft%20light%20t%E1%BB%95%20ong%20ph%C3%ADa%20tr%C3%AAn%20%C4%91%E1%BB%83%20lo%E1%BA%A1i%20b%E1%BB%8F%20ch%C3%B3i%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20d%E1%BA%A1ng%20kem%20l%E1%BB%8Fng%20th%E1%BB%83%20hi%E1%BB%87n%20ch%C3%A2n%20th%E1%BB%B1c%20%C4%91%E1%BB%99%20b%C3%B3ng%20tinh%20t%E1%BA%BF%2C%20n%E1%BB%81n%20tr%E1%BA%AFng%20tinh%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%9Dng%20n%E1%BB%91i%20%E1%BB%9F%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20render%20C4D%2C%20%E1%BB%91ng%20k%C3%ADnh%20macro%20100mm%20b%E1%BA%AFt%20tr%E1%BB%8Dn%20chi%20ti%E1%BA%BFt%2C%20nhi%E1%BA%BFp%20%E1%BA%A3nh%20s%E1%BA%A3n%20ph%E1%BA%A9m%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%2C%20b%E1%BB%91%20c%E1%BB%A5c%20trang%20chi%20ti%E1%BA%BFt%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD%2016%3A9%2C%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20ch%E1%BB%89nh%20s%E1%BB%ADa%20ch%C3%ADnh%20x%C3%A1c%20b%E1%BA%B1ng%20Photoshop)**
 
 ---
 
-<<<<<<< HEAD
-### No. 76: Phong cách K-Pop Tương Lai
-=======
-### No. 79: Phong cách K-Pop Tương Lai
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 80: Phong cách K-Pop Tương Lai
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2967,15 +2742,11 @@ K-pop nhóm {argument name="number of people" default="four-member"} ảnh conce
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=K-pop%20nh%C3%B3m%20%7Bargument%20name%3D%22number%20of%20people%22%20default%3D%22four-member%22%7D%20%E1%BA%A3nh%20concept%2C%20%C4%91%E1%BB%8Bnh%20v%E1%BB%8B%20ch%C3%ADnh%20x%C3%A1c%20theo%20%C4%91%E1%BB%99i%20h%C3%ACnh%20kim%20c%C6%B0%C6%A1ng%2C%20phong%20c%C3%A1ch%20b%E1%BA%A1c%20t%C6%B0%C6%A1ng%20lai%20th%E1%BB%91ng%20nh%E1%BA%A5t%2C%20t%C3%B4ng%20m%C3%A0u%20ch%E1%BB%A7%20%C4%91%E1%BA%A1o%2C%20%C3%A1nh%20s%C3%A1ng%20chuy%E1%BB%83n%20m%C3%A0u%20m%C6%A1%20m%C3%A0ng%20t%E1%BB%AB%20t%C3%ADm%20sang%20xanh%2C%20m%E1%BA%B7t%20%C4%91%E1%BA%A5t%20%C6%B0%E1%BB%9Bt%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20b%C3%B3ng%2C%20ch%E1%BB%89nh%20s%E1%BB%ADa%20cao%20c%E1%BA%A5p%20gi%E1%BB%AF%20l%E1%BA%A1i%20k%E1%BA%BFt%20c%E1%BA%A5u%20da%20nh%C6%B0ng%20th%E1%BB%91ng%20nh%E1%BA%A5t%20t%C3%B4ng%20m%C3%A0u%2C%20phong%20c%C3%A1ch%20h%C3%ACnh%20%E1%BA%A3nh%20c%E1%BB%A7a%20SM%20Entertainment%2C%20k%E1%BA%BFt%20h%E1%BB%A3p%20%C3%A1nh%20s%C3%A1ng%20m%E1%BB%81m%20v%C3%A0%20c%E1%BB%A9ng%2C%20m%C3%A1y%20t%E1%BA%A1o%20s%C6%B0%C6%A1ng%20m%C3%B9%20n%E1%BB%81n%20t%E1%BA%A1o%20l%E1%BB%9Bp%2C%20b%E1%BB%91%20c%E1%BB%A5c%20%E1%BA%A3nh%20concept%20album%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=K-pop%20nh%C3%B3m%20%7Bargument%20name%3D%22number%20of%20people%22%20default%3D%22four-member%22%7D%20%E1%BA%A3nh%20concept%2C%20%C4%91%E1%BB%8Bnh%20v%E1%BB%8B%20ch%C3%ADnh%20x%C3%A1c%20theo%20%C4%91%E1%BB%99i%20h%C3%ACnh%20kim%20c%C6%B0%C6%A1ng%2C%20phong%20c%C3%A1ch%20b%E1%BA%A1c%20t%C6%B0%C6%A1ng%20lai%20th%E1%BB%91ng%20nh%E1%BA%A5t%2C%20t%C3%B4ng%20m%C3%A0u%20ch%E1%BB%A7%20%C4%91%E1%BA%A1o%2C%20%C3%A1nh%20s%C3%A1ng%20chuy%E1%BB%83n%20m%C3%A0u%20m%C6%A1%20m%C3%A0ng%20t%E1%BB%AB%20t%C3%ADm%20sang%20xanh%2C%20m%E1%BA%B7t%20%C4%91%E1%BA%A5t%20%C6%B0%E1%BB%9Bt%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20b%C3%B3ng%2C%20ch%E1%BB%89nh%20s%E1%BB%ADa%20cao%20c%E1%BA%A5p%20gi%E1%BB%AF%20l%E1%BA%A1i%20k%E1%BA%BFt%20c%E1%BA%A5u%20da%20nh%C6%B0ng%20th%E1%BB%91ng%20nh%E1%BA%A5t%20t%C3%B4ng%20m%C3%A0u%2C%20phong%20c%C3%A1ch%20h%C3%ACnh%20%E1%BA%A3nh%20c%E1%BB%A7a%20SM%20Entertainment%2C%20k%E1%BA%BFt%20h%E1%BB%A3p%20%C3%A1nh%20s%C3%A1ng%20m%E1%BB%81m%20v%C3%A0%20c%E1%BB%A9ng%2C%20m%C3%A1y%20t%E1%BA%A1o%20s%C6%B0%C6%A1ng%20m%C3%B9%20n%E1%BB%81n%20t%E1%BA%A1o%20l%E1%BB%9Bp%2C%20b%E1%BB%91%20c%E1%BB%A5c%20%E1%BA%A3nh%20concept%20album%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 77: Chân Dung Thời Trang Cao Cấp Tối Giản
-=======
-### No. 80: Chân Dung Thời Trang Cao Cấp Tối Giản
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 81: Chân Dung Thời Trang Cao Cấp Tối Giản
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3005,15 +2776,11 @@ Chân dung tối giản nửa thân của một {argument name="subject" default
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Ch%C3%A2n%20dung%20t%E1%BB%91i%20gi%E1%BA%A3n%20n%E1%BB%ADa%20th%C3%A2n%20c%E1%BB%A7a%20m%E1%BB%99t%20%7Bargument%20name%3D%22subject%22%20default%3D%22c%C3%B4%20g%C3%A1i%20tr%E1%BA%BB%22%7D%2C%20n%E1%BB%81n%20m%C3%A0u%20%C4%91%C6%A1n%20s%E1%BA%AFc%20(%7Bargument%20name%3D%22background%20color%22%20default%3D%22%23B4C7E7%20haze%20blue%22%7D)%2C%20%C3%A1nh%20m%E1%BA%AFt%20m%C3%A3nh%20li%E1%BB%87t%20nh%C3%ACn%20th%E1%BA%B3ng%20v%C3%A0o%20%E1%BB%91ng%20k%C3%ADnh%2C%20%C3%A1nh%20s%C3%A1ng%20ph%E1%BA%B3ng%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc%20t%E1%BB%AB%20%C4%91%C3%A8n%20v%C3%B2ng%20Profoto%20%C4%91%E1%BB%83%20lo%E1%BA%A1i%20b%E1%BB%8F%20b%C3%B3ng%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20da%20r%C3%B5%20r%C3%A0ng%20nh%C6%B0ng%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20%C4%91%E1%BB%99%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20cao%20nh%C6%B0ng%20v%E1%BA%ABn%20gi%E1%BB%AF%20%C4%91%C6%B0%E1%BB%A3c%20chi%20ti%E1%BA%BFt%2C%20b%E1%BB%91%20c%E1%BB%A5c%20b%C3%ACa%20t%E1%BA%A1p%20ch%C3%AD%20th%E1%BB%9Di%20trang%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20m%C3%A1y%20%E1%BA%A3nh%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20trung%20b%C3%ACnh%20Hasselblad%2C%20h%E1%BA%ADu%20k%E1%BB%B3%20t%C3%B4ng%20m%C3%A0u%20l%E1%BA%A1nh%2C%20th%E1%BA%A9m%20m%E1%BB%B9%20b%C3%ACa%20album%20Billie%20Eilish%2C%20b%E1%BB%91%20c%E1%BB%A5c%20h%C3%ACnh%20vu%C3%B4ng%201%3A1)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=Ch%C3%A2n%20dung%20t%E1%BB%91i%20gi%E1%BA%A3n%20n%E1%BB%ADa%20th%C3%A2n%20c%E1%BB%A7a%20m%E1%BB%99t%20%7Bargument%20name%3D%22subject%22%20default%3D%22c%C3%B4%20g%C3%A1i%20tr%E1%BA%BB%22%7D%2C%20n%E1%BB%81n%20m%C3%A0u%20%C4%91%C6%A1n%20s%E1%BA%AFc%20(%7Bargument%20name%3D%22background%20color%22%20default%3D%22%23B4C7E7%20haze%20blue%22%7D)%2C%20%C3%A1nh%20m%E1%BA%AFt%20m%C3%A3nh%20li%E1%BB%87t%20nh%C3%ACn%20th%E1%BA%B3ng%20v%C3%A0o%20%E1%BB%91ng%20k%C3%ADnh%2C%20%C3%A1nh%20s%C3%A1ng%20ph%E1%BA%B3ng%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc%20t%E1%BB%AB%20%C4%91%C3%A8n%20v%C3%B2ng%20Profoto%20%C4%91%E1%BB%83%20lo%E1%BA%A1i%20b%E1%BB%8F%20b%C3%B3ng%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20da%20r%C3%B5%20r%C3%A0ng%20nh%C6%B0ng%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20%C4%91%E1%BB%99%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20cao%20nh%C6%B0ng%20v%E1%BA%ABn%20gi%E1%BB%AF%20%C4%91%C6%B0%E1%BB%A3c%20chi%20ti%E1%BA%BFt%2C%20b%E1%BB%91%20c%E1%BB%A5c%20b%C3%ACa%20t%E1%BA%A1p%20ch%C3%AD%20th%E1%BB%9Di%20trang%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20m%C3%A1y%20%E1%BA%A3nh%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20trung%20b%C3%ACnh%20Hasselblad%2C%20h%E1%BA%ADu%20k%E1%BB%B3%20t%C3%B4ng%20m%C3%A0u%20l%E1%BA%A1nh%2C%20th%E1%BA%A9m%20m%E1%BB%B9%20b%C3%ACa%20album%20Billie%20Eilish%2C%20b%E1%BB%91%20c%E1%BB%A5c%20h%C3%ACnh%20vu%C3%B4ng%201%3A1)**
 
 ---
 
-<<<<<<< HEAD
-### No. 78: Hành Động Siêu Anh Hùng Đầy Kịch Tính
-=======
-### No. 81: Hành Động Siêu Anh Hùng Đầy Kịch Tính
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 82: Hành Động Siêu Anh Hùng Đầy Kịch Tính
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3043,15 +2810,11 @@ Ghi lại cảnh chiến đấu siêu anh hùng đầy kịch tính với hiệu
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22color%20scheme%22%20default%3D%22%C4%90%E1%BB%8F%20v%C3%A0%20%C4%91en%22%7D%20%7Bargument%20name%3D%22character%22%20default%3D%22si%C3%AAu%20anh%20h%C3%B9ng%22%7D%20kho%E1%BA%A3nh%20kh%E1%BA%AFc%20chi%E1%BA%BFn%20%C4%91%E1%BA%A5u%20%C4%91%E1%BA%A7y%20k%E1%BB%8Bch%20t%C3%ADnh%20tr%C3%AAn%20%C4%91%C6%B0%E1%BB%9Dng%20ph%E1%BB%91%20sau%20c%C6%A1n%20m%C6%B0a%2C%20m%C3%A0n%20tr%E1%BA%ADp%20t%E1%BB%91c%20%C4%91%E1%BB%99%20cao%20%C4%91%C3%B3ng%20b%C4%83ng%20nh%E1%BB%AFng%20tia%20n%C6%B0%E1%BB%9Bc%20b%E1%BA%AFn%20tung%20t%C3%B3e%2C%20v%E1%BB%A5%20n%E1%BB%95%20ph%C3%ADa%20sau%20t%E1%BA%A1o%20ra%20v%E1%BA%A7ng%20s%C3%A1ng%20%E1%BA%A5m%20%C3%A1p%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20v%E1%BB%9Bi%20%C3%A1nh%20%C4%91%C3%A8n%20%C4%91%C6%B0%E1%BB%9Dng%20xanh%20m%C3%A1t%2C%20m%E1%BA%A3nh%20v%E1%BB%A1%20v%E1%BB%A5%20n%E1%BB%95%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc%20b%E1%BA%AFn%20tung%20t%C3%B3e%20v%E1%BB%9Bi%20hi%E1%BB%87u%20%E1%BB%A9ng%20nh%C3%B2e%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%2C%20s%E1%BB%B1%20k%E1%BA%BFt%20h%E1%BB%A3p%20gi%E1%BB%AFa%20c%C3%A1c%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20truy%E1%BB%87n%20tranh%20v%C3%A0%20nhi%E1%BA%BFp%20%E1%BA%A3nh%20ch%C3%A2n%20th%E1%BB%B1c%2C%20HDR%20d%E1%BA%A3i%20%C4%91%E1%BB%99ng%20cao%2C%20b%E1%BB%91%20c%E1%BB%A5c%20%E1%BA%A5n%20t%C6%B0%E1%BB%A3ng%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20hi%E1%BB%87u%20%E1%BB%A9ng%20h%C3%ACnh%20%E1%BA%A3nh%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20phim%20Marvel%2C%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%2016%3A9%2C%20x%E1%BB%AD%20l%C3%BD%20l%C3%A0m%20s%E1%BA%AFc%20n%C3%A9t%20c%E1%BA%A1nh)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22color%20scheme%22%20default%3D%22%C4%90%E1%BB%8F%20v%C3%A0%20%C4%91en%22%7D%20%7Bargument%20name%3D%22character%22%20default%3D%22si%C3%AAu%20anh%20h%C3%B9ng%22%7D%20kho%E1%BA%A3nh%20kh%E1%BA%AFc%20chi%E1%BA%BFn%20%C4%91%E1%BA%A5u%20%C4%91%E1%BA%A7y%20k%E1%BB%8Bch%20t%C3%ADnh%20tr%C3%AAn%20%C4%91%C6%B0%E1%BB%9Dng%20ph%E1%BB%91%20sau%20c%C6%A1n%20m%C6%B0a%2C%20m%C3%A0n%20tr%E1%BA%ADp%20t%E1%BB%91c%20%C4%91%E1%BB%99%20cao%20%C4%91%C3%B3ng%20b%C4%83ng%20nh%E1%BB%AFng%20tia%20n%C6%B0%E1%BB%9Bc%20b%E1%BA%AFn%20tung%20t%C3%B3e%2C%20v%E1%BB%A5%20n%E1%BB%95%20ph%C3%ADa%20sau%20t%E1%BA%A1o%20ra%20v%E1%BA%A7ng%20s%C3%A1ng%20%E1%BA%A5m%20%C3%A1p%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20v%E1%BB%9Bi%20%C3%A1nh%20%C4%91%C3%A8n%20%C4%91%C6%B0%E1%BB%9Dng%20xanh%20m%C3%A1t%2C%20m%E1%BA%A3nh%20v%E1%BB%A1%20v%E1%BB%A5%20n%E1%BB%95%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc%20b%E1%BA%AFn%20tung%20t%C3%B3e%20v%E1%BB%9Bi%20hi%E1%BB%87u%20%E1%BB%A9ng%20nh%C3%B2e%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%2C%20s%E1%BB%B1%20k%E1%BA%BFt%20h%E1%BB%A3p%20gi%E1%BB%AFa%20c%C3%A1c%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20truy%E1%BB%87n%20tranh%20v%C3%A0%20nhi%E1%BA%BFp%20%E1%BA%A3nh%20ch%C3%A2n%20th%E1%BB%B1c%2C%20HDR%20d%E1%BA%A3i%20%C4%91%E1%BB%99ng%20cao%2C%20b%E1%BB%91%20c%E1%BB%A5c%20%E1%BA%A5n%20t%C6%B0%E1%BB%A3ng%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20hi%E1%BB%87u%20%E1%BB%A9ng%20h%C3%ACnh%20%E1%BA%A3nh%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20phim%20Marvel%2C%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%2016%3A9%2C%20x%E1%BB%AD%20l%C3%BD%20l%C3%A0m%20s%E1%BA%AFc%20n%C3%A9t%20c%E1%BA%A1nh)**
 
 ---
 
-<<<<<<< HEAD
-### No. 79: Không khí buổi hòa nhạc tại sân vận động
-=======
-### No. 82: Không khí buổi hòa nhạc tại sân vận động
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 83: Không khí buổi hòa nhạc tại sân vận động
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3081,15 +2844,11 @@ Tạo ra một khung cảnh buổi hòa nhạc sân vận động ngoạn mục 
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22scene%22%20default%3D%22S%C3%A2n%20v%E1%BA%ADn%20%C4%91%E1%BB%99ng%20l%E1%BB%9Bn%20t%E1%BB%95%20ch%E1%BB%A9c%20h%C3%B2a%20nh%E1%BA%A1c%22%7D%2C%20ph%C3%A1o%20gi%E1%BA%A5y%20v%C3%A0ng%20r%C6%A1i%20t%E1%BB%AB%20tr%C3%AAn%20tr%E1%BB%9Di%20xu%E1%BB%91ng%2C%20%7Bargument%20name%3D%22person%22%20default%3D%22n%E1%BB%AF%20ca%20s%C4%A9%22%7D%20%E1%BB%9F%20trung%20t%C3%A2m%20ch%C3%B9m%20%C3%A1nh%20s%C3%A1ng%20s%C3%A2n%20kh%E1%BA%A5u%2C%20m%C3%A0n%20h%C3%ACnh%20LED%20ph%C3%ADa%20sau%20c%C3%B3%20d%E1%BA%A3i%20m%C3%A0u%20chuy%E1%BB%83n%20s%E1%BA%AFc%20t%C3%ADm-xanh%20lam%2C%20bi%E1%BB%83n%20%C3%A1nh%20%C4%91%C3%A8n%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20c%E1%BB%A7a%20kh%C3%A1n%20gi%E1%BA%A3%20t%E1%BA%A1o%20hi%E1%BB%87u%20%E1%BB%A9ng%20bi%E1%BB%83n%20sao%2C%20m%C3%A1y%20t%E1%BA%A1o%20kh%C3%B3i%20s%C3%A2n%20kh%E1%BA%A5u%20t%E1%BA%A1o%20kh%C3%B4ng%20kh%C3%AD%20m%C6%A1%20m%C3%A0ng%2C%20ch%E1%BB%A5p%20%E1%BA%A3nh%20h%C3%B2a%20nh%E1%BA%A1c%20b%E1%BA%B1ng%20%E1%BB%91ng%20k%C3%ADnh%20tele%20n%C3%A9n%20200mm%2C%20ISO%20cao%203200%20b%E1%BA%AFt%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%2C%20m%C3%A0u%20s%E1%BA%AFc%20c%E1%BA%A3nh%20%C4%91%C3%AAm%20b%C3%A3o%20h%C3%B2a%2C%20phong%20c%C3%A1ch%20h%C3%ACnh%20%E1%BA%A3nh%20Eras%20Tour%2C%20b%E1%BB%91%20c%E1%BB%A5c%20ngang%2016%3A9)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22scene%22%20default%3D%22S%C3%A2n%20v%E1%BA%ADn%20%C4%91%E1%BB%99ng%20l%E1%BB%9Bn%20t%E1%BB%95%20ch%E1%BB%A9c%20h%C3%B2a%20nh%E1%BA%A1c%22%7D%2C%20ph%C3%A1o%20gi%E1%BA%A5y%20v%C3%A0ng%20r%C6%A1i%20t%E1%BB%AB%20tr%C3%AAn%20tr%E1%BB%9Di%20xu%E1%BB%91ng%2C%20%7Bargument%20name%3D%22person%22%20default%3D%22n%E1%BB%AF%20ca%20s%C4%A9%22%7D%20%E1%BB%9F%20trung%20t%C3%A2m%20ch%C3%B9m%20%C3%A1nh%20s%C3%A1ng%20s%C3%A2n%20kh%E1%BA%A5u%2C%20m%C3%A0n%20h%C3%ACnh%20LED%20ph%C3%ADa%20sau%20c%C3%B3%20d%E1%BA%A3i%20m%C3%A0u%20chuy%E1%BB%83n%20s%E1%BA%AFc%20t%C3%ADm-xanh%20lam%2C%20bi%E1%BB%83n%20%C3%A1nh%20%C4%91%C3%A8n%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20c%E1%BB%A7a%20kh%C3%A1n%20gi%E1%BA%A3%20t%E1%BA%A1o%20hi%E1%BB%87u%20%E1%BB%A9ng%20bi%E1%BB%83n%20sao%2C%20m%C3%A1y%20t%E1%BA%A1o%20kh%C3%B3i%20s%C3%A2n%20kh%E1%BA%A5u%20t%E1%BA%A1o%20kh%C3%B4ng%20kh%C3%AD%20m%C6%A1%20m%C3%A0ng%2C%20ch%E1%BB%A5p%20%E1%BA%A3nh%20h%C3%B2a%20nh%E1%BA%A1c%20b%E1%BA%B1ng%20%E1%BB%91ng%20k%C3%ADnh%20tele%20n%C3%A9n%20200mm%2C%20ISO%20cao%203200%20b%E1%BA%AFt%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%2C%20m%C3%A0u%20s%E1%BA%AFc%20c%E1%BA%A3nh%20%C4%91%C3%AAm%20b%C3%A3o%20h%C3%B2a%2C%20phong%20c%C3%A1ch%20h%C3%ACnh%20%E1%BA%A3nh%20Eras%20Tour%2C%20b%E1%BB%91%20c%E1%BB%A5c%20ngang%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 80: Phòng mơ ước của Barbie
-=======
-### No. 83: Phòng mơ ước của Barbie
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 84: Phòng mơ ước của Barbie
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3119,15 +2878,11 @@ Nội thất phòng mơ ước của Barbie, tường màu {argument name="wall 
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=N%E1%BB%99i%20th%E1%BA%A5t%20ph%C3%B2ng%20m%C6%A1%20%C6%B0%E1%BB%9Bc%20c%E1%BB%A7a%20Barbie%2C%20t%C6%B0%E1%BB%9Dng%20m%C3%A0u%20%7Bargument%20name%3D%22wall%20color%22%20default%3D%22h%E1%BB%93ng%22%7D%20(Pantone%20219C)%2C%20%C4%91%E1%BB%93%20n%E1%BB%99i%20th%E1%BA%A5t%20nh%E1%BB%B1a%20retro%20th%E1%BA%ADp%20ni%C3%AAn%2060%20v%E1%BB%9Bi%20%C4%91%E1%BB%99%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20b%C3%B3ng%20cao%2C%20%C3%A1nh%20s%C3%A1ng%20softbox%20t%E1%BB%AB%20tr%C3%AAn%20cao%20k%E1%BA%BFt%20h%E1%BB%A3p%20v%E1%BB%9Bi%20d%C3%B9%20m%E1%BB%81m%20b%C3%AAn%20c%E1%BA%A1nh%20%C4%91%E1%BB%83%20lo%E1%BA%A1i%20b%E1%BB%8F%20b%C3%B3ng%2C%20c%E1%BA%A3m%20gi%C3%A1c%20si%C3%AAu%20th%E1%BB%B1c%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20ra%20b%E1%BB%9Fi%20s%E1%BB%B1%20va%20ch%E1%BA%A1m%20c%E1%BB%A7a%20v%E1%BA%ADt%20li%E1%BB%87u%20nh%E1%BB%B1a%20v%C3%A0%20%C3%A1nh%20s%C3%A1ng%2C%20b%C3%B3ng%20t%E1%BB%91i%20ch%C3%A2n%20th%E1%BB%B1c%2C%20s%C3%A0n%20nh%C3%A0%20s%C6%A1n%20m%C3%A0i%20b%C3%B3ng%20cao%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20tr%E1%BA%A7n%20nh%C3%A0%2C%20b%E1%BB%91%20c%E1%BB%A5c%2016%3A9%2C%20m%C3%A0u%20s%E1%BA%AFc%20b%C3%A3o%20h%C3%B2a%20cao%20(%C4%91%E1%BB%99%20b%C3%A3o%20h%C3%B2a%20%2B40)%2C%20c%C3%A1c%20c%E1%BA%A1nh%20l%E1%BA%A5y%20n%C3%A9t%20m%E1%BB%81m%2C%20t%C3%ADnh%20th%E1%BA%A9m%20m%E1%BB%B9%20b%E1%BB%91%20c%E1%BB%A5c%20%C4%91%E1%BB%91i%20x%E1%BB%A9ng%20c%E1%BB%A7a%20Wes%20Anderson%2C%20%C3%A1nh%20s%C3%A1ng%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20qu%E1%BA%A3ng%20c%C3%A1o%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=N%E1%BB%99i%20th%E1%BA%A5t%20ph%C3%B2ng%20m%C6%A1%20%C6%B0%E1%BB%9Bc%20c%E1%BB%A7a%20Barbie%2C%20t%C6%B0%E1%BB%9Dng%20m%C3%A0u%20%7Bargument%20name%3D%22wall%20color%22%20default%3D%22h%E1%BB%93ng%22%7D%20(Pantone%20219C)%2C%20%C4%91%E1%BB%93%20n%E1%BB%99i%20th%E1%BA%A5t%20nh%E1%BB%B1a%20retro%20th%E1%BA%ADp%20ni%C3%AAn%2060%20v%E1%BB%9Bi%20%C4%91%E1%BB%99%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20b%C3%B3ng%20cao%2C%20%C3%A1nh%20s%C3%A1ng%20softbox%20t%E1%BB%AB%20tr%C3%AAn%20cao%20k%E1%BA%BFt%20h%E1%BB%A3p%20v%E1%BB%9Bi%20d%C3%B9%20m%E1%BB%81m%20b%C3%AAn%20c%E1%BA%A1nh%20%C4%91%E1%BB%83%20lo%E1%BA%A1i%20b%E1%BB%8F%20b%C3%B3ng%2C%20c%E1%BA%A3m%20gi%C3%A1c%20si%C3%AAu%20th%E1%BB%B1c%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20ra%20b%E1%BB%9Fi%20s%E1%BB%B1%20va%20ch%E1%BA%A1m%20c%E1%BB%A7a%20v%E1%BA%ADt%20li%E1%BB%87u%20nh%E1%BB%B1a%20v%C3%A0%20%C3%A1nh%20s%C3%A1ng%2C%20b%C3%B3ng%20t%E1%BB%91i%20ch%C3%A2n%20th%E1%BB%B1c%2C%20s%C3%A0n%20nh%C3%A0%20s%C6%A1n%20m%C3%A0i%20b%C3%B3ng%20cao%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20tr%E1%BA%A7n%20nh%C3%A0%2C%20b%E1%BB%91%20c%E1%BB%A5c%2016%3A9%2C%20m%C3%A0u%20s%E1%BA%AFc%20b%C3%A3o%20h%C3%B2a%20cao%20(%C4%91%E1%BB%99%20b%C3%A3o%20h%C3%B2a%20%2B40)%2C%20c%C3%A1c%20c%E1%BA%A1nh%20l%E1%BA%A5y%20n%C3%A9t%20m%E1%BB%81m%2C%20t%C3%ADnh%20th%E1%BA%A9m%20m%E1%BB%B9%20b%E1%BB%91%20c%E1%BB%A5c%20%C4%91%E1%BB%91i%20x%E1%BB%A9ng%20c%E1%BB%A7a%20Wes%20Anderson%2C%20%C3%A1nh%20s%C3%A1ng%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20qu%E1%BA%A3ng%20c%C3%A1o%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i)**
 
 ---
 
-<<<<<<< HEAD
-### No. 81: Phong cách sống Bờ biển Amalfi
-=======
-### No. 84: Phong cách sống Bờ biển Amalfi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 85: Phong cách sống Bờ biển Amalfi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3157,15 +2912,11 @@ Một {argument name="gender" default="phụ nữ"} {argument name="age" default
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20%7Bargument%20name%3D%22gender%22%20default%3D%22ph%E1%BB%A5%20n%E1%BB%AF%22%7D%20%7Bargument%20name%3D%22age%22%20default%3D%2230%20tu%E1%BB%95i%22%7D%20thanh%20l%E1%BB%8Bch%20tr%C3%AAn%20%7Bargument%20name%3D%22location%22%20default%3D%22s%C3%A2n%20th%C6%B0%E1%BB%A3ng%20c%E1%BB%A7a%20m%E1%BB%99t%20bi%E1%BB%87t%20th%E1%BB%B1%20%E1%BB%9F%20Amalfi%2C%20%C3%9D%22%7D%2C%20m%E1%BA%B7c%20%7Bargument%20name%3D%22clothing%22%20default%3D%22v%C3%A1y%20v%E1%BA%A3i%20lanh%20Ph%C3%A1p%20m%C3%A0u%20tr%E1%BA%AFng%20ng%C3%A0%22%7D%20bay%20trong%20gi%C3%B3%2C%20%C3%A1nh%20s%C3%A1ng%20v%C3%A0ng%20d%E1%BB%8Bu%20c%E1%BB%A7a%20gi%E1%BB%9D%20v%C3%A0ng%20(Magic%20Hour)%2C%20h%E1%BA%ADu%20c%E1%BA%A3nh%20l%C3%A0%20c%E1%BA%A3nh%20bi%E1%BB%83n%20xanh%20%C4%90%E1%BB%8Ba%20Trung%20H%E1%BA%A3i%20m%E1%BB%9D%20%E1%BA%A3o%2C%20m%C3%B4%20ph%E1%BB%8Fng%20m%C3%A0u%20phim%20Leica%20M10%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20phim%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20t%C3%B4ng%20%E1%BA%A5m%20(Kodak%20Portra%20400)%2C%20%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20n%C3%B4ng%2C%20ch%E1%BB%A5p%20%E1%BA%A3nh%20nh%C3%A2n%20v%C4%83n%2035mm%2C%20b%E1%BA%A3ng%20m%C3%A0u%20x%C3%A1m%20cao%20c%E1%BA%A5p%2C%20kh%C3%B4ng%20kh%C3%AD%20t%E1%BB%B1%20nhi%C3%AAn%20th%C6%B0%20th%C3%A1i)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20%7Bargument%20name%3D%22gender%22%20default%3D%22ph%E1%BB%A5%20n%E1%BB%AF%22%7D%20%7Bargument%20name%3D%22age%22%20default%3D%2230%20tu%E1%BB%95i%22%7D%20thanh%20l%E1%BB%8Bch%20tr%C3%AAn%20%7Bargument%20name%3D%22location%22%20default%3D%22s%C3%A2n%20th%C6%B0%E1%BB%A3ng%20c%E1%BB%A7a%20m%E1%BB%99t%20bi%E1%BB%87t%20th%E1%BB%B1%20%E1%BB%9F%20Amalfi%2C%20%C3%9D%22%7D%2C%20m%E1%BA%B7c%20%7Bargument%20name%3D%22clothing%22%20default%3D%22v%C3%A1y%20v%E1%BA%A3i%20lanh%20Ph%C3%A1p%20m%C3%A0u%20tr%E1%BA%AFng%20ng%C3%A0%22%7D%20bay%20trong%20gi%C3%B3%2C%20%C3%A1nh%20s%C3%A1ng%20v%C3%A0ng%20d%E1%BB%8Bu%20c%E1%BB%A7a%20gi%E1%BB%9D%20v%C3%A0ng%20(Magic%20Hour)%2C%20h%E1%BA%ADu%20c%E1%BA%A3nh%20l%C3%A0%20c%E1%BA%A3nh%20bi%E1%BB%83n%20xanh%20%C4%90%E1%BB%8Ba%20Trung%20H%E1%BA%A3i%20m%E1%BB%9D%20%E1%BA%A3o%2C%20m%C3%B4%20ph%E1%BB%8Fng%20m%C3%A0u%20phim%20Leica%20M10%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20phim%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20t%C3%B4ng%20%E1%BA%A5m%20(Kodak%20Portra%20400)%2C%20%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20n%C3%B4ng%2C%20ch%E1%BB%A5p%20%E1%BA%A3nh%20nh%C3%A2n%20v%C4%83n%2035mm%2C%20b%E1%BA%A3ng%20m%C3%A0u%20x%C3%A1m%20cao%20c%E1%BA%A5p%2C%20kh%C3%B4ng%20kh%C3%AD%20t%E1%BB%B1%20nhi%C3%AAn%20th%C6%B0%20th%C3%A1i)**
 
 ---
 
-<<<<<<< HEAD
-### No. 82: Ảnh Selfie Máy Ảnh Kỹ Thuật Số Y2K
-=======
-### No. 85: Ảnh Selfie Máy Ảnh Kỹ Thuật Số Y2K
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 86: Ảnh Selfie Máy Ảnh Kỹ Thuật Số Y2K
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3195,15 +2946,11 @@ Một lời nhắc gợi nhớ hoàn hảo tái tạo lại phong cách nhiếp 
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%E1%BA%A2nh%20selfie%20ki%E1%BB%83u%20m%C3%A1y%20%E1%BA%A3nh%20k%E1%BB%B9%20thu%E1%BA%ADt%20s%E1%BB%91%20th%E1%BA%BF%20h%E1%BB%87%20Y%2C%20c%E1%BA%A3m%20gi%C3%A1c%20%C4%91%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%20th%E1%BA%A5p%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch%20(m%C3%B4%20ph%E1%BB%8Fng%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%202%20megapixel%20c%E1%BB%A7a%20nh%E1%BB%AFng%20n%C4%83m%202000)%2C%20ph%E1%BB%A7%20b%E1%BB%99%20l%E1%BB%8Dc%20m%C3%A0u%20xanh-t%C3%ADm%20m%C3%A1t%20m%E1%BA%BB%2C%20v%C3%B9ng%20s%C3%A1ng%20b%E1%BB%8B%20ch%C3%A1y%20v%C3%A0%20b%C3%B3ng%20%C4%91%E1%BB%95%20g%E1%BA%AFt%20do%20%C4%91%C3%A8n%20flash%20tr%E1%BB%B1c%20di%E1%BB%87n%2C%20s%E1%BB%B1%20d%E1%BB%8Bch%20chuy%E1%BB%83n%20m%C3%A0u%20s%E1%BA%AFc%20%C4%91%E1%BB%99c%20%C4%91%C3%A1o%20v%C3%A0%20nhi%E1%BB%85u%20c%E1%BB%A7a%20c%E1%BA%A3m%20bi%E1%BA%BFn%20CCD%2C%20h%C3%ACnh%20m%E1%BB%9D%20ng%C3%A0y%20%22%7Bargument%20name%3D%22date%22%20default%3D%2202%2F12%2F2025%22%7D%22%2C%20trang%20tr%C3%AD%20%C4%91%C6%B0%E1%BB%9Dng%20k%E1%BA%BB%20%C3%B4%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20m%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i%20th%E1%BB%9Di%20MySpace%2C%20b%E1%BB%91%20c%E1%BB%A5c%20h%C3%ACnh%20vu%C3%B4ng%201%3A1)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=%E1%BA%A2nh%20selfie%20ki%E1%BB%83u%20m%C3%A1y%20%E1%BA%A3nh%20k%E1%BB%B9%20thu%E1%BA%ADt%20s%E1%BB%91%20th%E1%BA%BF%20h%E1%BB%87%20Y%2C%20c%E1%BA%A3m%20gi%C3%A1c%20%C4%91%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%20th%E1%BA%A5p%20c%C3%B3%20ch%E1%BB%A7%20%C4%91%C3%ADch%20(m%C3%B4%20ph%E1%BB%8Fng%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%202%20megapixel%20c%E1%BB%A7a%20nh%E1%BB%AFng%20n%C4%83m%202000)%2C%20ph%E1%BB%A7%20b%E1%BB%99%20l%E1%BB%8Dc%20m%C3%A0u%20xanh-t%C3%ADm%20m%C3%A1t%20m%E1%BA%BB%2C%20v%C3%B9ng%20s%C3%A1ng%20b%E1%BB%8B%20ch%C3%A1y%20v%C3%A0%20b%C3%B3ng%20%C4%91%E1%BB%95%20g%E1%BA%AFt%20do%20%C4%91%C3%A8n%20flash%20tr%E1%BB%B1c%20di%E1%BB%87n%2C%20s%E1%BB%B1%20d%E1%BB%8Bch%20chuy%E1%BB%83n%20m%C3%A0u%20s%E1%BA%AFc%20%C4%91%E1%BB%99c%20%C4%91%C3%A1o%20v%C3%A0%20nhi%E1%BB%85u%20c%E1%BB%A7a%20c%E1%BA%A3m%20bi%E1%BA%BFn%20CCD%2C%20h%C3%ACnh%20m%E1%BB%9D%20ng%C3%A0y%20%22%7Bargument%20name%3D%22date%22%20default%3D%2202%2F12%2F2025%22%7D%22%2C%20trang%20tr%C3%AD%20%C4%91%C6%B0%E1%BB%9Dng%20k%E1%BA%BB%20%C3%B4%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20m%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i%20th%E1%BB%9Di%20MySpace%2C%20b%E1%BB%91%20c%E1%BB%A5c%20h%C3%ACnh%20vu%C3%B4ng%201%3A1)**
 
 ---
 
-<<<<<<< HEAD
-### No. 83: Chân dung nhà khoa học điện ảnh
-=======
-### No. 86: Chân dung nhà khoa học điện ảnh
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 87: Chân dung nhà khoa học điện ảnh
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3233,15 +2980,11 @@ Phong cách phim đen trắng 35mm, một {argument name="character identity" de
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Phong%20c%C3%A1ch%20phim%20%C4%91en%20tr%E1%BA%AFng%2035mm%2C%20m%E1%BB%99t%20%7Bargument%20name%3D%22character%20identity%22%20default%3D%22nh%C3%A0%20khoa%20h%E1%BB%8Dc%22%7D%20%C4%91ang%20nh%C3%ACn%20ch%E1%BA%B1m%20ch%E1%BA%B1m%20v%C3%A0o%20m%E1%BB%99t%20%7Bargument%20name%3D%22object%22%20default%3D%22m%C3%B4%20h%C3%ACnh%20nguy%C3%AAn%20t%E1%BB%AD%22%7D%20l%C6%A1%20l%E1%BB%ADng%20trong%20ph%C3%B2ng%20th%C3%AD%20nghi%E1%BB%87m%20thi%E1%BA%BFu%20s%C3%A1ng%2C%20%C3%A1nh%20s%C3%A1ng%20Rembrandt%20m%E1%BA%A1nh%20t%E1%BB%AB%20b%C3%AAn%20tr%C3%A1i%20chi%E1%BA%BFu%20%E1%BB%9F%20g%C3%B3c%2045%20%C4%91%E1%BB%99%2C%20kh%C3%B3i%20t%E1%BA%A1o%20th%C3%A0nh%20t%E1%BB%ABng%20l%E1%BB%9Bp%20trong%20ch%C3%B9m%20s%C3%A1ng%2C%20nh%E1%BB%AFng%20n%E1%BA%BFp%20nh%C4%83n%20s%C3%A2u%20tr%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t%20hi%E1%BB%87n%20r%C3%B5%2C%20thi%E1%BA%BFt%20b%E1%BB%8B%20th%C3%AD%20nghi%E1%BB%87m%20ph%C3%ADa%20sau%20b%E1%BB%8B%20l%C3%A0m%20m%E1%BB%9D%2C%20m%C3%B4%20ph%E1%BB%8Fng%20h%E1%BA%A1t%20phim%20ISO%20800%2C%20t%C3%B4ng%20m%C3%A0u%20%C4%91en%20tr%E1%BA%AFng%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20cao%2C%20chiaroscuro%20%E1%BA%A5n%20t%C6%B0%E1%BB%A3ng%2C%20phong%20c%C3%A1ch%20quay%20phim%20c%E1%BB%A7a%20Christopher%20Nolan%2C%20t%E1%BB%B7%20l%E1%BB%87%20m%C3%A0n%20h%C3%ACnh%20r%E1%BB%99ng%20anamorphic%202.39%3A1)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=Phong%20c%C3%A1ch%20phim%20%C4%91en%20tr%E1%BA%AFng%2035mm%2C%20m%E1%BB%99t%20%7Bargument%20name%3D%22character%20identity%22%20default%3D%22nh%C3%A0%20khoa%20h%E1%BB%8Dc%22%7D%20%C4%91ang%20nh%C3%ACn%20ch%E1%BA%B1m%20ch%E1%BA%B1m%20v%C3%A0o%20m%E1%BB%99t%20%7Bargument%20name%3D%22object%22%20default%3D%22m%C3%B4%20h%C3%ACnh%20nguy%C3%AAn%20t%E1%BB%AD%22%7D%20l%C6%A1%20l%E1%BB%ADng%20trong%20ph%C3%B2ng%20th%C3%AD%20nghi%E1%BB%87m%20thi%E1%BA%BFu%20s%C3%A1ng%2C%20%C3%A1nh%20s%C3%A1ng%20Rembrandt%20m%E1%BA%A1nh%20t%E1%BB%AB%20b%C3%AAn%20tr%C3%A1i%20chi%E1%BA%BFu%20%E1%BB%9F%20g%C3%B3c%2045%20%C4%91%E1%BB%99%2C%20kh%C3%B3i%20t%E1%BA%A1o%20th%C3%A0nh%20t%E1%BB%ABng%20l%E1%BB%9Bp%20trong%20ch%C3%B9m%20s%C3%A1ng%2C%20nh%E1%BB%AFng%20n%E1%BA%BFp%20nh%C4%83n%20s%C3%A2u%20tr%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t%20hi%E1%BB%87n%20r%C3%B5%2C%20thi%E1%BA%BFt%20b%E1%BB%8B%20th%C3%AD%20nghi%E1%BB%87m%20ph%C3%ADa%20sau%20b%E1%BB%8B%20l%C3%A0m%20m%E1%BB%9D%2C%20m%C3%B4%20ph%E1%BB%8Fng%20h%E1%BA%A1t%20phim%20ISO%20800%2C%20t%C3%B4ng%20m%C3%A0u%20%C4%91en%20tr%E1%BA%AFng%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20cao%2C%20chiaroscuro%20%E1%BA%A5n%20t%C6%B0%E1%BB%A3ng%2C%20phong%20c%C3%A1ch%20quay%20phim%20c%E1%BB%A7a%20Christopher%20Nolan%2C%20t%E1%BB%B7%20l%E1%BB%87%20m%C3%A0n%20h%C3%ACnh%20r%E1%BB%99ng%20anamorphic%202.39%3A1)**
 
 ---
 
-<<<<<<< HEAD
-### No. 84: Áp phích Giáng sinh Judy và Nick Felt
-=======
-### No. 87: Áp phích Giáng sinh Judy và Nick Felt
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 88: Áp phích Giáng sinh Judy và Nick Felt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3270,15 +3013,11 @@ Lời nhắc này tạo ra một tấm áp phích Giáng sinh phong cách nỉ �
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%C3%81p%20ph%C3%ADch%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20Gi%C3%A1ng%20sinh%20v%E1%BB%9Bi%20k%E1%BA%BFt%20c%E1%BA%A5u%20n%E1%BB%89%2C%20t%E1%BB%95ng%20th%E1%BB%83%20s%E1%BB%AD%20d%E1%BB%A5ng%20k%E1%BA%BFt%20c%E1%BA%A5u%20th%E1%BB%A7%20c%C3%B4ng%20b%E1%BA%B1ng%20n%E1%BB%89%20len%20%E1%BA%A5m%20%C3%A1p%20v%C3%A0%20ch%E1%BB%AFa%20l%C3%A0nh.%20%E1%BB%9E%20trung%20t%C3%A2m%20l%C3%A0%20m%E1%BB%99t%20c%C3%A2y%20th%C3%B4ng%20Gi%C3%A1ng%20sinh%20b%E1%BA%B1ng%20n%E1%BB%89%20m%C3%A0u%20xanh%20l%C3%A1%20c%C3%A2y%203D%20m%E1%BB%81m%20m%E1%BA%A1i.%20C%C3%A1c%20nh%C3%A2n%20v%E1%BA%ADt%20Disney%20Judy%20v%C3%A0%20Nick%20ng%E1%BB%93i%20tr%C3%AAn%20th%E1%BA%A3m%20g%C3%B3i%20h%E1%BB%99p%20qu%C3%A0%2C%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BB%8Dc%20b%E1%BA%B1ng%20ruy%20b%C4%83ng%20nhung%20m%C3%A0u%20tr%E1%BA%AFng%20s%E1%BB%AFa%20v%C3%A0%20nh%E1%BB%AFng%20qu%E1%BA%A3%20b%C3%B4ng%20v%C3%A0ng%2C%20ng%E1%BB%8Dn%20c%C3%A2y%20%C4%91%C6%B0%E1%BB%A3c%20trang%20tr%C3%AD%20b%E1%BA%B1ng%20m%E1%BB%99t%20ng%C3%B4i%20sao%20n%E1%BB%89%20ph%C3%A1t%20s%C3%A1ng.%20D%C6%B0%E1%BB%9Bi%20g%E1%BB%91c%20c%C3%A2y%20l%C3%A0%20nh%E1%BB%AFng%20h%E1%BB%99p%20qu%C3%A0%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BB%8Dc%20b%E1%BA%B1ng%20v%E1%BA%A3i%20n%E1%BB%89%20len%2C%20k%E1%BA%BFt%20h%E1%BB%A3p%20v%E1%BB%9Bi%20n%C6%A1%20s%E1%BB%A3i%20%C4%91%E1%BA%A7y%20m%C3%A0u%20s%E1%BA%AFc%20v%C3%A0%20chu%C3%B4ng%20n%E1%BB%89.%20Xung%20quanh%20l%C3%A0%20nh%E1%BB%AFng%20b%C3%B4ng%20tuy%E1%BA%BFt%20b%E1%BA%B1ng%20n%E1%BB%89%2C%20b%C3%BAp%20b%C3%AA%20tu%E1%BA%A7n%20l%E1%BB%99c%20b%E1%BA%B1ng%20n%E1%BB%89%20v%C3%A0%20ng%C6%B0%E1%BB%9Di%20b%C3%A1nh%20g%E1%BB%ABng%20b%E1%BA%B1ng%20n%E1%BB%89.%20N%E1%BB%81n%20l%C3%A0%20c%E1%BA%A3nh%20m%E1%BB%99t%20ng%C3%B4i%20nh%C3%A0%20nh%E1%BB%8F%20%E1%BA%A5m%20c%C3%BAng%20v%E1%BB%9Bi%20k%E1%BA%BFt%20c%E1%BA%A5u%20n%E1%BB%89%20m%C3%A0u%20n%C3%A2u%20nh%E1%BA%A1t%2C%20c%C3%B3%20l%C3%B2%20s%C6%B0%E1%BB%9Fi%20n%E1%BB%89%20ph%C3%A1t%20s%C3%A1ng%2C%20th%E1%BA%A3m%20sang%20tr%E1%BB%8Dng%20v%C3%A0%20l%C3%B2%20s%C6%B0%E1%BB%9Fi%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20chi%E1%BA%BFc%20t%E1%BA%A5t%20n%E1%BB%89.%20Nh%E1%BB%AFng%20b%C3%B4ng%20tuy%E1%BA%BFt%20n%E1%BB%89%20m%E1%BB%81m%20m%E1%BA%A1i%20bay%20l%C6%A1%20l%E1%BB%ADng%20b%C3%AAn%20ngo%C3%A0i%20c%E1%BB%ADa%20s%E1%BB%95.%20T%C3%B4ng%20m%C3%A0u%20t%E1%BB%95ng%20th%E1%BB%83%20t%E1%BA%ADp%20trung%20v%C3%A0o%20m%C3%A0u%20n%C3%A2u%20%E1%BA%A5m%2C%20%C4%91%E1%BB%8F%20Gi%C3%A1ng%20sinh%2C%20tr%E1%BA%AFng%20s%E1%BB%AFa%20v%C3%A0%20v%C3%A0ng%20nh%E1%BA%A1t.%20Ph%E1%BB%91i%20m%C3%A0u%20%E1%BA%A5m%20c%C3%B3%20%C4%91%E1%BB%99%20b%C3%A3o%20h%C3%B2a%20cao%2C%20chi%20ti%E1%BA%BFt%20si%C3%AAu%20n%C3%A9t%2C%20%C3%A1nh%20s%C3%A1ng%20m%E1%BB%81m%20m%E1%BA%A1i%20v%C3%A0%20%E1%BA%A5m%20%C3%A1p%2C%20kh%C3%B4ng%20kh%C3%AD%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%20v%C3%A0%20ch%E1%BB%AFa%20l%C3%A0nh%20v%E1%BB%9Bi%20nhi%E1%BB%81u%20l%E1%BB%9Bp%2C%20%C4%91%E1%BA%A7y%20c%E1%BA%A3m%20gi%C3%A1c%203D%20n%E1%BA%B7ng%20n%E1%BB%81%20c%E1%BB%A7a%20k%E1%BA%BFt%20c%E1%BA%A5u%20th%E1%BB%A7%20c%C3%B4ng.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=%C3%81p%20ph%C3%ADch%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20Gi%C3%A1ng%20sinh%20v%E1%BB%9Bi%20k%E1%BA%BFt%20c%E1%BA%A5u%20n%E1%BB%89%2C%20t%E1%BB%95ng%20th%E1%BB%83%20s%E1%BB%AD%20d%E1%BB%A5ng%20k%E1%BA%BFt%20c%E1%BA%A5u%20th%E1%BB%A7%20c%C3%B4ng%20b%E1%BA%B1ng%20n%E1%BB%89%20len%20%E1%BA%A5m%20%C3%A1p%20v%C3%A0%20ch%E1%BB%AFa%20l%C3%A0nh.%20%E1%BB%9E%20trung%20t%C3%A2m%20l%C3%A0%20m%E1%BB%99t%20c%C3%A2y%20th%C3%B4ng%20Gi%C3%A1ng%20sinh%20b%E1%BA%B1ng%20n%E1%BB%89%20m%C3%A0u%20xanh%20l%C3%A1%20c%C3%A2y%203D%20m%E1%BB%81m%20m%E1%BA%A1i.%20C%C3%A1c%20nh%C3%A2n%20v%E1%BA%ADt%20Disney%20Judy%20v%C3%A0%20Nick%20ng%E1%BB%93i%20tr%C3%AAn%20th%E1%BA%A3m%20g%C3%B3i%20h%E1%BB%99p%20qu%C3%A0%2C%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BB%8Dc%20b%E1%BA%B1ng%20ruy%20b%C4%83ng%20nhung%20m%C3%A0u%20tr%E1%BA%AFng%20s%E1%BB%AFa%20v%C3%A0%20nh%E1%BB%AFng%20qu%E1%BA%A3%20b%C3%B4ng%20v%C3%A0ng%2C%20ng%E1%BB%8Dn%20c%C3%A2y%20%C4%91%C6%B0%E1%BB%A3c%20trang%20tr%C3%AD%20b%E1%BA%B1ng%20m%E1%BB%99t%20ng%C3%B4i%20sao%20n%E1%BB%89%20ph%C3%A1t%20s%C3%A1ng.%20D%C6%B0%E1%BB%9Bi%20g%E1%BB%91c%20c%C3%A2y%20l%C3%A0%20nh%E1%BB%AFng%20h%E1%BB%99p%20qu%C3%A0%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BB%8Dc%20b%E1%BA%B1ng%20v%E1%BA%A3i%20n%E1%BB%89%20len%2C%20k%E1%BA%BFt%20h%E1%BB%A3p%20v%E1%BB%9Bi%20n%C6%A1%20s%E1%BB%A3i%20%C4%91%E1%BA%A7y%20m%C3%A0u%20s%E1%BA%AFc%20v%C3%A0%20chu%C3%B4ng%20n%E1%BB%89.%20Xung%20quanh%20l%C3%A0%20nh%E1%BB%AFng%20b%C3%B4ng%20tuy%E1%BA%BFt%20b%E1%BA%B1ng%20n%E1%BB%89%2C%20b%C3%BAp%20b%C3%AA%20tu%E1%BA%A7n%20l%E1%BB%99c%20b%E1%BA%B1ng%20n%E1%BB%89%20v%C3%A0%20ng%C6%B0%E1%BB%9Di%20b%C3%A1nh%20g%E1%BB%ABng%20b%E1%BA%B1ng%20n%E1%BB%89.%20N%E1%BB%81n%20l%C3%A0%20c%E1%BA%A3nh%20m%E1%BB%99t%20ng%C3%B4i%20nh%C3%A0%20nh%E1%BB%8F%20%E1%BA%A5m%20c%C3%BAng%20v%E1%BB%9Bi%20k%E1%BA%BFt%20c%E1%BA%A5u%20n%E1%BB%89%20m%C3%A0u%20n%C3%A2u%20nh%E1%BA%A1t%2C%20c%C3%B3%20l%C3%B2%20s%C6%B0%E1%BB%9Fi%20n%E1%BB%89%20ph%C3%A1t%20s%C3%A1ng%2C%20th%E1%BA%A3m%20sang%20tr%E1%BB%8Dng%20v%C3%A0%20l%C3%B2%20s%C6%B0%E1%BB%9Fi%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20chi%E1%BA%BFc%20t%E1%BA%A5t%20n%E1%BB%89.%20Nh%E1%BB%AFng%20b%C3%B4ng%20tuy%E1%BA%BFt%20n%E1%BB%89%20m%E1%BB%81m%20m%E1%BA%A1i%20bay%20l%C6%A1%20l%E1%BB%ADng%20b%C3%AAn%20ngo%C3%A0i%20c%E1%BB%ADa%20s%E1%BB%95.%20T%C3%B4ng%20m%C3%A0u%20t%E1%BB%95ng%20th%E1%BB%83%20t%E1%BA%ADp%20trung%20v%C3%A0o%20m%C3%A0u%20n%C3%A2u%20%E1%BA%A5m%2C%20%C4%91%E1%BB%8F%20Gi%C3%A1ng%20sinh%2C%20tr%E1%BA%AFng%20s%E1%BB%AFa%20v%C3%A0%20v%C3%A0ng%20nh%E1%BA%A1t.%20Ph%E1%BB%91i%20m%C3%A0u%20%E1%BA%A5m%20c%C3%B3%20%C4%91%E1%BB%99%20b%C3%A3o%20h%C3%B2a%20cao%2C%20chi%20ti%E1%BA%BFt%20si%C3%AAu%20n%C3%A9t%2C%20%C3%A1nh%20s%C3%A1ng%20m%E1%BB%81m%20m%E1%BA%A1i%20v%C3%A0%20%E1%BA%A5m%20%C3%A1p%2C%20kh%C3%B4ng%20kh%C3%AD%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%20v%C3%A0%20ch%E1%BB%AFa%20l%C3%A0nh%20v%E1%BB%9Bi%20nhi%E1%BB%81u%20l%E1%BB%9Bp%2C%20%C4%91%E1%BA%A7y%20c%E1%BA%A3m%20gi%C3%A1c%203D%20n%E1%BA%B7ng%20n%E1%BB%81%20c%E1%BB%A7a%20k%E1%BA%BFt%20c%E1%BA%A5u%20th%E1%BB%A7%20c%C3%B4ng.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 85: Thỏ Văn Phòng Mệt Mỏi Tự Sướng
-=======
-### No. 88: Thỏ Văn Phòng Mệt Mỏi Tự Sướng
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 89: Thỏ Văn Phòng Mệt Mỏi Tự Sướng
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3307,15 +3046,11 @@ Một chú thỏ nhỏ hình người, được thể hiện theo phong cách h�
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20ch%C3%BA%20th%E1%BB%8F%20nh%E1%BB%8F%20h%C3%ACnh%20ng%C6%B0%E1%BB%9Di%2C%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%83%20hi%E1%BB%87n%20theo%20phong%20c%C3%A1ch%20h%C3%ACnh%20%E1%BA%A3nh%20c%E1%BB%A7a%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ch%E1%BB%A5p%20nhanh%20h%C3%A0ng%20ng%C3%A0y%2C%20b%E1%BB%A9c%20%E1%BA%A3nh%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%A7%20th%E1%BB%83%20ho%E1%BA%B7c%20b%E1%BB%91%20c%E1%BB%A5c%20r%C3%B5%20r%C3%A0ng%2C%20v%C3%A0%20c%C3%B3%20m%E1%BB%99t%20ch%C3%BAt%20m%E1%BB%9D%20do%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng.%20Nh%C3%A2n%20v%E1%BA%ADt%20ch%C3%ADnh%20chi%E1%BA%BFm%20v%E1%BB%8B%20tr%C3%AD%20trung%20t%C3%A2m%20khung%20h%C3%ACnh%2C%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20t%E1%BB%B1%20ch%E1%BB%A5p%20c%E1%BA%ADn%20m%E1%BA%B7t%2C%20v%E1%BB%9Bi%20v%E1%BA%BB%20m%E1%BA%B7t%20m%E1%BB%87t%20m%E1%BB%8Fi%2C%20%C4%91eo%20m%E1%BB%99t%20huy%20hi%E1%BB%87u%20c%C3%B3%20h%C3%ACnh%20%E1%BA%A3nh%20c%E1%BB%A7a%20ch%C3%ADnh%20m%C3%ACnh%20quanh%20c%E1%BB%95.%20B%E1%BB%91i%20c%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20c%E1%BA%A3nh%20v%C4%83n%20ph%C3%B2ng%2C%20v%E1%BB%9Bi%20m%E1%BB%99t%20trang%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%93%20h%E1%BB%8Da%20tr%C3%AAn%20m%C3%A0n%20h%C3%ACnh%20m%C3%A1y%20t%C3%ADnh%20b%C3%AAn%20c%E1%BA%A1nh%2C%20t%E1%BA%A1o%20ra%20m%E1%BB%99t%20b%E1%BA%A7u%20kh%C3%B4ng%20kh%C3%AD%20%C4%91%E1%BB%9Di%20th%C6%B0%E1%BB%9Dng%20nh%C6%B0ng%20%C4%91%E1%BB%99c%20%C4%91%C3%A1o.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20ch%C3%BA%20th%E1%BB%8F%20nh%E1%BB%8F%20h%C3%ACnh%20ng%C6%B0%E1%BB%9Di%2C%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%83%20hi%E1%BB%87n%20theo%20phong%20c%C3%A1ch%20h%C3%ACnh%20%E1%BA%A3nh%20c%E1%BB%A7a%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ch%E1%BB%A5p%20nhanh%20h%C3%A0ng%20ng%C3%A0y%2C%20b%E1%BB%A9c%20%E1%BA%A3nh%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%A7%20th%E1%BB%83%20ho%E1%BA%B7c%20b%E1%BB%91%20c%E1%BB%A5c%20r%C3%B5%20r%C3%A0ng%2C%20v%C3%A0%20c%C3%B3%20m%E1%BB%99t%20ch%C3%BAt%20m%E1%BB%9D%20do%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng.%20Nh%C3%A2n%20v%E1%BA%ADt%20ch%C3%ADnh%20chi%E1%BA%BFm%20v%E1%BB%8B%20tr%C3%AD%20trung%20t%C3%A2m%20khung%20h%C3%ACnh%2C%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20t%E1%BB%B1%20ch%E1%BB%A5p%20c%E1%BA%ADn%20m%E1%BA%B7t%2C%20v%E1%BB%9Bi%20v%E1%BA%BB%20m%E1%BA%B7t%20m%E1%BB%87t%20m%E1%BB%8Fi%2C%20%C4%91eo%20m%E1%BB%99t%20huy%20hi%E1%BB%87u%20c%C3%B3%20h%C3%ACnh%20%E1%BA%A3nh%20c%E1%BB%A7a%20ch%C3%ADnh%20m%C3%ACnh%20quanh%20c%E1%BB%95.%20B%E1%BB%91i%20c%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20c%E1%BA%A3nh%20v%C4%83n%20ph%C3%B2ng%2C%20v%E1%BB%9Bi%20m%E1%BB%99t%20trang%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%93%20h%E1%BB%8Da%20tr%C3%AAn%20m%C3%A0n%20h%C3%ACnh%20m%C3%A1y%20t%C3%ADnh%20b%C3%AAn%20c%E1%BA%A1nh%2C%20t%E1%BA%A1o%20ra%20m%E1%BB%99t%20b%E1%BA%A7u%20kh%C3%B4ng%20kh%C3%AD%20%C4%91%E1%BB%9Di%20th%C6%B0%E1%BB%9Dng%20nh%C6%B0ng%20%C4%91%E1%BB%99c%20%C4%91%C3%A1o.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 86: Thiết kế nhân vật IP Cáo nhỏ thời thượng
-=======
-### No. 89: Thiết kế nhân vật IP Cáo nhỏ thời thượng
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 90: Thiết kế nhân vật IP Cáo nhỏ thời thượng
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3345,15 +3080,11 @@ Thiết kế nhân vật IP: phiên bản Q, một chú cáo nhỏ màu cam đ�
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Thi%E1%BA%BFt%20k%E1%BA%BF%20nh%C3%A2n%20v%E1%BA%ADt%20IP%3A%20phi%C3%AAn%20b%E1%BA%A3n%20Q%2C%20m%E1%BB%99t%20ch%C3%BA%20c%C3%A1o%20nh%E1%BB%8F%20m%C3%A0u%20cam%20%C4%91%E1%BB%8F%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20%C4%91eo%20tai%20nghe%2C%20bi%E1%BB%83u%20c%E1%BA%A3m%20say%20s%C6%B0a%2C%20m%E1%BA%B7c%20%C3%A1o%20ph%C3%B4ng%20tr%E1%BA%AFng%20th%E1%BB%9Di%20th%C6%B0%E1%BB%A3ng%2C%20qu%E1%BA%A7n%20%E1%BB%91ng%20r%E1%BB%99ng%2C%20t%C3%BAi%20%C4%91eo%20ch%C3%A9o%2C%20kh%C3%B4ng%20kh%C3%AD%20tho%E1%BA%A3i%20m%C3%A1i%20v%C3%A0%20%E1%BA%A5m%20c%C3%BAng%2C%20m%C3%B4%20t%E1%BA%A3%20chi%20ti%E1%BA%BFt%2C%20ch%E1%BB%AF%20kh%C3%B4ng%20ch%C3%A2n%20nh%E1%BB%8F%20c%C4%83n%20gi%E1%BB%AFa%20%E1%BB%9F%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi%20%22%7Bargument%20name%3D%22brand%20text%22%20default%3D%22YUAN%C3%97DESIGN%22%7D%22%20%22%7Bargument%20name%3D%22slogan%22%20default%3D%22Original%20Works%2C%20Enriching%20Life%22%7D%22%2C%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20%C4%91%E1%BA%A7u%20ra%20cao.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=Thi%E1%BA%BFt%20k%E1%BA%BF%20nh%C3%A2n%20v%E1%BA%ADt%20IP%3A%20phi%C3%AAn%20b%E1%BA%A3n%20Q%2C%20m%E1%BB%99t%20ch%C3%BA%20c%C3%A1o%20nh%E1%BB%8F%20m%C3%A0u%20cam%20%C4%91%E1%BB%8F%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20%C4%91eo%20tai%20nghe%2C%20bi%E1%BB%83u%20c%E1%BA%A3m%20say%20s%C6%B0a%2C%20m%E1%BA%B7c%20%C3%A1o%20ph%C3%B4ng%20tr%E1%BA%AFng%20th%E1%BB%9Di%20th%C6%B0%E1%BB%A3ng%2C%20qu%E1%BA%A7n%20%E1%BB%91ng%20r%E1%BB%99ng%2C%20t%C3%BAi%20%C4%91eo%20ch%C3%A9o%2C%20kh%C3%B4ng%20kh%C3%AD%20tho%E1%BA%A3i%20m%C3%A1i%20v%C3%A0%20%E1%BA%A5m%20c%C3%BAng%2C%20m%C3%B4%20t%E1%BA%A3%20chi%20ti%E1%BA%BFt%2C%20ch%E1%BB%AF%20kh%C3%B4ng%20ch%C3%A2n%20nh%E1%BB%8F%20c%C4%83n%20gi%E1%BB%AFa%20%E1%BB%9F%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi%20%22%7Bargument%20name%3D%22brand%20text%22%20default%3D%22YUAN%C3%97DESIGN%22%7D%22%20%22%7Bargument%20name%3D%22slogan%22%20default%3D%22Original%20Works%2C%20Enriching%20Life%22%7D%22%2C%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20%C4%91%E1%BA%A7u%20ra%20cao.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 87: Poster Chữ Thảo "Sức Sống Bất Tận"
-=======
-### No. 90: Poster Chữ Thảo "Sức Sống Bất Tận"
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 91: Poster Chữ Thảo "Sức Sống Bất Tận"
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3383,15 +3114,11 @@ Lời nhắc này tạo ra một áp phích thư pháp động với cụm từ 
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%C3%81p%20ph%C3%ADch%20ph%C3%B4ng%20ch%E1%BB%AF%20th%C6%B0%20ph%C3%A1p%20%22%7Bargument%20name%3D%22poster%20text%22%20default%3D%22Life%20Goes%20On%22%7D%22%2C%20ph%C3%B4ng%20ch%E1%BB%AF%20vi%E1%BA%BFt%20tay%20ph%C3%B3ng%20kho%C3%A1ng%20v%C3%A0%20kh%C3%B4ng%20g%C3%B2%20b%C3%B3%2C%20t%E1%BA%A1o%20c%E1%BA%A3m%20gi%C3%A1c%20th%E1%BB%8B%20gi%C3%A1c%20%C4%91%E1%BA%A7y%20n%C4%83ng%20%C4%91%E1%BB%99ng%2C%20n%C3%A9t%20v%E1%BA%BD%20si%C3%AAu%20d%C3%A0y%20m%C6%B0%E1%BB%A3t%20m%C3%A0%20v%C3%A0%20thanh%20l%E1%BB%8Bch%2C%20c%C3%A1c%20n%C3%A9t%20%C4%91%C6%B0%E1%BB%A3c%20k%C3%A9o%20d%C3%A0i%20v%C3%A0%20bi%E1%BA%BFn%20d%E1%BA%A1ng%20m%E1%BB%99t%20c%C3%A1ch%20kh%C3%A9o%20l%C3%A9o%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20phi%20b%E1%BA%A1ch%2C%20n%C3%A9t%20v%E1%BA%BD%20m%C6%B0%E1%BB%A3t%20m%C3%A0%20v%C3%A0%20sang%20tr%E1%BB%8Dng%2C%20n%E1%BB%81n%20s%E1%BA%A1ch%2C%20t%C3%A1c%20ph%E1%BA%A9m%20%C3%A1p%20ph%C3%ADch%20b%E1%BA%ADc%20th%E1%BA%A7y%2C%20%C3%A1p%20ph%C3%ADch%20phim.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=%C3%81p%20ph%C3%ADch%20ph%C3%B4ng%20ch%E1%BB%AF%20th%C6%B0%20ph%C3%A1p%20%22%7Bargument%20name%3D%22poster%20text%22%20default%3D%22Life%20Goes%20On%22%7D%22%2C%20ph%C3%B4ng%20ch%E1%BB%AF%20vi%E1%BA%BFt%20tay%20ph%C3%B3ng%20kho%C3%A1ng%20v%C3%A0%20kh%C3%B4ng%20g%C3%B2%20b%C3%B3%2C%20t%E1%BA%A1o%20c%E1%BA%A3m%20gi%C3%A1c%20th%E1%BB%8B%20gi%C3%A1c%20%C4%91%E1%BA%A7y%20n%C4%83ng%20%C4%91%E1%BB%99ng%2C%20n%C3%A9t%20v%E1%BA%BD%20si%C3%AAu%20d%C3%A0y%20m%C6%B0%E1%BB%A3t%20m%C3%A0%20v%C3%A0%20thanh%20l%E1%BB%8Bch%2C%20c%C3%A1c%20n%C3%A9t%20%C4%91%C6%B0%E1%BB%A3c%20k%C3%A9o%20d%C3%A0i%20v%C3%A0%20bi%E1%BA%BFn%20d%E1%BA%A1ng%20m%E1%BB%99t%20c%C3%A1ch%20kh%C3%A9o%20l%C3%A9o%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20phi%20b%E1%BA%A1ch%2C%20n%C3%A9t%20v%E1%BA%BD%20m%C6%B0%E1%BB%A3t%20m%C3%A0%20v%C3%A0%20sang%20tr%E1%BB%8Dng%2C%20n%E1%BB%81n%20s%E1%BA%A1ch%2C%20t%C3%A1c%20ph%E1%BA%A9m%20%C3%A1p%20ph%C3%ADch%20b%E1%BA%ADc%20th%E1%BA%A7y%2C%20%C3%A1p%20ph%C3%ADch%20phim.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 88: Thiết kế nam châm tủ lạnh hình Judy và Nick không đều
-=======
-### No. 91: Thiết kế nam châm tủ lạnh hình Judy và Nick không đều
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 92: Thiết kế nam châm tủ lạnh hình Judy và Nick không đều
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3421,15 +3148,11 @@ Phong cách thiết kế tối giản hiện đại, thiết kế nam châm tủ
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Phong%20c%C3%A1ch%20thi%E1%BA%BFt%20k%E1%BA%BF%20t%E1%BB%91i%20gi%E1%BA%A3n%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%2C%20thi%E1%BA%BFt%20k%E1%BA%BF%20nam%20ch%C3%A2m%20t%E1%BB%A7%20l%E1%BA%A1nh%20tr%C3%A1ng%20men%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20Zootopia%2C%20nam%20ch%C3%A2m%20h%C3%ACnh%20d%E1%BA%A1ng%20b%E1%BA%A5t%20%C4%91%E1%BB%8Bnh%2C%20c%E1%BA%ADn%20c%E1%BA%A3nh%20Judy%20Hopps%20v%C3%A0%20Nick%20Wilde%2C%20bao%20quanh%20b%E1%BB%9Fi%20c%C3%A1c%20h%E1%BB%8Da%20ti%E1%BA%BFt%20y%E1%BA%BFu%20t%E1%BB%91%20Gi%C3%A1ng%20sinh%2C%20v%E1%BB%9Bi%20ph%C3%B4ng%20ch%E1%BB%AF%20ti%E1%BA%BFng%20Anh%20%22%7Bargument%20name%3D%22bottom%20text%22%20default%3D%22Merry%20Christmas%22%7D%22%20%E1%BB%9F%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi%2C%20thi%E1%BA%BFt%20k%E1%BA%BF%20qu%E1%BB%91c%20t%E1%BA%BF%2C%20c%E1%BA%A3m%20gi%C3%A1c%20cao%20c%E1%BA%A5p%2C%20m%C3%A0u%20t%C3%ADm%20nh%E1%BA%A1t%20gradient.%20N%E1%BB%81n%20h%E1%BB%8Da%20ti%E1%BA%BFt%20thu%E1%BA%A7n%20khi%E1%BA%BFt.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=Phong%20c%C3%A1ch%20thi%E1%BA%BFt%20k%E1%BA%BF%20t%E1%BB%91i%20gi%E1%BA%A3n%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%2C%20thi%E1%BA%BFt%20k%E1%BA%BF%20nam%20ch%C3%A2m%20t%E1%BB%A7%20l%E1%BA%A1nh%20tr%C3%A1ng%20men%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20Zootopia%2C%20nam%20ch%C3%A2m%20h%C3%ACnh%20d%E1%BA%A1ng%20b%E1%BA%A5t%20%C4%91%E1%BB%8Bnh%2C%20c%E1%BA%ADn%20c%E1%BA%A3nh%20Judy%20Hopps%20v%C3%A0%20Nick%20Wilde%2C%20bao%20quanh%20b%E1%BB%9Fi%20c%C3%A1c%20h%E1%BB%8Da%20ti%E1%BA%BFt%20y%E1%BA%BFu%20t%E1%BB%91%20Gi%C3%A1ng%20sinh%2C%20v%E1%BB%9Bi%20ph%C3%B4ng%20ch%E1%BB%AF%20ti%E1%BA%BFng%20Anh%20%22%7Bargument%20name%3D%22bottom%20text%22%20default%3D%22Merry%20Christmas%22%7D%22%20%E1%BB%9F%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi%2C%20thi%E1%BA%BFt%20k%E1%BA%BF%20qu%E1%BB%91c%20t%E1%BA%BF%2C%20c%E1%BA%A3m%20gi%C3%A1c%20cao%20c%E1%BA%A5p%2C%20m%C3%A0u%20t%C3%ADm%20nh%E1%BA%A1t%20gradient.%20N%E1%BB%81n%20h%E1%BB%8Da%20ti%E1%BA%BFt%20thu%E1%BA%A7n%20khi%E1%BA%BFt.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 89: Biểu Tượng Ví và Tiền Xu 3D
-=======
-### No. 92: Biểu Tượng Ví và Tiền Xu 3D
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 93: Biểu Tượng Ví và Tiền Xu 3D
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3459,15 +3182,11 @@ Biểu tượng UI, một chiếc ví đầy tiền vàng, một đống tiền 
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20UI%2C%20m%E1%BB%99t%20chi%E1%BA%BFc%20v%C3%AD%20%C4%91%E1%BA%A7y%20ti%E1%BB%81n%20v%C3%A0ng%2C%20m%E1%BB%99t%20%C4%91%E1%BB%91ng%20ti%E1%BB%81n%20v%C3%A0ng%2C%20tr%C3%AAn%20%C4%91%E1%BB%91ng%20ti%E1%BB%81n%20v%C3%A0ng%20c%C3%B3%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20%7Bargument%20name%3D%22currency%20type%22%20default%3D%22RMB%22%7D%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%203D%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20th%E1%BB%A7y%20tinh%2C%20gradient%20v%C3%A0ng%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20h%C3%A0o%20quang%20v%E1%BA%ADt%20li%E1%BB%87u%20trong%20m%E1%BB%9D%2C%20n%E1%BB%81n%20s%C3%A1ng%20v%E1%BB%9Bi%20d%C3%B2ng%20m%C3%A0u%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%2C%20phong%20c%C3%A1ch%20k%E1%BA%BFt%20xu%E1%BA%A5t%203D%2C%20h%C3%ACnh%20%E1%BA%A3nh%20tr%C3%A0n%20%C4%91%E1%BA%A7y%20c%E1%BA%A3m%20gi%C3%A1c%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=Bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20UI%2C%20m%E1%BB%99t%20chi%E1%BA%BFc%20v%C3%AD%20%C4%91%E1%BA%A7y%20ti%E1%BB%81n%20v%C3%A0ng%2C%20m%E1%BB%99t%20%C4%91%E1%BB%91ng%20ti%E1%BB%81n%20v%C3%A0ng%2C%20tr%C3%AAn%20%C4%91%E1%BB%91ng%20ti%E1%BB%81n%20v%C3%A0ng%20c%C3%B3%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20%7Bargument%20name%3D%22currency%20type%22%20default%3D%22RMB%22%7D%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%203D%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20th%E1%BB%A7y%20tinh%2C%20gradient%20v%C3%A0ng%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20h%C3%A0o%20quang%20v%E1%BA%ADt%20li%E1%BB%87u%20trong%20m%E1%BB%9D%2C%20n%E1%BB%81n%20s%C3%A1ng%20v%E1%BB%9Bi%20d%C3%B2ng%20m%C3%A0u%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%2C%20phong%20c%C3%A1ch%20k%E1%BA%BFt%20xu%E1%BA%A5t%203D%2C%20h%C3%ACnh%20%E1%BA%A3nh%20tr%C3%A0n%20%C4%91%E1%BA%A7y%20c%E1%BA%A3m%20gi%C3%A1c%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 90: Hình minh họa Nick và Judy Chibi vẽ tay
-=======
-### No. 93: Hình minh họa Nick và Judy Chibi vẽ tay
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 94: Hình minh họa Nick và Judy Chibi vẽ tay
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3496,15 +3215,11 @@ Lời nhắc minh họa vẽ tay chibi dễ thương này mô tả Nick và Judy
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%C4%90%C3%A2y%20l%C3%A0%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20v%E1%BA%BD%20tay%20phi%C3%AAn%20b%E1%BA%A3n%20Q%20c%E1%BB%A7a%20c%E1%BA%B7p%20%C4%91%C3%B4i%20nh%C3%A2n%20v%E1%BA%ADt%20kinh%20%C4%91i%E1%BB%83n%20t%E1%BB%AB%20b%E1%BB%99%20phim%20ho%E1%BA%A1t%20h%C3%ACnh%20Disney%20%22Zootopia%22%20%E2%80%93%20c%C3%A1o%20Nick%20v%C3%A0%20th%E1%BB%8F%20Judy.%20Trong%20%E1%BA%A3nh%2C%20Nick%20n%E1%BA%B1m%20tr%C3%AAn%20ng%C6%B0%E1%BB%9Di%20Judy%2C%20c%E1%BA%A3%20hai%20c%C3%B9ng%20th%C3%B2%20%C4%91%E1%BA%A7u%20ra%20t%E1%BB%AB%20ph%C3%ADa%20sau%20m%E1%BB%99t%20c%C3%A1nh%20c%E1%BB%ADa.%20C%C3%B3%20hai%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20tr%C3%A1i%20tim%20b%C3%AAn%20c%E1%BA%A1nh%20Judy.%20Phong%20c%C3%A1ch%20t%E1%BB%95ng%20th%E1%BB%83%20d%E1%BB%85%20th%C6%B0%C6%A1ng%20v%C3%A0%20vui%20t%C6%B0%C6%A1i%2C%20th%E1%BB%83%20hi%E1%BB%87n%20tr%E1%BB%8Dn%20v%E1%BA%B9n%20s%E1%BB%B1%20%C4%83n%20%C3%BD%20v%C3%A0%20%C4%91%C3%A1ng%20y%C3%AAu%20c%E1%BB%A7a%20c%E1%BA%B7p%20%C4%91%C3%B4i%20n%C3%A0y%2C%20tr%C3%A0n%20ng%E1%BA%ADp%20kh%C3%B4ng%20kh%C3%AD%20%E1%BA%A5m%20%C3%A1p.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=%C4%90%C3%A2y%20l%C3%A0%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20v%E1%BA%BD%20tay%20phi%C3%AAn%20b%E1%BA%A3n%20Q%20c%E1%BB%A7a%20c%E1%BA%B7p%20%C4%91%C3%B4i%20nh%C3%A2n%20v%E1%BA%ADt%20kinh%20%C4%91i%E1%BB%83n%20t%E1%BB%AB%20b%E1%BB%99%20phim%20ho%E1%BA%A1t%20h%C3%ACnh%20Disney%20%22Zootopia%22%20%E2%80%93%20c%C3%A1o%20Nick%20v%C3%A0%20th%E1%BB%8F%20Judy.%20Trong%20%E1%BA%A3nh%2C%20Nick%20n%E1%BA%B1m%20tr%C3%AAn%20ng%C6%B0%E1%BB%9Di%20Judy%2C%20c%E1%BA%A3%20hai%20c%C3%B9ng%20th%C3%B2%20%C4%91%E1%BA%A7u%20ra%20t%E1%BB%AB%20ph%C3%ADa%20sau%20m%E1%BB%99t%20c%C3%A1nh%20c%E1%BB%ADa.%20C%C3%B3%20hai%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20tr%C3%A1i%20tim%20b%C3%AAn%20c%E1%BA%A1nh%20Judy.%20Phong%20c%C3%A1ch%20t%E1%BB%95ng%20th%E1%BB%83%20d%E1%BB%85%20th%C6%B0%C6%A1ng%20v%C3%A0%20vui%20t%C6%B0%C6%A1i%2C%20th%E1%BB%83%20hi%E1%BB%87n%20tr%E1%BB%8Dn%20v%E1%BA%B9n%20s%E1%BB%B1%20%C4%83n%20%C3%BD%20v%C3%A0%20%C4%91%C3%A1ng%20y%C3%AAu%20c%E1%BB%A7a%20c%E1%BA%B7p%20%C4%91%C3%B4i%20n%C3%A0y%2C%20tr%C3%A0n%20ng%E1%BA%ADp%20kh%C3%B4ng%20kh%C3%AD%20%E1%BA%A5m%20%C3%A1p.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 91: Ảnh tự sướng ba người chụp từ trên xuống kết hợp
-=======
-### No. 94: Ảnh tự sướng ba người chụp từ trên xuống kết hợp
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 95: Ảnh tự sướng ba người chụp từ trên xuống kết hợp
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3534,15 +3249,11 @@ Không hoán đổi khuôn mặt, khuôn mặt của các nhân vật không đ�
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Kh%C3%B4ng%20ho%C3%A1n%20%C4%91%E1%BB%95i%20khu%C3%B4n%20m%E1%BA%B7t%2C%20khu%C3%B4n%20m%E1%BA%B7t%20c%E1%BB%A7a%20c%C3%A1c%20nh%C3%A2n%20v%E1%BA%ADt%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20thay%20%C4%91%E1%BB%95i%20ch%C3%BAt%20n%C3%A0o!%20Vui%20l%C3%B2ng%20gh%C3%A9p%20ba%20ng%C6%B0%E1%BB%9Di%20t%E1%BB%AB%20%E1%BA%A2nh%201%2C%20%E1%BA%A2nh%202%20v%C3%A0%20%E1%BA%A2nh%203%20v%C3%A0o%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20selfie%20g%C3%B3c%20cao%20ba%20ng%C6%B0%E1%BB%9Di.%20B%E1%BB%91%20c%E1%BB%A5c%20ch%E1%BA%B7t%20ch%E1%BA%BD%2C%20ba%20ch%E1%BB%A7%20th%E1%BB%83%20r%E1%BA%A5t%20g%E1%BA%A7n%20nhau%2C%20%C4%91%E1%BA%A7u%20h%C6%A1i%20ng%E1%BA%A9ng%20l%C3%AAn%2C%20m%E1%BA%AFt%20nh%C3%ACn%20th%E1%BA%B3ng%20v%C3%A0o%20%E1%BB%91ng%20k%C3%ADnh%2C%20t%E1%BA%A1o%20%E1%BA%A5n%20t%C6%B0%E1%BB%A3ng%20th%E1%BB%8B%20gi%C3%A1c%20m%E1%BA%A1nh%20m%E1%BA%BD.%20Ng%C6%B0%E1%BB%9Di%20t%E1%BB%AB%20%E1%BA%A2nh%201%20%C4%91%E1%BB%A9ng%20h%C6%A1i%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc%20%E1%BB%9F%20gi%E1%BB%AFa%2C%20ph%E1%BA%A3i%20gi%E1%BB%AF%20nguy%C3%AAn%20s%E1%BB%B1%20t%C6%B0%C6%A1ng%20%C4%91%E1%BB%93ng%20khu%C3%B4n%20m%E1%BA%B7t%3B%20h%C6%A1i%20khom%20ng%C6%B0%E1%BB%9Di%2C%20g%C3%B3c%20ch%E1%BB%A5p%20l%C3%A0%20g%C3%B3c%20cao%20t%E1%BB%AB%20tr%C3%AAn%20xu%E1%BB%91ng%2C%20ph%C3%B3ng%20%C4%91%E1%BA%A1i%20t%E1%BB%B7%20l%E1%BB%87%20%C4%91%E1%BA%A7u%2C%20ph%C3%B9%20h%E1%BB%A3p%20v%E1%BB%9Bi%20phong%20c%C3%A1ch%20selfie%20th%E1%BB%8B%20gi%C3%A1c%20%C4%91i%E1%BB%83n%20h%C3%ACnh%20c%E1%BB%A7a%20Nh%E1%BA%ADt%20B%E1%BA%A3n%2FH%C3%A0n%20Qu%E1%BB%91c.%20%C4%90%C6%A1n%20gi%E1%BA%A3n%20v%C3%A0%20g%E1%BB%8Dn%20g%C3%A0ng%2C%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20h%C6%A1n%20c%C3%A1c%20ch%E1%BB%A7%20th%E1%BB%83%20nh%C3%A2n%20v%E1%BA%ADt.%20Phong%20c%C3%A1ch%20th%E1%BB%8B%20gi%C3%A1c%20nghi%C3%AAng%20v%E1%BB%81%20visual%20kei%20Nh%E1%BA%ADt%20B%E1%BA%A3n%2C%20h%C3%ACnh%20%E1%BA%A3nh%20t%E1%BB%95ng%20th%E1%BB%83%20c%C3%B3%20%C4%91%E1%BB%99%20n%C3%A9t%20cao%2C%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%A5p%20b%E1%BA%B1ng%20camera%20tr%C6%B0%E1%BB%9Bc%20c%E1%BB%A7a%20iPhone%2C%20cu%E1%BB%91i%20c%C3%B9ng%20t%E1%BA%A1o%20ra%20hi%E1%BB%87u%20%E1%BB%A9ng%20%E1%BA%A3nh%20nh%C3%B3m%20tinh%20t%E1%BA%BF%2C%20s%C3%A0nh%20%C4%91i%E1%BB%87u.%20Y%C3%AAu%20c%E1%BA%A7u%20t%C3%ADch%20h%E1%BB%A3p%20li%E1%BB%81n%20m%E1%BA%A1ch%20c%C3%A1c%20nh%C3%A2n%20v%E1%BA%ADt%20v%C3%A0o%20c%E1%BA%A3nh%2C%20chuy%E1%BB%83n%20%C4%91%E1%BB%95i%20h%C3%ACnh%20%E1%BA%A3nh%20t%E1%BB%B1%20nhi%C3%AAn%2C%20%C3%A1nh%20s%C3%A1ng%20t%E1%BB%95ng%20th%E1%BB%83%20s%C3%A1ng%20v%C3%A0%20%C4%91%E1%BB%81u.%20B%E1%BB%91i%20c%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20r%E1%BA%A1p%20chi%E1%BA%BFu%20phim%20si%C3%AAu%20l%E1%BB%9Bn%20%C4%91%E1%BA%A7y%20kh%C3%A1n%20gi%E1%BA%A3%2C%20hai%20ng%C6%B0%E1%BB%9Di%20quay%20l%C6%B0ng%20v%E1%BB%81%20ph%C3%ADa%20m%C3%A0n%20h%C3%ACnh%2C%20m%C3%A0n%20h%C3%ACnh%20hi%E1%BB%83n%20th%E1%BB%8B%20%C3%A1p%20ph%C3%ADch%20phim%20tinh%20x%E1%BA%A3o%20c%E1%BB%A7a%20%22%7Bargument%20name%3D%22movie%20poster%20name%22%20default%3D%22Zootopia%202%22%7D%22%20l%E1%BA%A5p%20%C4%91%E1%BA%A7y%20m%C3%A0n%20h%C3%ACnh.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=Kh%C3%B4ng%20ho%C3%A1n%20%C4%91%E1%BB%95i%20khu%C3%B4n%20m%E1%BA%B7t%2C%20khu%C3%B4n%20m%E1%BA%B7t%20c%E1%BB%A7a%20c%C3%A1c%20nh%C3%A2n%20v%E1%BA%ADt%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20thay%20%C4%91%E1%BB%95i%20ch%C3%BAt%20n%C3%A0o!%20Vui%20l%C3%B2ng%20gh%C3%A9p%20ba%20ng%C6%B0%E1%BB%9Di%20t%E1%BB%AB%20%E1%BA%A2nh%201%2C%20%E1%BA%A2nh%202%20v%C3%A0%20%E1%BA%A2nh%203%20v%C3%A0o%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20selfie%20g%C3%B3c%20cao%20ba%20ng%C6%B0%E1%BB%9Di.%20B%E1%BB%91%20c%E1%BB%A5c%20ch%E1%BA%B7t%20ch%E1%BA%BD%2C%20ba%20ch%E1%BB%A7%20th%E1%BB%83%20r%E1%BA%A5t%20g%E1%BA%A7n%20nhau%2C%20%C4%91%E1%BA%A7u%20h%C6%A1i%20ng%E1%BA%A9ng%20l%C3%AAn%2C%20m%E1%BA%AFt%20nh%C3%ACn%20th%E1%BA%B3ng%20v%C3%A0o%20%E1%BB%91ng%20k%C3%ADnh%2C%20t%E1%BA%A1o%20%E1%BA%A5n%20t%C6%B0%E1%BB%A3ng%20th%E1%BB%8B%20gi%C3%A1c%20m%E1%BA%A1nh%20m%E1%BA%BD.%20Ng%C6%B0%E1%BB%9Di%20t%E1%BB%AB%20%E1%BA%A2nh%201%20%C4%91%E1%BB%A9ng%20h%C6%A1i%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc%20%E1%BB%9F%20gi%E1%BB%AFa%2C%20ph%E1%BA%A3i%20gi%E1%BB%AF%20nguy%C3%AAn%20s%E1%BB%B1%20t%C6%B0%C6%A1ng%20%C4%91%E1%BB%93ng%20khu%C3%B4n%20m%E1%BA%B7t%3B%20h%C6%A1i%20khom%20ng%C6%B0%E1%BB%9Di%2C%20g%C3%B3c%20ch%E1%BB%A5p%20l%C3%A0%20g%C3%B3c%20cao%20t%E1%BB%AB%20tr%C3%AAn%20xu%E1%BB%91ng%2C%20ph%C3%B3ng%20%C4%91%E1%BA%A1i%20t%E1%BB%B7%20l%E1%BB%87%20%C4%91%E1%BA%A7u%2C%20ph%C3%B9%20h%E1%BB%A3p%20v%E1%BB%9Bi%20phong%20c%C3%A1ch%20selfie%20th%E1%BB%8B%20gi%C3%A1c%20%C4%91i%E1%BB%83n%20h%C3%ACnh%20c%E1%BB%A7a%20Nh%E1%BA%ADt%20B%E1%BA%A3n%2FH%C3%A0n%20Qu%E1%BB%91c.%20%C4%90%C6%A1n%20gi%E1%BA%A3n%20v%C3%A0%20g%E1%BB%8Dn%20g%C3%A0ng%2C%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20h%C6%A1n%20c%C3%A1c%20ch%E1%BB%A7%20th%E1%BB%83%20nh%C3%A2n%20v%E1%BA%ADt.%20Phong%20c%C3%A1ch%20th%E1%BB%8B%20gi%C3%A1c%20nghi%C3%AAng%20v%E1%BB%81%20visual%20kei%20Nh%E1%BA%ADt%20B%E1%BA%A3n%2C%20h%C3%ACnh%20%E1%BA%A3nh%20t%E1%BB%95ng%20th%E1%BB%83%20c%C3%B3%20%C4%91%E1%BB%99%20n%C3%A9t%20cao%2C%20%C4%91%C6%B0%E1%BB%A3c%20ch%E1%BB%A5p%20b%E1%BA%B1ng%20camera%20tr%C6%B0%E1%BB%9Bc%20c%E1%BB%A7a%20iPhone%2C%20cu%E1%BB%91i%20c%C3%B9ng%20t%E1%BA%A1o%20ra%20hi%E1%BB%87u%20%E1%BB%A9ng%20%E1%BA%A3nh%20nh%C3%B3m%20tinh%20t%E1%BA%BF%2C%20s%C3%A0nh%20%C4%91i%E1%BB%87u.%20Y%C3%AAu%20c%E1%BA%A7u%20t%C3%ADch%20h%E1%BB%A3p%20li%E1%BB%81n%20m%E1%BA%A1ch%20c%C3%A1c%20nh%C3%A2n%20v%E1%BA%ADt%20v%C3%A0o%20c%E1%BA%A3nh%2C%20chuy%E1%BB%83n%20%C4%91%E1%BB%95i%20h%C3%ACnh%20%E1%BA%A3nh%20t%E1%BB%B1%20nhi%C3%AAn%2C%20%C3%A1nh%20s%C3%A1ng%20t%E1%BB%95ng%20th%E1%BB%83%20s%C3%A1ng%20v%C3%A0%20%C4%91%E1%BB%81u.%20B%E1%BB%91i%20c%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20r%E1%BA%A1p%20chi%E1%BA%BFu%20phim%20si%C3%AAu%20l%E1%BB%9Bn%20%C4%91%E1%BA%A7y%20kh%C3%A1n%20gi%E1%BA%A3%2C%20hai%20ng%C6%B0%E1%BB%9Di%20quay%20l%C6%B0ng%20v%E1%BB%81%20ph%C3%ADa%20m%C3%A0n%20h%C3%ACnh%2C%20m%C3%A0n%20h%C3%ACnh%20hi%E1%BB%83n%20th%E1%BB%8B%20%C3%A1p%20ph%C3%ADch%20phim%20tinh%20x%E1%BA%A3o%20c%E1%BB%A7a%20%22%7Bargument%20name%3D%22movie%20poster%20name%22%20default%3D%22Zootopia%202%22%7D%22%20l%E1%BA%A5p%20%C4%91%E1%BA%A7y%20m%C3%A0n%20h%C3%ACnh.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 92: Thẻ kiến thức vẽ tay món Cà chua xào trứng
-=======
-### No. 95: Thẻ kiến thức vẽ tay món Cà chua xào trứng
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 96: Thẻ kiến thức vẽ tay món Cà chua xào trứng
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3572,15 +3283,11 @@ Tạo thẻ kiến thức cho công thức {argument name="dish name" default="T
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=T%E1%BA%A1o%20th%E1%BA%BB%20ki%E1%BA%BFn%20th%E1%BB%A9c%20cho%20c%C3%B4ng%20th%E1%BB%A9c%20%7Bargument%20name%3D%22dish%20name%22%20default%3D%22Tr%E1%BB%A9ng%20Cu%E1%BB%99n%20C%C3%A0%20Chua%22%7D%2C%20phong%20c%C3%A1ch%20th%E1%BA%BB%20l%C3%A0%20v%E1%BA%BD%20tay%2Fki%E1%BB%83u%20ghi%20ch%C3%BA%20ngu%E1%BB%87ch%20ngo%E1%BA%A1c.%20Ph%C3%B4ng%20ch%E1%BB%AF%3A%20S%E1%BB%AD%20d%E1%BB%A5ng%20ph%C3%B4ng%20ch%E1%BB%AF%20vi%E1%BA%BFt%20tay%20ho%E1%BA%B7c%20gi%E1%BB%91ng%20vi%E1%BA%BFt%20tay%2C%20ho%E1%BA%B7c%20vi%E1%BA%BFt%20tay%20tr%E1%BB%B1c%20ti%E1%BA%BFp.%20C%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%3A%20S%E1%BB%AD%20d%E1%BB%A5ng%20nhi%E1%BB%81u%20h%C3%ACnh%20ng%C6%B0%E1%BB%9Di%20que%2C%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20nh%E1%BB%8F%2C%20m%C5%A9i%20t%C3%AAn%2C%20bong%20b%C3%B3ng%20l%E1%BB%9Di%20tho%E1%BA%A1i%2C%20%C4%91%C6%B0%E1%BB%9Dng%20ph%C3%A2n%20chia%20v%C3%A0%20c%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%20v%E1%BA%BD%20tay%20kh%C3%A1c%20%C4%91%E1%BB%83%20h%E1%BB%97%20tr%E1%BB%A3%20di%E1%BB%85n%20%C4%91%E1%BA%A1t.%20M%C3%A0u%20s%E1%BA%AFc%3A%20M%C3%A0u%20s%E1%BA%AFc%20phong%20ph%C3%BA%20v%C3%A0%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%2C%20th%C6%B0%E1%BB%9Dng%20s%E1%BB%AD%20d%E1%BB%A5ng%20hi%E1%BB%87u%20%E1%BB%A9ng%20b%C3%BAt%20d%E1%BA%A1%20quang%2C%20b%C3%BAt%20ch%C3%AC%20m%C3%A0u.%20B%E1%BB%91%20c%E1%BB%A5c%3A%20T%E1%BB%B1%20do%20v%C3%A0%20ng%E1%BA%ABu%20h%E1%BB%A9ng%2C%20kh%C3%B4ng%20theo%20quy%20%C6%B0%E1%BB%9Bc%2C%20%C4%91%E1%BA%A7y%20c%C3%A1%20t%C3%ADnh%20v%C3%A0%20vui%20nh%E1%BB%99n.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=T%E1%BA%A1o%20th%E1%BA%BB%20ki%E1%BA%BFn%20th%E1%BB%A9c%20cho%20c%C3%B4ng%20th%E1%BB%A9c%20%7Bargument%20name%3D%22dish%20name%22%20default%3D%22Tr%E1%BB%A9ng%20Cu%E1%BB%99n%20C%C3%A0%20Chua%22%7D%2C%20phong%20c%C3%A1ch%20th%E1%BA%BB%20l%C3%A0%20v%E1%BA%BD%20tay%2Fki%E1%BB%83u%20ghi%20ch%C3%BA%20ngu%E1%BB%87ch%20ngo%E1%BA%A1c.%20Ph%C3%B4ng%20ch%E1%BB%AF%3A%20S%E1%BB%AD%20d%E1%BB%A5ng%20ph%C3%B4ng%20ch%E1%BB%AF%20vi%E1%BA%BFt%20tay%20ho%E1%BA%B7c%20gi%E1%BB%91ng%20vi%E1%BA%BFt%20tay%2C%20ho%E1%BA%B7c%20vi%E1%BA%BFt%20tay%20tr%E1%BB%B1c%20ti%E1%BA%BFp.%20C%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%3A%20S%E1%BB%AD%20d%E1%BB%A5ng%20nhi%E1%BB%81u%20h%C3%ACnh%20ng%C6%B0%E1%BB%9Di%20que%2C%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20nh%E1%BB%8F%2C%20m%C5%A9i%20t%C3%AAn%2C%20bong%20b%C3%B3ng%20l%E1%BB%9Di%20tho%E1%BA%A1i%2C%20%C4%91%C6%B0%E1%BB%9Dng%20ph%C3%A2n%20chia%20v%C3%A0%20c%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%20v%E1%BA%BD%20tay%20kh%C3%A1c%20%C4%91%E1%BB%83%20h%E1%BB%97%20tr%E1%BB%A3%20di%E1%BB%85n%20%C4%91%E1%BA%A1t.%20M%C3%A0u%20s%E1%BA%AFc%3A%20M%C3%A0u%20s%E1%BA%AFc%20phong%20ph%C3%BA%20v%C3%A0%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%2C%20th%C6%B0%E1%BB%9Dng%20s%E1%BB%AD%20d%E1%BB%A5ng%20hi%E1%BB%87u%20%E1%BB%A9ng%20b%C3%BAt%20d%E1%BA%A1%20quang%2C%20b%C3%BAt%20ch%C3%AC%20m%C3%A0u.%20B%E1%BB%91%20c%E1%BB%A5c%3A%20T%E1%BB%B1%20do%20v%C3%A0%20ng%E1%BA%ABu%20h%E1%BB%A9ng%2C%20kh%C3%B4ng%20theo%20quy%20%C6%B0%E1%BB%9Bc%2C%20%C4%91%E1%BA%A7y%20c%C3%A1%20t%C3%ADnh%20v%C3%A0%20vui%20nh%E1%BB%99n.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 93: Kiểu chữ Tiêu đề Phim Wild Cursive
-=======
-### No. 96: Kiểu chữ Tiêu đề Phim Wild Cursive
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 97: Kiểu chữ Tiêu đề Phim Wild Cursive
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3610,15 +3317,11 @@ Nền đen chữ trắng, thư pháp nét liền sang trọng, thiết kế phô
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=N%E1%BB%81n%20%C4%91en%20ch%E1%BB%AF%20tr%E1%BA%AFng%2C%20th%C6%B0%20ph%C3%A1p%20n%C3%A9t%20li%E1%BB%81n%20sang%20tr%E1%BB%8Dng%2C%20thi%E1%BA%BFt%20k%E1%BA%BF%20ph%C3%B4ng%20ch%E1%BB%AF%20thanh%20l%E1%BB%8Bch%20v%C3%A0%20n%C4%83ng%20%C4%91%E1%BB%99ng%20%22%7Bargument%20name%3D%22text%20content%22%20default%3D%22Gi%C3%B3%20bi%E1%BB%83n%20th%E1%BB%95i%20kh%C3%B4ng%20ng%E1%BB%ABng%2C%20tr%C4%83ng%20s%C3%B4ng%20chi%E1%BA%BFu%20v%C3%B4%20v%E1%BB%8Dng%22%7D%22%2C%20ph%C3%B4ng%20ch%E1%BB%AF%20th%E1%BA%A3o%20ph%C3%B3ng%20kho%C3%A1ng%20v%C3%A0%20kh%C3%B4ng%20g%C3%B2%20b%C3%B3%2C%20n%C3%A9t%20d%C3%A0i%2C%20s%E1%BB%A9c%20c%C4%83ng%20th%E1%BB%8B%20gi%C3%A1c%20%C4%91%E1%BA%A7y%20n%C4%83ng%20%C4%91%E1%BB%99ng%2C%20n%C3%A9t%20ch%E1%BB%AF%20m%C6%B0%E1%BB%A3t%20m%C3%A0%20v%C3%A0%20thanh%20tho%C3%A1t%2C%20c%C3%A1c%20n%C3%A9t%20%C4%91%C6%B0%E1%BB%A3c%20k%C3%A9o%20d%C3%A0i%20v%C3%A0%20bi%E1%BA%BFn%20d%E1%BA%A1ng%20m%E1%BB%99t%20c%C3%A1ch%20kh%C3%A9o%20l%C3%A9o%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20phi%20b%E1%BA%A1ch%2C%20bi%E1%BA%BFn%20%C4%91%E1%BB%95i%20k%C3%ADch%20th%C6%B0%E1%BB%9Bc%20ph%C3%B4ng%20ch%E1%BB%AF%2C%20b%E1%BB%91%20c%E1%BB%A5c%20l%E1%BB%87ch.%20N%C3%A9t%20ch%E1%BB%AF%20m%C6%B0%E1%BB%A3t%20m%C3%A0%20v%C3%A0%20t%E1%BB%B1%20do%2C%20n%E1%BB%81n%20s%E1%BA%A1ch%2C%20ki%E1%BB%87t%20t%C3%A1c%2C%20ph%C3%B4ng%20ch%E1%BB%AF%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20phim%2C%20t%C3%A1c%20%C4%91%E1%BB%99ng%20th%E1%BB%8B%20gi%C3%A1c%20m%E1%BA%A1nh%20m%E1%BA%BD.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=N%E1%BB%81n%20%C4%91en%20ch%E1%BB%AF%20tr%E1%BA%AFng%2C%20th%C6%B0%20ph%C3%A1p%20n%C3%A9t%20li%E1%BB%81n%20sang%20tr%E1%BB%8Dng%2C%20thi%E1%BA%BFt%20k%E1%BA%BF%20ph%C3%B4ng%20ch%E1%BB%AF%20thanh%20l%E1%BB%8Bch%20v%C3%A0%20n%C4%83ng%20%C4%91%E1%BB%99ng%20%22%7Bargument%20name%3D%22text%20content%22%20default%3D%22Gi%C3%B3%20bi%E1%BB%83n%20th%E1%BB%95i%20kh%C3%B4ng%20ng%E1%BB%ABng%2C%20tr%C4%83ng%20s%C3%B4ng%20chi%E1%BA%BFu%20v%C3%B4%20v%E1%BB%8Dng%22%7D%22%2C%20ph%C3%B4ng%20ch%E1%BB%AF%20th%E1%BA%A3o%20ph%C3%B3ng%20kho%C3%A1ng%20v%C3%A0%20kh%C3%B4ng%20g%C3%B2%20b%C3%B3%2C%20n%C3%A9t%20d%C3%A0i%2C%20s%E1%BB%A9c%20c%C4%83ng%20th%E1%BB%8B%20gi%C3%A1c%20%C4%91%E1%BA%A7y%20n%C4%83ng%20%C4%91%E1%BB%99ng%2C%20n%C3%A9t%20ch%E1%BB%AF%20m%C6%B0%E1%BB%A3t%20m%C3%A0%20v%C3%A0%20thanh%20tho%C3%A1t%2C%20c%C3%A1c%20n%C3%A9t%20%C4%91%C6%B0%E1%BB%A3c%20k%C3%A9o%20d%C3%A0i%20v%C3%A0%20bi%E1%BA%BFn%20d%E1%BA%A1ng%20m%E1%BB%99t%20c%C3%A1ch%20kh%C3%A9o%20l%C3%A9o%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20phi%20b%E1%BA%A1ch%2C%20bi%E1%BA%BFn%20%C4%91%E1%BB%95i%20k%C3%ADch%20th%C6%B0%E1%BB%9Bc%20ph%C3%B4ng%20ch%E1%BB%AF%2C%20b%E1%BB%91%20c%E1%BB%A5c%20l%E1%BB%87ch.%20N%C3%A9t%20ch%E1%BB%AF%20m%C6%B0%E1%BB%A3t%20m%C3%A0%20v%C3%A0%20t%E1%BB%B1%20do%2C%20n%E1%BB%81n%20s%E1%BA%A1ch%2C%20ki%E1%BB%87t%20t%C3%A1c%2C%20ph%C3%B4ng%20ch%E1%BB%AF%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20phim%2C%20t%C3%A1c%20%C4%91%E1%BB%99ng%20th%E1%BB%8B%20gi%C3%A1c%20m%E1%BA%A1nh%20m%E1%BA%BD.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 94: Ghi chú Phác thảo Thiết kế Cơ khí
-=======
-### No. 97: Ghi chú Phác thảo Thiết kế Cơ khí
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 98: Ghi chú Phác thảo Thiết kế Cơ khí
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3648,15 +3351,11 @@ Bản phác thảo đường nét đen, ghi chú {argument name="subject name" d
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=B%E1%BA%A3n%20ph%C3%A1c%20th%E1%BA%A3o%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20%C4%91en%2C%20ghi%20ch%C3%BA%20%7Bargument%20name%3D%22subject%20name%22%20default%3D%22Thi%E1%BA%BFt%20k%E1%BA%BF%20c%C6%A1%20kh%C3%AD%22%7D%2C%20b%E1%BB%91%20c%E1%BB%A5c%20d%C3%A0y%20%C4%91%E1%BA%B7c%20theo%20ki%E1%BB%83u%20ghi%20ch%C3%BA%2C%20k%C3%A8m%20theo%20h%C3%ACnh%20chi%E1%BA%BFu%20tr%E1%BB%B1c%20giao%2C%20ghi%20k%C3%ADch%20th%C6%B0%E1%BB%9Bc%2C%20ch%C3%BA%20th%C3%ADch%20t%C3%AAn%20v%C3%A0%20gi%E1%BA%A3i%20th%C3%ADch%20nh%C3%A3n%20ti%E1%BA%BFng%20Trung-Anh.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=B%E1%BA%A3n%20ph%C3%A1c%20th%E1%BA%A3o%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20%C4%91en%2C%20ghi%20ch%C3%BA%20%7Bargument%20name%3D%22subject%20name%22%20default%3D%22Thi%E1%BA%BFt%20k%E1%BA%BF%20c%C6%A1%20kh%C3%AD%22%7D%2C%20b%E1%BB%91%20c%E1%BB%A5c%20d%C3%A0y%20%C4%91%E1%BA%B7c%20theo%20ki%E1%BB%83u%20ghi%20ch%C3%BA%2C%20k%C3%A8m%20theo%20h%C3%ACnh%20chi%E1%BA%BFu%20tr%E1%BB%B1c%20giao%2C%20ghi%20k%C3%ADch%20th%C6%B0%E1%BB%9Bc%2C%20ch%C3%BA%20th%C3%ADch%20t%C3%AAn%20v%C3%A0%20gi%E1%BA%A3i%20th%C3%ADch%20nh%C3%A3n%20ti%E1%BA%BFng%20Trung-Anh.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 95: Áp phích Golden Curve Wealth Logic
-=======
-### No. 98: Áp phích Golden Curve Wealth Logic
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 99: Áp phích Golden Curve Wealth Logic
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3686,15 +3385,11 @@ Nền màu xanh đậm trang nhã, một đường cong biểu đồ màu vàng 
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=N%E1%BB%81n%20m%C3%A0u%20xanh%20%C4%91%E1%BA%ADm%20trang%20nh%C3%A3%2C%20m%E1%BB%99t%20%C4%91%C6%B0%E1%BB%9Dng%20cong%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20m%C3%A0u%20v%C3%A0ng%20%C4%91ang%20t%C4%83ng%20%C4%91%E1%BB%81u%20%C4%91%E1%BA%B7n%20c%E1%BA%AFt%20ngang%20khung%20c%E1%BA%A3nh%2C%20v%E1%BB%9Bi%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20%C4%91%E1%BB%93ng%20xu%20ph%C3%A1t%20s%C3%A1ng%20%E1%BB%9F%20%C4%91%E1%BB%89nh%20%C4%91%C6%B0%E1%BB%9Dng%20cong.%20Ti%C3%AAu%20%C4%91%E1%BB%81%20ch%C3%ADnh%20%22%7Bargument%20name%3D%22main%20title%22%20default%3D%22%5BWealth%20Logic%5D%7D%22%20s%E1%BB%AD%20d%E1%BB%A5ng%20ph%C3%B4ng%20ch%E1%BB%AF%20serif%20v%C3%A0ng%20tinh%20x%E1%BA%A3o.%20Ph%E1%BB%A5%20%C4%91%E1%BB%81%20%22%7Bargument%20name%3D%22subtitle%22%20default%3D%22%5BEconomics%20that%20ordinary%20people%20can%20understand%5D%7D%22%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20tr%E1%BA%AFng%20m%E1%BB%8Fng%2C%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BA%AFp%20x%E1%BA%BFp%20ngay%20b%C3%AAn%20d%C6%B0%E1%BB%9Bi%20ti%C3%AAu%20%C4%91%E1%BB%81%20ch%C3%ADnh%2C%20tr%C3%B4ng%20chuy%C3%AAn%20nghi%E1%BB%87p%20v%C3%A0%20%C4%91%C3%A1ng%20tin%20c%E1%BA%ADy.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=N%E1%BB%81n%20m%C3%A0u%20xanh%20%C4%91%E1%BA%ADm%20trang%20nh%C3%A3%2C%20m%E1%BB%99t%20%C4%91%C6%B0%E1%BB%9Dng%20cong%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20m%C3%A0u%20v%C3%A0ng%20%C4%91ang%20t%C4%83ng%20%C4%91%E1%BB%81u%20%C4%91%E1%BA%B7n%20c%E1%BA%AFt%20ngang%20khung%20c%E1%BA%A3nh%2C%20v%E1%BB%9Bi%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20%C4%91%E1%BB%93ng%20xu%20ph%C3%A1t%20s%C3%A1ng%20%E1%BB%9F%20%C4%91%E1%BB%89nh%20%C4%91%C6%B0%E1%BB%9Dng%20cong.%20Ti%C3%AAu%20%C4%91%E1%BB%81%20ch%C3%ADnh%20%22%7Bargument%20name%3D%22main%20title%22%20default%3D%22%5BWealth%20Logic%5D%7D%22%20s%E1%BB%AD%20d%E1%BB%A5ng%20ph%C3%B4ng%20ch%E1%BB%AF%20serif%20v%C3%A0ng%20tinh%20x%E1%BA%A3o.%20Ph%E1%BB%A5%20%C4%91%E1%BB%81%20%22%7Bargument%20name%3D%22subtitle%22%20default%3D%22%5BEconomics%20that%20ordinary%20people%20can%20understand%5D%7D%22%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20tr%E1%BA%AFng%20m%E1%BB%8Fng%2C%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BA%AFp%20x%E1%BA%BFp%20ngay%20b%C3%AAn%20d%C6%B0%E1%BB%9Bi%20ti%C3%AAu%20%C4%91%E1%BB%81%20ch%C3%ADnh%2C%20tr%C3%B4ng%20chuy%C3%AAn%20nghi%E1%BB%87p%20v%C3%A0%20%C4%91%C3%A1ng%20tin%20c%E1%BA%ADy.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 96: Sơ đồ kiến trúc nền tảng thương mại điện tử 3D
-=======
-### No. 99: Sơ đồ kiến trúc nền tảng thương mại điện tử 3D
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 100: Sơ đồ kiến trúc nền tảng thương mại điện tử 3D
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3723,15 +3418,11 @@ Với góc nhìn ba chiều cao, trình bày chính xác sơ đồ kiến trúc 
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=V%E1%BB%9Bi%20g%C3%B3c%20nh%C3%ACn%20ba%20chi%E1%BB%81u%20cao%2C%20tr%C3%ACnh%20b%C3%A0y%20ch%C3%ADnh%20x%C3%A1c%20s%C6%A1%20%C4%91%E1%BB%93%20ki%E1%BA%BFn%20tr%C3%BAc%20k%E1%BB%B9%20thu%E1%BA%ADt%20c%E1%BB%A7a%20m%E1%BB%99t%20n%E1%BB%81n%20t%E1%BA%A3ng%20b%C3%A1n%20h%C3%A0ng%20th%C3%B4ng%20qua%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20lu%E1%BB%93ng.%20Hi%E1%BB%83n%20th%E1%BB%8B%20r%C3%B5%20r%C3%A0ng%20c%C3%A1c%20m%E1%BB%91i%20quan%20h%E1%BB%87%20ph%C3%A2n%20c%E1%BA%A5p%20ri%C3%AAng%20bi%E1%BB%87t%20gi%E1%BB%AFa%20c%C3%A1c%20module%2C%20th%E1%BB%83%20hi%E1%BB%87n%20%C4%91%E1%BB%99ng%20v%C3%A0%20tr%E1%BB%B1c%20quan%20h%C6%B0%E1%BB%9Bng%20lu%E1%BB%93ng%20d%E1%BB%AF%20li%E1%BB%87u%20gi%E1%BB%AFa%20c%C3%A1c%20module%2C%20c%C5%A9ng%20nh%C6%B0%20logic%20t%C6%B0%C6%A1ng%20t%C3%A1c%2C%20tr%C3%ACnh%20b%C3%A0y%20to%C3%A0n%20di%E1%BB%87n%20b%E1%BB%A9c%20tranh%20t%E1%BB%95ng%20th%E1%BB%83%20v%E1%BB%81%20ki%E1%BA%BFn%20tr%C3%BAc%20k%E1%BB%B9%20thu%E1%BA%ADt%20c%E1%BB%A7a%20n%E1%BB%81n%20t%E1%BA%A3ng%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=V%E1%BB%9Bi%20g%C3%B3c%20nh%C3%ACn%20ba%20chi%E1%BB%81u%20cao%2C%20tr%C3%ACnh%20b%C3%A0y%20ch%C3%ADnh%20x%C3%A1c%20s%C6%A1%20%C4%91%E1%BB%93%20ki%E1%BA%BFn%20tr%C3%BAc%20k%E1%BB%B9%20thu%E1%BA%ADt%20c%E1%BB%A7a%20m%E1%BB%99t%20n%E1%BB%81n%20t%E1%BA%A3ng%20b%C3%A1n%20h%C3%A0ng%20th%C3%B4ng%20qua%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20lu%E1%BB%93ng.%20Hi%E1%BB%83n%20th%E1%BB%8B%20r%C3%B5%20r%C3%A0ng%20c%C3%A1c%20m%E1%BB%91i%20quan%20h%E1%BB%87%20ph%C3%A2n%20c%E1%BA%A5p%20ri%C3%AAng%20bi%E1%BB%87t%20gi%E1%BB%AFa%20c%C3%A1c%20module%2C%20th%E1%BB%83%20hi%E1%BB%87n%20%C4%91%E1%BB%99ng%20v%C3%A0%20tr%E1%BB%B1c%20quan%20h%C6%B0%E1%BB%9Bng%20lu%E1%BB%93ng%20d%E1%BB%AF%20li%E1%BB%87u%20gi%E1%BB%AFa%20c%C3%A1c%20module%2C%20c%C5%A9ng%20nh%C6%B0%20logic%20t%C6%B0%C6%A1ng%20t%C3%A1c%2C%20tr%C3%ACnh%20b%C3%A0y%20to%C3%A0n%20di%E1%BB%87n%20b%E1%BB%A9c%20tranh%20t%E1%BB%95ng%20th%E1%BB%83%20v%E1%BB%81%20ki%E1%BA%BFn%20tr%C3%BAc%20k%E1%BB%B9%20thu%E1%BA%ADt%20c%E1%BB%A7a%20n%E1%BB%81n%20t%E1%BA%A3ng%20th%C6%B0%C6%A1ng%20m%E1%BA%A1i%20%C4%91i%E1%BB%87n%20t%E1%BB%AD.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 97: Thiết Kế Chữ Ký Nghệ Thuật Ma Wencheng
-=======
-### No. 100: Thiết Kế Chữ Ký Nghệ Thuật Ma Wencheng
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 101: Thiết Kế Chữ Ký Nghệ Thuật Ma Wencheng
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3761,15 +3452,11 @@ Thiết kế chữ ký nghệ thuật cấp bậc thầy: {argument name="name" 
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Thi%E1%BA%BFt%20k%E1%BA%BF%20ch%E1%BB%AF%20k%C3%BD%20ngh%E1%BB%87%20thu%E1%BA%ADt%20c%E1%BA%A5p%20b%E1%BA%ADc%20th%E1%BA%A7y%3A%20%7Bargument%20name%3D%22name%22%20default%3D%22Ma%20Wencheng%22%7D%3A%20Ph%C3%B4ng%20ch%E1%BB%AF%20thanh%20l%E1%BB%8Bch%2C%20%C4%91%E1%BA%ADm%20n%C3%A9t%2C%20m%C6%B0%E1%BB%A3t%20m%C3%A0%20nh%C6%B0ng%20h%C3%B9ng%20v%C4%A9%2C%20m%C3%B4%20ph%E1%BB%8Fng%20ch%E1%BB%AF%20k%C3%BD%20vi%E1%BA%BFt%20tay%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20n%E1%BB%95i%20ti%E1%BA%BFng%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20b%C3%BAt%20m%C3%A1y%2C%20%C4%91%E1%BB%99%20d%C3%A0y%20kh%C3%A1c%20nhau%2C%20c%C3%A1c%20n%C3%A9t%20n%E1%BB%91i%20li%E1%BB%81n%20gi%E1%BB%AFa%20c%C3%A1c%20k%C3%BD%20t%E1%BB%B1%2C%20c%C3%B3%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20trang%20tr%C3%AD.%20Ch%E1%BB%AF%20k%C3%BD%20c%C3%B3%20t%C3%ADnh%20ngh%E1%BB%87%20thu%E1%BA%ADt%20cao%2C%20n%E1%BB%81n%20tr%E1%BA%AFng%20s%E1%BA%A1ch%2C%20kh%C3%B4ng%20c%C3%B3%20h%C3%ACnh%20m%E1%BB%9D%2C%20kh%C3%B4ng%20gian%20%C3%A2m%20l%E1%BB%9Bn%2C%20ph%C3%B9%20h%E1%BB%A3p%20cho%20ch%E1%BB%AF%20k%C3%BD.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=Thi%E1%BA%BFt%20k%E1%BA%BF%20ch%E1%BB%AF%20k%C3%BD%20ngh%E1%BB%87%20thu%E1%BA%ADt%20c%E1%BA%A5p%20b%E1%BA%ADc%20th%E1%BA%A7y%3A%20%7Bargument%20name%3D%22name%22%20default%3D%22Ma%20Wencheng%22%7D%3A%20Ph%C3%B4ng%20ch%E1%BB%AF%20thanh%20l%E1%BB%8Bch%2C%20%C4%91%E1%BA%ADm%20n%C3%A9t%2C%20m%C6%B0%E1%BB%A3t%20m%C3%A0%20nh%C6%B0ng%20h%C3%B9ng%20v%C4%A9%2C%20m%C3%B4%20ph%E1%BB%8Fng%20ch%E1%BB%AF%20k%C3%BD%20vi%E1%BA%BFt%20tay%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20n%E1%BB%95i%20ti%E1%BA%BFng%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20b%C3%BAt%20m%C3%A1y%2C%20%C4%91%E1%BB%99%20d%C3%A0y%20kh%C3%A1c%20nhau%2C%20c%C3%A1c%20n%C3%A9t%20n%E1%BB%91i%20li%E1%BB%81n%20gi%E1%BB%AFa%20c%C3%A1c%20k%C3%BD%20t%E1%BB%B1%2C%20c%C3%B3%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20trang%20tr%C3%AD.%20Ch%E1%BB%AF%20k%C3%BD%20c%C3%B3%20t%C3%ADnh%20ngh%E1%BB%87%20thu%E1%BA%ADt%20cao%2C%20n%E1%BB%81n%20tr%E1%BA%AFng%20s%E1%BA%A1ch%2C%20kh%C3%B4ng%20c%C3%B3%20h%C3%ACnh%20m%E1%BB%9D%2C%20kh%C3%B4ng%20gian%20%C3%A2m%20l%E1%BB%9Bn%2C%20ph%C3%B9%20h%E1%BB%A3p%20cho%20ch%E1%BB%AF%20k%C3%BD.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 98: Giao diện người dùng ứng dụng tài chính kiểu C4D (Biến thể)
-=======
-### No. 101: Giao diện người dùng ứng dụng tài chính kiểu C4D (Biến thể)
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 102: Giao diện người dùng ứng dụng tài chính kiểu C4D (Biến thể)
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3798,15 +3485,11 @@ Thiết kế giao diện người dùng (UI) ứng dụng quản lý tài chính
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Thi%E1%BA%BFt%20k%E1%BA%BF%20giao%20di%E1%BB%87n%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20(UI)%20%E1%BB%A9ng%20d%E1%BB%A5ng%20qu%E1%BA%A3n%20l%C3%BD%20t%C3%A0i%20ch%C3%ADnh%20tr%C3%AAn%20di%20%C4%91%E1%BB%99ng%2C%20UI%20cao%20c%E1%BA%A5p%20phong%20c%C3%A1ch%20C4D%2C%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20d%E1%BB%AF%20li%E1%BB%87u%203D%2C%20giao%20di%E1%BB%87n%20m%C3%A0u%20xanh%20gradient%2C%20thi%E1%BA%BFt%20k%E1%BA%BF%20th%E1%BA%BB%20n%E1%BB%95i%2C%20n%C3%BAt%20b%E1%BA%A5m%20hi%E1%BB%87u%20%E1%BB%A9ng%20glassmorphism%2C%20hi%E1%BB%83n%20th%E1%BB%8B%20s%E1%BB%91%20d%C6%B0%20%C4%91%E1%BB%99ng%2C%20%C4%91%C6%B0%E1%BB%9Dng%20cong%20xu%20h%C6%B0%E1%BB%9Bng%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%2C%20n%E1%BB%81n%20tr%E1%BA%AFng%20tinh%20khi%E1%BA%BFt%2C%20ki%E1%BB%87t%20t%C3%A1c%2C%20chi%20ti%E1%BA%BFt%20cao.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=Thi%E1%BA%BFt%20k%E1%BA%BF%20giao%20di%E1%BB%87n%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20(UI)%20%E1%BB%A9ng%20d%E1%BB%A5ng%20qu%E1%BA%A3n%20l%C3%BD%20t%C3%A0i%20ch%C3%ADnh%20tr%C3%AAn%20di%20%C4%91%E1%BB%99ng%2C%20UI%20cao%20c%E1%BA%A5p%20phong%20c%C3%A1ch%20C4D%2C%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20d%E1%BB%AF%20li%E1%BB%87u%203D%2C%20giao%20di%E1%BB%87n%20m%C3%A0u%20xanh%20gradient%2C%20thi%E1%BA%BFt%20k%E1%BA%BF%20th%E1%BA%BB%20n%E1%BB%95i%2C%20n%C3%BAt%20b%E1%BA%A5m%20hi%E1%BB%87u%20%E1%BB%A9ng%20glassmorphism%2C%20hi%E1%BB%83n%20th%E1%BB%8B%20s%E1%BB%91%20d%C6%B0%20%C4%91%E1%BB%99ng%2C%20%C4%91%C6%B0%E1%BB%9Dng%20cong%20xu%20h%C6%B0%E1%BB%9Bng%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%2C%20n%E1%BB%81n%20tr%E1%BA%AFng%20tinh%20khi%E1%BA%BFt%2C%20ki%E1%BB%87t%20t%C3%A1c%2C%20chi%20ti%E1%BA%BFt%20cao.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 99: Giao diện ứng dụng tài chính theo phong cách C4D
-=======
-### No. 102: Giao diện ứng dụng tài chính theo phong cách C4D
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 103: Giao diện ứng dụng tài chính theo phong cách C4D
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3835,15 +3518,11 @@ Thiết kế giao diện người dùng (UI) ứng dụng quản lý tài chính
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Thi%E1%BA%BFt%20k%E1%BA%BF%20giao%20di%E1%BB%87n%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20(UI)%20%E1%BB%A9ng%20d%E1%BB%A5ng%20qu%E1%BA%A3n%20l%C3%BD%20t%C3%A0i%20ch%C3%ADnh%20tr%C3%AAn%20di%20%C4%91%E1%BB%99ng%2C%20UI%20cao%20c%E1%BA%A5p%20phong%20c%C3%A1ch%20C4D%2C%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20d%E1%BB%AF%20li%E1%BB%87u%203D%2C%20giao%20di%E1%BB%87n%20gradient%20xanh%2C%20thi%E1%BA%BFt%20k%E1%BA%BF%20th%E1%BA%BB%20n%E1%BB%95i%2C%20n%C3%BAt%20hi%E1%BB%87u%20%E1%BB%A9ng%20th%E1%BB%A7y%20tinh%20(glassmorphism)%2C%20hi%E1%BB%83n%20th%E1%BB%8B%20s%E1%BB%91%20d%C6%B0%20%C4%91%E1%BB%99ng%2C%20%C4%91%C6%B0%E1%BB%9Dng%20cong%20xu%20h%C6%B0%E1%BB%9Bng%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%2C%20n%E1%BB%81n%20tr%E1%BA%AFng%20tinh%2C%20ki%E1%BB%87t%20t%C3%A1c%2C%20%C4%91%E1%BB%99%20chi%20ti%E1%BA%BFt%20cao.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=Thi%E1%BA%BFt%20k%E1%BA%BF%20giao%20di%E1%BB%87n%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20(UI)%20%E1%BB%A9ng%20d%E1%BB%A5ng%20qu%E1%BA%A3n%20l%C3%BD%20t%C3%A0i%20ch%C3%ADnh%20tr%C3%AAn%20di%20%C4%91%E1%BB%99ng%2C%20UI%20cao%20c%E1%BA%A5p%20phong%20c%C3%A1ch%20C4D%2C%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20d%E1%BB%AF%20li%E1%BB%87u%203D%2C%20giao%20di%E1%BB%87n%20gradient%20xanh%2C%20thi%E1%BA%BFt%20k%E1%BA%BF%20th%E1%BA%BB%20n%E1%BB%95i%2C%20n%C3%BAt%20hi%E1%BB%87u%20%E1%BB%A9ng%20th%E1%BB%A7y%20tinh%20(glassmorphism)%2C%20hi%E1%BB%83n%20th%E1%BB%8B%20s%E1%BB%91%20d%C6%B0%20%C4%91%E1%BB%99ng%2C%20%C4%91%C6%B0%E1%BB%9Dng%20cong%20xu%20h%C6%B0%E1%BB%9Bng%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%2C%20n%E1%BB%81n%20tr%E1%BA%AFng%20tinh%2C%20ki%E1%BB%87t%20t%C3%A1c%2C%20%C4%91%E1%BB%99%20chi%20ti%E1%BA%BFt%20cao.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 100: Nick và Judy Chụp ảnh Tự sướng Kiểu Instagram trên Bãi biển Hồng
-=======
-### No. 103: Nick và Judy Chụp ảnh Tự sướng Kiểu Instagram trên Bãi biển Hồng
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 104: Nick và Judy Chụp ảnh Tự sướng Kiểu Instagram trên Bãi biển Hồng
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3873,15 +3552,11 @@ Nick Wilde và Judy Hopps của Zootopia đang chụp ảnh selfie trên bãi bi
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Nick%20Wilde%20v%C3%A0%20Judy%20Hopps%20c%E1%BB%A7a%20Zootopia%20%C4%91ang%20ch%E1%BB%A5p%20%E1%BA%A3nh%20selfie%20tr%C3%AAn%20b%C3%A3i%20bi%E1%BB%83n%20h%E1%BB%93ng%2C%20Nick%20gi%C6%A1%20chi%E1%BA%BFc%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20kh%E1%BB%95ng%20l%E1%BB%93%20l%C3%AAn%20m%E1%BB%99t%20g%C3%B3c%2045%20%C4%91%E1%BB%99%2C%20c%C3%A1nh%20tay%20c%E1%BB%A7a%20h%E1%BB%8D%20v%C6%B0%C6%A1n%20ra%20kh%E1%BB%8Fi%20khung%20Instagram%20ph%C3%A1%20v%E1%BB%A1%20b%E1%BB%A9c%20t%C6%B0%E1%BB%9Dng%20th%E1%BB%A9%20t%C6%B0%2C%20chi%E1%BA%BFc%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20l%C6%A1%20l%E1%BB%ADng%20%E1%BB%9F%20gi%E1%BB%AFa%20v%E1%BB%9Bi%20hi%E1%BB%87u%20%E1%BB%A9ng%20m%C3%A9o%20ph%E1%BB%91i%20c%E1%BA%A3nh.%20Giao%20di%E1%BB%87n%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20tr%C3%AAn%20m%C3%A0n%20h%C3%ACnh%20kh%E1%BB%95ng%20l%E1%BB%93%20b%C3%AAn%20ph%E1%BA%A3i%20c%E1%BB%B1c%20k%E1%BB%B3%20s%E1%BA%AFc%20n%C3%A9t%3A%20t%C3%AAn%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20%22%7Bargument%20name%3D%22username%22%20default%3D%22%40NickJudy_Selfie%22%7D%22%20v%E1%BB%9Bi%20d%E1%BA%A5u%20t%C3%ADch%20xanh%20x%C3%A1c%20minh%2C%20s%E1%BB%91%20l%C6%B0%E1%BB%A3t%20th%C3%ADch%20%22%7Bargument%20name%3D%22like%20count%22%20default%3D%225.8M%22%7D%22%20in%20%C4%91%E1%BA%ADm%20v%C3%A0%20nh%E1%BA%A5p%20nh%C3%A1y%2C%20ch%E1%BA%A5m%20%C4%91%E1%BB%8F%20ghi%20h%C3%ACnh%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20%C4%91ang%20nh%E1%BA%A5p%20nh%C3%A1y%2C%20bong%20b%C3%B3ng%20b%C3%ACnh%20lu%E1%BA%ADn%20v%E1%BB%9Bi%20n%C3%A9t%20neon.%20C%E1%BA%A1nh%20khung%20l%C3%A0%20v%E1%BA%ADt%20li%E1%BB%87u%20k%C3%ADnh%20d%C3%A0y%202cm%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20b%C3%A3i%20bi%E1%BB%83n%20h%E1%BB%93ng.%20Xung%20quanh%20l%C3%A0%20c%C3%A1c%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20tr%C3%A1i%20tim%203D%20%E2%9D%A4%EF%B8%8F%2C%20ng%C3%B3n%20tay%20c%C3%A1i%20gi%C6%A1%20l%C3%AAn%20%F0%9F%91%8D%2C%20c%C3%A2y%20d%E1%BB%ABa%20h%E1%BB%93ng%20%F0%9F%8C%B4%2C%20bong%20b%C3%B3ng%20s%C3%A2m%20panh%20%E2%9C%A8%20%C4%91ang%20tr%C3%B4i%20n%E1%BB%95i%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20%C3%A1nh%20s%C3%A1ng%20v%E1%BB%87t%20%C4%91%C6%B0%E1%BB%A3c%20ph%E1%BB%A7%20l%C3%AAn%20b%E1%BB%9Fi%20v%E1%BA%A7ng%20s%C3%A1ng%20h%E1%BB%93ng%20%E1%BA%A5m%20%C3%A1p%2C%20l%C3%B3e%20s%C3%A1ng%20%E1%BB%91ng%20k%C3%ADnh%20m%C6%A1%20m%C3%A0ng.%20N%E1%BB%81n%20l%C3%A0%20m%E1%BB%99t%20b%C3%A3i%20bi%E1%BB%83n%20h%E1%BB%93ng%20Barbie%3A%20h%E1%BA%A1t%20c%C3%A1t%20san%20h%C3%B4%20m%E1%BB%8Bn%20c%C3%B3%20th%E1%BB%83%20nh%C3%ACn%20th%E1%BA%A5y%2C%20n%C6%B0%E1%BB%9Bc%20m%C3%A0u%20h%E1%BB%93ng%20cam%20chuy%E1%BB%83n%20s%E1%BA%AFc%20l%E1%BA%A5p%20l%C3%A1nh%2C%20%C3%A1nh%20s%C3%A1ng%20th%E1%BB%83%20t%C3%ADch%20ho%C3%A0ng%20h%C3%B4n%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20v%E1%BB%8F%20s%C3%B2%20v%C3%A0%20c%C3%A1t%20sao%20l%E1%BA%A5p%20l%C3%A1nh.%20B%C3%B3ng%20%C4%91%E1%BB%95%20th%E1%BA%BF%20gi%E1%BB%9Bi%20th%E1%BB%B1c%20%E1%BB%9F%20ph%C3%ADa%20b%C3%AAn%20tr%C3%A1i%20s%E1%BA%AFc%20n%C3%A9t%20v%E1%BB%9Bi%20%C4%91%E1%BB%99%20b%C3%A3o%20h%C3%B2a%20ch%C3%A2n%20th%E1%BB%B1c%2C%20giao%20di%E1%BB%87n%20k%E1%BB%B9%20thu%E1%BA%ADt%20s%E1%BB%91%20b%C3%AAn%20ph%E1%BA%A3i%20c%C3%B3%20b%E1%BB%99%20l%E1%BB%8Dc%20%C3%A1nh%20s%C3%A1ng%20m%E1%BB%81m%20v%C3%A0%20hi%E1%BB%87u%20%E1%BB%A9ng%20l%C3%A0m%20t%E1%BB%91i%20g%C3%B3c%2C%20t%C3%B4ng%20m%C3%A0u%20h%E1%BB%93ng%20v%C3%A0ng%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20cao.%20Phong%20c%C3%A1ch%20k%E1%BB%B3%20ngh%E1%BB%89%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20%E1%BA%A3nh%20h%C6%B0%E1%BB%9Fng%20tr%C3%AAn%20Instagram%2C%20%C4%91%E1%BB%99%20ch%C3%A2n%20th%E1%BB%B1c%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%208K%2C%20d%C3%B2%20tia%2C%20chi%20ti%E1%BA%BFt%20l%C3%B4ng%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20s%E1%BB%A3i%2C%20t%C3%A1n%20x%E1%BA%A1%20d%C6%B0%E1%BB%9Bi%20b%E1%BB%81%20m%E1%BA%B7t%2C%20%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20t%E1%BA%ADp%20trung%20v%C3%A0o%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%2C%20k%E1%BA%BFt%20xu%E1%BA%A5t%20b%E1%BA%B1ng%20Unreal%20Engine%205%2C%20b%E1%BB%91%20c%E1%BB%A5c%20ph%C3%A1%20v%E1%BB%A1%20chi%E1%BB%81u%20kh%C3%B4ng%20gian%2C%20kh%C3%B4ng%20kh%C3%AD%20k%E1%BB%B3%20ngh%E1%BB%89%2C%20b%C3%B9ng%20n%E1%BB%95%20v%E1%BB%9Bi%20t%C3%ADnh%20th%E1%BA%A9m%20m%E1%BB%B9%20c%E1%BB%A7a%20internet.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=Nick%20Wilde%20v%C3%A0%20Judy%20Hopps%20c%E1%BB%A7a%20Zootopia%20%C4%91ang%20ch%E1%BB%A5p%20%E1%BA%A3nh%20selfie%20tr%C3%AAn%20b%C3%A3i%20bi%E1%BB%83n%20h%E1%BB%93ng%2C%20Nick%20gi%C6%A1%20chi%E1%BA%BFc%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20kh%E1%BB%95ng%20l%E1%BB%93%20l%C3%AAn%20m%E1%BB%99t%20g%C3%B3c%2045%20%C4%91%E1%BB%99%2C%20c%C3%A1nh%20tay%20c%E1%BB%A7a%20h%E1%BB%8D%20v%C6%B0%C6%A1n%20ra%20kh%E1%BB%8Fi%20khung%20Instagram%20ph%C3%A1%20v%E1%BB%A1%20b%E1%BB%A9c%20t%C6%B0%E1%BB%9Dng%20th%E1%BB%A9%20t%C6%B0%2C%20chi%E1%BA%BFc%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20l%C6%A1%20l%E1%BB%ADng%20%E1%BB%9F%20gi%E1%BB%AFa%20v%E1%BB%9Bi%20hi%E1%BB%87u%20%E1%BB%A9ng%20m%C3%A9o%20ph%E1%BB%91i%20c%E1%BA%A3nh.%20Giao%20di%E1%BB%87n%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20tr%C3%AAn%20m%C3%A0n%20h%C3%ACnh%20kh%E1%BB%95ng%20l%E1%BB%93%20b%C3%AAn%20ph%E1%BA%A3i%20c%E1%BB%B1c%20k%E1%BB%B3%20s%E1%BA%AFc%20n%C3%A9t%3A%20t%C3%AAn%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20%22%7Bargument%20name%3D%22username%22%20default%3D%22%40NickJudy_Selfie%22%7D%22%20v%E1%BB%9Bi%20d%E1%BA%A5u%20t%C3%ADch%20xanh%20x%C3%A1c%20minh%2C%20s%E1%BB%91%20l%C6%B0%E1%BB%A3t%20th%C3%ADch%20%22%7Bargument%20name%3D%22like%20count%22%20default%3D%225.8M%22%7D%22%20in%20%C4%91%E1%BA%ADm%20v%C3%A0%20nh%E1%BA%A5p%20nh%C3%A1y%2C%20ch%E1%BA%A5m%20%C4%91%E1%BB%8F%20ghi%20h%C3%ACnh%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20%C4%91ang%20nh%E1%BA%A5p%20nh%C3%A1y%2C%20bong%20b%C3%B3ng%20b%C3%ACnh%20lu%E1%BA%ADn%20v%E1%BB%9Bi%20n%C3%A9t%20neon.%20C%E1%BA%A1nh%20khung%20l%C3%A0%20v%E1%BA%ADt%20li%E1%BB%87u%20k%C3%ADnh%20d%C3%A0y%202cm%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20b%C3%A3i%20bi%E1%BB%83n%20h%E1%BB%93ng.%20Xung%20quanh%20l%C3%A0%20c%C3%A1c%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20tr%C3%A1i%20tim%203D%20%E2%9D%A4%EF%B8%8F%2C%20ng%C3%B3n%20tay%20c%C3%A1i%20gi%C6%A1%20l%C3%AAn%20%F0%9F%91%8D%2C%20c%C3%A2y%20d%E1%BB%ABa%20h%E1%BB%93ng%20%F0%9F%8C%B4%2C%20bong%20b%C3%B3ng%20s%C3%A2m%20panh%20%E2%9C%A8%20%C4%91ang%20tr%C3%B4i%20n%E1%BB%95i%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20%C3%A1nh%20s%C3%A1ng%20v%E1%BB%87t%20%C4%91%C6%B0%E1%BB%A3c%20ph%E1%BB%A7%20l%C3%AAn%20b%E1%BB%9Fi%20v%E1%BA%A7ng%20s%C3%A1ng%20h%E1%BB%93ng%20%E1%BA%A5m%20%C3%A1p%2C%20l%C3%B3e%20s%C3%A1ng%20%E1%BB%91ng%20k%C3%ADnh%20m%C6%A1%20m%C3%A0ng.%20N%E1%BB%81n%20l%C3%A0%20m%E1%BB%99t%20b%C3%A3i%20bi%E1%BB%83n%20h%E1%BB%93ng%20Barbie%3A%20h%E1%BA%A1t%20c%C3%A1t%20san%20h%C3%B4%20m%E1%BB%8Bn%20c%C3%B3%20th%E1%BB%83%20nh%C3%ACn%20th%E1%BA%A5y%2C%20n%C6%B0%E1%BB%9Bc%20m%C3%A0u%20h%E1%BB%93ng%20cam%20chuy%E1%BB%83n%20s%E1%BA%AFc%20l%E1%BA%A5p%20l%C3%A1nh%2C%20%C3%A1nh%20s%C3%A1ng%20th%E1%BB%83%20t%C3%ADch%20ho%C3%A0ng%20h%C3%B4n%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20v%E1%BB%8F%20s%C3%B2%20v%C3%A0%20c%C3%A1t%20sao%20l%E1%BA%A5p%20l%C3%A1nh.%20B%C3%B3ng%20%C4%91%E1%BB%95%20th%E1%BA%BF%20gi%E1%BB%9Bi%20th%E1%BB%B1c%20%E1%BB%9F%20ph%C3%ADa%20b%C3%AAn%20tr%C3%A1i%20s%E1%BA%AFc%20n%C3%A9t%20v%E1%BB%9Bi%20%C4%91%E1%BB%99%20b%C3%A3o%20h%C3%B2a%20ch%C3%A2n%20th%E1%BB%B1c%2C%20giao%20di%E1%BB%87n%20k%E1%BB%B9%20thu%E1%BA%ADt%20s%E1%BB%91%20b%C3%AAn%20ph%E1%BA%A3i%20c%C3%B3%20b%E1%BB%99%20l%E1%BB%8Dc%20%C3%A1nh%20s%C3%A1ng%20m%E1%BB%81m%20v%C3%A0%20hi%E1%BB%87u%20%E1%BB%A9ng%20l%C3%A0m%20t%E1%BB%91i%20g%C3%B3c%2C%20t%C3%B4ng%20m%C3%A0u%20h%E1%BB%93ng%20v%C3%A0ng%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20cao.%20Phong%20c%C3%A1ch%20k%E1%BB%B3%20ngh%E1%BB%89%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20%E1%BA%A3nh%20h%C6%B0%E1%BB%9Fng%20tr%C3%AAn%20Instagram%2C%20%C4%91%E1%BB%99%20ch%C3%A2n%20th%E1%BB%B1c%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%208K%2C%20d%C3%B2%20tia%2C%20chi%20ti%E1%BA%BFt%20l%C3%B4ng%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20s%E1%BB%A3i%2C%20t%C3%A1n%20x%E1%BA%A1%20d%C6%B0%E1%BB%9Bi%20b%E1%BB%81%20m%E1%BA%B7t%2C%20%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20t%E1%BA%ADp%20trung%20v%C3%A0o%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%2C%20k%E1%BA%BFt%20xu%E1%BA%A5t%20b%E1%BA%B1ng%20Unreal%20Engine%205%2C%20b%E1%BB%91%20c%E1%BB%A5c%20ph%C3%A1%20v%E1%BB%A1%20chi%E1%BB%81u%20kh%C3%B4ng%20gian%2C%20kh%C3%B4ng%20kh%C3%AD%20k%E1%BB%B3%20ngh%E1%BB%89%2C%20b%C3%B9ng%20n%E1%BB%95%20v%E1%BB%9Bi%20t%C3%ADnh%20th%E1%BA%A9m%20m%E1%BB%B9%20c%E1%BB%A7a%20internet.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 101: Nam châm tủ lạnh tráng men Zootopia Judy
-=======
-### No. 104: Nam châm tủ lạnh tráng men Zootopia Judy
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 105: Nam châm tủ lạnh tráng men Zootopia Judy
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3911,15 +3586,11 @@ Phong cách thiết kế tối giản hiện đại, thiết kế nam châm tủ
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Phong%20c%C3%A1ch%20thi%E1%BA%BFt%20k%E1%BA%BF%20t%E1%BB%91i%20gi%E1%BA%A3n%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%2C%20thi%E1%BA%BFt%20k%E1%BA%BF%20nam%20ch%C3%A2m%20t%E1%BB%A7%20l%E1%BA%A1nh%20tr%C3%A1ng%20men%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20Zootopia%2C%20nam%20ch%C3%A2m%20h%C3%ACnh%20tr%C3%B2n%2C%20c%E1%BA%ADn%20c%E1%BA%A3nh%20Judy%20Hopps%2C%20%C4%91%C6%B0%E1%BB%A3c%20bao%20quanh%20b%E1%BB%9Fi%20c%C3%A1c%20h%E1%BB%8Da%20ti%E1%BA%BFt%20y%E1%BA%BFu%20t%E1%BB%91%20Gi%C3%A1ng%20sinh%2C%20v%E1%BB%9Bi%20ph%C3%B4ng%20ch%E1%BB%AF%20ti%E1%BA%BFng%20Anh%20%22%7Bargument%20name%3D%22bottom%20text%22%20default%3D%22Merry%20Christmas%22%7D%22%20%E1%BB%9F%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi%2C%20phong%20c%C3%A1ch%20thi%E1%BA%BFt%20k%E1%BA%BF%20qu%E1%BB%91c%20t%E1%BA%BF%2C%20m%C3%A0u%20t%C3%ADm%20nh%E1%BA%A1t%20chuy%E1%BB%83n%20s%E1%BA%AFc.%20N%E1%BB%81n%20c%C3%B3%20k%E1%BA%BFt%20c%E1%BA%A5u%20thu%E1%BA%A7n%20khi%E1%BA%BFt.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=Phong%20c%C3%A1ch%20thi%E1%BA%BFt%20k%E1%BA%BF%20t%E1%BB%91i%20gi%E1%BA%A3n%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%2C%20thi%E1%BA%BFt%20k%E1%BA%BF%20nam%20ch%C3%A2m%20t%E1%BB%A7%20l%E1%BA%A1nh%20tr%C3%A1ng%20men%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20Zootopia%2C%20nam%20ch%C3%A2m%20h%C3%ACnh%20tr%C3%B2n%2C%20c%E1%BA%ADn%20c%E1%BA%A3nh%20Judy%20Hopps%2C%20%C4%91%C6%B0%E1%BB%A3c%20bao%20quanh%20b%E1%BB%9Fi%20c%C3%A1c%20h%E1%BB%8Da%20ti%E1%BA%BFt%20y%E1%BA%BFu%20t%E1%BB%91%20Gi%C3%A1ng%20sinh%2C%20v%E1%BB%9Bi%20ph%C3%B4ng%20ch%E1%BB%AF%20ti%E1%BA%BFng%20Anh%20%22%7Bargument%20name%3D%22bottom%20text%22%20default%3D%22Merry%20Christmas%22%7D%22%20%E1%BB%9F%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi%2C%20phong%20c%C3%A1ch%20thi%E1%BA%BFt%20k%E1%BA%BF%20qu%E1%BB%91c%20t%E1%BA%BF%2C%20m%C3%A0u%20t%C3%ADm%20nh%E1%BA%A1t%20chuy%E1%BB%83n%20s%E1%BA%AFc.%20N%E1%BB%81n%20c%C3%B3%20k%E1%BA%BFt%20c%E1%BA%A5u%20thu%E1%BA%A7n%20khi%E1%BA%BFt.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 102: Áp phích quảng cáo sản phẩm công nghệ GEO
-=======
-### No. 105: Áp phích quảng cáo sản phẩm công nghệ GEO
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 106: Áp phích quảng cáo sản phẩm công nghệ GEO
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3949,15 +3620,11 @@ Lời nhắc này tạo ra một poster quảng cáo sản phẩm công nghệ c
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%C3%81p%20ph%C3%ADch%20qu%E1%BA%A3ng%20c%C3%A1o%20s%E1%BA%A3n%20ph%E1%BA%A9m%20c%C3%B4ng%20ngh%E1%BB%87%2C%20b%E1%BB%91%20c%E1%BB%A5c%20ch%E1%BB%AF%20b%C3%AAn%20tr%C3%A1i%20h%C3%ACnh%20%E1%BA%A3nh%20b%C3%AAn%20ph%E1%BA%A3i%2C%20n%E1%BB%81n%20chuy%E1%BB%83n%20m%C3%A0u%20xanh%20%C4%91%E1%BA%ADm%20%C4%91%E1%BA%BFn%20xanh%20nh%E1%BA%A1t%20tinh%20t%E1%BA%BF%2C%20v%E1%BA%A7ng%20s%C3%A1ng%20m%C3%A0u%20cam%20m%E1%BB%81m%20m%E1%BA%A1i%20lan%20t%E1%BB%8Fa%20l%C3%AAn%20t%E1%BB%AB%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi%20ch%E1%BB%AF%20GEO%20b%C3%AAn%20ph%E1%BA%A3i%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20%C3%A1nh%20s%C3%A1ng%20t%E1%BB%B1%20nhi%C3%AAn%2C%20thi%E1%BA%BFt%20k%E1%BA%BF%20h%C3%ACnh%20%E1%BA%A3nh%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20s%E1%BA%A3n%20ph%E1%BA%A9m%2C%20t%C3%B4ng%20m%C3%A0u%20ch%E1%BB%A7%20%C4%91%E1%BA%A1o%20chuy%E1%BB%83n%20m%C3%A0u%20xanh%20%C4%91%E1%BA%ADm%2C%20ch%E1%BB%AF%20m%C3%A0u%20tr%E1%BA%AFng%20tinh%20khi%E1%BA%BFt%20k%E1%BA%BFt%20h%E1%BB%A3p%20hi%E1%BB%87u%20%E1%BB%A9ng%20%C3%A1nh%20s%C3%A1ng%20cam%2C%20chuy%C3%AAn%20nghi%E1%BB%87p%20tinh%20t%E1%BA%BF%20v%C3%A0%20d%E1%BB%85%20ti%E1%BA%BFp%20c%E1%BA%ADn%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20h%C3%ACnh%20%E1%BA%A3nh%20phong%20ph%C3%BA%20v%C3%A0%20chi%20ti%E1%BA%BFt%20s%E1%BA%AFc%20n%C3%A9t.%20Ph%C3%ADa%20tr%C3%AAn%20b%C3%AAn%20tr%C3%A1i%20%22%7Bargument%20name%3D%22date%22%20default%3D%22%5B2025.10%5D%22%7D%22%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20nh%E1%BB%8F%20g%E1%BB%8Dn%20m%C3%A0u%20tr%E1%BA%AFng%2C%20ti%C3%AAu%20%C4%91%E1%BB%81%20ch%C3%ADnh%20%22%7Bargument%20name%3D%22main%20title%22%20default%3D%22When%20AI%20Answers%22%7D%22%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%20in%20%C4%91%E1%BA%ADm%20m%C3%A0u%20tr%E1%BA%AFng%20c%E1%BB%B1c%20l%E1%BB%9Bn%2C%20d%C3%B2ng%20ti%E1%BA%BFp%20theo%20ch%E1%BB%AF%20nh%E1%BB%8F%20%22%7Bargument%20name%3D%22subtitle%22%20default%3D%22GEO%20decides%20who%20it%20mentions%22%7D%22%2C%20b%C3%AAn%20ph%E1%BA%A3i%20l%C3%A0%20ch%E1%BB%AF%203D%20ch%C3%A2n%20th%E1%BB%B1c%20%22%7Bargument%20name%3D%223D%20text%22%20default%3D%22GEO%22%7D%22%2C%20b%E1%BB%81%20m%E1%BA%B7t%20c%C3%B3%20k%E1%BA%BFt%20c%E1%BA%A5u%20m%E1%BB%9D%20m%C3%A0u%20k%E1%BA%B9o%20%C4%91i%E1%BB%83m%20xuy%E1%BA%BFt%20c%C3%A1c%20%C4%91i%E1%BB%83m%20nh%E1%BA%A5n%20m%C3%A0u%20cam%2C%20d%C3%B9ng%20cho%20%E1%BA%A3nh%20b%C3%ACa%20t%C3%A0i%20kho%E1%BA%A3n%20ch%C3%ADnh%20th%E1%BB%A9c%20WeChat.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=%C3%81p%20ph%C3%ADch%20qu%E1%BA%A3ng%20c%C3%A1o%20s%E1%BA%A3n%20ph%E1%BA%A9m%20c%C3%B4ng%20ngh%E1%BB%87%2C%20b%E1%BB%91%20c%E1%BB%A5c%20ch%E1%BB%AF%20b%C3%AAn%20tr%C3%A1i%20h%C3%ACnh%20%E1%BA%A3nh%20b%C3%AAn%20ph%E1%BA%A3i%2C%20n%E1%BB%81n%20chuy%E1%BB%83n%20m%C3%A0u%20xanh%20%C4%91%E1%BA%ADm%20%C4%91%E1%BA%BFn%20xanh%20nh%E1%BA%A1t%20tinh%20t%E1%BA%BF%2C%20v%E1%BA%A7ng%20s%C3%A1ng%20m%C3%A0u%20cam%20m%E1%BB%81m%20m%E1%BA%A1i%20lan%20t%E1%BB%8Fa%20l%C3%AAn%20t%E1%BB%AB%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi%20ch%E1%BB%AF%20GEO%20b%C3%AAn%20ph%E1%BA%A3i%2C%20hi%E1%BB%87u%20%E1%BB%A9ng%20%C3%A1nh%20s%C3%A1ng%20t%E1%BB%B1%20nhi%C3%AAn%2C%20thi%E1%BA%BFt%20k%E1%BA%BF%20h%C3%ACnh%20%E1%BA%A3nh%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20s%E1%BA%A3n%20ph%E1%BA%A9m%2C%20t%C3%B4ng%20m%C3%A0u%20ch%E1%BB%A7%20%C4%91%E1%BA%A1o%20chuy%E1%BB%83n%20m%C3%A0u%20xanh%20%C4%91%E1%BA%ADm%2C%20ch%E1%BB%AF%20m%C3%A0u%20tr%E1%BA%AFng%20tinh%20khi%E1%BA%BFt%20k%E1%BA%BFt%20h%E1%BB%A3p%20hi%E1%BB%87u%20%E1%BB%A9ng%20%C3%A1nh%20s%C3%A1ng%20cam%2C%20chuy%C3%AAn%20nghi%E1%BB%87p%20tinh%20t%E1%BA%BF%20v%C3%A0%20d%E1%BB%85%20ti%E1%BA%BFp%20c%E1%BA%ADn%2C%20k%E1%BA%BFt%20c%E1%BA%A5u%20h%C3%ACnh%20%E1%BA%A3nh%20phong%20ph%C3%BA%20v%C3%A0%20chi%20ti%E1%BA%BFt%20s%E1%BA%AFc%20n%C3%A9t.%20Ph%C3%ADa%20tr%C3%AAn%20b%C3%AAn%20tr%C3%A1i%20%22%7Bargument%20name%3D%22date%22%20default%3D%22%5B2025.10%5D%22%7D%22%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20nh%E1%BB%8F%20g%E1%BB%8Dn%20m%C3%A0u%20tr%E1%BA%AFng%2C%20ti%C3%AAu%20%C4%91%E1%BB%81%20ch%C3%ADnh%20%22%7Bargument%20name%3D%22main%20title%22%20default%3D%22When%20AI%20Answers%22%7D%22%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%20in%20%C4%91%E1%BA%ADm%20m%C3%A0u%20tr%E1%BA%AFng%20c%E1%BB%B1c%20l%E1%BB%9Bn%2C%20d%C3%B2ng%20ti%E1%BA%BFp%20theo%20ch%E1%BB%AF%20nh%E1%BB%8F%20%22%7Bargument%20name%3D%22subtitle%22%20default%3D%22GEO%20decides%20who%20it%20mentions%22%7D%22%2C%20b%C3%AAn%20ph%E1%BA%A3i%20l%C3%A0%20ch%E1%BB%AF%203D%20ch%C3%A2n%20th%E1%BB%B1c%20%22%7Bargument%20name%3D%223D%20text%22%20default%3D%22GEO%22%7D%22%2C%20b%E1%BB%81%20m%E1%BA%B7t%20c%C3%B3%20k%E1%BA%BFt%20c%E1%BA%A5u%20m%E1%BB%9D%20m%C3%A0u%20k%E1%BA%B9o%20%C4%91i%E1%BB%83m%20xuy%E1%BA%BFt%20c%C3%A1c%20%C4%91i%E1%BB%83m%20nh%E1%BA%A5n%20m%C3%A0u%20cam%2C%20d%C3%B9ng%20cho%20%E1%BA%A3nh%20b%C3%ACa%20t%C3%A0i%20kho%E1%BA%A3n%20ch%C3%ADnh%20th%E1%BB%A9c%20WeChat.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 103: Ảnh tự sướng phá vỡ bức tường thứ tư phong cách Tiểu Hồng Thư của Nick và Judy
-=======
-### No. 106: Ảnh tự sướng phá vỡ bức tường thứ tư phong cách Tiểu Hồng Thư của Nick và Judy
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 107: Ảnh tự sướng phá vỡ bức tường thứ tư phong cách Tiểu Hồng Thư của Nick và Judy
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3987,15 +3654,11 @@ Các nhân vật trong Zootopia, Nick Wilde và Judy Hopps. Nick có bộ lông 
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=C%C3%A1c%20nh%C3%A2n%20v%E1%BA%ADt%20trong%20Zootopia%2C%20Nick%20Wilde%20v%C3%A0%20Judy%20Hopps.%20Nick%20c%C3%B3%20b%E1%BB%99%20l%C3%B4ng%20m%C3%A0u%20cam%20%C4%91%E1%BB%8F%2C%20m%E1%BA%B7c%20chi%E1%BA%BFc%20%C3%A1o%20s%C6%A1%20mi%20c%E1%BB%99c%20tay%20in%20h%E1%BB%8Da%20ti%E1%BA%BFt%20l%C3%A1%20c%E1%BB%8D%20xanh%20c%E1%BB%95%20%C4%91i%E1%BB%83n%2C%20c%C3%A0%20v%E1%BA%A1t%20s%E1%BB%8Dc%20xanh%20%C4%91%E1%BB%8F%2C%20qu%E1%BA%A7n%20kaki%2C%20v%E1%BB%9Bi%20n%E1%BB%A5%20c%C6%B0%E1%BB%9Di%20nh%E1%BA%BFch%20m%C3%A9p%20%C4%91i%E1%BB%83n%20trai.%20Judy%20c%C3%B3%20b%E1%BB%99%20l%C3%B4ng%20m%C3%A0u%20x%C3%A1m%20v%C3%A0%20%C4%91%C3%B4i%20m%E1%BA%AFt%20t%C3%ADm%2C%20tai%20v%E1%BB%83nh%20cao%2C%20m%E1%BA%B7c%20%C3%A1o%20vest%20s%C4%A9%20quan%20ZPD%20m%C3%A0u%20xanh%20%C4%91%E1%BA%ADm%2C%20huy%20hi%E1%BB%87u%20b%E1%BA%A1c%2C%20th%E1%BA%AFt%20l%C6%B0ng%20%C4%91%E1%BA%A7y%20%C4%91%E1%BB%A7%20trang%20b%E1%BB%8B%2C%20tr%C3%B4ng%20ng%E1%BB%8Dt%20ng%C3%A0o%20v%C3%A0%20d%E1%BB%85%20th%C6%B0%C6%A1ng.%20C%E1%BA%A3%20hai%20ng%E1%BB%93i%20c%E1%BA%A1nh%20nhau%20%E1%BB%9F%20m%C3%A9p%20d%C6%B0%E1%BB%9Bi%20c%E1%BB%A7a%20m%E1%BB%99t%20khung%20giao%20di%E1%BB%87n%20%E1%BB%A9ng%20d%E1%BB%A5ng%20%22Xiaohongshu%22%20kh%E1%BB%95ng%20l%E1%BB%93%2C%20%C4%91ang%20tr%C3%B4i%20n%E1%BB%95i.%20V%E1%BB%9Bi%20b%E1%BB%91%20c%E1%BB%A5c%20ph%C3%A1%20v%E1%BB%A1%20b%E1%BB%A9c%20t%C6%B0%E1%BB%9Dng%20th%E1%BB%A9%20t%C6%B0%2C%20ch%C3%A2n%20c%E1%BB%A7a%20h%E1%BB%8D%20bu%C3%B4ng%20th%C3%B5ng%20ra%20ngo%C3%A0i%20m%E1%BA%B7t%20ph%E1%BA%B3ng%20khung.%20Nick%20th%C3%A2n%20m%E1%BA%ADt%20v%C3%B2ng%20m%E1%BB%99t%20tay%20qua%20vai%20Judy%2C%20trong%20khi%20tay%20kia%20c%E1%BA%A7m%20m%E1%BB%99t%20chi%E1%BA%BFc%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20th%C3%B4ng%20minh%20%C4%91%C6%B0a%20ra%20xa%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc%2C%20ch%E1%BB%A5p%20%E1%BA%A3nh%20t%E1%BB%B1%20s%C6%B0%E1%BB%9Bng%20%E1%BB%9F%20g%C3%B3c%2045%20%C4%91%E1%BB%99%20(g%C3%B3c%20nh%C3%ACn%20m%E1%BA%AFt%20c%C3%A1).%20Judy%20t%E1%BB%B1a%20s%C3%A1t%20v%C3%A0o%20Nick%2C%20nh%C3%ACn%20l%C3%AAn%20m%C3%A1y%20%E1%BA%A3nh%20v%E1%BB%9Bi%20n%E1%BB%A5%20c%C6%B0%E1%BB%9Di%20ng%E1%BB%8Dt%20ng%C3%A0o%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kho%E1%BA%A3nh%20kh%E1%BA%AFc%20c%E1%BA%B7p%20%C4%91%C3%B4i%20%C4%91%C3%A1ng%20y%C3%AAu.%20Tr%E1%BB%8Dng%20t%C3%A2m%20c%E1%BB%A7a%20h%C3%ACnh%20%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20khung%20m%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i%20kh%E1%BB%95ng%20l%E1%BB%93%20theo%20phong%20c%C3%A1ch%20Xiaohongshu.%20Giao%20di%E1%BB%87n%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20t%C3%A1i%20t%E1%BA%A1o%20b%E1%BB%91%20c%E1%BB%A5c%20c%E1%BB%95%20%C4%91i%E1%BB%83n%3A%20ti%C3%AAu%20%C4%91%E1%BB%81%20v%C4%83n%20b%E1%BA%A3n%20cu%E1%BB%99n%20%E1%BB%9F%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi%20b%C3%AAn%20tr%C3%A1i%2C%20c%C3%A1c%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20n%E1%BB%95i%20d%E1%BB%8Dc%20c%E1%BB%A7a%20%22%E2%9D%A4%22%2C%20%22%E2%AD%90%22%2C%20%22bong%20b%C3%B3ng%20b%C3%ACnh%20lu%E1%BA%ADn%22%20v%C3%A0%20%22m%C5%A9i%20t%C3%AAn%20chuy%E1%BB%83n%20ti%E1%BA%BFp%22%20%E1%BB%9F%20b%C3%AAn%20ph%E1%BA%A3i.%20Ph%C3%ADa%20tr%C3%AAn%20hi%E1%BB%83n%20th%E1%BB%8B%20t%C3%AAn%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20%22%7Bargument%20name%3D%22username%22%20default%3D%22Nick%20%26%20Judy%22%7D%22%20v%E1%BB%9Bi%20c%C3%A1c%20hashtag%20th%E1%BB%8Bnh%20h%C3%A0nh%20(ch%E1%BA%B3ng%20h%E1%BA%A1n%20nh%C6%B0%20%7Bargument%20name%3D%22hashtags%22%20default%3D%22%23Zootopia%20%23CoupleDaily%22%7D).%20Phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%203D%20Pixar%2C%20k%E1%BA%BFt%20xu%E1%BA%A5t%20b%E1%BA%B1ng%20Unreal%20Engine%205%2C%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%208K%20si%C3%AAu%20HD.%20L%C3%B4ng%20hi%E1%BB%83n%20th%E1%BB%8B%20chi%20ti%E1%BA%BFt%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20s%E1%BB%A3i%2C%20c%C3%B4ng%20ngh%E1%BB%87%20d%C3%B2%20tia%2C%20%C3%A1nh%20s%C3%A1ng%20l%E1%BA%A5p%20%C4%91%E1%BA%A7y%20m%E1%BB%81m%20m%E1%BA%A1i%20tr%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t%20c%E1%BB%A7a%20h%E1%BB%8D%2C%20h%E1%BA%ADu%20c%E1%BA%A3nh%20l%C3%A0%20c%E1%BA%A3nh%20%C4%91%C6%B0%E1%BB%9Dng%20ph%E1%BB%91%20Zootopia%20%C4%91%E1%BA%A7y%20m%C3%A0u%20s%E1%BA%AFc%20m%E1%BB%9D%20%E1%BA%A3o%20v%E1%BB%9Bi%20hi%E1%BB%87u%20%E1%BB%A9ng%20bokeh%20m%C6%A1%20m%C3%A0ng.%20M%C3%A0u%20s%E1%BA%AFc%20t%C6%B0%C6%A1i%20s%C3%A1ng%20v%C3%A0%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%2C%20%C4%91%E1%BB%99%20b%C3%A3o%20h%C3%B2a%20cao%2C%20nh%E1%BA%A5n%20m%E1%BA%A1nh%20t%C3%ADnh%20th%E1%BA%A9m%20m%E1%BB%B9%20internet%20c%E1%BB%A7a%20m%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i%20v%C3%A0%20t%C3%B4ng%20m%C3%A0u%20k%E1%BA%B9o%2C%20t%E1%BA%A1o%20%E1%BA%A5n%20t%C6%B0%E1%BB%A3ng%20th%E1%BB%8B%20gi%C3%A1c%20m%E1%BA%A1nh%20m%E1%BA%BD.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=C%C3%A1c%20nh%C3%A2n%20v%E1%BA%ADt%20trong%20Zootopia%2C%20Nick%20Wilde%20v%C3%A0%20Judy%20Hopps.%20Nick%20c%C3%B3%20b%E1%BB%99%20l%C3%B4ng%20m%C3%A0u%20cam%20%C4%91%E1%BB%8F%2C%20m%E1%BA%B7c%20chi%E1%BA%BFc%20%C3%A1o%20s%C6%A1%20mi%20c%E1%BB%99c%20tay%20in%20h%E1%BB%8Da%20ti%E1%BA%BFt%20l%C3%A1%20c%E1%BB%8D%20xanh%20c%E1%BB%95%20%C4%91i%E1%BB%83n%2C%20c%C3%A0%20v%E1%BA%A1t%20s%E1%BB%8Dc%20xanh%20%C4%91%E1%BB%8F%2C%20qu%E1%BA%A7n%20kaki%2C%20v%E1%BB%9Bi%20n%E1%BB%A5%20c%C6%B0%E1%BB%9Di%20nh%E1%BA%BFch%20m%C3%A9p%20%C4%91i%E1%BB%83n%20trai.%20Judy%20c%C3%B3%20b%E1%BB%99%20l%C3%B4ng%20m%C3%A0u%20x%C3%A1m%20v%C3%A0%20%C4%91%C3%B4i%20m%E1%BA%AFt%20t%C3%ADm%2C%20tai%20v%E1%BB%83nh%20cao%2C%20m%E1%BA%B7c%20%C3%A1o%20vest%20s%C4%A9%20quan%20ZPD%20m%C3%A0u%20xanh%20%C4%91%E1%BA%ADm%2C%20huy%20hi%E1%BB%87u%20b%E1%BA%A1c%2C%20th%E1%BA%AFt%20l%C6%B0ng%20%C4%91%E1%BA%A7y%20%C4%91%E1%BB%A7%20trang%20b%E1%BB%8B%2C%20tr%C3%B4ng%20ng%E1%BB%8Dt%20ng%C3%A0o%20v%C3%A0%20d%E1%BB%85%20th%C6%B0%C6%A1ng.%20C%E1%BA%A3%20hai%20ng%E1%BB%93i%20c%E1%BA%A1nh%20nhau%20%E1%BB%9F%20m%C3%A9p%20d%C6%B0%E1%BB%9Bi%20c%E1%BB%A7a%20m%E1%BB%99t%20khung%20giao%20di%E1%BB%87n%20%E1%BB%A9ng%20d%E1%BB%A5ng%20%22Xiaohongshu%22%20kh%E1%BB%95ng%20l%E1%BB%93%2C%20%C4%91ang%20tr%C3%B4i%20n%E1%BB%95i.%20V%E1%BB%9Bi%20b%E1%BB%91%20c%E1%BB%A5c%20ph%C3%A1%20v%E1%BB%A1%20b%E1%BB%A9c%20t%C6%B0%E1%BB%9Dng%20th%E1%BB%A9%20t%C6%B0%2C%20ch%C3%A2n%20c%E1%BB%A7a%20h%E1%BB%8D%20bu%C3%B4ng%20th%C3%B5ng%20ra%20ngo%C3%A0i%20m%E1%BA%B7t%20ph%E1%BA%B3ng%20khung.%20Nick%20th%C3%A2n%20m%E1%BA%ADt%20v%C3%B2ng%20m%E1%BB%99t%20tay%20qua%20vai%20Judy%2C%20trong%20khi%20tay%20kia%20c%E1%BA%A7m%20m%E1%BB%99t%20chi%E1%BA%BFc%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20th%C3%B4ng%20minh%20%C4%91%C6%B0a%20ra%20xa%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc%2C%20ch%E1%BB%A5p%20%E1%BA%A3nh%20t%E1%BB%B1%20s%C6%B0%E1%BB%9Bng%20%E1%BB%9F%20g%C3%B3c%2045%20%C4%91%E1%BB%99%20(g%C3%B3c%20nh%C3%ACn%20m%E1%BA%AFt%20c%C3%A1).%20Judy%20t%E1%BB%B1a%20s%C3%A1t%20v%C3%A0o%20Nick%2C%20nh%C3%ACn%20l%C3%AAn%20m%C3%A1y%20%E1%BA%A3nh%20v%E1%BB%9Bi%20n%E1%BB%A5%20c%C6%B0%E1%BB%9Di%20ng%E1%BB%8Dt%20ng%C3%A0o%2C%20th%E1%BB%83%20hi%E1%BB%87n%20kho%E1%BA%A3nh%20kh%E1%BA%AFc%20c%E1%BA%B7p%20%C4%91%C3%B4i%20%C4%91%C3%A1ng%20y%C3%AAu.%20Tr%E1%BB%8Dng%20t%C3%A2m%20c%E1%BB%A7a%20h%C3%ACnh%20%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20khung%20m%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i%20kh%E1%BB%95ng%20l%E1%BB%93%20theo%20phong%20c%C3%A1ch%20Xiaohongshu.%20Giao%20di%E1%BB%87n%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20t%C3%A1i%20t%E1%BA%A1o%20b%E1%BB%91%20c%E1%BB%A5c%20c%E1%BB%95%20%C4%91i%E1%BB%83n%3A%20ti%C3%AAu%20%C4%91%E1%BB%81%20v%C4%83n%20b%E1%BA%A3n%20cu%E1%BB%99n%20%E1%BB%9F%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi%20b%C3%AAn%20tr%C3%A1i%2C%20c%C3%A1c%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20n%E1%BB%95i%20d%E1%BB%8Dc%20c%E1%BB%A7a%20%22%E2%9D%A4%22%2C%20%22%E2%AD%90%22%2C%20%22bong%20b%C3%B3ng%20b%C3%ACnh%20lu%E1%BA%ADn%22%20v%C3%A0%20%22m%C5%A9i%20t%C3%AAn%20chuy%E1%BB%83n%20ti%E1%BA%BFp%22%20%E1%BB%9F%20b%C3%AAn%20ph%E1%BA%A3i.%20Ph%C3%ADa%20tr%C3%AAn%20hi%E1%BB%83n%20th%E1%BB%8B%20t%C3%AAn%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20%22%7Bargument%20name%3D%22username%22%20default%3D%22Nick%20%26%20Judy%22%7D%22%20v%E1%BB%9Bi%20c%C3%A1c%20hashtag%20th%E1%BB%8Bnh%20h%C3%A0nh%20(ch%E1%BA%B3ng%20h%E1%BA%A1n%20nh%C6%B0%20%7Bargument%20name%3D%22hashtags%22%20default%3D%22%23Zootopia%20%23CoupleDaily%22%7D).%20Phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%203D%20Pixar%2C%20k%E1%BA%BFt%20xu%E1%BA%A5t%20b%E1%BA%B1ng%20Unreal%20Engine%205%2C%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%208K%20si%C3%AAu%20HD.%20L%C3%B4ng%20hi%E1%BB%83n%20th%E1%BB%8B%20chi%20ti%E1%BA%BFt%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20s%E1%BB%A3i%2C%20c%C3%B4ng%20ngh%E1%BB%87%20d%C3%B2%20tia%2C%20%C3%A1nh%20s%C3%A1ng%20l%E1%BA%A5p%20%C4%91%E1%BA%A7y%20m%E1%BB%81m%20m%E1%BA%A1i%20tr%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t%20c%E1%BB%A7a%20h%E1%BB%8D%2C%20h%E1%BA%ADu%20c%E1%BA%A3nh%20l%C3%A0%20c%E1%BA%A3nh%20%C4%91%C6%B0%E1%BB%9Dng%20ph%E1%BB%91%20Zootopia%20%C4%91%E1%BA%A7y%20m%C3%A0u%20s%E1%BA%AFc%20m%E1%BB%9D%20%E1%BA%A3o%20v%E1%BB%9Bi%20hi%E1%BB%87u%20%E1%BB%A9ng%20bokeh%20m%C6%A1%20m%C3%A0ng.%20M%C3%A0u%20s%E1%BA%AFc%20t%C6%B0%C6%A1i%20s%C3%A1ng%20v%C3%A0%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%2C%20%C4%91%E1%BB%99%20b%C3%A3o%20h%C3%B2a%20cao%2C%20nh%E1%BA%A5n%20m%E1%BA%A1nh%20t%C3%ADnh%20th%E1%BA%A9m%20m%E1%BB%B9%20internet%20c%E1%BB%A7a%20m%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i%20v%C3%A0%20t%C3%B4ng%20m%C3%A0u%20k%E1%BA%B9o%2C%20t%E1%BA%A1o%20%E1%BA%A5n%20t%C6%B0%E1%BB%A3ng%20th%E1%BB%8B%20gi%C3%A1c%20m%E1%BA%A1nh%20m%E1%BA%BD.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 104: Nghệ thuật đường nét các loại thảo mộc gia vị truyền thống của Trung Quốc
-=======
-### No. 107: Nghệ thuật đường nét các loại thảo mộc gia vị truyền thống của Trung Quốc
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 108: Nghệ thuật đường nét các loại thảo mộc gia vị truyền thống của Trung Quốc
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4025,15 +3688,11 @@ Chín loại thảo mộc gia vị Trung Quốc phổ biến dùng trong nấu �
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Ch%C3%ADn%20lo%E1%BA%A1i%20th%E1%BA%A3o%20m%E1%BB%99c%20gia%20v%E1%BB%8B%20Trung%20Qu%E1%BB%91c%20ph%E1%BB%95%20bi%E1%BA%BFn%20d%C3%B9ng%20trong%20n%E1%BA%A5u%20%C4%83n%2C%20b%E1%BA%A3n%20v%E1%BA%BD%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%2C%20ngh%E1%BB%87%20thu%E1%BA%ADt%20in%20kh%E1%BA%AFc%20ch%C3%ACm.%20S%E1%BB%AD%20d%E1%BB%A5ng%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20d%C3%A0y%20%7Bargument%20name%3D%22thick%20line%20width%22%20default%3D%220.8mm%22%7D%20cho%20%C4%91%C6%B0%E1%BB%9Dng%20vi%E1%BB%81n%20b%C3%AAn%20ngo%C3%A0i%20v%C3%A0%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20m%E1%BB%8Fng%20%7Bargument%20name%3D%22thin%20line%20width%22%20default%3D%220.2mm%22%7D%20%C4%91%E1%BB%83%20m%C3%B4%20t%E1%BA%A3%20k%E1%BA%BFt%20c%E1%BA%A5u%20b%E1%BB%81%20m%E1%BA%B7t%2C%20gi%E1%BB%AF%20l%E1%BA%A1i%20d%E1%BA%A5u%20v%E1%BA%BFt%20c%E1%BB%A7a%20k%E1%BB%B9%20thu%E1%BA%ADt%20kh%E1%BA%AFc%20%C4%91%E1%BB%93ng%2C%20tr%C3%AAn%20n%E1%BB%81n%20tr%E1%BA%AFng%20tinh%20khi%E1%BA%BFt.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=Ch%C3%ADn%20lo%E1%BA%A1i%20th%E1%BA%A3o%20m%E1%BB%99c%20gia%20v%E1%BB%8B%20Trung%20Qu%E1%BB%91c%20ph%E1%BB%95%20bi%E1%BA%BFn%20d%C3%B9ng%20trong%20n%E1%BA%A5u%20%C4%83n%2C%20b%E1%BA%A3n%20v%E1%BA%BD%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%2C%20ngh%E1%BB%87%20thu%E1%BA%ADt%20in%20kh%E1%BA%AFc%20ch%C3%ACm.%20S%E1%BB%AD%20d%E1%BB%A5ng%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20d%C3%A0y%20%7Bargument%20name%3D%22thick%20line%20width%22%20default%3D%220.8mm%22%7D%20cho%20%C4%91%C6%B0%E1%BB%9Dng%20vi%E1%BB%81n%20b%C3%AAn%20ngo%C3%A0i%20v%C3%A0%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20m%E1%BB%8Fng%20%7Bargument%20name%3D%22thin%20line%20width%22%20default%3D%220.2mm%22%7D%20%C4%91%E1%BB%83%20m%C3%B4%20t%E1%BA%A3%20k%E1%BA%BFt%20c%E1%BA%A5u%20b%E1%BB%81%20m%E1%BA%B7t%2C%20gi%E1%BB%AF%20l%E1%BA%A1i%20d%E1%BA%A5u%20v%E1%BA%BFt%20c%E1%BB%A7a%20k%E1%BB%B9%20thu%E1%BA%ADt%20kh%E1%BA%AFc%20%C4%91%E1%BB%93ng%2C%20tr%C3%AAn%20n%E1%BB%81n%20tr%E1%BA%AFng%20tinh%20khi%E1%BA%BFt.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 105: Bản đồ địa hình Hàng Châu
-=======
-### No. 108: Bản đồ địa hình Hàng Châu
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 109: Bản đồ địa hình Hàng Châu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4062,15 +3721,11 @@ Một bản đồ địa hình của Hàng Châu, với một điểm đánh d�
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BA%A3n%20%C4%91%E1%BB%93%20%C4%91%E1%BB%8Ba%20h%C3%ACnh%20c%E1%BB%A7a%20H%C3%A0ng%20Ch%C3%A2u%2C%20v%E1%BB%9Bi%20m%E1%BB%99t%20%C4%91i%E1%BB%83m%20%C4%91%C3%A1nh%20d%E1%BA%A5u%20v%E1%BB%8B%20tr%C3%AD%20m%C3%A0u%20%C4%91%E1%BB%8F%20%E1%BB%9F%20gi%E1%BB%AFa.%20B%E1%BA%A3n%20%C4%91%E1%BB%93%20hi%E1%BB%83n%20th%E1%BB%8B%20c%C3%A1c%20khu%20v%E1%BB%B1c%20c%C3%A2y%20xanh%20v%C3%A0%20v%C3%B9ng%20%C4%91%C3%B4%20th%E1%BB%8B%2C%20mang%20l%E1%BA%A1i%20c%E1%BA%A3m%20gi%C3%A1c%20t%E1%BB%95ng%20th%E1%BB%83%20c%E1%BB%A7a%20m%C3%B9a%20thu%2C%20v%E1%BB%9Bi%20n%C6%B0%E1%BB%9Bc%20h%E1%BB%93%20m%C3%A0u%20xanh%20lam%20v%C3%A0%20n%E1%BB%81n%20m%C3%A0u%20be%20nh%E1%BA%A1t.%20Phong%20c%C3%A1ch%20ch%C3%A2n%20th%E1%BB%B1c%2C%20nh%E1%BA%A5n%20m%E1%BA%A1nh%20hi%E1%BB%87u%20%E1%BB%A9ng%20%C3%A1nh%20s%C3%A1ng%20tinh%20t%E1%BA%BF%20v%C3%A0%20chi%20ti%E1%BA%BFt%20phong%20ph%C3%BA.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20b%E1%BA%A3n%20%C4%91%E1%BB%93%20%C4%91%E1%BB%8Ba%20h%C3%ACnh%20c%E1%BB%A7a%20H%C3%A0ng%20Ch%C3%A2u%2C%20v%E1%BB%9Bi%20m%E1%BB%99t%20%C4%91i%E1%BB%83m%20%C4%91%C3%A1nh%20d%E1%BA%A5u%20v%E1%BB%8B%20tr%C3%AD%20m%C3%A0u%20%C4%91%E1%BB%8F%20%E1%BB%9F%20gi%E1%BB%AFa.%20B%E1%BA%A3n%20%C4%91%E1%BB%93%20hi%E1%BB%83n%20th%E1%BB%8B%20c%C3%A1c%20khu%20v%E1%BB%B1c%20c%C3%A2y%20xanh%20v%C3%A0%20v%C3%B9ng%20%C4%91%C3%B4%20th%E1%BB%8B%2C%20mang%20l%E1%BA%A1i%20c%E1%BA%A3m%20gi%C3%A1c%20t%E1%BB%95ng%20th%E1%BB%83%20c%E1%BB%A7a%20m%C3%B9a%20thu%2C%20v%E1%BB%9Bi%20n%C6%B0%E1%BB%9Bc%20h%E1%BB%93%20m%C3%A0u%20xanh%20lam%20v%C3%A0%20n%E1%BB%81n%20m%C3%A0u%20be%20nh%E1%BA%A1t.%20Phong%20c%C3%A1ch%20ch%C3%A2n%20th%E1%BB%B1c%2C%20nh%E1%BA%A5n%20m%E1%BA%A1nh%20hi%E1%BB%87u%20%E1%BB%A9ng%20%C3%A1nh%20s%C3%A1ng%20tinh%20t%E1%BA%BF%20v%C3%A0%20chi%20ti%E1%BA%BFt%20phong%20ph%C3%BA.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 106: Minh họa ban nhạc theo phong cách kết hợp giữa Moebius và Kim Jung Gi
-=======
-### No. 109: Minh họa ban nhạc theo phong cách kết hợp giữa Moebius và Kim Jung Gi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 110: Minh họa ban nhạc theo phong cách kết hợp giữa Moebius và Kim Jung Gi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4099,15 +3754,11 @@ Prompt này nhằm tạo ra một hình ảnh ban nhạc kết hợp phong cách
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%C3%81p%20d%E1%BB%A5ng%20phong%20c%C3%A1ch%20minh%20h%E1%BB%8Da%20lai%20gi%E1%BB%AFa%20Moebius%20v%C3%A0%20Kim%20Jung%20Gi%2C%20v%E1%BB%9Bi%20n%E1%BB%81n%20tr%E1%BA%AFng%20t%E1%BB%91i%20gi%E1%BA%A3n%2C%20s%E1%BB%AD%20d%E1%BB%A5ng%20b%C3%BAt%20ch%C3%AC%20m%C3%A0u%20v%C3%A0%20m%C3%A0u%20n%C6%B0%E1%BB%9Bc%20ch%E1%BB%93ng%20l%C3%AAn%20nhau%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20ra%20m%C3%A0u%20s%E1%BA%AFc%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%2C%20chi%20ti%E1%BA%BFt%20ph%E1%BB%A9c%20t%E1%BA%A1p%20v%C3%A0%20nh%E1%BB%AFng%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20m%C6%B0%E1%BB%A3t%20m%C3%A0%2C%20%C4%91%E1%BA%A7y%20k%E1%BB%8Bch%20t%C3%ADnh.%20Hi%E1%BB%87u%20%E1%BB%A9ng%20t%E1%BB%95ng%20th%E1%BB%83%20ph%E1%BA%A3i%20truy%E1%BB%81n%20t%E1%BA%A3i%20m%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20t%C6%B0%C6%A1ng%20lai%20v%C3%A0%20n%C4%83ng%20%C4%91%E1%BB%99ng%20m%E1%BA%A1nh%20m%E1%BA%BD%2C%20ph%C3%B3ng%20%C4%91%E1%BA%A1i%2C%20m%C3%B4%20t%E1%BA%A3%20m%E1%BB%99t%20ban%20nh%E1%BA%A1c%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20h%C3%ACnh%20th%C3%B9%20k%E1%BB%B3%20d%E1%BB%8B%20v%C3%A0%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%20c%C6%B0%E1%BB%9Dng%20%C4%91i%E1%BB%87u.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=%C3%81p%20d%E1%BB%A5ng%20phong%20c%C3%A1ch%20minh%20h%E1%BB%8Da%20lai%20gi%E1%BB%AFa%20Moebius%20v%C3%A0%20Kim%20Jung%20Gi%2C%20v%E1%BB%9Bi%20n%E1%BB%81n%20tr%E1%BA%AFng%20t%E1%BB%91i%20gi%E1%BA%A3n%2C%20s%E1%BB%AD%20d%E1%BB%A5ng%20b%C3%BAt%20ch%C3%AC%20m%C3%A0u%20v%C3%A0%20m%C3%A0u%20n%C6%B0%E1%BB%9Bc%20ch%E1%BB%93ng%20l%C3%AAn%20nhau%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20ra%20m%C3%A0u%20s%E1%BA%AFc%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%2C%20chi%20ti%E1%BA%BFt%20ph%E1%BB%A9c%20t%E1%BA%A1p%20v%C3%A0%20nh%E1%BB%AFng%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20m%C6%B0%E1%BB%A3t%20m%C3%A0%2C%20%C4%91%E1%BA%A7y%20k%E1%BB%8Bch%20t%C3%ADnh.%20Hi%E1%BB%87u%20%E1%BB%A9ng%20t%E1%BB%95ng%20th%E1%BB%83%20ph%E1%BA%A3i%20truy%E1%BB%81n%20t%E1%BA%A3i%20m%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20t%C6%B0%C6%A1ng%20lai%20v%C3%A0%20n%C4%83ng%20%C4%91%E1%BB%99ng%20m%E1%BA%A1nh%20m%E1%BA%BD%2C%20ph%C3%B3ng%20%C4%91%E1%BA%A1i%2C%20m%C3%B4%20t%E1%BA%A3%20m%E1%BB%99t%20ban%20nh%E1%BA%A1c%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20h%C3%ACnh%20th%C3%B9%20k%E1%BB%B3%20d%E1%BB%8B%20v%C3%A0%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%20c%C6%B0%E1%BB%9Dng%20%C4%91i%E1%BB%87u.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 107: Hướng dẫn minh họa về các tiểu thuyết gia Trung Quốc đương đại
-=======
-### No. 110: Hướng dẫn minh họa về các tiểu thuyết gia Trung Quốc đương đại
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 111: Hướng dẫn minh họa về các tiểu thuyết gia Trung Quốc đương đại
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4152,15 +3803,11 @@ Tiêu đề chính là "Hướng dẫn minh họa về các tiểu thuyết gia 
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20%C3%A1p%20ph%C3%ADch%20th%C3%B4ng%20tin%20%C4%91%E1%BB%93%20h%E1%BB%8Da%20c%C3%B3%20ti%C3%AAu%20%C4%91%E1%BB%81%20%22H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20minh%20h%E1%BB%8Da%20v%E1%BB%81%20c%C3%A1c%20ti%E1%BB%83u%20thuy%E1%BA%BFt%20gia%20Trung%20Qu%E1%BB%91c%20%C4%91%C6%B0%C6%A1ng%20%C4%91%E1%BA%A1i%22%2C%20s%E1%BB%AD%20d%E1%BB%A5ng%20phong%20c%C3%A1ch%20minh%20h%E1%BB%8Da%20ph%E1%BA%B3ng%20%2B%20infographic.%20B%E1%BB%91%20c%E1%BB%A5c%20t%E1%BB%95ng%20th%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20chia%20th%C3%A0nh%20%7Bargument%20name%3D%22number%20of%20columns%22%20default%3D%226%22%7D%20ph%E1%BA%A7n%2C%20m%E1%BB%97i%20ph%E1%BA%A7n%20gi%E1%BB%9Bi%20thi%E1%BB%87u%20m%E1%BB%99t%20ti%E1%BB%83u%20thuy%E1%BA%BFt%20gia%20Trung%20Qu%E1%BB%91c%20%C4%91%C6%B0%C6%A1ng%20%C4%91%E1%BA%A1i%20ti%C3%AAu%20bi%E1%BB%83u.%0AM%E1%BB%97i%20ph%E1%BA%A7n%20bao%20g%E1%BB%93m%3A%0A-%20M%E1%BB%99t%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20minh%20h%E1%BB%8Da%20c%C3%A1ch%20%C4%91i%E1%BB%87u%2C%20kh%C3%B4ng%20ch%C3%A2n%20th%E1%BB%B1c%2C%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20h%C3%B3a%2C%20nh%C6%B0ng%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20minh%20h%E1%BB%8Da%20c%E1%BA%A7n%20d%E1%BB%B1a%20tr%C3%AAn%20%E1%BA%A3nh%20ch%E1%BB%A5p%20th%E1%BA%ADt%20%C4%91%E1%BB%83%20duy%20tr%C3%AC%20s%E1%BB%B1%20t%C6%B0%C6%A1ng%20%C4%91%E1%BB%93ng%0A-%20T%C3%AAn%20t%C3%A1c%20gi%E1%BA%A3%20(ti%E1%BA%BFng%20Trung)%0A-%20C%C3%A1c%20t%C3%A1c%20ph%E1%BA%A9m%20ti%C3%AAu%20bi%E1%BB%83u%20(%7Bargument%20name%3D%22number%20of%20works%22%20default%3D%221-2%22%7D)%0A-%20Th%E1%BA%BB%20phong%20c%C3%A1ch%20(v%C3%AD%20d%E1%BB%A5%3A%20%7Bargument%20name%3D%22style%20tag%20examples%22%20default%3D%22ch%E1%BB%A7%20ngh%C4%A9a%20hi%E1%BB%87n%20th%E1%BB%B1c%2C%20v%C4%83n%20h%E1%BB%8Dc%20ti%C3%AAn%20phong%2C%20v%C4%83n%20h%E1%BB%8Dc%20tu%E1%BB%95i%20tr%E1%BA%BB%2C%20t%C6%B0%E1%BB%9Dng%20thu%E1%BA%ADt%20l%E1%BB%8Bch%20s%E1%BB%AD%2C%20ch%E1%BB%A7%20ngh%C4%A9a%20hi%E1%BB%87n%20th%E1%BB%B1c%20huy%E1%BB%81n%20%E1%BA%A3o%2C%20khoa%20h%E1%BB%8Dc%20vi%E1%BB%85n%20t%C6%B0%E1%BB%9Fng%22%7D)%0A-%20M%E1%BB%99t%20c%C3%A2u%20gi%E1%BB%9Bi%20thi%E1%BB%87u%20ng%E1%BA%AFn%20g%E1%BB%8Dn%20(r%E1%BA%A5t%20ng%E1%BA%AFn)%0AThi%E1%BA%BFt%20k%E1%BA%BF%20t%E1%BB%95ng%20th%E1%BB%83%20s%E1%BB%AD%20d%E1%BB%A5ng%20n%E1%BB%81n%20s%C3%A1ng%20%2B%20c%C3%A1c%20kh%E1%BB%91i%20m%C3%A0u%20ph%C3%A2n%20v%C3%B9ng%2C%20v%E1%BB%9Bi%20b%E1%BB%91%20c%E1%BB%A5c%20g%E1%BB%8Dn%20g%C3%A0ng%20v%C3%A0%20c%C3%B3%20tr%E1%BA%ADt%20t%E1%BB%B1.%0AS%C3%A1u%20ti%E1%BB%83u%20thuy%E1%BA%BFt%20gia%20l%C3%A0%3A%0A-%20%7Bargument%20name%3D%22novelist%201%22%20default%3D%22Jia%20Pingwa%22%7D%0A-%20%7Bargument%20name%3D%22novelist%202%22%20default%3D%22Yu%20Hua%22%7D%0A-%20%7Bargument%20name%3D%22novelist%203%22%20default%3D%22Wang%20Anyi%22%7D%0A-%20%7Bargument%20name%3D%22novelist%204%22%20default%3D%22Liu%20Cixin%22%7D%0A-%20%7Bargument%20name%3D%22novelist%205%22%20default%3D%22Su%20Tong%22%7D%0A-%20%7Bargument%20name%3D%22novelist%206%22%20default%3D%22Han%20Shaogong%22%7D%0ATi%C3%AAu%20%C4%91%E1%BB%81%20ch%C3%ADnh%20l%C3%A0%20%22H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20minh%20h%E1%BB%8Da%20v%E1%BB%81%20c%C3%A1c%20ti%E1%BB%83u%20thuy%E1%BA%BFt%20gia%20Trung%20Qu%E1%BB%91c%20%C4%91%C6%B0%C6%A1ng%20%C4%91%E1%BA%A1i%22%2C%20v%E1%BB%9Bi%20phong%20c%C3%A1ch%20s%C3%BAc%20t%C3%ADch%20v%C3%A0%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%2C%20ph%C3%B9%20h%E1%BB%A3p%20cho%20m%E1%BB%99t%20%C3%A1p%20ph%C3%ADch%20khoa%20h%E1%BB%8Dc%20ph%E1%BB%95%20bi%E1%BA%BFn%20v%E1%BB%81%20v%C4%83n%20h%E1%BB%8Dc.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20%C3%A1p%20ph%C3%ADch%20th%C3%B4ng%20tin%20%C4%91%E1%BB%93%20h%E1%BB%8Da%20c%C3%B3%20ti%C3%AAu%20%C4%91%E1%BB%81%20%22H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20minh%20h%E1%BB%8Da%20v%E1%BB%81%20c%C3%A1c%20ti%E1%BB%83u%20thuy%E1%BA%BFt%20gia%20Trung%20Qu%E1%BB%91c%20%C4%91%C6%B0%C6%A1ng%20%C4%91%E1%BA%A1i%22%2C%20s%E1%BB%AD%20d%E1%BB%A5ng%20phong%20c%C3%A1ch%20minh%20h%E1%BB%8Da%20ph%E1%BA%B3ng%20%2B%20infographic.%20B%E1%BB%91%20c%E1%BB%A5c%20t%E1%BB%95ng%20th%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20chia%20th%C3%A0nh%20%7Bargument%20name%3D%22number%20of%20columns%22%20default%3D%226%22%7D%20ph%E1%BA%A7n%2C%20m%E1%BB%97i%20ph%E1%BA%A7n%20gi%E1%BB%9Bi%20thi%E1%BB%87u%20m%E1%BB%99t%20ti%E1%BB%83u%20thuy%E1%BA%BFt%20gia%20Trung%20Qu%E1%BB%91c%20%C4%91%C6%B0%C6%A1ng%20%C4%91%E1%BA%A1i%20ti%C3%AAu%20bi%E1%BB%83u.%0AM%E1%BB%97i%20ph%E1%BA%A7n%20bao%20g%E1%BB%93m%3A%0A-%20M%E1%BB%99t%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20minh%20h%E1%BB%8Da%20c%C3%A1ch%20%C4%91i%E1%BB%87u%2C%20kh%C3%B4ng%20ch%C3%A2n%20th%E1%BB%B1c%2C%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20h%C3%B3a%2C%20nh%C6%B0ng%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20minh%20h%E1%BB%8Da%20c%E1%BA%A7n%20d%E1%BB%B1a%20tr%C3%AAn%20%E1%BA%A3nh%20ch%E1%BB%A5p%20th%E1%BA%ADt%20%C4%91%E1%BB%83%20duy%20tr%C3%AC%20s%E1%BB%B1%20t%C6%B0%C6%A1ng%20%C4%91%E1%BB%93ng%0A-%20T%C3%AAn%20t%C3%A1c%20gi%E1%BA%A3%20(ti%E1%BA%BFng%20Trung)%0A-%20C%C3%A1c%20t%C3%A1c%20ph%E1%BA%A9m%20ti%C3%AAu%20bi%E1%BB%83u%20(%7Bargument%20name%3D%22number%20of%20works%22%20default%3D%221-2%22%7D)%0A-%20Th%E1%BA%BB%20phong%20c%C3%A1ch%20(v%C3%AD%20d%E1%BB%A5%3A%20%7Bargument%20name%3D%22style%20tag%20examples%22%20default%3D%22ch%E1%BB%A7%20ngh%C4%A9a%20hi%E1%BB%87n%20th%E1%BB%B1c%2C%20v%C4%83n%20h%E1%BB%8Dc%20ti%C3%AAn%20phong%2C%20v%C4%83n%20h%E1%BB%8Dc%20tu%E1%BB%95i%20tr%E1%BA%BB%2C%20t%C6%B0%E1%BB%9Dng%20thu%E1%BA%ADt%20l%E1%BB%8Bch%20s%E1%BB%AD%2C%20ch%E1%BB%A7%20ngh%C4%A9a%20hi%E1%BB%87n%20th%E1%BB%B1c%20huy%E1%BB%81n%20%E1%BA%A3o%2C%20khoa%20h%E1%BB%8Dc%20vi%E1%BB%85n%20t%C6%B0%E1%BB%9Fng%22%7D)%0A-%20M%E1%BB%99t%20c%C3%A2u%20gi%E1%BB%9Bi%20thi%E1%BB%87u%20ng%E1%BA%AFn%20g%E1%BB%8Dn%20(r%E1%BA%A5t%20ng%E1%BA%AFn)%0AThi%E1%BA%BFt%20k%E1%BA%BF%20t%E1%BB%95ng%20th%E1%BB%83%20s%E1%BB%AD%20d%E1%BB%A5ng%20n%E1%BB%81n%20s%C3%A1ng%20%2B%20c%C3%A1c%20kh%E1%BB%91i%20m%C3%A0u%20ph%C3%A2n%20v%C3%B9ng%2C%20v%E1%BB%9Bi%20b%E1%BB%91%20c%E1%BB%A5c%20g%E1%BB%8Dn%20g%C3%A0ng%20v%C3%A0%20c%C3%B3%20tr%E1%BA%ADt%20t%E1%BB%B1.%0AS%C3%A1u%20ti%E1%BB%83u%20thuy%E1%BA%BFt%20gia%20l%C3%A0%3A%0A-%20%7Bargument%20name%3D%22novelist%201%22%20default%3D%22Jia%20Pingwa%22%7D%0A-%20%7Bargument%20name%3D%22novelist%202%22%20default%3D%22Yu%20Hua%22%7D%0A-%20%7Bargument%20name%3D%22novelist%203%22%20default%3D%22Wang%20Anyi%22%7D%0A-%20%7Bargument%20name%3D%22novelist%204%22%20default%3D%22Liu%20Cixin%22%7D%0A-%20%7Bargument%20name%3D%22novelist%205%22%20default%3D%22Su%20Tong%22%7D%0A-%20%7Bargument%20name%3D%22novelist%206%22%20default%3D%22Han%20Shaogong%22%7D%0ATi%C3%AAu%20%C4%91%E1%BB%81%20ch%C3%ADnh%20l%C3%A0%20%22H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20minh%20h%E1%BB%8Da%20v%E1%BB%81%20c%C3%A1c%20ti%E1%BB%83u%20thuy%E1%BA%BFt%20gia%20Trung%20Qu%E1%BB%91c%20%C4%91%C6%B0%C6%A1ng%20%C4%91%E1%BA%A1i%22%2C%20v%E1%BB%9Bi%20phong%20c%C3%A1ch%20s%C3%BAc%20t%C3%ADch%20v%C3%A0%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%2C%20ph%C3%B9%20h%E1%BB%A3p%20cho%20m%E1%BB%99t%20%C3%A1p%20ph%C3%ADch%20khoa%20h%E1%BB%8Dc%20ph%E1%BB%95%20bi%E1%BA%BFn%20v%E1%BB%81%20v%C4%83n%20h%E1%BB%8Dc.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 108: Bản đồ ẩm thực Trung Quốc: Infographic dạng Poster
-=======
-### No. 111: Bản đồ ẩm thực Trung Quốc: Infographic dạng Poster
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 112: Bản đồ ẩm thực Trung Quốc: Infographic dạng Poster
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4190,7 +3837,7 @@ Tạo một poster đồ họa có tiêu đề "Bản đồ Ẩm thực Trung Qu
 - **Đã xuất bản:** 10 tháng 12, 2025
 - **Ngôn ngữ:** zh
 
-**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20poster%20%C4%91%E1%BB%93%20h%E1%BB%8Da%20c%C3%B3%20ti%C3%AAu%20%C4%91%E1%BB%81%20%22B%E1%BA%A3n%20%C4%91%E1%BB%93%20%E1%BA%A8m%20th%E1%BB%B1c%20Trung%20Qu%E1%BB%91c%22.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20t%E1%BB%95ng%20th%E1%BB%83%20d%E1%BB%B1a%20tr%C3%AAn%20b%E1%BA%A3n%20%C4%91%E1%BB%93%20Trung%20Qu%E1%BB%91c%2C%20v%E1%BB%9Bi%20m%E1%BB%97i%20t%E1%BB%89nh%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20b%E1%BA%B1ng%20m%E1%BB%99t%20kh%E1%BB%91i%20m%C3%A0u%20n%E1%BB%81n%20ri%C3%AAng%20bi%E1%BB%87t.%20Ph%C3%ADa%20tr%C3%AAn%20m%E1%BB%97i%20t%E1%BB%89nh%2C%20ghi%20t%C3%AAn%20m%E1%BB%99t%20m%C3%B3n%20%C4%83n%20ti%C3%AAu%20bi%E1%BB%83u%20v%C3%A0%20bao%20g%E1%BB%93m%20m%E1%BB%99t%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20ba%20chi%E1%BB%81u%20v%E1%BB%9Bi%20c%E1%BA%A3m%20gi%C3%A1c%20ch%C3%A2n%20th%E1%BB%B1c%20m%E1%BA%A1nh%20m%E1%BA%BD%20(ch%E1%BA%B3ng%20h%E1%BA%A1n%20nh%C6%B0%20%7Bargument%20name%3D%22food%20icon%20examples%22%20default%3D%22l%E1%BA%A9u%2C%20v%E1%BB%8Bt%20quay%2C%20dim%20sum%22%7D)%2C%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20c%C3%A1c%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20m%C3%B3n%20%C4%83n%20c%C3%B3%20k%E1%BA%BFt%20c%E1%BA%A5u%20ch%C3%A2n%20th%E1%BB%B1c.%20Ti%C3%AAu%20%C4%91%E1%BB%81%20ch%C3%ADnh%20l%C3%A0%20%22B%E1%BA%A3n%20%C4%91%E1%BB%93%20%E1%BA%A8m%20th%E1%BB%B1c%20Trung%20Qu%E1%BB%91c%22%2C%20v%E1%BB%9Bi%20ki%E1%BB%83u%20ch%E1%BB%AF%20g%E1%BB%8Dn%20g%C3%A0ng%2C%20k%E1%BA%BFt%20h%E1%BB%A3p%20phong%20c%C3%A1ch%20minh%20h%E1%BB%8Da%20ph%E1%BA%B3ng%20v%E1%BB%9Bi%20c%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%20ba%20chi%E1%BB%81u%20v%C3%A0%20m%C3%A0u%20s%E1%BA%AFc%20nh%E1%BA%B9%20nh%C3%A0ng.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/seedream-4-dot-5-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20poster%20%C4%91%E1%BB%93%20h%E1%BB%8Da%20c%C3%B3%20ti%C3%AAu%20%C4%91%E1%BB%81%20%22B%E1%BA%A3n%20%C4%91%E1%BB%93%20%E1%BA%A8m%20th%E1%BB%B1c%20Trung%20Qu%E1%BB%91c%22.%20Thi%E1%BA%BFt%20k%E1%BA%BF%20t%E1%BB%95ng%20th%E1%BB%83%20d%E1%BB%B1a%20tr%C3%AAn%20b%E1%BA%A3n%20%C4%91%E1%BB%93%20Trung%20Qu%E1%BB%91c%2C%20v%E1%BB%9Bi%20m%E1%BB%97i%20t%E1%BB%89nh%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20b%E1%BA%B1ng%20m%E1%BB%99t%20kh%E1%BB%91i%20m%C3%A0u%20n%E1%BB%81n%20ri%C3%AAng%20bi%E1%BB%87t.%20Ph%C3%ADa%20tr%C3%AAn%20m%E1%BB%97i%20t%E1%BB%89nh%2C%20ghi%20t%C3%AAn%20m%E1%BB%99t%20m%C3%B3n%20%C4%83n%20ti%C3%AAu%20bi%E1%BB%83u%20v%C3%A0%20bao%20g%E1%BB%93m%20m%E1%BB%99t%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20ba%20chi%E1%BB%81u%20v%E1%BB%9Bi%20c%E1%BA%A3m%20gi%C3%A1c%20ch%C3%A2n%20th%E1%BB%B1c%20m%E1%BA%A1nh%20m%E1%BA%BD%20(ch%E1%BA%B3ng%20h%E1%BA%A1n%20nh%C6%B0%20%7Bargument%20name%3D%22food%20icon%20examples%22%20default%3D%22l%E1%BA%A9u%2C%20v%E1%BB%8Bt%20quay%2C%20dim%20sum%22%7D)%2C%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20c%C3%A1c%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng%20m%C3%B3n%20%C4%83n%20c%C3%B3%20k%E1%BA%BFt%20c%E1%BA%A5u%20ch%C3%A2n%20th%E1%BB%B1c.%20Ti%C3%AAu%20%C4%91%E1%BB%81%20ch%C3%ADnh%20l%C3%A0%20%22B%E1%BA%A3n%20%C4%91%E1%BB%93%20%E1%BA%A8m%20th%E1%BB%B1c%20Trung%20Qu%E1%BB%91c%22%2C%20v%E1%BB%9Bi%20ki%E1%BB%83u%20ch%E1%BB%AF%20g%E1%BB%8Dn%20g%C3%A0ng%2C%20k%E1%BA%BFt%20h%E1%BB%A3p%20phong%20c%C3%A1ch%20minh%20h%E1%BB%8Da%20ph%E1%BA%B3ng%20v%E1%BB%9Bi%20c%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%20ba%20chi%E1%BB%81u%20v%C3%A0%20m%C3%A0u%20s%E1%BA%AFc%20nh%E1%BA%B9%20nh%C3%A0ng.)**
 
 ---
 
@@ -4233,14 +3880,10 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 
 <div align="center">
 
-**[🌐 Xem trong Thư viện Web](https://youmind.com/seedream-4-dot-5-prompts)** •
+**[🌐 Xem trong Thư viện Web](https://youmind.com/vi-VN/seedream-4-dot-5-prompts)** •
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<<<<<<< HEAD
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-10T09:54:52.365Z</sub>
-=======
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-10T12:21:07.744Z</sub>
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-10T14:21:43.701Z</sub>
 
 </div>

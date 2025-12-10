@@ -22,13 +22,13 @@
 
 <div align="center">
 
-![Cover](public/images/seedream-4.5-prompts-cover-en.png)
+![Cover](https://marketing-assets.youmind.com/campaigns/seedream-4-dot-5-prompts-cover.jpeg)
 
-![List](public/images/seedream-4.5-prompts-list-en.png)
+![List](https://marketing-assets.youmind.com/campaigns/seedream-4-dot-5-prompts-list.png)
 
 </div>
 
-**[👉 Parcourir la galerie de prompts YouMind Seedream 4.5](https://youmind.com/seedream-4-dot-5-prompts)**
+**[👉 Parcourir la galerie de prompts YouMind Seedream 4.5](https://youmind.com/fr-FR/seedream-4-dot-5-prompts)**
 
 Pourquoi utiliser notre galerie ?
 
@@ -88,15 +88,9 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 
 | Métrique | Nombre |
 |--------|-------|
-<<<<<<< HEAD
-| 📝 Total des prompts | **108** |
+| 📝 Total des prompts | **112** |
 | ⭐ En vedette | **0** |
-| 🔄 Dernière mise à jour | **mercredi 10 décembre 2025 à 09:54:59 UTC** |
-=======
-| 📝 Total des prompts | **111** |
-| ⭐ En vedette | **0** |
-| 🔄 Dernière mise à jour | **mercredi 10 décembre 2025 à 12:21:12 UTC** |
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+| 🔄 Dernière mise à jour | **mercredi 10 décembre 2025 à 14:21:53 UTC** |
 
 </div>
 
@@ -135,7 +129,7 @@ Une affiche amusante et éducative pour une foire scientifique pour enfants. Le 
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20affiche%20amusante%20et%20%C3%A9ducative%20pour%20une%20foire%20scientifique%20pour%20enfants.%20Le%20design%20est%20une%20illustration%20de%20dessin%20anim%C3%A9%20color%C3%A9e%20repr%C3%A9sentant%20des%20enfants%20d%C3%A9guis%C3%A9s%20en%20scientifiques%2C%20observant%20des%20b%C3%A9chers%20bouillonnants%2C%20des%20t%C3%A9lescopes%20et%20des%20robots.%20La%20typographie%20est%20ludique%20et%20adapt%C3%A9e%20aux%20enfants.%20L'affiche%20doit%20rendre%20la%20science%20excitante%20et%20accessible%2C%20encourageant%20les%20enfants%20%C3%A0%20participer.%20%E2%80%93ar%202%3A3)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20affiche%20amusante%20et%20%C3%A9ducative%20pour%20une%20foire%20scientifique%20pour%20enfants.%20Le%20design%20est%20une%20illustration%20de%20dessin%20anim%C3%A9%20color%C3%A9e%20repr%C3%A9sentant%20des%20enfants%20d%C3%A9guis%C3%A9s%20en%20scientifiques%2C%20observant%20des%20b%C3%A9chers%20bouillonnants%2C%20des%20t%C3%A9lescopes%20et%20des%20robots.%20La%20typographie%20est%20ludique%20et%20adapt%C3%A9e%20aux%20enfants.%20L'affiche%20doit%20rendre%20la%20science%20excitante%20et%20accessible%2C%20encourageant%20les%20enfants%20%C3%A0%20participer.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -168,7 +162,7 @@ Une affiche tendance et accrocheuse pour les soldes de fin de saison d'un magasi
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20affiche%20tendance%20et%20accrocheuse%20pour%20les%20soldes%20de%20fin%20de%20saison%20d'un%20magasin%20de%20mode.%20Le%20design%20utilise%20des%20couleurs%20vives%20et%20audacieuses%2C%20ainsi%20qu'une%20typographie%20moderne%20et%20percutante.%20Le%20visuel%20principal%20est%20un%20mannequin%20styl%C3%A9%20portant%20des%20v%C3%AAtements%20du%20magasin%2C%20mais%20l'image%20est%20trait%C3%A9e%20de%20mani%C3%A8re%20cr%C3%A9ative%20avec%20des%20coups%20de%20pinceau%20ou%20des%20%C3%A9l%C3%A9ments%20de%20collage.%20Le%20texte%20%C2%AB%2050%20%25%20DE%20R%C3%89DUCTION%20SUR%20TOUT%20%C2%BB%20est%20l'%C3%A9l%C3%A9ment%20le%20plus%20pro%C3%A9minent.%20L'affiche%20doit%20cr%C3%A9er%20un%20sentiment%20d'urgence%20et%20d'excitation.%20%E2%80%93ar%203%3A4)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20affiche%20tendance%20et%20accrocheuse%20pour%20les%20soldes%20de%20fin%20de%20saison%20d'un%20magasin%20de%20mode.%20Le%20design%20utilise%20des%20couleurs%20vives%20et%20audacieuses%2C%20ainsi%20qu'une%20typographie%20moderne%20et%20percutante.%20Le%20visuel%20principal%20est%20un%20mannequin%20styl%C3%A9%20portant%20des%20v%C3%AAtements%20du%20magasin%2C%20mais%20l'image%20est%20trait%C3%A9e%20de%20mani%C3%A8re%20cr%C3%A9ative%20avec%20des%20coups%20de%20pinceau%20ou%20des%20%C3%A9l%C3%A9ments%20de%20collage.%20Le%20texte%20%C2%AB%2050%20%25%20DE%20R%C3%89DUCTION%20SUR%20TOUT%20%C2%BB%20est%20l'%C3%A9l%C3%A9ment%20le%20plus%20pro%C3%A9minent.%20L'affiche%20doit%20cr%C3%A9er%20un%20sentiment%20d'urgence%20et%20d'excitation.%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -201,7 +195,7 @@ Une affiche de voyage inspirante et magnifique pour visiter les Alpes suisses. L
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20affiche%20de%20voyage%20inspirante%20et%20magnifique%20pour%20visiter%20les%20Alpes%20suisses.%20L'image%20est%20une%20photographie%20hyperr%C3%A9aliste%20et%20%C3%A9poustouflante%20d'un%20village%20alpin%20pittoresque%20avec%20des%20montagnes%20enneig%C3%A9es%20en%20arri%C3%A8re-plan.%20Le%20texte%20%C2%AB%20SWITZERLAND%3A%20The%20Adventure%20Awaits%20%C2%BB%20est%20dans%20une%20police%20%C3%A9l%C3%A9gante%20et%20classique.%20L'affiche%20doit%20%C3%A9voquer%20un%20fort%20sentiment%20d'%C3%A9vasion%20et%20donner%20au%20spectateur%20l'envie%20de%20r%C3%A9server%20un%20voyage%20imm%C3%A9diatement.%20%E2%80%93ar%202%3A3)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20affiche%20de%20voyage%20inspirante%20et%20magnifique%20pour%20visiter%20les%20Alpes%20suisses.%20L'image%20est%20une%20photographie%20hyperr%C3%A9aliste%20et%20%C3%A9poustouflante%20d'un%20village%20alpin%20pittoresque%20avec%20des%20montagnes%20enneig%C3%A9es%20en%20arri%C3%A8re-plan.%20Le%20texte%20%C2%AB%20SWITZERLAND%3A%20The%20Adventure%20Awaits%20%C2%BB%20est%20dans%20une%20police%20%C3%A9l%C3%A9gante%20et%20classique.%20L'affiche%20doit%20%C3%A9voquer%20un%20fort%20sentiment%20d'%C3%A9vasion%20et%20donner%20au%20spectateur%20l'envie%20de%20r%C3%A9server%20un%20voyage%20imm%C3%A9diatement.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -234,7 +228,7 @@ Un flyer « Chat perdu » efficace et clair. Le design est simple et fonctionnel
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20flyer%20%C2%AB%20Chat%20perdu%20%C2%BB%20efficace%20et%20clair.%20Le%20design%20est%20simple%20et%20fonctionnel.%20Il%20pr%C3%A9sente%20en%20haut%20une%20grande%20photo%20couleur%20nette%20du%20chat.%20Le%20titre%20%C2%AB%20CHAT%20PERDU%20%C2%BB%20est%20%C3%A9crit%20dans%20une%20police%20tr%C3%A8s%20grande%2C%20grasse%20et%20facile%20%C3%A0%20lire.%20Sous%20la%20photo%20se%20trouvent%20le%20nom%20du%20chat%2C%20sa%20description%2C%20le%20lieu%20o%C3%B9%20il%20a%20%C3%A9t%C3%A9%20vu%20pour%20la%20derni%C3%A8re%20fois%20et%20les%20coordonn%C3%A9es%20du%20propri%C3%A9taire%20avec%20des%20onglets%20d%C3%A9tachables%20en%20bas.%20Cela%20d%C3%A9montre%20la%20capacit%C3%A9%20%C3%A0%20cr%C3%A9er%20des%20designs%20pratiques%20et%20concrets.%20%E2%80%93ar%203%3A4)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Un%20flyer%20%C2%AB%20Chat%20perdu%20%C2%BB%20efficace%20et%20clair.%20Le%20design%20est%20simple%20et%20fonctionnel.%20Il%20pr%C3%A9sente%20en%20haut%20une%20grande%20photo%20couleur%20nette%20du%20chat.%20Le%20titre%20%C2%AB%20CHAT%20PERDU%20%C2%BB%20est%20%C3%A9crit%20dans%20une%20police%20tr%C3%A8s%20grande%2C%20grasse%20et%20facile%20%C3%A0%20lire.%20Sous%20la%20photo%20se%20trouvent%20le%20nom%20du%20chat%2C%20sa%20description%2C%20le%20lieu%20o%C3%B9%20il%20a%20%C3%A9t%C3%A9%20vu%20pour%20la%20derni%C3%A8re%20fois%20et%20les%20coordonn%C3%A9es%20du%20propri%C3%A9taire%20avec%20des%20onglets%20d%C3%A9tachables%20en%20bas.%20Cela%20d%C3%A9montre%20la%20capacit%C3%A9%20%C3%A0%20cr%C3%A9er%20des%20designs%20pratiques%20et%20concrets.%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -267,7 +261,7 @@ Une affiche informative et attrayante pour un séminaire public sur le changemen
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20affiche%20informative%20et%20attrayante%20pour%20un%20s%C3%A9minaire%20public%20sur%20le%20changement%20climatique.%20L'affiche%20est%20con%C3%A7ue%20comme%20une%20mini-infographie%2C%20avec%20un%20grand%20graphique%20central%20montrant%20la%20Terre%20avec%20un%20thermom%C3%A8tre%2C%20et%20des%20ic%C3%B4nes%20et%20des%20points%20de%20donn%C3%A9es%20plus%20petits%20autour%20expliquant%20les%20causes%20et%20les%20effets.%20Le%20design%20est%20%C3%A9pur%C3%A9%2C%20organis%C3%A9%20et%20vise%20%C3%A0%20%C3%A9duquer%20le%20spectateur%20rapidement%20et%20efficacement.%20%E2%80%93ar%203%3A4)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20affiche%20informative%20et%20attrayante%20pour%20un%20s%C3%A9minaire%20public%20sur%20le%20changement%20climatique.%20L'affiche%20est%20con%C3%A7ue%20comme%20une%20mini-infographie%2C%20avec%20un%20grand%20graphique%20central%20montrant%20la%20Terre%20avec%20un%20thermom%C3%A8tre%2C%20et%20des%20ic%C3%B4nes%20et%20des%20points%20de%20donn%C3%A9es%20plus%20petits%20autour%20expliquant%20les%20causes%20et%20les%20effets.%20Le%20design%20est%20%C3%A9pur%C3%A9%2C%20organis%C3%A9%20et%20vise%20%C3%A0%20%C3%A9duquer%20le%20spectateur%20rapidement%20et%20efficacement.%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -300,7 +294,7 @@ Une affiche publicitaire épurée et minimaliste pour un nouveau casque sans fil
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20affiche%20publicitaire%20%C3%A9pur%C3%A9e%20et%20minimaliste%20pour%20un%20nouveau%20casque%20sans%20fil%20de%20haute%20technologie.%20L'affiche%20pr%C3%A9sente%20un%20rendu%203D%20%C3%A9poustouflant%20et%20haute%20r%C3%A9solution%20du%20casque%2C%20semblant%20flotter%20dans%20un%20environnement%20en%20apesanteur.%20L'arri%C3%A8re-plan%20est%20un%20d%C3%A9grad%C3%A9%20simple%20et%20net.%20Le%20seul%20texte%20est%20le%20nom%20de%20la%20marque%20et%20le%20slogan%20du%20produit%20%3A%20%C2%AB%20Lib%C3%A9rez%20Votre%20Son.%20%C2%BB%20Le%20design%20est%20moderne%2C%20sophistiqu%C3%A9%20et%20se%20concentre%20enti%C3%A8rement%20sur%20la%20beaut%C3%A9%20du%20produit.%20%E2%80%93ar%202%3A3)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20affiche%20publicitaire%20%C3%A9pur%C3%A9e%20et%20minimaliste%20pour%20un%20nouveau%20casque%20sans%20fil%20de%20haute%20technologie.%20L'affiche%20pr%C3%A9sente%20un%20rendu%203D%20%C3%A9poustouflant%20et%20haute%20r%C3%A9solution%20du%20casque%2C%20semblant%20flotter%20dans%20un%20environnement%20en%20apesanteur.%20L'arri%C3%A8re-plan%20est%20un%20d%C3%A9grad%C3%A9%20simple%20et%20net.%20Le%20seul%20texte%20est%20le%20nom%20de%20la%20marque%20et%20le%20slogan%20du%20produit%20%3A%20%C2%AB%20Lib%C3%A9rez%20Votre%20Son.%20%C2%BB%20Le%20design%20est%20moderne%2C%20sophistiqu%C3%A9%20et%20se%20concentre%20enti%C3%A8rement%20sur%20la%20beaut%C3%A9%20du%20produit.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -333,7 +327,7 @@ Affiche énergique et motivante pour une course caritative de 5 km en faveur d'u
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Affiche%20%C3%A9nergique%20et%20motivante%20pour%20une%20course%20caritative%20de%205%20km%20en%20faveur%20d'une%20bonne%20cause.%20Le%20design%20pr%C3%A9sente%20une%20photographie%20dynamique%20d'un%20groupe%20diversifi%C3%A9%20de%20personnes%20en%20train%20de%20courir%2C%20le%20sourire%20aux%20l%C3%A8vres.%20L'arri%C3%A8re-plan%20est%20compos%C3%A9%20de%20formes%20et%20de%20lignes%20abstraites%20et%20color%C3%A9es%20qui%20sugg%C3%A8rent%20le%20mouvement%20et%20l'%C3%A9nergie.%20Les%20d%C3%A9tails%20de%20l'%C3%A9v%C3%A9nement%20sont%20clairs%20et%20faciles%20%C3%A0%20lire.%20L'affiche%20doit%20%C3%AAtre%20inspirante%20et%20encourager%20les%20gens%20%C3%A0%20s'inscrire.%20%E2%80%93ar%203%3A4)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Affiche%20%C3%A9nergique%20et%20motivante%20pour%20une%20course%20caritative%20de%205%20km%20en%20faveur%20d'une%20bonne%20cause.%20Le%20design%20pr%C3%A9sente%20une%20photographie%20dynamique%20d'un%20groupe%20diversifi%C3%A9%20de%20personnes%20en%20train%20de%20courir%2C%20le%20sourire%20aux%20l%C3%A8vres.%20L'arri%C3%A8re-plan%20est%20compos%C3%A9%20de%20formes%20et%20de%20lignes%20abstraites%20et%20color%C3%A9es%20qui%20sugg%C3%A8rent%20le%20mouvement%20et%20l'%C3%A9nergie.%20Les%20d%C3%A9tails%20de%20l'%C3%A9v%C3%A9nement%20sont%20clairs%20et%20faciles%20%C3%A0%20lire.%20L'affiche%20doit%20%C3%AAtre%20inspirante%20et%20encourager%20les%20gens%20%C3%A0%20s'inscrire.%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -366,7 +360,7 @@ Une affiche dramatique et minimaliste pour une production de « Hamlet » de Sha
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20affiche%20dramatique%20et%20minimaliste%20pour%20une%20production%20de%20%C2%AB%20Hamlet%20%C2%BB%20de%20Shakespeare.%20Le%20design%20pr%C3%A9sente%20une%20image%20unique%20et%20puissante%20%3A%20un%20cr%C3%A2ne%20humain%20surmont%C3%A9%20d'une%20couronne%20dor%C3%A9e%2C%20sur%20un%20fond%20noir%20uni.%20Le%20titre%20%C2%AB%20HAMLET%20%C2%BB%20est%20%C3%A9crit%20dans%20une%20police%20%C3%A0%20empattements%20classique%20et%20nette%2C%20avec%20des%20lettres%20l%C3%A9g%C3%A8rement%20d%C3%A9grad%C3%A9es.%20Le%20design%20est%20symbolique%2C%20moderne%20et%20plein%20de%20gravit%C3%A9.%20%E2%80%93ar%202%3A3)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20affiche%20dramatique%20et%20minimaliste%20pour%20une%20production%20de%20%C2%AB%20Hamlet%20%C2%BB%20de%20Shakespeare.%20Le%20design%20pr%C3%A9sente%20une%20image%20unique%20et%20puissante%20%3A%20un%20cr%C3%A2ne%20humain%20surmont%C3%A9%20d'une%20couronne%20dor%C3%A9e%2C%20sur%20un%20fond%20noir%20uni.%20Le%20titre%20%C2%AB%20HAMLET%20%C2%BB%20est%20%C3%A9crit%20dans%20une%20police%20%C3%A0%20empattements%20classique%20et%20nette%2C%20avec%20des%20lettres%20l%C3%A9g%C3%A8rement%20d%C3%A9grad%C3%A9es.%20Le%20design%20est%20symbolique%2C%20moderne%20et%20plein%20de%20gravit%C3%A9.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -399,7 +393,7 @@ Une affiche charmante et rustique pour un marché de producteurs locaux. Le desi
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20affiche%20charmante%20et%20rustique%20pour%20un%20march%C3%A9%20de%20producteurs%20locaux.%20Le%20design%20est%20une%20illustration%20dans%20un%20style%20amical%20et%20dessin%C3%A9%20%C3%A0%20la%20main%2C%20pr%C3%A9sentant%20une%20abondance%20de%20l%C3%A9gumes%20frais%2C%20de%20fruits%20et%20de%20fleurs%20dans%20une%20caisse%20en%20bois.%20La%20typographie%20est%20une%20police%20sans%20empattement%20arrondie%20et%20conviviale.%20L'affiche%20doit%20donner%20une%20impression%20de%20saine%2C%20locale%20et%20ax%C3%A9e%20sur%20la%20communaut%C3%A9.%20%E2%80%93ar%203%3A4)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20affiche%20charmante%20et%20rustique%20pour%20un%20march%C3%A9%20de%20producteurs%20locaux.%20Le%20design%20est%20une%20illustration%20dans%20un%20style%20amical%20et%20dessin%C3%A9%20%C3%A0%20la%20main%2C%20pr%C3%A9sentant%20une%20abondance%20de%20l%C3%A9gumes%20frais%2C%20de%20fruits%20et%20de%20fleurs%20dans%20une%20caisse%20en%20bois.%20La%20typographie%20est%20une%20police%20sans%20empattement%20arrondie%20et%20conviviale.%20L'affiche%20doit%20donner%20une%20impression%20de%20saine%2C%20locale%20et%20ax%C3%A9e%20sur%20la%20communaut%C3%A9.%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -432,7 +426,7 @@ Une affiche originale et indépendante pour un festival de courts métrages. Le 
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20affiche%20originale%20et%20ind%C3%A9pendante%20pour%20un%20festival%20de%20courts%20m%C3%A9trages.%20Le%20design%20est%20un%20collage%20de%20gribouillis%20dessin%C3%A9s%20%C3%A0%20la%20main%2C%20de%20pellicules%20de%20film%20et%20de%20photographies%20vintage.%20La%20typographie%20est%20un%20m%C3%A9lange%20de%20diff%C3%A9rentes%20polices%20de%20caract%C3%A8res%20de%20machine%20%C3%A0%20%C3%A9crire%20et%20manuscrites%2C%20lui%20donnant%20un%20aspect%20%C2%AB%20fait%20maison%20%C2%BB%2C%20fa%C3%A7on%20fanzine.%20La%20palette%20de%20couleurs%20est%20limit%C3%A9e%20et%20a%20une%20ambiance%20r%C3%A9tro.%20L'affiche%20doit%20%C3%AAtre%20cr%C3%A9ative%2C%20non%20conventionnelle%20et%20attirer%20un%20public%20cin%C3%A9phile.%20%E2%80%93ar%202%3A3)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20affiche%20originale%20et%20ind%C3%A9pendante%20pour%20un%20festival%20de%20courts%20m%C3%A9trages.%20Le%20design%20est%20un%20collage%20de%20gribouillis%20dessin%C3%A9s%20%C3%A0%20la%20main%2C%20de%20pellicules%20de%20film%20et%20de%20photographies%20vintage.%20La%20typographie%20est%20un%20m%C3%A9lange%20de%20diff%C3%A9rentes%20polices%20de%20caract%C3%A8res%20de%20machine%20%C3%A0%20%C3%A9crire%20et%20manuscrites%2C%20lui%20donnant%20un%20aspect%20%C2%AB%20fait%20maison%20%C2%BB%2C%20fa%C3%A7on%20fanzine.%20La%20palette%20de%20couleurs%20est%20limit%C3%A9e%20et%20a%20une%20ambiance%20r%C3%A9tro.%20L'affiche%20doit%20%C3%AAtre%20cr%C3%A9ative%2C%20non%20conventionnelle%20et%20attirer%20un%20public%20cin%C3%A9phile.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -465,7 +459,7 @@ Une affiche sereine et apaisante pour un atelier de yoga et de méditation d'un 
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20affiche%20sereine%20et%20apaisante%20pour%20un%20atelier%20de%20yoga%20et%20de%20m%C3%A9ditation%20d'un%20week-end.%20Le%20visuel%20principal%20est%20une%20magnifique%20photographie%20floue%20d'une%20personne%20dans%20une%20posture%20de%20yoga%20paisible%20sur%20une%20plage%20au%20lever%20du%20soleil.%20La%20palette%20de%20couleurs%20est%20compos%C3%A9e%20de%20pastels%20doux%20(roses%2C%20oranges%2C%20bleus%20clairs).%20La%20typographie%20est%20une%20%C3%A9criture%20douce%20et%20fluide.%20L'affiche%20doit%20%C3%A9voquer%20des%20sentiments%20de%20paix%2C%20de%20bien-%C3%AAtre%20et%20de%20soin%20de%20soi.%20%E2%80%93ar%203%3A4)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20affiche%20sereine%20et%20apaisante%20pour%20un%20atelier%20de%20yoga%20et%20de%20m%C3%A9ditation%20d'un%20week-end.%20Le%20visuel%20principal%20est%20une%20magnifique%20photographie%20floue%20d'une%20personne%20dans%20une%20posture%20de%20yoga%20paisible%20sur%20une%20plage%20au%20lever%20du%20soleil.%20La%20palette%20de%20couleurs%20est%20compos%C3%A9e%20de%20pastels%20doux%20(roses%2C%20oranges%2C%20bleus%20clairs).%20La%20typographie%20est%20une%20%C3%A9criture%20douce%20et%20fluide.%20L'affiche%20doit%20%C3%A9voquer%20des%20sentiments%20de%20paix%2C%20de%20bien-%C3%AAtre%20et%20de%20soin%20de%20soi.%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -498,7 +492,7 @@ Un dépliant délicieux et invitant pour la grande ouverture d'un nouveau restau
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20d%C3%A9pliant%20d%C3%A9licieux%20et%20invitant%20pour%20la%20grande%20ouverture%20d'un%20nouveau%20restaurant%20italien.%20Le%20visuel%20principal%20est%20une%20magnifique%20photographie%20rustique%2C%20prise%20%C3%A0%20plat%2C%20d'une%20table%20garnie%20de%20plats%20italiens%20%3A%20une%20pizza%2C%20un%20bol%20de%20p%C3%A2tes%2C%20un%20verre%20de%20vin%20rouge%20et%20du%20basilic%20frais.%20Le%20nom%20du%20restaurant%20est%20%C3%A9crit%20dans%20une%20police%20de%20caract%C3%A8res%20manuscrite%20chaleureuse.%20La%20date%20et%20l'adresse%20de%20l'ouverture%20sont%20clairement%20visibles.%20L'ambiance%20g%C3%A9n%C3%A9rale%20est%20chaleureuse%2C%20authentique%20et%20app%C3%A9tissante.%20%E2%80%93ar%204%3A5)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Un%20d%C3%A9pliant%20d%C3%A9licieux%20et%20invitant%20pour%20la%20grande%20ouverture%20d'un%20nouveau%20restaurant%20italien.%20Le%20visuel%20principal%20est%20une%20magnifique%20photographie%20rustique%2C%20prise%20%C3%A0%20plat%2C%20d'une%20table%20garnie%20de%20plats%20italiens%20%3A%20une%20pizza%2C%20un%20bol%20de%20p%C3%A2tes%2C%20un%20verre%20de%20vin%20rouge%20et%20du%20basilic%20frais.%20Le%20nom%20du%20restaurant%20est%20%C3%A9crit%20dans%20une%20police%20de%20caract%C3%A8res%20manuscrite%20chaleureuse.%20La%20date%20et%20l'adresse%20de%20l'ouverture%20sont%20clairement%20visibles.%20L'ambiance%20g%C3%A9n%C3%A9rale%20est%20chaleureuse%2C%20authentique%20et%20app%C3%A9tissante.%20%E2%80%93ar%204%3A5)**
 
 ---
 
@@ -531,7 +525,7 @@ Une affiche puissante et qui fait réfléchir pour une annonce d'intérêt publi
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20affiche%20puissante%20et%20qui%20fait%20r%C3%A9fl%C3%A9chir%20pour%20une%20annonce%20d'int%C3%A9r%C3%AAt%20public%20sur%20la%20pollution%20plastique%20dans%20les%20oc%C3%A9ans.%20L'image%20est%20une%20repr%C3%A9sentation%20surr%C3%A9aliste%20et%20triste%20d'une%20tortue%20de%20mer%20nageant%20dans%20une%20mer%20de%20sacs%20et%20de%20bouteilles%20en%20plastique%2C%20au%20lieu%20d'eau.%20Le%20slogan%20%C2%AB%20Est-ce%20l'oc%C3%A9an%20que%20vous%20voulez%20%3F%20%C2%BB%20est%20en%20bas.%20Le%20visuel%20doit%20%C3%AAtre%20r%C3%A9aliste%20et%20percutant%2C%20con%C3%A7u%20pour%20susciter%20une%20r%C3%A9ponse%20%C3%A9motionnelle%20et%20sensibiliser.%20%E2%80%93ar%203%3A4)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20affiche%20puissante%20et%20qui%20fait%20r%C3%A9fl%C3%A9chir%20pour%20une%20annonce%20d'int%C3%A9r%C3%AAt%20public%20sur%20la%20pollution%20plastique%20dans%20les%20oc%C3%A9ans.%20L'image%20est%20une%20repr%C3%A9sentation%20surr%C3%A9aliste%20et%20triste%20d'une%20tortue%20de%20mer%20nageant%20dans%20une%20mer%20de%20sacs%20et%20de%20bouteilles%20en%20plastique%2C%20au%20lieu%20d'eau.%20Le%20slogan%20%C2%AB%20Est-ce%20l'oc%C3%A9an%20que%20vous%20voulez%20%3F%20%C2%BB%20est%20en%20bas.%20Le%20visuel%20doit%20%C3%AAtre%20r%C3%A9aliste%20et%20percutant%2C%20con%C3%A7u%20pour%20susciter%20une%20r%C3%A9ponse%20%C3%A9motionnelle%20et%20sensibiliser.%20%E2%80%93ar%203%3A4)**
 
 ---
 
@@ -564,7 +558,7 @@ Une couverture de livre palpitante et mystérieuse pour un roman policier intitu
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20couverture%20de%20livre%20palpitante%20et%20myst%C3%A9rieuse%20pour%20un%20roman%20policier%20intitul%C3%A9%20%C2%AB%20The%20Shadow%20Detective%20%C2%BB.%20La%20couverture%20repr%C3%A9sente%20la%20silhouette%20d'un%20d%C3%A9tective%20en%20fedora%20et%20trench-coat%2C%20debout%20dans%20une%20ruelle%20sombre%20et%20brumeuse.%20La%20seule%20source%20de%20lumi%C3%A8re%20est%20un%20lampadaire%20solitaire%20et%20lointain.%20Le%20titre%20est%20%C3%A9crit%20dans%20une%20police%20granuleuse%20et%20textur%C3%A9e%20qui%20semble%20avoir%20%C3%A9t%C3%A9%20estampill%C3%A9e.%20L'ambiance%20est%20noire%20et%20pleine%20de%20suspense%2C%20d%C3%A9montrant%20une%20forte%20ma%C3%AEtrise%20de%20l'atmosph%C3%A8re.%20%E2%80%93ar%202%3A3)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20couverture%20de%20livre%20palpitante%20et%20myst%C3%A9rieuse%20pour%20un%20roman%20policier%20intitul%C3%A9%20%C2%AB%20The%20Shadow%20Detective%20%C2%BB.%20La%20couverture%20repr%C3%A9sente%20la%20silhouette%20d'un%20d%C3%A9tective%20en%20fedora%20et%20trench-coat%2C%20debout%20dans%20une%20ruelle%20sombre%20et%20brumeuse.%20La%20seule%20source%20de%20lumi%C3%A8re%20est%20un%20lampadaire%20solitaire%20et%20lointain.%20Le%20titre%20est%20%C3%A9crit%20dans%20une%20police%20granuleuse%20et%20textur%C3%A9e%20qui%20semble%20avoir%20%C3%A9t%C3%A9%20estampill%C3%A9e.%20L'ambiance%20est%20noire%20et%20pleine%20de%20suspense%2C%20d%C3%A9montrant%20une%20forte%20ma%C3%AEtrise%20de%20l'atmosph%C3%A8re.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -597,7 +591,7 @@ Une affiche élégante et artistique pour une exposition muséale d'estampes jap
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20affiche%20%C3%A9l%C3%A9gante%20et%20artistique%20pour%20une%20exposition%20mus%C3%A9ale%20d'estampes%20japonaises%20Ukiyo-e.%20Le%20design%20pr%C3%A9sente%20un%20d%C3%A9tail%20magnifique%20et%20en%20haute%20r%C3%A9solution%20d'une%20estampe%20c%C3%A9l%C3%A8bre%2C%20comme%20%C2%AB%20La%20Grande%20Vague%20%C2%BB%20d'Hokusai%2C%20mais%20recadr%C3%A9%20de%20mani%C3%A8re%20cr%C3%A9ative.%20La%20typographie%20est%20un%20m%C3%A9lange%20d'une%20%C3%A9l%C3%A9gante%20police%20%C3%A0%20empattements%20anglaise%20et%20de%20calligraphie%20japonaise.%20La%20mise%20en%20page%20est%20minimaliste%20et%20respectueuse%20de%20l'%C5%93uvre%20d'art%2C%20utilisant%20beaucoup%20d'espace%20n%C3%A9gatif.%20Cela%20t%C3%A9moigne%20d'une%20connaissance%20de%20l'histoire%20de%20l'art%20et%20de%20comp%C3%A9tences%20sophistiqu%C3%A9es%20en%20conception%20graphique.%20%E2%80%93ar%202%3A3)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20affiche%20%C3%A9l%C3%A9gante%20et%20artistique%20pour%20une%20exposition%20mus%C3%A9ale%20d'estampes%20japonaises%20Ukiyo-e.%20Le%20design%20pr%C3%A9sente%20un%20d%C3%A9tail%20magnifique%20et%20en%20haute%20r%C3%A9solution%20d'une%20estampe%20c%C3%A9l%C3%A8bre%2C%20comme%20%C2%AB%20La%20Grande%20Vague%20%C2%BB%20d'Hokusai%2C%20mais%20recadr%C3%A9%20de%20mani%C3%A8re%20cr%C3%A9ative.%20La%20typographie%20est%20un%20m%C3%A9lange%20d'une%20%C3%A9l%C3%A9gante%20police%20%C3%A0%20empattements%20anglaise%20et%20de%20calligraphie%20japonaise.%20La%20mise%20en%20page%20est%20minimaliste%20et%20respectueuse%20de%20l'%C5%93uvre%20d'art%2C%20utilisant%20beaucoup%20d'espace%20n%C3%A9gatif.%20Cela%20t%C3%A9moigne%20d'une%20connaissance%20de%20l'histoire%20de%20l'art%20et%20de%20comp%C3%A9tences%20sophistiqu%C3%A9es%20en%20conception%20graphique.%20%E2%80%93ar%202%3A3)**
 
 ---
 
@@ -630,15 +624,11 @@ Un dépliant de recrutement audacieux et direct pour une startup à la recherche
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20d%C3%A9pliant%20de%20recrutement%20audacieux%20et%20direct%20pour%20une%20startup%20%C3%A0%20la%20recherche%20de%20d%C3%A9veloppeurs%20de%20logiciels.%20Le%20titre%20%C2%AB%20B%C3%82TISSEZ%20L'AVENIR%20%C2%BB%20est%20affich%C3%A9%20dans%20une%20grande%20police%20sans%20empattement%2C%20forte.%20Le%20visuel%20principal%20est%20une%20illustration%20abstraite%20et%20stylis%C3%A9e%20de%20code%20se%20transformant%20en%20une%20ligne%20d'horizon%20urbaine%20en%20pleine%20croissance.%20Le%20logo%20de%20l'entreprise%20et%20un%20code%20QR%20menant%20%C3%A0%20la%20page%20de%20candidature%20sont%20affich%C3%A9s%20de%20mani%C3%A8re%20pro%C3%A9minente%20en%20bas.%20La%20palette%20de%20couleurs%20est%20%C3%A9nergique%20et%20ax%C3%A9e%20sur%20la%20technologie%20(par%20exemple%2C%20bleu%20%C3%A9lectrique%20et%20gris%20fonc%C3%A9).%20%E2%80%93ar%203%3A4)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Un%20d%C3%A9pliant%20de%20recrutement%20audacieux%20et%20direct%20pour%20une%20startup%20%C3%A0%20la%20recherche%20de%20d%C3%A9veloppeurs%20de%20logiciels.%20Le%20titre%20%C2%AB%20B%C3%82TISSEZ%20L'AVENIR%20%C2%BB%20est%20affich%C3%A9%20dans%20une%20grande%20police%20sans%20empattement%2C%20forte.%20Le%20visuel%20principal%20est%20une%20illustration%20abstraite%20et%20stylis%C3%A9e%20de%20code%20se%20transformant%20en%20une%20ligne%20d'horizon%20urbaine%20en%20pleine%20croissance.%20Le%20logo%20de%20l'entreprise%20et%20un%20code%20QR%20menant%20%C3%A0%20la%20page%20de%20candidature%20sont%20affich%C3%A9s%20de%20mani%C3%A8re%20pro%C3%A9minente%20en%20bas.%20La%20palette%20de%20couleurs%20est%20%C3%A9nergique%20et%20ax%C3%A9e%20sur%20la%20technologie%20(par%20exemple%2C%20bleu%20%C3%A9lectrique%20et%20gris%20fonc%C3%A9).%20%E2%80%93ar%203%3A4)**
 
 ---
 
-<<<<<<< HEAD
-### No. 14: Affiche de festival de musique psychédélique « Ethereal Bloom »
-=======
 ### No. 17: Affiche de festival de musique psychédélique « Ethereal Bloom »
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -667,15 +657,11 @@ Une affiche psychédélique et vibrante pour un festival de musique estival appe
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20affiche%20psych%C3%A9d%C3%A9lique%20et%20vibrante%20pour%20un%20festival%20de%20musique%20estival%20appel%C3%A9%20%C2%AB%20Ethereal%20Bloom%20%C2%BB.%20Le%20design%20est%20une%20explosion%20surr%C3%A9aliste%20de%20couleurs%2C%20avec%20des%20champignons%20g%C3%A9ants%20et%20lumineux%2C%20des%20cr%C3%A9atures%20fantastiques%20et%20fantaisistes%2C%20et%20des%20motifs%20g%C3%A9om%C3%A9triques%20abstraits%2C%20le%20tout%20entrelac%C3%A9.%20La%20programmation%20du%20festival%20est%20int%C3%A9gr%C3%A9e%20%C3%A0%20l'%C5%93uvre%20d'art%20dans%20une%20police%20ondul%C3%A9e%20et%20d%C3%A9form%C3%A9e.%20L'ambiance%20g%C3%A9n%C3%A9rale%20est%20magique%2C%20%C3%A9nergique%20et%20d'un%20autre%20monde%2C%20d%C3%A9montrant%20la%20capacit%C3%A9%20%C3%A0%20cr%C3%A9er%20des%20visuels%20complexes%2C%20imaginatifs%20et%20sp%C3%A9cifiques%20%C3%A0%20un%20genre.%20%E2%80%93ar%202%3A3)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20affiche%20psych%C3%A9d%C3%A9lique%20et%20vibrante%20pour%20un%20festival%20de%20musique%20estival%20appel%C3%A9%20%C2%AB%20Ethereal%20Bloom%20%C2%BB.%20Le%20design%20est%20une%20explosion%20surr%C3%A9aliste%20de%20couleurs%2C%20avec%20des%20champignons%20g%C3%A9ants%20et%20lumineux%2C%20des%20cr%C3%A9atures%20fantastiques%20et%20fantaisistes%2C%20et%20des%20motifs%20g%C3%A9om%C3%A9triques%20abstraits%2C%20le%20tout%20entrelac%C3%A9.%20La%20programmation%20du%20festival%20est%20int%C3%A9gr%C3%A9e%20%C3%A0%20l'%C5%93uvre%20d'art%20dans%20une%20police%20ondul%C3%A9e%20et%20d%C3%A9form%C3%A9e.%20L'ambiance%20g%C3%A9n%C3%A9rale%20est%20magique%2C%20%C3%A9nergique%20et%20d'un%20autre%20monde%2C%20d%C3%A9montrant%20la%20capacit%C3%A9%20%C3%A0%20cr%C3%A9er%20des%20visuels%20complexes%2C%20imaginatifs%20et%20sp%C3%A9cifiques%20%C3%A0%20un%20genre.%20%E2%80%93ar%202%3A3)**
 
 ---
 
-<<<<<<< HEAD
-### No. 15: Affiche de film de science-fiction cinématographique "CHRONOS"
-=======
 ### No. 18: Affiche de film de science-fiction cinématographique "CHRONOS"
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -704,15 +690,11 @@ Une affiche de film épique et cinématographique pour un blockbuster de science
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20affiche%20de%20film%20%C3%A9pique%20et%20cin%C3%A9matographique%20pour%20un%20blockbuster%20de%20science-fiction%20fictif%20intitul%C3%A9%20%C2%AB%20CHRONOS%20%C2%BB.%20L'affiche%20pr%C3%A9sente%20le%20h%C3%A9ros%20principal%2C%20un%20astronaute%20robuste%2C%20contemplant%20un%20trou%20noir%20massif%20et%20tourbillonnant%20dans%20l'espace.%20Le%20reflet%20d'un%20myst%C3%A9rieux%20artefact%20extraterrestre%20est%20visible%20dans%20la%20visi%C3%A8re%20de%20son%20casque.%20La%20typographie%20est%20audacieuse%2C%20m%C3%A9tallique%20et%20moderne.%20Le%20slogan%20%C2%AB%20Le%20temps%20est%20l'ennemi%20%C2%BB%20est%20positionn%C3%A9%20en%20bas.%20Cela%20n%C3%A9cessite%20un%20%C3%A9clairage%20cin%C3%A9matographique%20avanc%C3%A9%2C%20une%20composition%20soign%C3%A9e%20et%20la%20capacit%C3%A9%20de%20m%C3%A9langer%20harmonieusement%20plusieurs%20%C3%A9l%C3%A9ments%20complexes.%20%E2%80%93ar%202%3A3)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20affiche%20de%20film%20%C3%A9pique%20et%20cin%C3%A9matographique%20pour%20un%20blockbuster%20de%20science-fiction%20fictif%20intitul%C3%A9%20%C2%AB%20CHRONOS%20%C2%BB.%20L'affiche%20pr%C3%A9sente%20le%20h%C3%A9ros%20principal%2C%20un%20astronaute%20robuste%2C%20contemplant%20un%20trou%20noir%20massif%20et%20tourbillonnant%20dans%20l'espace.%20Le%20reflet%20d'un%20myst%C3%A9rieux%20artefact%20extraterrestre%20est%20visible%20dans%20la%20visi%C3%A8re%20de%20son%20casque.%20La%20typographie%20est%20audacieuse%2C%20m%C3%A9tallique%20et%20moderne.%20Le%20slogan%20%C2%AB%20Le%20temps%20est%20l'ennemi%20%C2%BB%20est%20positionn%C3%A9%20en%20bas.%20Cela%20n%C3%A9cessite%20un%20%C3%A9clairage%20cin%C3%A9matographique%20avanc%C3%A9%2C%20une%20composition%20soign%C3%A9e%20et%20la%20capacit%C3%A9%20de%20m%C3%A9langer%20harmonieusement%20plusieurs%20%C3%A9l%C3%A9ments%20complexes.%20%E2%80%93ar%202%3A3)**
 
 ---
 
-<<<<<<< HEAD
-### No. 16: Miniature de tutoriel de création de site web
-=======
 ### No. 19: Miniature de tutoriel de création de site web
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -741,15 +723,11 @@ Une miniature pour un tutoriel intitulé « Comment créer un site web en 10 min
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20miniature%20pour%20un%20tutoriel%20intitul%C3%A9%20%C2%AB%20Comment%20cr%C3%A9er%20un%20site%20web%20en%2010%20minutes%20%C2%BB.%20L'image%20montre%20un%20%C3%A9cran%20d'ordinateur%20affichant%20un%20site%20web%20magnifique%20et%20professionnel.%20Une%20grande%20ic%C3%B4ne%20d'horloge%20indiquant%20%C2%AB%2010%20Min%20%C2%BB%20est%20superpos%C3%A9e%20sur%20l'%C3%A9cran.%20Le%20YouTubeur%20est%20dans%20le%20coin%2C%20pointant%20l'%C3%A9cran%20et%20souriant%2C%20l'air%20confiant%20et%20serviable.%20Le%20texte%20est%20clair%20et%20promet%20une%20solution%20rapide%20et%20facile.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20miniature%20pour%20un%20tutoriel%20intitul%C3%A9%20%C2%AB%20Comment%20cr%C3%A9er%20un%20site%20web%20en%2010%20minutes%20%C2%BB.%20L'image%20montre%20un%20%C3%A9cran%20d'ordinateur%20affichant%20un%20site%20web%20magnifique%20et%20professionnel.%20Une%20grande%20ic%C3%B4ne%20d'horloge%20indiquant%20%C2%AB%2010%20Min%20%C2%BB%20est%20superpos%C3%A9e%20sur%20l'%C3%A9cran.%20Le%20YouTubeur%20est%20dans%20le%20coin%2C%20pointant%20l'%C3%A9cran%20et%20souriant%2C%20l'air%20confiant%20et%20serviable.%20Le%20texte%20est%20clair%20et%20promet%20une%20solution%20rapide%20et%20facile.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 17: Miniature Défi Nourriture Distributeur Automatique
-=======
 ### No. 20: Miniature Défi Nourriture Distributeur Automatique
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -778,15 +756,11 @@ Une miniature pour un défi « Manger uniquement de la nourriture de distributeu
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20miniature%20pour%20un%20d%C3%A9fi%20%C2%AB%20Manger%20uniquement%20de%20la%20nourriture%20de%20distributeurs%20automatiques%20pendant%2024%20heures%20%C2%BB.%20L'image%20montre%20le%20YouTubeur%20assis%20par%20terre%2C%20entour%C3%A9%20d'une%20%C3%A9norme%20pile%20de%20snacks%20et%20de%20boissons%20color%C3%A9s%20provenant%20de%20distributeurs%20automatiques.%20Il%20a%20une%20expression%20de%20douleur%20mais%20amusante%20sur%20le%20visage.%20Le%20texte%20%C2%AB%20JE%20REGRETTE%20%C3%87A%20%C2%BB%20est%20%C3%A9crit%20dans%20une%20police%20grasse%20et%20vieillie.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20miniature%20pour%20un%20d%C3%A9fi%20%C2%AB%20Manger%20uniquement%20de%20la%20nourriture%20de%20distributeurs%20automatiques%20pendant%2024%20heures%20%C2%BB.%20L'image%20montre%20le%20YouTubeur%20assis%20par%20terre%2C%20entour%C3%A9%20d'une%20%C3%A9norme%20pile%20de%20snacks%20et%20de%20boissons%20color%C3%A9s%20provenant%20de%20distributeurs%20automatiques.%20Il%20a%20une%20expression%20de%20douleur%20mais%20amusante%20sur%20le%20visage.%20Le%20texte%20%C2%AB%20JE%20REGRETTE%20%C3%87A%20%C2%BB%20est%20%C3%A9crit%20dans%20une%20police%20grasse%20et%20vieillie.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 18: Miniature de vidéo de farce
-=======
 ### No. 21: Miniature de vidéo de farce
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -815,15 +789,11 @@ Une miniature pour une vidéo de farce. L'image capture le moment culminant de l
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20miniature%20pour%20une%20vid%C3%A9o%20de%20farce.%20L'image%20capture%20le%20moment%20culminant%20de%20la%20farce%20%3A%20la%20personne%20pi%C3%A9g%C3%A9e%20crie%20ou%20saute%20de%20surprise.%20Le%20YouTuber%20qui%20a%20organis%C3%A9%20la%20farce%20est%20en%20arri%C3%A8re-plan%2C%20en%20train%20de%20rire.%20La%20sc%C3%A8ne%20est%20chaotique%20et%20amusante.%20Un%20cercle%20rouge%20est%20dessin%C3%A9%20autour%20du%20visage%20de%20la%20personne%20pi%C3%A9g%C3%A9e%20pour%20souligner%20sa%20r%C3%A9action.%20Le%20texte%20%C2%AB%20Il%20a%20FLIPP%C3%89%20!%20%C2%BB%20est%20%C3%A9crit%20dans%20une%20police%20tremblante%2C%20comme%20dessin%C3%A9e%20%C3%A0%20la%20main.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20miniature%20pour%20une%20vid%C3%A9o%20de%20farce.%20L'image%20capture%20le%20moment%20culminant%20de%20la%20farce%20%3A%20la%20personne%20pi%C3%A9g%C3%A9e%20crie%20ou%20saute%20de%20surprise.%20Le%20YouTuber%20qui%20a%20organis%C3%A9%20la%20farce%20est%20en%20arri%C3%A8re-plan%2C%20en%20train%20de%20rire.%20La%20sc%C3%A8ne%20est%20chaotique%20et%20amusante.%20Un%20cercle%20rouge%20est%20dessin%C3%A9%20autour%20du%20visage%20de%20la%20personne%20pi%C3%A9g%C3%A9e%20pour%20souligner%20sa%20r%C3%A9action.%20Le%20texte%20%C2%AB%20Il%20a%20FLIPP%C3%89%20!%20%C2%BB%20est%20%C3%A9crit%20dans%20une%20police%20tremblante%2C%20comme%20dessin%C3%A9e%20%C3%A0%20la%20main.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 19: Miniatures : Astuces de vie en 5 minutes
-=======
 ### No. 22: Miniatures : Astuces de vie en 5 minutes
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -852,15 +822,11 @@ Une miniature pour une vidéo « 5-Minute Life Hacks ». L'image est une grille 
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20miniature%20pour%20une%20vid%C3%A9o%20%C2%AB%205-Minute%20Life%20Hacks%20%C2%BB.%20L'image%20est%20une%20grille%20de%20quatre%20astuces%20diff%C3%A9rentes%20en%20d%C3%A9monstration%20(par%20exemple%2C%20utiliser%20une%20bouteille%20pour%20s%C3%A9parer%20les%20jaunes%20d'%C5%93ufs).%20Chaque%20image%20est%20claire%20et%20facile%20%C3%A0%20comprendre.%20Le%20YouTubeur%20est%20au%20centre%20de%20la%20grille%2C%20faisant%20un%20pouce%20lev%C3%A9.%20Le%20chiffre%20%C2%AB%205%20%C2%BB%20est%20%C3%A9norme%20et%20plac%C3%A9%20de%20mani%C3%A8re%20pro%C3%A9minente.%20Cela%20n%C3%A9cessite%20la%20cr%C3%A9ation%20de%20visuels%20clairs%20et%20instructifs.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20miniature%20pour%20une%20vid%C3%A9o%20%C2%AB%205-Minute%20Life%20Hacks%20%C2%BB.%20L'image%20est%20une%20grille%20de%20quatre%20astuces%20diff%C3%A9rentes%20en%20d%C3%A9monstration%20(par%20exemple%2C%20utiliser%20une%20bouteille%20pour%20s%C3%A9parer%20les%20jaunes%20d'%C5%93ufs).%20Chaque%20image%20est%20claire%20et%20facile%20%C3%A0%20comprendre.%20Le%20YouTubeur%20est%20au%20centre%20de%20la%20grille%2C%20faisant%20un%20pouce%20lev%C3%A9.%20Le%20chiffre%20%C2%AB%205%20%C2%BB%20est%20%C3%A9norme%20et%20plac%C3%A9%20de%20mani%C3%A8re%20pro%C3%A9minente.%20Cela%20n%C3%A9cessite%20la%20cr%C3%A9ation%20de%20visuels%20clairs%20et%20instructifs.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 20: Miniature de déballage de gadget technologique
-=======
 ### No. 23: Miniature de déballage de gadget technologique
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -889,15 +855,11 @@ Une miniature pour une vidéo d'unboxing d'un nouveau gadget technologique coût
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20miniature%20pour%20une%20vid%C3%A9o%20d'unboxing%20d'un%20nouveau%20gadget%20technologique%20co%C3%BBteux.%20La%20bo%C3%AEte%20est%20ouverte%2C%20et%20une%20lumi%C3%A8re%20vive%20et%20magique%20en%20%C3%A9mane.%20Le%20YouTubeur%20regarde%20%C3%A0%20l'int%C3%A9rieur%20de%20la%20bo%C3%AEte%20avec%20une%20expression%20d'%C3%A9merveillement%20et%20d'excitation%20pure.%20Le%20produit%20lui-m%C3%AAme%20n'est%20pas%20enti%C3%A8rement%20visible%2C%20ce%20qui%20suscite%20la%20curiosit%C3%A9.%20Le%20texte%20%C2%AB%20Je%20n'arrive%20pas%20%C3%A0%20croire%20ce%20qu'il%20y%20a%20dedans%20!%20%C2%BB%20est%20%C3%A9crit%20dans%20une%20police%20audacieuse%20et%20excit%C3%A9e.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20miniature%20pour%20une%20vid%C3%A9o%20d'unboxing%20d'un%20nouveau%20gadget%20technologique%20co%C3%BBteux.%20La%20bo%C3%AEte%20est%20ouverte%2C%20et%20une%20lumi%C3%A8re%20vive%20et%20magique%20en%20%C3%A9mane.%20Le%20YouTubeur%20regarde%20%C3%A0%20l'int%C3%A9rieur%20de%20la%20bo%C3%AEte%20avec%20une%20expression%20d'%C3%A9merveillement%20et%20d'excitation%20pure.%20Le%20produit%20lui-m%C3%AAme%20n'est%20pas%20enti%C3%A8rement%20visible%2C%20ce%20qui%20suscite%20la%20curiosit%C3%A9.%20Le%20texte%20%C2%AB%20Je%20n'arrive%20pas%20%C3%A0%20croire%20ce%20qu'il%20y%20a%20dedans%20!%20%C2%BB%20est%20%C3%A9crit%20dans%20une%20police%20audacieuse%20et%20excit%C3%A9e.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 21: Miniature de documentaire sur l'Égypte ancienne
-=======
 ### No. 24: Miniature de documentaire sur l'Égypte ancienne
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -926,15 +888,11 @@ Une vignette pour un documentaire sur l'Égypte ancienne. L'image est un rendu c
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20vignette%20pour%20un%20documentaire%20sur%20l'%C3%89gypte%20ancienne.%20L'image%20est%20un%20rendu%20cin%C3%A9matographique%20et%20photor%C3%A9aliste%20des%20Grandes%20Pyramides%20de%20Gizeh%20au%20coucher%20du%20soleil.%20Le%20soleil%20se%20couche%20derri%C3%A8re%20les%20pyramides%2C%20cr%C3%A9ant%20une%20magnifique%20silhouette.%20Au%20premier%20plan%2C%20la%20silhouette%20d'un%20arch%C3%A9ologue%20contemplant%20les%20pyramides.%20Le%20titre%20est%20dans%20une%20police%20qui%20imite%20les%20hi%C3%A9roglyphes%20anciens.%20Cela%20met%20en%20valeur%20une%20connaissance%20approfondie%20du%20monde%20et%20un%20rendu%20cin%C3%A9matographique.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20vignette%20pour%20un%20documentaire%20sur%20l'%C3%89gypte%20ancienne.%20L'image%20est%20un%20rendu%20cin%C3%A9matographique%20et%20photor%C3%A9aliste%20des%20Grandes%20Pyramides%20de%20Gizeh%20au%20coucher%20du%20soleil.%20Le%20soleil%20se%20couche%20derri%C3%A8re%20les%20pyramides%2C%20cr%C3%A9ant%20une%20magnifique%20silhouette.%20Au%20premier%20plan%2C%20la%20silhouette%20d'un%20arch%C3%A9ologue%20contemplant%20les%20pyramides.%20Le%20titre%20est%20dans%20une%20police%20qui%20imite%20les%20hi%C3%A9roglyphes%20anciens.%20Cela%20met%20en%20valeur%20une%20connaissance%20approfondie%20du%20monde%20et%20un%20rendu%20cin%C3%A9matographique.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 22: Miniature de la critique de la supercar électrique
-=======
 ### No. 25: Miniature de la critique de la supercar électrique
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -963,15 +921,11 @@ Une vignette pour une critique d'une nouvelle supercar électrique. La voiture e
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20vignette%20pour%20une%20critique%20d'une%20nouvelle%20supercar%20%C3%A9lectrique.%20La%20voiture%20est%20montr%C3%A9e%20sous%20un%20angle%20bas%20et%20dramatique%2C%20ce%20qui%20la%20rend%20puissante%20et%20agressive.%20Les%20phares%20sont%20allum%C3%A9s%20et%20l'arri%C3%A8re-plan%20est%20un%20flou%20de%20mouvement%20d'une%20ville%20la%20nuit.%20Le%20YouTuber%20se%20tient%20%C3%A0%20c%C3%B4t%C3%A9%20de%20la%20voiture%20avec%20une%20expression%20%C3%A9bahie%20et%20%C2%AB%20%C3%A9poustoufl%C3%A9e%20%C2%BB.%20Le%20texte%20%C2%AB%20The%20Future%20is%20HERE!%20%C2%BB%20est%20dans%20une%20police%20%C3%A9l%C3%A9gante%20et%20moderne.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20vignette%20pour%20une%20critique%20d'une%20nouvelle%20supercar%20%C3%A9lectrique.%20La%20voiture%20est%20montr%C3%A9e%20sous%20un%20angle%20bas%20et%20dramatique%2C%20ce%20qui%20la%20rend%20puissante%20et%20agressive.%20Les%20phares%20sont%20allum%C3%A9s%20et%20l'arri%C3%A8re-plan%20est%20un%20flou%20de%20mouvement%20d'une%20ville%20la%20nuit.%20Le%20YouTuber%20se%20tient%20%C3%A0%20c%C3%B4t%C3%A9%20de%20la%20voiture%20avec%20une%20expression%20%C3%A9bahie%20et%20%C2%AB%20%C3%A9poustoufl%C3%A9e%20%C2%BB.%20Le%20texte%20%C2%AB%20The%20Future%20is%20HERE!%20%C2%BB%20est%20dans%20une%20police%20%C3%A9l%C3%A9gante%20et%20moderne.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 23: Miniature de documentaire sur les faits divers
-=======
 ### No. 26: Miniature de documentaire sur les faits divers
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1000,15 +954,11 @@ Une vignette sombre et mystérieuse pour un documentaire sur un fait divers. L'i
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20vignette%20sombre%20et%20myst%C3%A9rieuse%20pour%20un%20documentaire%20sur%20un%20fait%20divers.%20L'image%20est%20une%20photo%20d'ambiance%2C%20en%20noir%20et%20blanc%2C%20d'une%20pi%C3%A8ce%20%C3%A0%20conviction%20essentielle%20(par%20exemple%2C%20une%20lettre)%20pos%C3%A9e%20sur%20le%20bureau%20d'un%20d%C3%A9tective%2C%20%C3%A9clair%C3%A9e%20par%20une%20seule%20lampe.%20Un%20grand%20point%20d'interrogation%20rouge%20est%20estampill%C3%A9%20sur%20l'image.%20Le%20visage%20du%20YouTuber%20n'est%20pas%20visible%2C%20ce%20qui%20ajoute%20au%20myst%C3%A8re.%20Le%20titre%20est%20%C3%A9crit%20dans%20une%20police%20de%20caract%C3%A8res%20de%20machine%20%C3%A0%20%C3%A9crire%20classique.%20Cela%20d%C3%A9montre%20une%20forte%20ma%C3%AEtrise%20de%20l'ambiance%20et%20de%20l'atmosph%C3%A8re.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20vignette%20sombre%20et%20myst%C3%A9rieuse%20pour%20un%20documentaire%20sur%20un%20fait%20divers.%20L'image%20est%20une%20photo%20d'ambiance%2C%20en%20noir%20et%20blanc%2C%20d'une%20pi%C3%A8ce%20%C3%A0%20conviction%20essentielle%20(par%20exemple%2C%20une%20lettre)%20pos%C3%A9e%20sur%20le%20bureau%20d'un%20d%C3%A9tective%2C%20%C3%A9clair%C3%A9e%20par%20une%20seule%20lampe.%20Un%20grand%20point%20d'interrogation%20rouge%20est%20estampill%C3%A9%20sur%20l'image.%20Le%20visage%20du%20YouTuber%20n'est%20pas%20visible%2C%20ce%20qui%20ajoute%20au%20myst%C3%A8re.%20Le%20titre%20est%20%C3%A9crit%20dans%20une%20police%20de%20caract%C3%A8res%20de%20machine%20%C3%A0%20%C3%A9crire%20classique.%20Cela%20d%C3%A9montre%20une%20forte%20ma%C3%AEtrise%20de%20l'ambiance%20et%20de%20l'atmosph%C3%A8re.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 24: Miniature des résultats du défi sportif de 30 jours
-=======
 ### No. 27: Miniature des résultats du défi sportif de 30 jours
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1037,15 +987,11 @@ Une miniature pour une vidéo de résultats d'un « Défi Fitness de 30 Jours »
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20miniature%20pour%20une%20vid%C3%A9o%20de%20r%C3%A9sultats%20d'un%20%C2%AB%20D%C3%A9fi%20Fitness%20de%2030%20Jours%20%C2%BB.%20C'est%20une%20image%20en%20%C3%A9cran%20partag%C3%A9%20montrant%20le%20physique%20du%20YouTubeur%20au%20Jour%201%20et%20au%20Jour%2030.%20La%20transformation%20est%20claire%20et%20impressionnante.%20Le%20YouTubeur%20pose%20en%20contractant%20ses%20muscles%20sur%20la%20photo%20du%20Jour%2030%20avec%20une%20expression%20confiante.%20Le%20texte%20%C2%AB%20Ma%20transformation%20INCROYABLE%20en%2030%20jours%20!%20%C2%BB%20est%20dans%20une%20police%20athl%C3%A9tique%20et%20audacieuse.%20Cela%20n%C3%A9cessite%20une%20grande%20coh%C3%A9rence%20du%20sujet%20entre%20les%20images.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20miniature%20pour%20une%20vid%C3%A9o%20de%20r%C3%A9sultats%20d'un%20%C2%AB%20D%C3%A9fi%20Fitness%20de%2030%20Jours%20%C2%BB.%20C'est%20une%20image%20en%20%C3%A9cran%20partag%C3%A9%20montrant%20le%20physique%20du%20YouTubeur%20au%20Jour%201%20et%20au%20Jour%2030.%20La%20transformation%20est%20claire%20et%20impressionnante.%20Le%20YouTubeur%20pose%20en%20contractant%20ses%20muscles%20sur%20la%20photo%20du%20Jour%2030%20avec%20une%20expression%20confiante.%20Le%20texte%20%C2%AB%20Ma%20transformation%20INCROYABLE%20en%2030%20jours%20!%20%C2%BB%20est%20dans%20une%20police%20athl%C3%A9tique%20et%20audacieuse.%20Cela%20n%C3%A9cessite%20une%20grande%20coh%C3%A9rence%20du%20sujet%20entre%20les%20images.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 25: Miniature d'explication du trou noir
-=======
 ### No. 28: Miniature d'explication du trou noir
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1074,15 +1020,11 @@ Une miniature pour une vidéo expliquant les trous noirs. L'image est un rendu s
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20miniature%20pour%20une%20vid%C3%A9o%20expliquant%20les%20trous%20noirs.%20L'image%20est%20un%20rendu%20scientifiquement%20pr%C3%A9cis%20et%20visuellement%20%C3%A9poustouflant%20d'un%20trou%20noir%2C%20montrant%20le%20disque%20d'accr%C3%A9tion%20et%20l'effet%20de%20lentille%20gravitationnelle.%20Une%20grande%20fl%C3%A8che%20blanche%20pointe%20vers%20la%20singularit%C3%A9.%20Le%20visage%20du%20YouTuber%20est%20dans%20le%20coin%2C%20l'air%20stup%C3%A9fait.%20Le%20titre%20%C2%AB%20Qu'y%20a-t-il%20%C3%80%20L'INT%C3%89RIEUR%20d'un%20trou%20noir%20%3F%20%C2%BB%20est%20dans%20une%20police%20futuriste.%20Cela%20d%C3%A9montre%20la%20capacit%C3%A9%20%C3%A0%20rendre%20des%20ph%C3%A9nom%C3%A8nes%20scientifiques%20complexes%20avec%20pr%C3%A9cision.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20miniature%20pour%20une%20vid%C3%A9o%20expliquant%20les%20trous%20noirs.%20L'image%20est%20un%20rendu%20scientifiquement%20pr%C3%A9cis%20et%20visuellement%20%C3%A9poustouflant%20d'un%20trou%20noir%2C%20montrant%20le%20disque%20d'accr%C3%A9tion%20et%20l'effet%20de%20lentille%20gravitationnelle.%20Une%20grande%20fl%C3%A8che%20blanche%20pointe%20vers%20la%20singularit%C3%A9.%20Le%20visage%20du%20YouTuber%20est%20dans%20le%20coin%2C%20l'air%20stup%C3%A9fait.%20Le%20titre%20%C2%AB%20Qu'y%20a-t-il%20%C3%80%20L'INT%C3%89RIEUR%20d'un%20trou%20noir%20%3F%20%C2%BB%20est%20dans%20une%20police%20futuriste.%20Cela%20d%C3%A9montre%20la%20capacit%C3%A9%20%C3%A0%20rendre%20des%20ph%C3%A9nom%C3%A8nes%20scientifiques%20complexes%20avec%20pr%C3%A9cision.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 26: Rénovation de chambre DIY : Avant et Après
-=======
 ### No. 29: Rénovation de chambre DIY : Avant et Après
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1111,15 +1053,11 @@ Une miniature pour une vidéo de décoration intérieure à faire soi-même. L'i
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20miniature%20pour%20une%20vid%C3%A9o%20de%20d%C3%A9coration%20int%C3%A9rieure%20%C3%A0%20faire%20soi-m%C3%AAme.%20L'image%20montre%20un%20%C3%A9cran%20partag%C3%A9%20%C2%AB%20avant%20et%20apr%C3%A8s%20%C2%BB.%20Le%20c%C3%B4t%C3%A9%20%C2%AB%20avant%20%C2%BB%20pr%C3%A9sente%20une%20pi%C3%A8ce%20simple%20et%20ennuyeuse.%20Le%20c%C3%B4t%C3%A9%20%C2%AB%20apr%C3%A8s%20%C2%BB%20montre%20la%20m%C3%AAme%20pi%C3%A8ce%20transform%C3%A9e%20en%20un%20espace%20%C3%A9l%C3%A9gant%20et%20confortable.%20La%20YouTubeuse%20est%20au%20milieu%2C%20pointant%20le%20c%C3%B4t%C3%A9%20%C2%AB%20apr%C3%A8s%20%C2%BB%20avec%20un%20sourire%20fier.%20Le%20texte%20%C2%AB%20R%C3%A9novation%20de%20chambre%20%C3%A0%20petit%20budget%20!%20%C2%BB%20est%20affich%C3%A9%20en%20%C3%A9vidence.%20Cela%20d%C3%A9montre%20une%20grande%20coh%C3%A9rence%20et%20la%20capacit%C3%A9%20de%20montrer%20des%20transformations.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20miniature%20pour%20une%20vid%C3%A9o%20de%20d%C3%A9coration%20int%C3%A9rieure%20%C3%A0%20faire%20soi-m%C3%AAme.%20L'image%20montre%20un%20%C3%A9cran%20partag%C3%A9%20%C2%AB%20avant%20et%20apr%C3%A8s%20%C2%BB.%20Le%20c%C3%B4t%C3%A9%20%C2%AB%20avant%20%C2%BB%20pr%C3%A9sente%20une%20pi%C3%A8ce%20simple%20et%20ennuyeuse.%20Le%20c%C3%B4t%C3%A9%20%C2%AB%20apr%C3%A8s%20%C2%BB%20montre%20la%20m%C3%AAme%20pi%C3%A8ce%20transform%C3%A9e%20en%20un%20espace%20%C3%A9l%C3%A9gant%20et%20confortable.%20La%20YouTubeuse%20est%20au%20milieu%2C%20pointant%20le%20c%C3%B4t%C3%A9%20%C2%AB%20apr%C3%A8s%20%C2%BB%20avec%20un%20sourire%20fier.%20Le%20texte%20%C2%AB%20R%C3%A9novation%20de%20chambre%20%C3%A0%20petit%20budget%20!%20%C2%BB%20est%20affich%C3%A9%20en%20%C3%A9vidence.%20Cela%20d%C3%A9montre%20une%20grande%20coh%C3%A9rence%20et%20la%20capacit%C3%A9%20de%20montrer%20des%20transformations.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 27: Vignette de la recette ultime du gâteau au chocolat
-=======
 ### No. 30: Vignette de la recette ultime du gâteau au chocolat
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1148,15 +1086,44 @@ Une miniature pour une vidéo de recette sur « Le Gâteau au Chocolat Ultime »
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20miniature%20pour%20une%20vid%C3%A9o%20de%20recette%20sur%20%C2%AB%20Le%20G%C3%A2teau%20au%20Chocolat%20Ultime%20%C2%BB.%20L'image%20est%20un%20gros%20plan%20app%C3%A9tissant%20d'une%20part%20de%20g%C3%A2teau%20sur%20une%20fourchette%2C%20avec%20du%20chocolat%20fondu%20qui%20en%20coule.%20L'arri%C3%A8re-plan%20est%20un%20g%C3%A2teau%20entier%20magnifiquement%20d%C3%A9cor%C3%A9.%20L'%C3%A9clairage%20est%20chaleureux%20et%20gourmand.%20Un%20texte%20audacieux%20et%20%C3%A9l%C3%A9gant%20indique%20%C2%AB%20La%20SEULE%20recette%20de%20g%C3%A2teau%20au%20chocolat%20dont%20vous%20avez%20besoin%20%C2%BB.%20Cela%20n%C3%A9cessite%20un%20rendu%20alimentaire%20hyperr%C3%A9aliste%20pour%20cr%C3%A9er%20une%20forte%20envie.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20miniature%20pour%20une%20vid%C3%A9o%20de%20recette%20sur%20%C2%AB%20Le%20G%C3%A2teau%20au%20Chocolat%20Ultime%20%C2%BB.%20L'image%20est%20un%20gros%20plan%20app%C3%A9tissant%20d'une%20part%20de%20g%C3%A2teau%20sur%20une%20fourchette%2C%20avec%20du%20chocolat%20fondu%20qui%20en%20coule.%20L'arri%C3%A8re-plan%20est%20un%20g%C3%A2teau%20entier%20magnifiquement%20d%C3%A9cor%C3%A9.%20L'%C3%A9clairage%20est%20chaleureux%20et%20gourmand.%20Un%20texte%20audacieux%20et%20%C3%A9l%C3%A9gant%20indique%20%C2%AB%20La%20SEULE%20recette%20de%20g%C3%A2teau%20au%20chocolat%20dont%20vous%20avez%20besoin%20%C2%BB.%20Cela%20n%C3%A9cessite%20un%20rendu%20alimentaire%20hyperr%C3%A9aliste%20pour%20cr%C3%A9er%20une%20forte%20envie.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 28: Miniature de vlog de voyage à Bali
-=======
-### No. 31: Miniature de vlog de voyage à Bali
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 31: Miniature vidéo de survie Minecraft
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Cette invite génère une miniature YouTube pour une vidéo « Minecraft Survival », montrant un joueur combattant des zombies et des creepers, avec un creeper terrifiant en arrière-plan. Elle requiert une connaissance de l'esthétique du jeu pour créer des scènes dramatiques et pleines d'action.
+
+#### 📝 Prompt
+
+```
+Une miniature pour une vidéo « Minecraft Survival ». L'image montre le personnage du joueur, en armure de diamant, combattant courageusement une horde massive de zombies et de creepers la nuit. Un énorme Creeper terrifiant se profile à l'arrière-plan, sur le point d'exploser. Le texte « I Almost Lost EVERYTHING! » est dans une police de caractères pixélisée, de style Minecraft. Cela nécessite une connaissance de l'esthétique spécifique du jeu et la capacité à créer des scènes dramatiques et pleines d'action. –ar 16:9
+```
+
+#### 🖼️ Images générées
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765369899639_932wt1_image.png" width="600" alt="Miniature vidéo de survie Minecraft - Image 1">
+</div>
+
+#### 📌 Détails
+
+- **Auteur:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Source:** [Twitter Post](null)
+- **Publié:** 10 décembre 2025
+- **Langues:** en
+
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20miniature%20pour%20une%20vid%C3%A9o%20%C2%AB%20Minecraft%20Survival%20%C2%BB.%20L'image%20montre%20le%20personnage%20du%20joueur%2C%20en%20armure%20de%20diamant%2C%20combattant%20courageusement%20une%20horde%20massive%20de%20zombies%20et%20de%20creepers%20la%20nuit.%20Un%20%C3%A9norme%20Creeper%20terrifiant%20se%20profile%20%C3%A0%20l'arri%C3%A8re-plan%2C%20sur%20le%20point%20d'exploser.%20Le%20texte%20%C2%AB%20I%20Almost%20Lost%20EVERYTHING!%20%C2%BB%20est%20dans%20une%20police%20de%20caract%C3%A8res%20pix%C3%A9lis%C3%A9e%2C%20de%20style%20Minecraft.%20Cela%20n%C3%A9cessite%20une%20connaissance%20de%20l'esth%C3%A9tique%20sp%C3%A9cifique%20du%20jeu%20et%20la%20capacit%C3%A9%20%C3%A0%20cr%C3%A9er%20des%20sc%C3%A8nes%20dramatiques%20et%20pleines%20d'action.%20%E2%80%93ar%2016%3A9)**
+
+---
+
+### No. 32: Miniature de vlog de voyage à Bali
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1185,15 +1152,11 @@ Une miniature époustouflante pour un vlog de voyage sur Bali. L'image est une m
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20miniature%20%C3%A9poustouflante%20pour%20un%20vlog%20de%20voyage%20sur%20Bali.%20L'image%20est%20une%20magnifique%20prise%20de%20vue%20vibrante%20du%20YouTuber%20nageant%20dans%20une%20piscine%20%C3%A0%20d%C3%A9bordement%20cristalline%20qui%20surplombe%20une%20jungle%20luxuriante%20et%20verdoyante.%20Les%20couleurs%20sont%20hyper-satur%C3%A9es%2C%20rendant%20l'eau%20incroyablement%20bleue%20et%20la%20jungle%20intens%C3%A9ment%20verte.%20Le%20titre%20de%20la%20vid%C3%A9o%2C%20%C2%AB%20J'ai%20trouv%C3%A9%20le%20PARADIS%20!%20%C2%BB%2C%20est%20dans%20une%20police%20blanche%20et%20%C3%A9pur%C3%A9e.%20Cela%20met%20en%20valeur%20le%20rendu%20environnemental%20avanc%C3%A9%20et%20le%20contr%C3%B4le%20des%20couleurs%20pour%20un%20contenu%20aspirationnel.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20miniature%20%C3%A9poustouflante%20pour%20un%20vlog%20de%20voyage%20sur%20Bali.%20L'image%20est%20une%20magnifique%20prise%20de%20vue%20vibrante%20du%20YouTuber%20nageant%20dans%20une%20piscine%20%C3%A0%20d%C3%A9bordement%20cristalline%20qui%20surplombe%20une%20jungle%20luxuriante%20et%20verdoyante.%20Les%20couleurs%20sont%20hyper-satur%C3%A9es%2C%20rendant%20l'eau%20incroyablement%20bleue%20et%20la%20jungle%20intens%C3%A9ment%20verte.%20Le%20titre%20de%20la%20vid%C3%A9o%2C%20%C2%AB%20J'ai%20trouv%C3%A9%20le%20PARADIS%20!%20%C2%BB%2C%20est%20dans%20une%20police%20blanche%20et%20%C3%A9pur%C3%A9e.%20Cela%20met%20en%20valeur%20le%20rendu%20environnemental%20avanc%C3%A9%20et%20le%20contr%C3%B4le%20des%20couleurs%20pour%20un%20contenu%20aspirationnel.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 29: Miniature d'évaluation de smartphone
-=======
-### No. 32: Miniature d'évaluation de smartphone
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 33: Miniature d'évaluation de smartphone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1222,15 +1185,11 @@ Une miniature pour une critique du dernier smartphone. Le téléphone est tenu d
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20miniature%20pour%20une%20critique%20du%20dernier%20smartphone.%20Le%20t%C3%A9l%C3%A9phone%20est%20tenu%20dans%20une%20main%2C%20inclin%C3%A9%20pour%20montrer%20son%20%C3%A9cran%20%C3%A9l%C3%A9gant%20et%20son%20ensemble%20de%20cam%C3%A9ras.%20D'un%20c%C3%B4t%C3%A9%20du%20t%C3%A9l%C3%A9phone%2C%20une%20grande%20ic%C3%B4ne%20de%20coche%20verte%20%3B%20de%20l'autre%2C%20une%20grande%20ic%C3%B4ne%20de%20croix%20rouge.%20Le%20visage%20du%20YouTuber%20est%20dans%20le%20coin%2C%20avec%20une%20expression%20choqu%C3%A9e%20et%20surprise.%20L'arri%C3%A8re-plan%20est%20un%20motif%20de%20grille%20propre%20et%20technologique.%20Cela%20d%C3%A9montre%20un%20rendu%20pr%C3%A9cis%20du%20produit%20et%20la%20capacit%C3%A9%20%C3%A0%20cr%C3%A9er%20un%20r%C3%A9cit%20clair%20de%20%C2%AB%20vs.%20%C2%BB.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20miniature%20pour%20une%20critique%20du%20dernier%20smartphone.%20Le%20t%C3%A9l%C3%A9phone%20est%20tenu%20dans%20une%20main%2C%20inclin%C3%A9%20pour%20montrer%20son%20%C3%A9cran%20%C3%A9l%C3%A9gant%20et%20son%20ensemble%20de%20cam%C3%A9ras.%20D'un%20c%C3%B4t%C3%A9%20du%20t%C3%A9l%C3%A9phone%2C%20une%20grande%20ic%C3%B4ne%20de%20coche%20verte%20%3B%20de%20l'autre%2C%20une%20grande%20ic%C3%B4ne%20de%20croix%20rouge.%20Le%20visage%20du%20YouTuber%20est%20dans%20le%20coin%2C%20avec%20une%20expression%20choqu%C3%A9e%20et%20surprise.%20L'arri%C3%A8re-plan%20est%20un%20motif%20de%20grille%20propre%20et%20technologique.%20Cela%20d%C3%A9montre%20un%20rendu%20pr%C3%A9cis%20du%20produit%20et%20la%20capacit%C3%A9%20%C3%A0%20cr%C3%A9er%20un%20r%C3%A9cit%20clair%20de%20%C2%AB%20vs.%20%C2%BB.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 30: Miniature du défi « Essayez de ne pas rire »
-=======
-### No. 33: Miniature du défi « Essayez de ne pas rire »
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 34: Miniature du défi « Essayez de ne pas rire »
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1259,15 +1218,11 @@ Une miniature très énergique pour une vidéo « Défi : Ne pas rire ». Elle p
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20miniature%20tr%C3%A8s%20%C3%A9nergique%20pour%20une%20vid%C3%A9o%20%C2%AB%20D%C3%A9fi%20%3A%20Ne%20pas%20rire%20%C2%BB.%20Elle%20pr%C3%A9sente%20un%20gros%20plan%20d'un%20YouTubeur%20avec%20une%20expression%20exag%C3%A9r%C3%A9e%20de%20rire%20aux%20larmes%2C%20des%20larmes%20jaillissant%20de%20ses%20yeux.%20L'arri%C3%A8re-plan%20est%20un%20d%C3%A9grad%C3%A9%20radial%20lumineux%20et%20explosif%20de%20jaune%20et%20d'orange.%20Un%20texte%20blanc%20en%20gras%20avec%20un%20contour%20noir%20dit%20%C2%AB%20IMPOSSIBLE%20!%20%C2%BB.%20Cela%20n%C3%A9cessite%20la%20capacit%C3%A9%20de%20g%C3%A9n%C3%A9rer%20des%20%C3%A9motions%20sp%C3%A9cifiques%20et%20exag%C3%A9r%C3%A9es%20ainsi%20qu'un%20texte%20%C3%A0%20fort%20impact.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20miniature%20tr%C3%A8s%20%C3%A9nergique%20pour%20une%20vid%C3%A9o%20%C2%AB%20D%C3%A9fi%20%3A%20Ne%20pas%20rire%20%C2%BB.%20Elle%20pr%C3%A9sente%20un%20gros%20plan%20d'un%20YouTubeur%20avec%20une%20expression%20exag%C3%A9r%C3%A9e%20de%20rire%20aux%20larmes%2C%20des%20larmes%20jaillissant%20de%20ses%20yeux.%20L'arri%C3%A8re-plan%20est%20un%20d%C3%A9grad%C3%A9%20radial%20lumineux%20et%20explosif%20de%20jaune%20et%20d'orange.%20Un%20texte%20blanc%20en%20gras%20avec%20un%20contour%20noir%20dit%20%C2%AB%20IMPOSSIBLE%20!%20%C2%BB.%20Cela%20n%C3%A9cessite%20la%20capacit%C3%A9%20de%20g%C3%A9n%C3%A9rer%20des%20%C3%A9motions%20sp%C3%A9cifiques%20et%20exag%C3%A9r%C3%A9es%20ainsi%20qu'un%20texte%20%C3%A0%20fort%20impact.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 31: Schéma d'architecture d'un système d'application web
-=======
-### No. 34: Schéma d'architecture d'un système d'application web
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 35: Schéma d'architecture d'un système d'application web
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1296,15 +1251,11 @@ Un diagramme d'architecture système de haut niveau pour une application web mod
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20diagramme%20d'architecture%20syst%C3%A8me%20de%20haut%20niveau%20pour%20une%20application%20web%20moderne%2C%20destin%C3%A9%20%C3%A0%20une%20pr%C3%A9sentation%20aux%20parties%20prenantes.%20Le%20diagramme%20doit%20utiliser%20des%20ic%C3%B4nes%20pour%20repr%C3%A9senter%20les%20diff%C3%A9rents%20composants%20tels%20que%20le%20navigateur%20de%20l'utilisateur%2C%20un%20%C3%A9quilibreur%20de%20charge%2C%20des%20serveurs%20web%2C%20une%20base%20de%20donn%C3%A9es%20et%20des%20API%20tierces.%20Les%20connexions%20entre%20eux%20doivent%20montrer%20le%20flux%20de%20donn%C3%A9es.%20Le%20style%20est%20%C3%A9pur%C3%A9%2C%20professionnel%20et%20facile%20%C3%A0%20comprendre%2C%20m%C3%AAme%20pour%20un%20public%20non%20technique%2C%20d%C3%A9montrant%20la%20capacit%C3%A9%20%C3%A0%20pr%C3%A9senter%20des%20informations%20techniques%20complexes%20de%20mani%C3%A8re%20claire.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Un%20diagramme%20d'architecture%20syst%C3%A8me%20de%20haut%20niveau%20pour%20une%20application%20web%20moderne%2C%20destin%C3%A9%20%C3%A0%20une%20pr%C3%A9sentation%20aux%20parties%20prenantes.%20Le%20diagramme%20doit%20utiliser%20des%20ic%C3%B4nes%20pour%20repr%C3%A9senter%20les%20diff%C3%A9rents%20composants%20tels%20que%20le%20navigateur%20de%20l'utilisateur%2C%20un%20%C3%A9quilibreur%20de%20charge%2C%20des%20serveurs%20web%2C%20une%20base%20de%20donn%C3%A9es%20et%20des%20API%20tierces.%20Les%20connexions%20entre%20eux%20doivent%20montrer%20le%20flux%20de%20donn%C3%A9es.%20Le%20style%20est%20%C3%A9pur%C3%A9%2C%20professionnel%20et%20facile%20%C3%A0%20comprendre%2C%20m%C3%AAme%20pour%20un%20public%20non%20technique%2C%20d%C3%A9montrant%20la%20capacit%C3%A9%20%C3%A0%20pr%C3%A9senter%20des%20informations%20techniques%20complexes%20de%20mani%C3%A8re%20claire.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 32: Fiche de recette illustrée pour pâtes maison
-=======
-### No. 35: Fiche de recette illustrée pour pâtes maison
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 36: Fiche de recette illustrée pour pâtes maison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1333,15 +1284,11 @@ Une fiche recette magnifiquement illustrée pour faire des pâtes maison. La moi
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20fiche%20recette%20magnifiquement%20illustr%C3%A9e%20pour%20faire%20des%20p%C3%A2tes%20maison.%20La%20moiti%C3%A9%20sup%C3%A9rieure%20est%20une%20charmante%20illustration%20du%20plat%20fini%20(par%20exemple%2C%20des%20fettuccine%20au%20basilic).%20La%20moiti%C3%A9%20inf%C3%A9rieure%20%C3%A9num%C3%A8re%20les%20ingr%C3%A9dients%20et%20les%20%C3%A9tapes%2C%20avec%20de%20petites%20ic%C3%B4nes%20pour%20chaque%20ingr%C3%A9dient%20(farine%2C%20%C5%93uf%2C%20sel).%20Le%20style%20est%20chaleureux%20et%20rustique%2C%20comme%20une%20page%20d'un%20livre%20de%20recettes%20familial%20manuscrit.%20%E2%80%93ar%203%3A4)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20fiche%20recette%20magnifiquement%20illustr%C3%A9e%20pour%20faire%20des%20p%C3%A2tes%20maison.%20La%20moiti%C3%A9%20sup%C3%A9rieure%20est%20une%20charmante%20illustration%20du%20plat%20fini%20(par%20exemple%2C%20des%20fettuccine%20au%20basilic).%20La%20moiti%C3%A9%20inf%C3%A9rieure%20%C3%A9num%C3%A8re%20les%20ingr%C3%A9dients%20et%20les%20%C3%A9tapes%2C%20avec%20de%20petites%20ic%C3%B4nes%20pour%20chaque%20ingr%C3%A9dient%20(farine%2C%20%C5%93uf%2C%20sel).%20Le%20style%20est%20chaleureux%20et%20rustique%2C%20comme%20une%20page%20d'un%20livre%20de%20recettes%20familial%20manuscrit.%20%E2%80%93ar%203%3A4)**
 
 ---
 
-<<<<<<< HEAD
-### No. 33: Guide de sécurité sur la posture au travail
-=======
-### No. 36: Guide de sécurité sur la posture au travail
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 37: Guide de sécurité sur la posture au travail
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1370,15 +1317,11 @@ Un guide de sécurité visuel pour un lieu de travail, illustrant la posture cor
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20guide%20de%20s%C3%A9curit%C3%A9%20visuel%20pour%20un%20lieu%20de%20travail%2C%20illustrant%20la%20posture%20correcte%20pour%20s'asseoir%20%C3%A0%20un%20bureau%20afin%20d'%C3%A9viter%20les%20maux%20de%20dos.%20L'infographie%20doit%20montrer%20deux%20figures%20%3A%20l'une%20dans%20une%20posture%20incorrecte%2C%20avachie%2C%20avec%20des%20croix%20rouges%2C%20et%20l'autre%20dans%20une%20posture%20correcte%20et%20ergonomique%2C%20avec%20des%20coches%20vertes.%20Le%20style%20doit%20%C3%AAtre%20simple%2C%20clair%20et%20universellement%20compr%C3%A9hensible%2C%20adapt%C3%A9%20aux%20supports%20de%20formation%20en%20entreprise.%20%E2%80%93ar%203%3A4)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Un%20guide%20de%20s%C3%A9curit%C3%A9%20visuel%20pour%20un%20lieu%20de%20travail%2C%20illustrant%20la%20posture%20correcte%20pour%20s'asseoir%20%C3%A0%20un%20bureau%20afin%20d'%C3%A9viter%20les%20maux%20de%20dos.%20L'infographie%20doit%20montrer%20deux%20figures%20%3A%20l'une%20dans%20une%20posture%20incorrecte%2C%20avachie%2C%20avec%20des%20croix%20rouges%2C%20et%20l'autre%20dans%20une%20posture%20correcte%20et%20ergonomique%2C%20avec%20des%20coches%20vertes.%20Le%20style%20doit%20%C3%AAtre%20simple%2C%20clair%20et%20universellement%20compr%C3%A9hensible%2C%20adapt%C3%A9%20aux%20supports%20de%20formation%20en%20entreprise.%20%E2%80%93ar%203%3A4)**
 
 ---
 
-<<<<<<< HEAD
-### No. 34: Schéma de fonctionnement d'une imprimante 3D
-=======
-### No. 37: Schéma de fonctionnement d'une imprimante 3D
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 38: Schéma de fonctionnement d'une imprimante 3D
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1407,15 +1350,11 @@ Un diagramme clair et simple expliquant le fonctionnement d'une imprimante 3D (t
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20diagramme%20clair%20et%20simple%20expliquant%20le%20fonctionnement%20d'une%20imprimante%203D%20(technologie%20FDM).%20Le%20diagramme%20doit%20montrer%20le%20filament%20aliment%C3%A9%20dans%20l'extrudeur%2C%20l'%C3%A9l%C3%A9ment%20chauffant%20et%20la%20buse%20d%C3%A9posant%20le%20mat%C3%A9riau%20couche%20par%20couche%20pour%20construire%20un%20objet.%20Le%20style%20doit%20%C3%AAtre%20une%20illustration%20%C3%A9pur%C3%A9e%2C%20d'aspect%203D%2C%20avec%20des%20fl%C3%A8ches%20indiquant%20le%20flux%20du%20processus%2C%20d%C3%A9montrant%20la%20capacit%C3%A9%20%C3%A0%20expliquer%20une%20technologie%20complexe%20de%20mani%C3%A8re%20simple.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Un%20diagramme%20clair%20et%20simple%20expliquant%20le%20fonctionnement%20d'une%20imprimante%203D%20(technologie%20FDM).%20Le%20diagramme%20doit%20montrer%20le%20filament%20aliment%C3%A9%20dans%20l'extrudeur%2C%20l'%C3%A9l%C3%A9ment%20chauffant%20et%20la%20buse%20d%C3%A9posant%20le%20mat%C3%A9riau%20couche%20par%20couche%20pour%20construire%20un%20objet.%20Le%20style%20doit%20%C3%AAtre%20une%20illustration%20%C3%A9pur%C3%A9e%2C%20d'aspect%203D%2C%20avec%20des%20fl%C3%A8ches%20indiquant%20le%20flux%20du%20processus%2C%20d%C3%A9montrant%20la%20capacit%C3%A9%20%C3%A0%20expliquer%20une%20technologie%20complexe%20de%20mani%C3%A8re%20simple.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 35: Carte isométrique du parc national
-=======
-### No. 38: Carte isométrique du parc national
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 39: Carte isométrique du parc national
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1444,15 +1383,11 @@ Une carte illustrée isométrique et stylisée d'un parc national. La carte doit
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20carte%20illustr%C3%A9e%20isom%C3%A9trique%20et%20stylis%C3%A9e%20d'un%20parc%20national.%20La%20carte%20doit%20mettre%20en%20%C3%A9vidence%20les%20sentiers%20cl%C3%A9s%2C%20les%20points%20d'int%C3%A9r%C3%AAt%20(comme%20les%20chutes%20d'eau%20et%20les%20points%20de%20vue)%2C%20les%20centres%20d'accueil%20des%20visiteurs%20et%20les%20aires%20de%20camping.%20Le%20style%20doit%20%C3%AAtre%20convivial%20et%20invitant%2C%20avec%20de%20petites%20illustrations%20d'animaux%20qui%20vivent%20dans%20le%20parc.%20Ceci%20est%20destin%C3%A9%20%C3%A0%20une%20brochure%20ou%20un%20site%20web%20du%20parc%2C%20n%C3%A9cessitant%20un%20m%C3%A9lange%20de%20pr%C3%A9cision%20g%C3%A9ographique%20et%20d'illustration%20artistique.%20%E2%80%93ar%204%3A3)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20carte%20illustr%C3%A9e%20isom%C3%A9trique%20et%20stylis%C3%A9e%20d'un%20parc%20national.%20La%20carte%20doit%20mettre%20en%20%C3%A9vidence%20les%20sentiers%20cl%C3%A9s%2C%20les%20points%20d'int%C3%A9r%C3%AAt%20(comme%20les%20chutes%20d'eau%20et%20les%20points%20de%20vue)%2C%20les%20centres%20d'accueil%20des%20visiteurs%20et%20les%20aires%20de%20camping.%20Le%20style%20doit%20%C3%AAtre%20convivial%20et%20invitant%2C%20avec%20de%20petites%20illustrations%20d'animaux%20qui%20vivent%20dans%20le%20parc.%20Ceci%20est%20destin%C3%A9%20%C3%A0%20une%20brochure%20ou%20un%20site%20web%20du%20parc%2C%20n%C3%A9cessitant%20un%20m%C3%A9lange%20de%20pr%C3%A9cision%20g%C3%A9ographique%20et%20d'illustration%20artistique.%20%E2%80%93ar%204%3A3)**
 
 ---
 
-<<<<<<< HEAD
-### No. 36: Conception solaire passive Blueprint
-=======
-### No. 39: Conception solaire passive Blueprint
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 40: Conception solaire passive Blueprint
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1481,15 +1416,11 @@ Une section d'un dessin de style plan expliquant le concept de conception solair
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20section%20d'un%20dessin%20de%20style%20plan%20expliquant%20le%20concept%20de%20conception%20solaire%20passive%20dans%20une%20maison.%20Le%20dessin%20doit%20utiliser%20des%20lignes%20blanches%20sur%20un%20fond%20bleu%2C%20montrant%20comment%20l'angle%20du%20soleil%20en%20hiver%20et%20en%20%C3%A9t%C3%A9%20affecte%20le%20chauffage%20et%20le%20refroidissement%20de%20la%20maison%20gr%C3%A2ce%20au%20positionnement%20des%20fen%C3%AAtres%20et%20des%20d%C3%A9bords%20de%20toit.%20Cela%20exige%20une%20pr%C3%A9cision%20technique%20et%20une%20compr%C3%A9hension%20des%20principes%20architecturaux%20et%20physiques.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20section%20d'un%20dessin%20de%20style%20plan%20expliquant%20le%20concept%20de%20conception%20solaire%20passive%20dans%20une%20maison.%20Le%20dessin%20doit%20utiliser%20des%20lignes%20blanches%20sur%20un%20fond%20bleu%2C%20montrant%20comment%20l'angle%20du%20soleil%20en%20hiver%20et%20en%20%C3%A9t%C3%A9%20affecte%20le%20chauffage%20et%20le%20refroidissement%20de%20la%20maison%20gr%C3%A2ce%20au%20positionnement%20des%20fen%C3%AAtres%20et%20des%20d%C3%A9bords%20de%20toit.%20Cela%20exige%20une%20pr%C3%A9cision%20technique%20et%20une%20compr%C3%A9hension%20des%20principes%20architecturaux%20et%20physiques.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 37: Illustration scientifique d'une cellule végétale
-=======
-### No. 40: Illustration scientifique d'une cellule végétale
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 41: Illustration scientifique d'une cellule végétale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1518,15 +1449,11 @@ Une illustration scientifique détaillée d'une cellule végétale, dans le styl
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20illustration%20scientifique%20d%C3%A9taill%C3%A9e%20d'une%20cellule%20v%C3%A9g%C3%A9tale%2C%20dans%20le%20style%20d'un%20manuel%20de%20biologie%20moderne.%20L'illustration%20doit%20%C3%AAtre%20une%20coupe%20transversale%20en%203D%2C%20montrant%20et%20%C3%A9tiquetant%20clairement%20la%20paroi%20cellulaire%2C%20la%20membrane%20cellulaire%2C%20le%20noyau%2C%20les%20chloroplastes%20et%20les%20autres%20organites.%20Les%20couleurs%20doivent%20%C3%AAtre%20claires%20et%20distinctes%20pour%20chaque%20organite.%20Cela%20n%C3%A9cessite%20un%20rendu%20pr%C3%A9cis%20et%20bas%C3%A9%20sur%20les%20connaissances%20pour%20l'enseignement%20scientifique.%20%E2%80%93ar%204%3A3)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20illustration%20scientifique%20d%C3%A9taill%C3%A9e%20d'une%20cellule%20v%C3%A9g%C3%A9tale%2C%20dans%20le%20style%20d'un%20manuel%20de%20biologie%20moderne.%20L'illustration%20doit%20%C3%AAtre%20une%20coupe%20transversale%20en%203D%2C%20montrant%20et%20%C3%A9tiquetant%20clairement%20la%20paroi%20cellulaire%2C%20la%20membrane%20cellulaire%2C%20le%20noyau%2C%20les%20chloroplastes%20et%20les%20autres%20organites.%20Les%20couleurs%20doivent%20%C3%AAtre%20claires%20et%20distinctes%20pour%20chaque%20organite.%20Cela%20n%C3%A9cessite%20un%20rendu%20pr%C3%A9cis%20et%20bas%C3%A9%20sur%20les%20connaissances%20pour%20l'enseignement%20scientifique.%20%E2%80%93ar%204%3A3)**
 
 ---
 
-<<<<<<< HEAD
-### No. 38: Visualisation des données sur la déforestation mondiale
-=======
-### No. 41: Visualisation des données sur la déforestation mondiale
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 42: Visualisation des données sur la déforestation mondiale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1555,15 +1482,11 @@ Une visualisation de données esthétique et informative pour un rapport sur la 
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20visualisation%20de%20donn%C3%A9es%20esth%C3%A9tique%20et%20informative%20pour%20un%20rapport%20sur%20la%20d%C3%A9forestation%20mondiale.%20Le%20visuel%20principal%20pourrait%20%C3%AAtre%20une%20carte%20du%20monde%20o%C3%B9%20les%20pays%20sont%20color%C3%A9s%20en%20fonction%20de%20leur%20taux%20de%20perte%20foresti%C3%A8re%2C%20ou%20une%20s%C3%A9rie%20de%20graphiques%20stylis%C3%A9s%20d'arbres%20o%C3%B9%20le%20nombre%20de%20feuilles%20repr%C3%A9sente%20la%20couverture%20foresti%C3%A8re%20restante.%20Le%20design%20doit%20%C3%AAtre%20percutant%20et%20%C3%A9motionnellement%20r%C3%A9sonnant%2C%20et%20non%20pas%20un%20simple%20graphique%20aride%2C%20d%C3%A9montrant%20la%20capacit%C3%A9%20%C3%A0%20transformer%20des%20donn%C3%A9es%20en%20un%20r%C3%A9cit%20visuel%20captivant.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20visualisation%20de%20donn%C3%A9es%20esth%C3%A9tique%20et%20informative%20pour%20un%20rapport%20sur%20la%20d%C3%A9forestation%20mondiale.%20Le%20visuel%20principal%20pourrait%20%C3%AAtre%20une%20carte%20du%20monde%20o%C3%B9%20les%20pays%20sont%20color%C3%A9s%20en%20fonction%20de%20leur%20taux%20de%20perte%20foresti%C3%A8re%2C%20ou%20une%20s%C3%A9rie%20de%20graphiques%20stylis%C3%A9s%20d'arbres%20o%C3%B9%20le%20nombre%20de%20feuilles%20repr%C3%A9sente%20la%20couverture%20foresti%C3%A8re%20restante.%20Le%20design%20doit%20%C3%AAtre%20percutant%20et%20%C3%A9motionnellement%20r%C3%A9sonnant%2C%20et%20non%20pas%20un%20simple%20graphique%20aride%2C%20d%C3%A9montrant%20la%20capacit%C3%A9%20%C3%A0%20transformer%20des%20donn%C3%A9es%20en%20un%20r%C3%A9cit%20visuel%20captivant.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 39: Illustration de l'appareil photo reflex numérique en vue éclatée
-=======
-### No. 42: Illustration de l'appareil photo reflex numérique en vue éclatée
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 43: Illustration de l'appareil photo reflex numérique en vue éclatée
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1592,15 +1515,11 @@ Une illustration technique en vue éclatée d'un appareil photo reflex numériqu
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20illustration%20technique%20en%20vue%20%C3%A9clat%C3%A9e%20d'un%20appareil%20photo%20reflex%20num%C3%A9rique.%20Chaque%20composant%20de%20l'appareil%20(objectif%2C%20bo%C3%AEtier%2C%20capteur%2C%20miroir%2C%20batterie)%20doit%20%C3%AAtre%20s%C3%A9par%C3%A9%20mais%20align%C3%A9%2C%20montrant%20comment%20ils%20s'assemblent.%20Le%20style%20doit%20%C3%AAtre%20un%20rendu%203D%20net%20et%20pr%C3%A9cis%20avec%20des%20%C3%A9tiquettes%20pour%20les%20pi%C3%A8ces%20cl%C3%A9s.%20Cela%20d%C3%A9montre%20une%20compr%C3%A9hension%20spatiale%20avanc%C3%A9e%20et%20la%20capacit%C3%A9%20%C3%A0%20cr%C3%A9er%20des%20diagrammes%20techniques%20complexes%20pour%20l'ing%C3%A9nierie%20et%20la%20conception%20de%20produits.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20illustration%20technique%20en%20vue%20%C3%A9clat%C3%A9e%20d'un%20appareil%20photo%20reflex%20num%C3%A9rique.%20Chaque%20composant%20de%20l'appareil%20(objectif%2C%20bo%C3%AEtier%2C%20capteur%2C%20miroir%2C%20batterie)%20doit%20%C3%AAtre%20s%C3%A9par%C3%A9%20mais%20align%C3%A9%2C%20montrant%20comment%20ils%20s'assemblent.%20Le%20style%20doit%20%C3%AAtre%20un%20rendu%203D%20net%20et%20pr%C3%A9cis%20avec%20des%20%C3%A9tiquettes%20pour%20les%20pi%C3%A8ces%20cl%C3%A9s.%20Cela%20d%C3%A9montre%20une%20compr%C3%A9hension%20spatiale%20avanc%C3%A9e%20et%20la%20capacit%C3%A9%20%C3%A0%20cr%C3%A9er%20des%20diagrammes%20techniques%20complexes%20pour%20l'ing%C3%A9nierie%20et%20la%20conception%20de%20produits.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 40: Comparaison : Voitures électriques ou à essence
-=======
-### No. 43: Comparaison : Voitures électriques ou à essence
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 44: Comparaison : Voitures électriques ou à essence
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1629,15 +1548,11 @@ Un tableau comparatif visuel (une infographie « vs. ») comparant les voitures 
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20tableau%20comparatif%20visuel%20(une%20infographie%20%C2%AB%20vs.%20%C2%BB)%20comparant%20les%20voitures%20%C3%A9lectriques%20et%20les%20voitures%20%C3%A0%20essence.%20Le%20tableau%20doit%20comporter%20deux%20colonnes%2C%20avec%20des%20ic%C3%B4nes%20et%20un%20texte%20concis%20les%20comparant%20sur%20des%20facteurs%20tels%20que%20le%20co%C3%BBt%20du%20carburant%2C%20l'impact%20environnemental%2C%20l'entretien%20et%20les%20performances.%20Le%20design%20doit%20%C3%AAtre%20%C3%A9pur%C3%A9%2C%20moderne%20et%20facile%20%C3%A0%20comprendre%20en%20un%20coup%20d'%C5%93il%2C%20d%C3%A9montrant%20la%20capacit%C3%A9%20%C3%A0%20organiser%20et%20pr%C3%A9senter%20visuellement%20des%20donn%C3%A9es%20comparatives.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Un%20tableau%20comparatif%20visuel%20(une%20infographie%20%C2%AB%20vs.%20%C2%BB)%20comparant%20les%20voitures%20%C3%A9lectriques%20et%20les%20voitures%20%C3%A0%20essence.%20Le%20tableau%20doit%20comporter%20deux%20colonnes%2C%20avec%20des%20ic%C3%B4nes%20et%20un%20texte%20concis%20les%20comparant%20sur%20des%20facteurs%20tels%20que%20le%20co%C3%BBt%20du%20carburant%2C%20l'impact%20environnemental%2C%20l'entretien%20et%20les%20performances.%20Le%20design%20doit%20%C3%AAtre%20%C3%A9pur%C3%A9%2C%20moderne%20et%20facile%20%C3%A0%20comprendre%20en%20un%20coup%20d'%C5%93il%2C%20d%C3%A9montrant%20la%20capacit%C3%A9%20%C3%A0%20organiser%20et%20pr%C3%A9senter%20visuellement%20des%20donn%C3%A9es%20comparatives.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 41: Guide du café filtre (Pour-Over)
-=======
-### No. 44: Guide du café filtre (Pour-Over)
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 45: Guide du café filtre (Pour-Over)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1666,15 +1581,11 @@ Un guide visuel simple, étape par étape, sur « Comment préparer la tasse de 
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20guide%20visuel%20simple%2C%20%C3%A9tape%20par%20%C3%A9tape%2C%20sur%20%C2%AB%20Comment%20pr%C3%A9parer%20la%20tasse%20de%20caf%C3%A9%20parfaite%20avec%20la%20m%C3%A9thode%20Pour-Over%20%C2%BB.%20L'infographie%20doit%20comporter%206%20%C3%A0%208%20%C3%A9tapes%2C%20chacune%20avec%20une%20ic%C3%B4ne%20%C3%A9pur%C3%A9e%20et%20une%20instruction%20courte%20et%20claire%20(par%20exemple%2C%20%C2%AB%201.%20Faire%20bouillir%20l'eau%20%C2%BB%2C%20%C2%AB%202.%20Moudre%20les%20grains%20%C2%BB).%20Le%20style%20doit%20%C3%AAtre%20minimaliste%20et%20bas%C3%A9%20sur%20des%20ic%C3%B4nes%2C%20avec%20une%20palette%20de%20couleurs%20chaudes.%20Ceci%20est%20destin%C3%A9%20%C3%A0%20un%20blog%20de%20style%20de%20vie%20ou%20%C3%A0%20un%20caf%C3%A9%2C%20n%C3%A9cessitant%20des%20instructions%20visuelles%20claires%20et%20s%C3%A9quentielles.%20%E2%80%93ar%201%3A2)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Un%20guide%20visuel%20simple%2C%20%C3%A9tape%20par%20%C3%A9tape%2C%20sur%20%C2%AB%20Comment%20pr%C3%A9parer%20la%20tasse%20de%20caf%C3%A9%20parfaite%20avec%20la%20m%C3%A9thode%20Pour-Over%20%C2%BB.%20L'infographie%20doit%20comporter%206%20%C3%A0%208%20%C3%A9tapes%2C%20chacune%20avec%20une%20ic%C3%B4ne%20%C3%A9pur%C3%A9e%20et%20une%20instruction%20courte%20et%20claire%20(par%20exemple%2C%20%C2%AB%201.%20Faire%20bouillir%20l'eau%20%C2%BB%2C%20%C2%AB%202.%20Moudre%20les%20grains%20%C2%BB).%20Le%20style%20doit%20%C3%AAtre%20minimaliste%20et%20bas%C3%A9%20sur%20des%20ic%C3%B4nes%2C%20avec%20une%20palette%20de%20couleurs%20chaudes.%20Ceci%20est%20destin%C3%A9%20%C3%A0%20un%20blog%20de%20style%20de%20vie%20ou%20%C3%A0%20un%20caf%C3%A9%2C%20n%C3%A9cessitant%20des%20instructions%20visuelles%20claires%20et%20s%C3%A9quentielles.%20%E2%80%93ar%201%3A2)**
 
 ---
 
-<<<<<<< HEAD
-### No. 42: Schéma en coupe d'un volcan en 3D
-=======
-### No. 45: Schéma en coupe d'un volcan en 3D
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 46: Schéma en coupe d'un volcan en 3D
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1703,15 +1614,11 @@ Un diagramme en coupe 3D d'un volcan, montrant sa structure interne. Le diagramm
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20diagramme%20en%20coupe%203D%20d'un%20volcan%2C%20montrant%20sa%20structure%20interne.%20Le%20diagramme%20doit%20clairement%20%C3%A9tiqueter%20la%20chambre%20magmatique%2C%20le%20conduit%2C%20la%20chemin%C3%A9e%2C%20le%20crat%C3%A8re%20et%20les%20couches%20de%20cendres%20et%20de%20lave.%20Le%20style%20doit%20%C3%AAtre%20une%20illustration%20technique%20et%20%C3%A9pur%C3%A9e%2C%20avec%20des%20textures%20r%C3%A9alistes%20pour%20la%20roche%20et%20le%20magma.%20Cela%20d%C3%A9montre%20la%20capacit%C3%A9%20%C3%A0%20g%C3%A9n%C3%A9rer%20des%20visuels%20pr%C3%A9cis%20et%20bas%C3%A9s%20sur%20la%20science%20%C3%A0%20des%20fins%20%C3%A9ducatives%2C%20n%C3%A9cessitant%20un%20raisonnement%20spatial%20et%20scientifique%20solide.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Un%20diagramme%20en%20coupe%203D%20d'un%20volcan%2C%20montrant%20sa%20structure%20interne.%20Le%20diagramme%20doit%20clairement%20%C3%A9tiqueter%20la%20chambre%20magmatique%2C%20le%20conduit%2C%20la%20chemin%C3%A9e%2C%20le%20crat%C3%A8re%20et%20les%20couches%20de%20cendres%20et%20de%20lave.%20Le%20style%20doit%20%C3%AAtre%20une%20illustration%20technique%20et%20%C3%A9pur%C3%A9e%2C%20avec%20des%20textures%20r%C3%A9alistes%20pour%20la%20roche%20et%20le%20magma.%20Cela%20d%C3%A9montre%20la%20capacit%C3%A9%20%C3%A0%20g%C3%A9n%C3%A9rer%20des%20visuels%20pr%C3%A9cis%20et%20bas%C3%A9s%20sur%20la%20science%20%C3%A0%20des%20fins%20%C3%A9ducatives%2C%20n%C3%A9cessitant%20un%20raisonnement%20spatial%20et%20scientifique%20solide.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 43: Anatomie du cœur sur tableau noir vintage
-=======
-### No. 46: Anatomie du cœur sur tableau noir vintage
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 47: Anatomie du cœur sur tableau noir vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1740,15 +1647,11 @@ Une illustration détaillée, de style tableau noir vintage, expliquant l'anatom
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20illustration%20d%C3%A9taill%C3%A9e%2C%20de%20style%20tableau%20noir%20vintage%2C%20expliquant%20l'anatomie%20du%20c%C5%93ur%20humain.%20Le%20dessin%20doit%20%C3%AAtre%20r%C3%A9alis%C3%A9%20dans%20un%20style%20scientifique%20r%C3%A9aliste%2C%20avec%20de%20la%20craie%20blanche%20et%20color%C3%A9e.%20Toutes%20les%20diff%C3%A9rentes%20parties%20du%20c%C5%93ur%20(ventricules%2C%20oreillettes%2C%20valves)%20doivent%20%C3%AAtre%20clairement%20%C3%A9tiquet%C3%A9es%20avec%20une%20%C3%A9criture%20%C3%A9l%C3%A9gante%20et%20cursive.%20La%20texture%20du%20tableau%20noir%20et%20la%20poussi%C3%A8re%20de%20craie%20doivent%20%C3%AAtre%20visibles%2C%20d%C3%A9montrant%20une%20riche%20capacit%C3%A9%20de%20rendu%20bas%C3%A9e%20sur%20la%20connaissance.%20%E2%80%93ar%204%3A3)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20illustration%20d%C3%A9taill%C3%A9e%2C%20de%20style%20tableau%20noir%20vintage%2C%20expliquant%20l'anatomie%20du%20c%C5%93ur%20humain.%20Le%20dessin%20doit%20%C3%AAtre%20r%C3%A9alis%C3%A9%20dans%20un%20style%20scientifique%20r%C3%A9aliste%2C%20avec%20de%20la%20craie%20blanche%20et%20color%C3%A9e.%20Toutes%20les%20diff%C3%A9rentes%20parties%20du%20c%C5%93ur%20(ventricules%2C%20oreillettes%2C%20valves)%20doivent%20%C3%AAtre%20clairement%20%C3%A9tiquet%C3%A9es%20avec%20une%20%C3%A9criture%20%C3%A9l%C3%A9gante%20et%20cursive.%20La%20texture%20du%20tableau%20noir%20et%20la%20poussi%C3%A8re%20de%20craie%20doivent%20%C3%AAtre%20visibles%2C%20d%C3%A9montrant%20une%20riche%20capacit%C3%A9%20de%20rendu%20bas%C3%A9e%20sur%20la%20connaissance.%20%E2%80%93ar%204%3A3)**
 
 ---
 
-<<<<<<< HEAD
-### No. 44: Carte mentale dynamique pour la pensée créative
-=======
-### No. 47: Carte mentale dynamique pour la pensée créative
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 48: Carte mentale dynamique pour la pensée créative
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1777,15 +1680,11 @@ Une carte mentale vibrante et organique centrée sur le thème de la « Pensée 
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20carte%20mentale%20vibrante%20et%20organique%20centr%C3%A9e%20sur%20le%20th%C3%A8me%20de%20la%20%C2%AB%20Pens%C3%A9e%20cr%C3%A9ative%20%C2%BB.%20L'id%C3%A9e%20centrale%20est%20en%20forme%20de%20nuage%2C%20avec%20des%20branches%20s'%C3%A9tendant%20vers%20des%20sous-th%C3%A8mes%20comme%20le%20%C2%AB%20Brainstorming%20%C2%BB%2C%20la%20%C2%AB%20Pleine%20conscience%20%C2%BB%2C%20la%20%C2%AB%20Pens%C3%A9e%20divergente%20%C2%BB%20et%20la%20%C2%AB%20Collaboration%20%C2%BB.%20Chaque%20branche%20doit%20avoir%20une%20couleur%20unique%20et%20%C3%AAtre%20accompagn%C3%A9e%20d'une%20petite%20ic%C3%B4ne%20pertinente%20(par%20exemple%2C%20une%20ampoule%20pour%20les%20id%C3%A9es).%20Le%20texte%20doit%20%C3%AAtre%20dans%20une%20police%20manuscrite%20conviviale%2C%20pr%C3%A9sentant%20un%20outil%20%C3%A0%20des%20fins%20%C3%A9ducatives%20et%20de%20brainstorming.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20carte%20mentale%20vibrante%20et%20organique%20centr%C3%A9e%20sur%20le%20th%C3%A8me%20de%20la%20%C2%AB%20Pens%C3%A9e%20cr%C3%A9ative%20%C2%BB.%20L'id%C3%A9e%20centrale%20est%20en%20forme%20de%20nuage%2C%20avec%20des%20branches%20s'%C3%A9tendant%20vers%20des%20sous-th%C3%A8mes%20comme%20le%20%C2%AB%20Brainstorming%20%C2%BB%2C%20la%20%C2%AB%20Pleine%20conscience%20%C2%BB%2C%20la%20%C2%AB%20Pens%C3%A9e%20divergente%20%C2%BB%20et%20la%20%C2%AB%20Collaboration%20%C2%BB.%20Chaque%20branche%20doit%20avoir%20une%20couleur%20unique%20et%20%C3%AAtre%20accompagn%C3%A9e%20d'une%20petite%20ic%C3%B4ne%20pertinente%20(par%20exemple%2C%20une%20ampoule%20pour%20les%20id%C3%A9es).%20Le%20texte%20doit%20%C3%AAtre%20dans%20une%20police%20manuscrite%20conviviale%2C%20pr%C3%A9sentant%20un%20outil%20%C3%A0%20des%20fins%20%C3%A9ducatives%20et%20de%20brainstorming.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 45: Organigramme SDLC professionnel
-=======
-### No. 48: Organigramme SDLC professionnel
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 49: Organigramme SDLC professionnel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1814,15 +1713,11 @@ Un organigramme clair et professionnel illustrant le cycle de vie du développem
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20organigramme%20clair%20et%20professionnel%20illustrant%20le%20cycle%20de%20vie%20du%20d%C3%A9veloppement%20logiciel%20(SDLC).%20Le%20diagramme%20doit%20inclure%20des%20%C3%A9tapes%20telles%20que%20la%20planification%2C%20la%20conception%2C%20le%20d%C3%A9veloppement%2C%20les%20tests%2C%20le%20d%C3%A9ploiement%20et%20la%20maintenance%2C%20repr%C3%A9sent%C3%A9es%20par%20des%20formes%20distinctes%20(rectangles%2C%20losanges%20pour%20les%20d%C3%A9cisions).%20Les%20lignes%20de%20connexion%20doivent%20avoir%20des%20fl%C3%A8ches%20claires.%20La%20palette%20de%20couleurs%20doit%20%C3%AAtre%20institutionnelle%20et%20minimaliste%20(bleus%20et%20gris)%2C%20d%C3%A9montrant%20la%20capacit%C3%A9%20%C3%A0%20cr%C3%A9er%20des%20diagrammes%20clairs%20et%20structur%C3%A9s%20pour%20des%20contextes%20techniques%20et%20commerciaux.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Un%20organigramme%20clair%20et%20professionnel%20illustrant%20le%20cycle%20de%20vie%20du%20d%C3%A9veloppement%20logiciel%20(SDLC).%20Le%20diagramme%20doit%20inclure%20des%20%C3%A9tapes%20telles%20que%20la%20planification%2C%20la%20conception%2C%20le%20d%C3%A9veloppement%2C%20les%20tests%2C%20le%20d%C3%A9ploiement%20et%20la%20maintenance%2C%20repr%C3%A9sent%C3%A9es%20par%20des%20formes%20distinctes%20(rectangles%2C%20losanges%20pour%20les%20d%C3%A9cisions).%20Les%20lignes%20de%20connexion%20doivent%20avoir%20des%20fl%C3%A8ches%20claires.%20La%20palette%20de%20couleurs%20doit%20%C3%AAtre%20institutionnelle%20et%20minimaliste%20(bleus%20et%20gris)%2C%20d%C3%A9montrant%20la%20capacit%C3%A9%20%C3%A0%20cr%C3%A9er%20des%20diagrammes%20clairs%20et%20structur%C3%A9s%20pour%20des%20contextes%20techniques%20et%20commerciaux.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 46: Explication de la photosynthèse sur tableau blanc
-=======
-### No. 49: Explication de la photosynthèse sur tableau blanc
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 50: Explication de la photosynthèse sur tableau blanc
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1851,15 +1746,11 @@ Une explication détaillée, dessinée à la main sur un tableau blanc, du proce
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20explication%20d%C3%A9taill%C3%A9e%2C%20dessin%C3%A9e%20%C3%A0%20la%20main%20sur%20un%20tableau%20blanc%2C%20du%20processus%20de%20photosynth%C3%A8se%2C%20con%C3%A7ue%20pour%20un%20cours%20de%20biologie%20de%20lyc%C3%A9e.%20Le%20diagramme%20doit%20utiliser%20des%20ic%C3%B4nes%20simples%20(un%20soleil%2C%20une%20plante%2C%20des%20gouttelettes%20d'eau%2C%20des%20mol%C3%A9cules%20de%20CO2%2FO2)%20et%20des%20l%C3%A9gendes%20claires%2C%20%C3%A9crites%20%C3%A0%20la%20main.%20Des%20fl%C3%A8ches%20doivent%20clairement%20indiquer%20le%20flux%20d'%C3%A9nergie%20et%20de%20mati%C3%A8re.%20Le%20style%20doit%20%C3%AAtre%20%C3%A9pur%C3%A9%20et%20facile%20%C3%A0%20suivre%2C%20imitant%20le%20dessin%20d'un%20v%C3%A9ritable%20professeur%20sur%20un%20tableau%20blanc%2C%20d%C3%A9montrant%20un%20raisonnement%20visuel%20solide%20bas%C3%A9%20sur%20les%20connaissances%20et%20une%20application%20p%C3%A9dagogique.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20explication%20d%C3%A9taill%C3%A9e%2C%20dessin%C3%A9e%20%C3%A0%20la%20main%20sur%20un%20tableau%20blanc%2C%20du%20processus%20de%20photosynth%C3%A8se%2C%20con%C3%A7ue%20pour%20un%20cours%20de%20biologie%20de%20lyc%C3%A9e.%20Le%20diagramme%20doit%20utiliser%20des%20ic%C3%B4nes%20simples%20(un%20soleil%2C%20une%20plante%2C%20des%20gouttelettes%20d'eau%2C%20des%20mol%C3%A9cules%20de%20CO2%2FO2)%20et%20des%20l%C3%A9gendes%20claires%2C%20%C3%A9crites%20%C3%A0%20la%20main.%20Des%20fl%C3%A8ches%20doivent%20clairement%20indiquer%20le%20flux%20d'%C3%A9nergie%20et%20de%20mati%C3%A8re.%20Le%20style%20doit%20%C3%AAtre%20%C3%A9pur%C3%A9%20et%20facile%20%C3%A0%20suivre%2C%20imitant%20le%20dessin%20d'un%20v%C3%A9ritable%20professeur%20sur%20un%20tableau%20blanc%2C%20d%C3%A9montrant%20un%20raisonnement%20visuel%20solide%20bas%C3%A9%20sur%20les%20connaissances%20et%20une%20application%20p%C3%A9dagogique.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 47: Un bain serein pour prendre soin de soi
-=======
-### No. 50: Un bain serein pour prendre soin de soi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 51: Un bain serein pour prendre soin de soi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1888,15 +1779,11 @@ Une image sereine et apaisante pour un article sur le bien-être personnel et la
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20image%20sereine%20et%20apaisante%20pour%20un%20article%20sur%20le%20bien-%C3%AAtre%20personnel%20et%20la%20sant%C3%A9%20mentale.%20La%20sc%C3%A8ne%20repr%C3%A9sente%20un%20bain%20magnifiquement%20dessin%C3%A9%20avec%20des%20p%C3%A9tales%20de%20fleurs%20flottant%20sur%20l'eau.%20Un%20livre%20et%20une%20tasse%20de%20th%C3%A9%20sont%20pos%C3%A9s%20sur%20un%20plateau%20en%20bois%20reposant%20sur%20la%20baignoire.%20La%20pi%C3%A8ce%20est%20%C3%A9clair%C3%A9e%20par%20des%20bougies%2C%20cr%C3%A9ant%20une%20ambiance%20chaleureuse%20et%20relaxante.%20L'image%20doit%20%C3%AAtre%20une%20invitation%20visuelle%20%C3%A0%20la%20d%C3%A9tente%20et%20au%20l%C3%A2cher-prise%2C%20d%C3%A9montrant%20un%20%C3%A9clairage%20et%20un%20rendu%20atmosph%C3%A9rique%20avanc%C3%A9s.%20%E2%80%93ar%203%3A2)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20image%20sereine%20et%20apaisante%20pour%20un%20article%20sur%20le%20bien-%C3%AAtre%20personnel%20et%20la%20sant%C3%A9%20mentale.%20La%20sc%C3%A8ne%20repr%C3%A9sente%20un%20bain%20magnifiquement%20dessin%C3%A9%20avec%20des%20p%C3%A9tales%20de%20fleurs%20flottant%20sur%20l'eau.%20Un%20livre%20et%20une%20tasse%20de%20th%C3%A9%20sont%20pos%C3%A9s%20sur%20un%20plateau%20en%20bois%20reposant%20sur%20la%20baignoire.%20La%20pi%C3%A8ce%20est%20%C3%A9clair%C3%A9e%20par%20des%20bougies%2C%20cr%C3%A9ant%20une%20ambiance%20chaleureuse%20et%20relaxante.%20L'image%20doit%20%C3%AAtre%20une%20invitation%20visuelle%20%C3%A0%20la%20d%C3%A9tente%20et%20au%20l%C3%A2cher-prise%2C%20d%C3%A9montrant%20un%20%C3%A9clairage%20et%20un%20rendu%20atmosph%C3%A9rique%20avanc%C3%A9s.%20%E2%80%93ar%203%3A2)**
 
 ---
 
-<<<<<<< HEAD
-### No. 48: L'atelier en désordre de l'artiste
-=======
-### No. 51: L'atelier en désordre de l'artiste
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 52: L'atelier en désordre de l'artiste
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1925,15 +1812,11 @@ Une photo de l'atelier désordonné mais inspirant d'un artiste. Des toiles sont
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20photo%20de%20l'atelier%20d%C3%A9sordonn%C3%A9%20mais%20inspirant%20d'un%20artiste.%20Des%20toiles%20sont%20appuy%C3%A9es%20contre%20le%20mur%2C%20certaines%20termin%C3%A9es%2C%20d'autres%20en%20cours.%20Des%20pots%20de%20pinceaux%2C%20des%20tubes%20de%20peinture%20et%20des%20palettes%20sont%20%C3%A9parpill%C3%A9s.%20Le%20sol%20est%20%C3%A9clabouss%C3%A9%20de%20peinture.%20L'%C3%A9clairage%20est%20naturel%2C%20provenant%20d'une%20grande%20fen%C3%AAtre%20orient%C3%A9e%20au%20nord.%20L'image%20doit%20c%C3%A9l%C3%A9brer%20le%20processus%20cr%C3%A9atif%2C%20en%20montrant%20la%20capacit%C3%A9%20%C3%A0%20rendre%20des%20sc%C3%A8nes%20complexes%20et%20chaotiques%20avec%20un%20haut%20degr%C3%A9%20de%20r%C3%A9alisme%20et%20de%20coh%C3%A9rence.%20%E2%80%93ar%204%3A3)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20photo%20de%20l'atelier%20d%C3%A9sordonn%C3%A9%20mais%20inspirant%20d'un%20artiste.%20Des%20toiles%20sont%20appuy%C3%A9es%20contre%20le%20mur%2C%20certaines%20termin%C3%A9es%2C%20d'autres%20en%20cours.%20Des%20pots%20de%20pinceaux%2C%20des%20tubes%20de%20peinture%20et%20des%20palettes%20sont%20%C3%A9parpill%C3%A9s.%20Le%20sol%20est%20%C3%A9clabouss%C3%A9%20de%20peinture.%20L'%C3%A9clairage%20est%20naturel%2C%20provenant%20d'une%20grande%20fen%C3%AAtre%20orient%C3%A9e%20au%20nord.%20L'image%20doit%20c%C3%A9l%C3%A9brer%20le%20processus%20cr%C3%A9atif%2C%20en%20montrant%20la%20capacit%C3%A9%20%C3%A0%20rendre%20des%20sc%C3%A8nes%20complexes%20et%20chaotiques%20avec%20un%20haut%20degr%C3%A9%20de%20r%C3%A9alisme%20et%20de%20coh%C3%A9rence.%20%E2%80%93ar%204%3A3)**
 
 ---
 
-<<<<<<< HEAD
-### No. 49: Chocolat chaud de Noël douillet
-=======
-### No. 52: Chocolat chaud de Noël douillet
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 53: Chocolat chaud de Noël douillet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1962,15 +1845,11 @@ Une photo douillette et festive pour une publication Instagram sur le thème de 
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20photo%20douillette%20et%20festive%20pour%20une%20publication%20Instagram%20sur%20le%20th%C3%A8me%20de%20No%C3%ABl.%20La%20sc%C3%A8ne%20est%20un%20gros%20plan%20d'une%20personne%20tenant%20une%20grande%20tasse%20de%20chocolat%20chaud%20avec%20de%20la%20cr%C3%A8me%20fouett%C3%A9e%20et%20une%20canne%20en%20sucre.%20En%20arri%C3%A8re-plan%2C%20un%20sapin%20de%20No%C3%ABl%20avec%20des%20lumi%C3%A8res%20scintillantes%20est%20l%C3%A9g%C3%A8rement%20flout%C3%A9.%20La%20personne%20porte%20un%20gros%20pull%20en%20tricot.%20L'image%20doit%20%C3%A9voquer%20des%20sentiments%20de%20chaleur%2C%20de%20confort%20et%20de%20joie%20des%20f%C3%AAtes%2C%20en%20d%C3%A9montrant%20une%20excellente%20ma%C3%AEtrise%20de%20la%20profondeur%20de%20champ%20et%20de%20l'ambiance.%20%E2%80%93ar%204%3A5)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20photo%20douillette%20et%20festive%20pour%20une%20publication%20Instagram%20sur%20le%20th%C3%A8me%20de%20No%C3%ABl.%20La%20sc%C3%A8ne%20est%20un%20gros%20plan%20d'une%20personne%20tenant%20une%20grande%20tasse%20de%20chocolat%20chaud%20avec%20de%20la%20cr%C3%A8me%20fouett%C3%A9e%20et%20une%20canne%20en%20sucre.%20En%20arri%C3%A8re-plan%2C%20un%20sapin%20de%20No%C3%ABl%20avec%20des%20lumi%C3%A8res%20scintillantes%20est%20l%C3%A9g%C3%A8rement%20flout%C3%A9.%20La%20personne%20porte%20un%20gros%20pull%20en%20tricot.%20L'image%20doit%20%C3%A9voquer%20des%20sentiments%20de%20chaleur%2C%20de%20confort%20et%20de%20joie%20des%20f%C3%AAtes%2C%20en%20d%C3%A9montrant%20une%20excellente%20ma%C3%AEtrise%20de%20la%20profondeur%20de%20champ%20et%20de%20l'ambiance.%20%E2%80%93ar%204%3A5)**
 
 ---
 
-<<<<<<< HEAD
-### No. 50: Configuration de jeu haut de gamme
-=======
-### No. 53: Configuration de jeu haut de gamme
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 54: Configuration de jeu haut de gamme
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1999,15 +1878,11 @@ Une photo d'une installation de jeu haut de gamme, prête pour une session de st
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20photo%20d'une%20installation%20de%20jeu%20haut%20de%20gamme%2C%20pr%C3%AAte%20pour%20une%20session%20de%20streaming.%20L'installation%20comprend%20un%20PC%20puissant%20avec%20%C3%A9clairage%20RGB%2C%20plusieurs%20moniteurs%20affichant%20une%20sc%C3%A8ne%20de%20jeu%20vibrante%2C%20un%20microphone%20professionnel%20et%20une%20chaise%20de%20jeu%20%C3%A9l%C3%A9gante.%20La%20pi%C3%A8ce%20est%20sombre%2C%20et%20la%20seule%20lumi%C3%A8re%20provient%20des%20%C3%A9crans%20et%20de%20l'%C3%A9clairage%20RGB%2C%20cr%C3%A9ant%20une%20atmosph%C3%A8re%20futuriste%20et%20immersive.%20Cela%20d%C3%A9montre%20une%20compr%C3%A9hension%20des%20sous-cultures%20et%20de%20leurs%20esth%C3%A9tiques%20sp%C3%A9cifiques.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20photo%20d'une%20installation%20de%20jeu%20haut%20de%20gamme%2C%20pr%C3%AAte%20pour%20une%20session%20de%20streaming.%20L'installation%20comprend%20un%20PC%20puissant%20avec%20%C3%A9clairage%20RGB%2C%20plusieurs%20moniteurs%20affichant%20une%20sc%C3%A8ne%20de%20jeu%20vibrante%2C%20un%20microphone%20professionnel%20et%20une%20chaise%20de%20jeu%20%C3%A9l%C3%A9gante.%20La%20pi%C3%A8ce%20est%20sombre%2C%20et%20la%20seule%20lumi%C3%A8re%20provient%20des%20%C3%A9crans%20et%20de%20l'%C3%A9clairage%20RGB%2C%20cr%C3%A9ant%20une%20atmosph%C3%A8re%20futuriste%20et%20immersive.%20Cela%20d%C3%A9montre%20une%20compr%C3%A9hension%20des%20sous-cultures%20et%20de%20leurs%20esth%C3%A9tiques%20sp%C3%A9cifiques.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 51: Germer à travers la terre sèche
-=======
-### No. 54: Germer à travers la terre sèche
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 55: Germer à travers la terre sèche
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2036,15 +1911,11 @@ Une image puissante et évocatrice d'une seule pousse verte poussant à travers 
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20image%20puissante%20et%20%C3%A9vocatrice%20d'une%20seule%20pousse%20verte%20poussant%20%C3%A0%20travers%20une%20fissure%20dans%20une%20terre%20s%C3%A8che%20et%20st%C3%A9rile.%20L'image%20est%20un%20gros%20plan%2C%20l'accent%20%C3%A9tant%20mis%20sur%20la%20pousse%20d%C3%A9licate.%20L'%C3%A9clairage%20est%20dramatique%2C%20avec%20un%20seul%20rayon%20de%20lumi%C3%A8re%20illuminant%20la%20pousse.%20L'image%20doit%20symboliser%20l'espoir%2C%20la%20r%C3%A9silience%20et%20l'importance%20de%20la%20conservation%20de%20l'environnement%2C%20d%C3%A9montrant%20la%20capacit%C3%A9%20%C3%A0%20transmettre%20des%20concepts%20complexes%20visuellement.%20%E2%80%93ar%203%3A2)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20image%20puissante%20et%20%C3%A9vocatrice%20d'une%20seule%20pousse%20verte%20poussant%20%C3%A0%20travers%20une%20fissure%20dans%20une%20terre%20s%C3%A8che%20et%20st%C3%A9rile.%20L'image%20est%20un%20gros%20plan%2C%20l'accent%20%C3%A9tant%20mis%20sur%20la%20pousse%20d%C3%A9licate.%20L'%C3%A9clairage%20est%20dramatique%2C%20avec%20un%20seul%20rayon%20de%20lumi%C3%A8re%20illuminant%20la%20pousse.%20L'image%20doit%20symboliser%20l'espoir%2C%20la%20r%C3%A9silience%20et%20l'importance%20de%20la%20conservation%20de%20l'environnement%2C%20d%C3%A9montrant%20la%20capacit%C3%A9%20%C3%A0%20transmettre%20des%20concepts%20complexes%20visuellement.%20%E2%80%93ar%203%3A2)**
 
 ---
 
-<<<<<<< HEAD
-### No. 52: Photo de la palette de fards à paupières Macro
-=======
-### No. 55: Photo de la palette de fards à paupières Macro
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 56: Photo de la palette de fards à paupières Macro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2073,15 +1944,11 @@ Un plan macro, artistique, d'une nouvelle palette de fards à paupières pour la
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20plan%20macro%2C%20artistique%2C%20d'une%20nouvelle%20palette%20de%20fards%20%C3%A0%20paupi%C3%A8res%20pour%20la%20critique%20d'une%20blogueuse%20beaut%C3%A9.%20Le%20plan%20se%20concentre%20sur%20la%20texture%20des%20diff%C3%A9rentes%20poudres%20de%20fard%20%C3%A0%20paupi%C3%A8res%2C%20avec%20un%20pinceau%20balayant%20l'une%20des%20couleurs%2C%20soulevant%20un%20petit%20nuage%20de%20poussi%C3%A8re%20pigment%C3%A9e.%20L'%C3%A9clairage%20est%20net%20et%20lumineux%2C%20montrant%20les%20vraies%20couleurs%20et%20le%20scintillement%20du%20produit.%20Cela%20n%C3%A9cessite%20un%20niveau%20de%20d%C3%A9tail%20et%20une%20pr%C3%A9cision%20extr%C3%AAmes%20dans%20le%20rendu%20des%20textures%20et%20des%20particules.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Un%20plan%20macro%2C%20artistique%2C%20d'une%20nouvelle%20palette%20de%20fards%20%C3%A0%20paupi%C3%A8res%20pour%20la%20critique%20d'une%20blogueuse%20beaut%C3%A9.%20Le%20plan%20se%20concentre%20sur%20la%20texture%20des%20diff%C3%A9rentes%20poudres%20de%20fard%20%C3%A0%20paupi%C3%A8res%2C%20avec%20un%20pinceau%20balayant%20l'une%20des%20couleurs%2C%20soulevant%20un%20petit%20nuage%20de%20poussi%C3%A8re%20pigment%C3%A9e.%20L'%C3%A9clairage%20est%20net%20et%20lumineux%2C%20montrant%20les%20vraies%20couleurs%20et%20le%20scintillement%20du%20produit.%20Cela%20n%C3%A9cessite%20un%20niveau%20de%20d%C3%A9tail%20et%20une%20pr%C3%A9cision%20extr%C3%AAmes%20dans%20le%20rendu%20des%20textures%20et%20des%20particules.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 53: Collection de disques vinyles vintage
-=======
-### No. 56: Collection de disques vinyles vintage
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 57: Collection de disques vinyles vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2110,15 +1977,11 @@ Une photo d'une collection de disques vinyles vintage éparpillés sur un parque
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20photo%20d'une%20collection%20de%20disques%20vinyles%20vintage%20%C3%A9parpill%C3%A9s%20sur%20un%20parquet%20en%20bois%2C%20avec%20un%20tourne-disque%20dans%20un%20coin.%20L'accent%20est%20mis%20sur%20les%20pochettes%20de%20quelques%20albums%20embl%C3%A9matiques.%20L'%C3%A9clairage%20est%20chaleureux%20et%20nostalgique%2C%20avec%20un%20l%C3%A9ger%20effet%20de%20vignette.%20L'image%20doit%20%C3%A9voquer%20l'amour%20de%20la%20musique%20et%20l'exp%C3%A9rience%20tangible%20de%20l'%C3%A9coute%20de%20disques%2C%20d%C3%A9montrant%20une%20connaissance%20des%20artefacts%20culturels.%20%E2%80%93ar%201%3A1)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20photo%20d'une%20collection%20de%20disques%20vinyles%20vintage%20%C3%A9parpill%C3%A9s%20sur%20un%20parquet%20en%20bois%2C%20avec%20un%20tourne-disque%20dans%20un%20coin.%20L'accent%20est%20mis%20sur%20les%20pochettes%20de%20quelques%20albums%20embl%C3%A9matiques.%20L'%C3%A9clairage%20est%20chaleureux%20et%20nostalgique%2C%20avec%20un%20l%C3%A9ger%20effet%20de%20vignette.%20L'image%20doit%20%C3%A9voquer%20l'amour%20de%20la%20musique%20et%20l'exp%C3%A9rience%20tangible%20de%20l'%C3%A9coute%20de%20disques%2C%20d%C3%A9montrant%20une%20connaissance%20des%20artefacts%20culturels.%20%E2%80%93ar%201%3A1)**
 
 ---
 
-<<<<<<< HEAD
-### No. 54: Coin lecture lumineux
-=======
-### No. 57: Coin lecture lumineux
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 58: Coin lecture lumineux
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2147,15 +2010,11 @@ Une photo d'un coin lecture magnifiquement décoré et lumineux dans une maison.
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20photo%20d'un%20coin%20lecture%20magnifiquement%20d%C3%A9cor%C3%A9%20et%20lumineux%20dans%20une%20maison.%20Le%20coin%20comprend%20un%20fauteuil%20confortable%2C%20une%20biblioth%C3%A8que%20bien%20garnie%2C%20un%20tapis%20moelleux%20et%20une%20grande%20plante.%20Le%20soleil%20de%20l'apr%C3%A8s-midi%20traverse%20une%20fen%C3%AAtre%2C%20cr%C3%A9ant%20un%20espace%20chaleureux%20et%20accueillant.%20L'image%20devrait%20inciter%20les%20gens%20%C3%A0%20cr%C3%A9er%20leurs%20propres%20coins%20douillets%2C%20en%20mettant%20en%20valeur%20un%20%C3%A9clairage%20int%C3%A9rieur%20r%C3%A9aliste%20et%20un%20fort%20sentiment%20d'appartenance.%20%E2%80%93ar%203%3A4)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20photo%20d'un%20coin%20lecture%20magnifiquement%20d%C3%A9cor%C3%A9%20et%20lumineux%20dans%20une%20maison.%20Le%20coin%20comprend%20un%20fauteuil%20confortable%2C%20une%20biblioth%C3%A8que%20bien%20garnie%2C%20un%20tapis%20moelleux%20et%20une%20grande%20plante.%20Le%20soleil%20de%20l'apr%C3%A8s-midi%20traverse%20une%20fen%C3%AAtre%2C%20cr%C3%A9ant%20un%20espace%20chaleureux%20et%20accueillant.%20L'image%20devrait%20inciter%20les%20gens%20%C3%A0%20cr%C3%A9er%20leurs%20propres%20coins%20douillets%2C%20en%20mettant%20en%20valeur%20un%20%C3%A9clairage%20int%C3%A9rieur%20r%C3%A9aliste%20et%20un%20fort%20sentiment%20d'appartenance.%20%E2%80%93ar%203%3A4)**
 
 ---
 
-<<<<<<< HEAD
-### No. 55: Tenue Chic Minimaliste à Plat
-=======
-### No. 58: Tenue Chic Minimaliste à Plat
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 59: Tenue Chic Minimaliste à Plat
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2184,15 +2043,11 @@ Une photo à plat minimaliste et chic d'une tenue soigneusement sélectionnée p
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20photo%20%C3%A0%20plat%20minimaliste%20et%20chic%20d'une%20tenue%20soigneusement%20s%C3%A9lectionn%C3%A9e%20pour%20un%20post%20%C2%AB%20look%20du%20jour%20%C2%BB.%20La%20tenue%20se%20compose%20d'une%20paire%20de%20jeans%20vintage%2C%20d'une%20chemise%20en%20lin%20blanche%2C%20d'une%20paire%20de%20sandales%20en%20cuir%2C%20d'un%20chapeau%20de%20paille%20et%20de%20bijoux%20en%20or%20d%C3%A9licats.%20Les%20articles%20sont%20soigneusement%20dispos%C3%A9s%20sur%20un%20parquet%20en%20bois%20blanc%20et%20propre.%20L'%C3%A9clairage%20est%20naturel%20et%20doux.%20L'image%20doit%20%C3%AAtre%20%C3%A9pur%C3%A9e%2C%20%C3%A9l%C3%A9gante%20et%20inspirante%2C%20d%C3%A9montrant%20un%20placement%20pr%C3%A9cis%20des%20objets%20et%20un%20rendu%20des%20textures.%20%E2%80%93ar%204%3A5)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20photo%20%C3%A0%20plat%20minimaliste%20et%20chic%20d'une%20tenue%20soigneusement%20s%C3%A9lectionn%C3%A9e%20pour%20un%20post%20%C2%AB%20look%20du%20jour%20%C2%BB.%20La%20tenue%20se%20compose%20d'une%20paire%20de%20jeans%20vintage%2C%20d'une%20chemise%20en%20lin%20blanche%2C%20d'une%20paire%20de%20sandales%20en%20cuir%2C%20d'un%20chapeau%20de%20paille%20et%20de%20bijoux%20en%20or%20d%C3%A9licats.%20Les%20articles%20sont%20soigneusement%20dispos%C3%A9s%20sur%20un%20parquet%20en%20bois%20blanc%20et%20propre.%20L'%C3%A9clairage%20est%20naturel%20et%20doux.%20L'image%20doit%20%C3%AAtre%20%C3%A9pur%C3%A9e%2C%20%C3%A9l%C3%A9gante%20et%20inspirante%2C%20d%C3%A9montrant%20un%20placement%20pr%C3%A9cis%20des%20objets%20et%20un%20rendu%20des%20textures.%20%E2%80%93ar%204%3A5)**
 
 ---
 
-<<<<<<< HEAD
-### No. 56: Scène vibrante du marché de nuit de Taipei
-=======
-### No. 59: Scène vibrante du marché de nuit de Taipei
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 60: Scène vibrante du marché de nuit de Taipei
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2221,15 +2076,11 @@ Une photo capturant la vie de rue animée d'un marché de nuit à Taipei. La sc�
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20photo%20capturant%20la%20vie%20de%20rue%20anim%C3%A9e%20d'un%20march%C3%A9%20de%20nuit%20%C3%A0%20Taipei.%20La%20sc%C3%A8ne%20est%20bond%C3%A9e%20de%20monde%20et%20l'air%20est%20rempli%20de%20la%20vapeur%20des%20stands%20de%20nourriture.%20Le%20march%C3%A9%20est%20illumin%C3%A9%20par%20un%20m%C3%A9lange%20chaotique%20mais%20magnifique%20de%20lanternes%20rouges%20et%20de%20lumi%C3%A8res%20fluorescentes.%20L'image%20doit%20%C3%AAtre%20pleine%20d'%C3%A9nergie%20et%20de%20d%C3%A9tails%2C%20capturant%20l'atmosph%C3%A8re%20authentique%20du%20lieu%20avec%20une%20coh%C3%A9rence%20de%20sc%C3%A8ne%20%C3%A9lev%C3%A9e%20et%20une%20riche%20connaissance%20du%20monde.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20photo%20capturant%20la%20vie%20de%20rue%20anim%C3%A9e%20d'un%20march%C3%A9%20de%20nuit%20%C3%A0%20Taipei.%20La%20sc%C3%A8ne%20est%20bond%C3%A9e%20de%20monde%20et%20l'air%20est%20rempli%20de%20la%20vapeur%20des%20stands%20de%20nourriture.%20Le%20march%C3%A9%20est%20illumin%C3%A9%20par%20un%20m%C3%A9lange%20chaotique%20mais%20magnifique%20de%20lanternes%20rouges%20et%20de%20lumi%C3%A8res%20fluorescentes.%20L'image%20doit%20%C3%AAtre%20pleine%20d'%C3%A9nergie%20et%20de%20d%C3%A9tails%2C%20capturant%20l'atmosph%C3%A8re%20authentique%20du%20lieu%20avec%20une%20coh%C3%A9rence%20de%20sc%C3%A8ne%20%C3%A9lev%C3%A9e%20et%20une%20riche%20connaissance%20du%20monde.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 57: Vue de tente sur un paysage de montagne
-=======
-### No. 60: Vue de tente sur un paysage de montagne
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 61: Vue de tente sur un paysage de montagne
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2258,15 +2109,11 @@ Une photo à couper le souffle, prise depuis l'intérieur d'une tente, offrant u
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20photo%20%C3%A0%20couper%20le%20souffle%2C%20prise%20depuis%20l'int%C3%A9rieur%20d'une%20tente%2C%20offrant%20une%20vue%20imprenable%20sur%20un%20paysage%20montagneux%20au%20lever%20du%20soleil.%20L'ouverture%20de%20la%20tente%20encadre%20un%20lac%20alpin%20d'une%20clart%C3%A9%20cristalline%20et%20des%20sommets%20enneig%C3%A9s%20qui%20captent%20les%20premiers%20rayons%20du%20soleil.%20L'int%C3%A9rieur%20de%20la%20tente%20est%20douillet%2C%20avec%20un%20sac%20de%20couchage%20et%20une%20tasse%20de%20camping%20en%20m%C3%A9tal.%20Cela%20exige%20une%20compr%C3%A9hension%20spatiale%20complexe%20et%20la%20capacit%C3%A9%20de%20fusionner%20harmonieusement%20les%20sc%C3%A8nes%20int%C3%A9rieures%20et%20ext%C3%A9rieures.%20%E2%80%93ar%203%3A2)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20photo%20%C3%A0%20couper%20le%20souffle%2C%20prise%20depuis%20l'int%C3%A9rieur%20d'une%20tente%2C%20offrant%20une%20vue%20imprenable%20sur%20un%20paysage%20montagneux%20au%20lever%20du%20soleil.%20L'ouverture%20de%20la%20tente%20encadre%20un%20lac%20alpin%20d'une%20clart%C3%A9%20cristalline%20et%20des%20sommets%20enneig%C3%A9s%20qui%20captent%20les%20premiers%20rayons%20du%20soleil.%20L'int%C3%A9rieur%20de%20la%20tente%20est%20douillet%2C%20avec%20un%20sac%20de%20couchage%20et%20une%20tasse%20de%20camping%20en%20m%C3%A9tal.%20Cela%20exige%20une%20compr%C3%A9hension%20spatiale%20complexe%20et%20la%20capacit%C3%A9%20de%20fusionner%20harmonieusement%20les%20sc%C3%A8nes%20int%C3%A9rieures%20et%20ext%C3%A9rieures.%20%E2%80%93ar%203%3A2)**
 
 ---
 
-<<<<<<< HEAD
-### No. 58: Pique-nique romantique dans un champ de lavande
-=======
-### No. 61: Pique-nique romantique dans un champ de lavande
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 62: Pique-nique romantique dans un champ de lavande
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2295,15 +2142,11 @@ Une photo romantique et onirique d'un couple pique-niquant au coucher du soleil 
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20photo%20romantique%20et%20onirique%20d'un%20couple%20pique-niquant%20au%20coucher%20du%20soleil%20dans%20un%20champ%20de%20lavande%20en%20Provence%2C%20France.%20Ils%20rient%20et%20partagent%20une%20bouteille%20de%20vin.%20Le%20soleil%20couchant%20cr%C3%A9e%20une%20belle%20lumi%C3%A8re%20chaude%20et%20de%20longues%20ombres.%20L'air%20est%20rempli%20d'une%20douce%20brume%20violette%20provenant%20de%20la%20lavande.%20L'image%20doit%20%C3%AAtre%20intime%20et%20magique%2C%20mettant%20en%20valeur%20un%20rendu%20environnemental%20avanc%C3%A9%20et%20une%20coh%C3%A9rence%20%C3%A9motionnelle%20entre%20les%20sujets.%20%E2%80%93ar%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20photo%20romantique%20et%20onirique%20d'un%20couple%20pique-niquant%20au%20coucher%20du%20soleil%20dans%20un%20champ%20de%20lavande%20en%20Provence%2C%20France.%20Ils%20rient%20et%20partagent%20une%20bouteille%20de%20vin.%20Le%20soleil%20couchant%20cr%C3%A9e%20une%20belle%20lumi%C3%A8re%20chaude%20et%20de%20longues%20ombres.%20L'air%20est%20rempli%20d'une%20douce%20brume%20violette%20provenant%20de%20la%20lavande.%20L'image%20doit%20%C3%AAtre%20intime%20et%20magique%2C%20mettant%20en%20valeur%20un%20rendu%20environnemental%20avanc%C3%A9%20et%20une%20coh%C3%A9rence%20%C3%A9motionnelle%20entre%20les%20sujets.%20%E2%80%93ar%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 59: Prise de vue aérienne : Création de calligraphie
-=======
-### No. 62: Prise de vue aérienne : Création de calligraphie
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 63: Prise de vue aérienne : Création de calligraphie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2332,15 +2175,11 @@ Une magnifique prise de vue en plongée d'une table de loisirs créatifs où que
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20magnifique%20prise%20de%20vue%20en%20plong%C3%A9e%20d'une%20table%20de%20loisirs%20cr%C3%A9atifs%20o%C3%B9%20quelqu'un%20pratique%20la%20calligraphie.%20La%20sc%C3%A8ne%20inclut%20une%20bouteille%20d'encre%20noire%2C%20un%20porte-plume%2C%20une%20feuille%20de%20papier%20de%20haute%20qualit%C3%A9%20avec%20des%20lettres%20%C3%A9l%C3%A9gantes%20et%20quelques%20fleurs%20s%C3%A9ch%C3%A9es%20pour%20la%20d%C3%A9coration.%20L'%C3%A9clairage%20est%20doux%20et%20concentr%C3%A9%20sur%20la%20calligraphie.%20L'image%20doit%20%C3%AAtre%20sereine%20et%20inspirante%2C%20parfaite%20pour%20le%20fil%20Instagram%20d'un%20amateur%20de%20loisirs%20cr%C3%A9atifs%2C%20mettant%20en%20valeur%20les%20d%C3%A9tails%20fins%20et%20le%20placement%20des%20objets.%20%E2%80%93ar%201%3A1)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20magnifique%20prise%20de%20vue%20en%20plong%C3%A9e%20d'une%20table%20de%20loisirs%20cr%C3%A9atifs%20o%C3%B9%20quelqu'un%20pratique%20la%20calligraphie.%20La%20sc%C3%A8ne%20inclut%20une%20bouteille%20d'encre%20noire%2C%20un%20porte-plume%2C%20une%20feuille%20de%20papier%20de%20haute%20qualit%C3%A9%20avec%20des%20lettres%20%C3%A9l%C3%A9gantes%20et%20quelques%20fleurs%20s%C3%A9ch%C3%A9es%20pour%20la%20d%C3%A9coration.%20L'%C3%A9clairage%20est%20doux%20et%20concentr%C3%A9%20sur%20la%20calligraphie.%20L'image%20doit%20%C3%AAtre%20sereine%20et%20inspirante%2C%20parfaite%20pour%20le%20fil%20Instagram%20d'un%20amateur%20de%20loisirs%20cr%C3%A9atifs%2C%20mettant%20en%20valeur%20les%20d%C3%A9tails%20fins%20et%20le%20placement%20des%20objets.%20%E2%80%93ar%201%3A1)**
 
 ---
 
-<<<<<<< HEAD
-### No. 60: Photo d'entraînement d'une athlète féminine dynamique
-=======
-### No. 63: Photo d'entraînement d'une athlète féminine dynamique
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 64: Photo d'entraînement d'une athlète féminine dynamique
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2369,15 +2208,11 @@ Un plan dynamique et puissant d'une athlète en plein entraînement dans une sal
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20plan%20dynamique%20et%20puissant%20d'une%20athl%C3%A8te%20en%20plein%20entra%C3%AEnement%20dans%20une%20salle%20de%20sport%20urbaine%20et%20brute.%20Elle%20soul%C3%A8ve%20une%20lourde%20barre%20d'halt%C3%A8res%2C%20ses%20muscles%20sont%20d%C3%A9finis%20et%20tendus.%20L'%C3%A9clairage%20est%20dramatique%20et%20tr%C3%A8s%20contrast%C3%A9%2C%20la%20lumi%C3%A8re%20traversant%20une%20grande%20fen%C3%AAtre%2C%20soulignant%20les%20particules%20de%20poussi%C3%A8re%20dans%20l'air.%20L'image%20doit%20v%C3%A9hiculer%20la%20force%2C%20la%20d%C3%A9termination%20et%20une%20%C3%A9nergie%20brute%2C%20d%C3%A9montrant%20un%20rendu%20anatomique%20pr%C3%A9cis%20et%20un%20%C3%A9clairage%20atmosph%C3%A9rique.%20%E2%80%93ar%204%3A5)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Un%20plan%20dynamique%20et%20puissant%20d'une%20athl%C3%A8te%20en%20plein%20entra%C3%AEnement%20dans%20une%20salle%20de%20sport%20urbaine%20et%20brute.%20Elle%20soul%C3%A8ve%20une%20lourde%20barre%20d'halt%C3%A8res%2C%20ses%20muscles%20sont%20d%C3%A9finis%20et%20tendus.%20L'%C3%A9clairage%20est%20dramatique%20et%20tr%C3%A8s%20contrast%C3%A9%2C%20la%20lumi%C3%A8re%20traversant%20une%20grande%20fen%C3%AAtre%2C%20soulignant%20les%20particules%20de%20poussi%C3%A8re%20dans%20l'air.%20L'image%20doit%20v%C3%A9hiculer%20la%20force%2C%20la%20d%C3%A9termination%20et%20une%20%C3%A9nergie%20brute%2C%20d%C3%A9montrant%20un%20rendu%20anatomique%20pr%C3%A9cis%20et%20un%20%C3%A9clairage%20atmosph%C3%A9rique.%20%E2%80%93ar%204%3A5)**
 
 ---
 
-<<<<<<< HEAD
-### No. 61: Crêpes appétissantes en gros plan
-=======
-### No. 64: Crêpes appétissantes en gros plan
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 65: Crêpes appétissantes en gros plan
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2406,15 +2241,11 @@ Un plan rapproché extrêmement appétissant d'une pile de pancakes moelleux pou
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20plan%20rapproch%C3%A9%20extr%C3%AAmement%20app%C3%A9tissant%20d'une%20pile%20de%20pancakes%20moelleux%20pour%20les%20r%C3%A9seaux%20sociaux%20d'un%20blogueur%20culinaire.%20Les%20pancakes%20sont%20arros%C3%A9s%20de%20sirop%20d'%C3%A9rable%2C%20garnis%20d'une%20noisette%20de%20beurre%20fondu%20et%20d%C3%A9cor%C3%A9s%20de%20myrtilles%20et%20de%20framboises%20fra%C3%AEches.%20De%20la%20vapeur%20doit%20s'%C3%A9lever%20d%C3%A9licatement%20de%20la%20pile.%20L'%C3%A9clairage%20doit%20%C3%AAtre%20chaleureux%20et%20invitant%2C%20rendant%20le%20plat%20irr%C3%A9sistible.%20La%20mise%20au%20point%20est%20nette%20sur%20la%20texture%20des%20pancakes%20et%20le%20sirop%20brillant%2C%20mettant%20en%20valeur%20un%20rendu%20alimentaire%20hyperr%C3%A9aliste.%20%E2%80%93ar%201%3A1)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Un%20plan%20rapproch%C3%A9%20extr%C3%AAmement%20app%C3%A9tissant%20d'une%20pile%20de%20pancakes%20moelleux%20pour%20les%20r%C3%A9seaux%20sociaux%20d'un%20blogueur%20culinaire.%20Les%20pancakes%20sont%20arros%C3%A9s%20de%20sirop%20d'%C3%A9rable%2C%20garnis%20d'une%20noisette%20de%20beurre%20fondu%20et%20d%C3%A9cor%C3%A9s%20de%20myrtilles%20et%20de%20framboises%20fra%C3%AEches.%20De%20la%20vapeur%20doit%20s'%C3%A9lever%20d%C3%A9licatement%20de%20la%20pile.%20L'%C3%A9clairage%20doit%20%C3%AAtre%20chaleureux%20et%20invitant%2C%20rendant%20le%20plat%20irr%C3%A9sistible.%20La%20mise%20au%20point%20est%20nette%20sur%20la%20texture%20des%20pancakes%20et%20le%20sirop%20brillant%2C%20mettant%20en%20valeur%20un%20rendu%20alimentaire%20hyperr%C3%A9aliste.%20%E2%80%93ar%201%3A1)**
 
 ---
 
-<<<<<<< HEAD
-### No. 62: Street Style des influenceurs mode à Paris
-=======
-### No. 65: Street Style des influenceurs mode à Paris
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 66: Street Style des influenceurs mode à Paris
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2443,15 +2274,11 @@ Une photo de style urbain d'une influenceuse mode à Paris pendant la Fashion We
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20photo%20de%20style%20urbain%20d'une%20influenceuse%20mode%20%C3%A0%20Paris%20pendant%20la%20Fashion%20Week.%20Elle%20porte%20une%20tenue%20avant-gardiste%20et%20pose%20avec%20assurance%20devant%20la%20Pyramide%20du%20Louvre.%20L'arri%C3%A8re-plan%20est%20l%C3%A9g%C3%A8rement%20flou%20pour%20la%20mettre%20en%20valeur%2C%20mais%20le%20lieu%20embl%C3%A9matique%20reste%20reconnaissable.%20L'%C3%A9clairage%20doit%20%C3%AAtre%20nuageux%20mais%20lumineux%2C%20typique%20de%20Paris%2C%20ce%20qui%20cr%C3%A9e%20des%20ombres%20douces%20et%20fait%20ressortir%20les%20couleurs%20et%20les%20textures%20de%20sa%20tenue.%20Cela%20exige%20une%20grande%20coh%C3%A9rence%20dans%20les%20d%C3%A9tails%20du%20sujet%20et%20un%20contexte%20environnemental%20pr%C3%A9cis.%20%E2%80%93ar%203%3A4)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20photo%20de%20style%20urbain%20d'une%20influenceuse%20mode%20%C3%A0%20Paris%20pendant%20la%20Fashion%20Week.%20Elle%20porte%20une%20tenue%20avant-gardiste%20et%20pose%20avec%20assurance%20devant%20la%20Pyramide%20du%20Louvre.%20L'arri%C3%A8re-plan%20est%20l%C3%A9g%C3%A8rement%20flou%20pour%20la%20mettre%20en%20valeur%2C%20mais%20le%20lieu%20embl%C3%A9matique%20reste%20reconnaissable.%20L'%C3%A9clairage%20doit%20%C3%AAtre%20nuageux%20mais%20lumineux%2C%20typique%20de%20Paris%2C%20ce%20qui%20cr%C3%A9e%20des%20ombres%20douces%20et%20fait%20ressortir%20les%20couleurs%20et%20les%20textures%20de%20sa%20tenue.%20Cela%20exige%20une%20grande%20coh%C3%A9rence%20dans%20les%20d%C3%A9tails%20du%20sujet%20et%20un%20contexte%20environnemental%20pr%C3%A9cis.%20%E2%80%93ar%203%3A4)**
 
 ---
 
-<<<<<<< HEAD
-### No. 63: Chiot Golden Retriever dans les feuilles d'automne
-=======
-### No. 66: Chiot Golden Retriever dans les feuilles d'automne
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 67: Chiot Golden Retriever dans les feuilles d'automne
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2480,15 +2307,11 @@ Une photo chaleureuse et spontanée d'un chiot golden retriever jouant dans un c
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20photo%20chaleureuse%20et%20spontan%C3%A9e%20d'un%20chiot%20golden%20retriever%20jouant%20dans%20un%20champ%20de%20feuilles%20d'automne.%20Le%20chiot%20est%20en%20plein%20saut%2C%20des%20feuilles%20virevoltant%20autour%20de%20lui%2C%20et%20affiche%20une%20expression%20joyeuse.%20Le%20soleil%20de%20l'apr%C3%A8s-midi%20devrait%20cr%C3%A9er%20un%20magnifique%20contre-jour%20dor%C3%A9%2C%20rendant%20la%20sc%C3%A8ne%20chaleureuse%20et%20magique.%20La%20mise%20au%20point%20doit%20%C3%AAtre%20parfaitement%20sur%20les%20yeux%20du%20chiot%2C%20capturant%20son%20esprit%20joueur.%20Cela%20d%C3%A9montre%20la%20capacit%C3%A9%20%C3%A0%20rendre%20l'action%20dynamique%20et%20l'%C3%A9motion%20chez%20les%20animaux.%20%E2%80%93ar%203%3A2)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20photo%20chaleureuse%20et%20spontan%C3%A9e%20d'un%20chiot%20golden%20retriever%20jouant%20dans%20un%20champ%20de%20feuilles%20d'automne.%20Le%20chiot%20est%20en%20plein%20saut%2C%20des%20feuilles%20virevoltant%20autour%20de%20lui%2C%20et%20affiche%20une%20expression%20joyeuse.%20Le%20soleil%20de%20l'apr%C3%A8s-midi%20devrait%20cr%C3%A9er%20un%20magnifique%20contre-jour%20dor%C3%A9%2C%20rendant%20la%20sc%C3%A8ne%20chaleureuse%20et%20magique.%20La%20mise%20au%20point%20doit%20%C3%AAtre%20parfaitement%20sur%20les%20yeux%20du%20chiot%2C%20capturant%20son%20esprit%20joueur.%20Cela%20d%C3%A9montre%20la%20capacit%C3%A9%20%C3%A0%20rendre%20l'action%20dynamique%20et%20l'%C3%A9motion%20chez%20les%20animaux.%20%E2%80%93ar%203%3A2)**
 
 ---
 
-<<<<<<< HEAD
-### No. 64: Voyage solo cinématographique
-=======
-### No. 67: Voyage solo cinématographique
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 68: Voyage solo cinématographique
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2517,15 +2340,11 @@ Un plan cinématographique et spontané d'une jeune femme en voyage solo, assise
 - **Publié:** 10 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20plan%20cin%C3%A9matographique%20et%20spontan%C3%A9%20d'une%20jeune%20femme%20en%20voyage%20solo%2C%20assise%20pr%C3%A8s%20de%20la%20fen%C3%AAtre%20d'un%20train%20en%20mouvement.%20Elle%20contemple%20pensivement%20le%20paysage%20d%C3%A9filant%20de%20collines%20verdoyantes%20et%20de%20montagnes%20brumeuses.%20Le%20reflet%20de%20l'int%C3%A9rieur%20du%20train%20est%20subtilement%20visible%20sur%20la%20vitre.%20L'%C3%A9talonnage%20des%20couleurs%20doit%20%C3%AAtre%20sombre%20et%20atmosph%C3%A9rique%2C%20avec%20un%20l%C3%A9ger%20grain%20de%20film%20pour%20%C3%A9voquer%20un%20sentiment%20d'%C3%A9vasion%20et%20d'introspection.%20Ceci%20d%C3%A9montre%20un%20contr%C3%B4le%20avanc%C3%A9%20de%20l'%C3%A9clairage%2C%20des%20reflets%20et%20de%20l'ambiance%20pour%20la%20publication%20d'une%20blogueuse%20de%20voyage.%20%E2%80%93ar%204%3A5)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Un%20plan%20cin%C3%A9matographique%20et%20spontan%C3%A9%20d'une%20jeune%20femme%20en%20voyage%20solo%2C%20assise%20pr%C3%A8s%20de%20la%20fen%C3%AAtre%20d'un%20train%20en%20mouvement.%20Elle%20contemple%20pensivement%20le%20paysage%20d%C3%A9filant%20de%20collines%20verdoyantes%20et%20de%20montagnes%20brumeuses.%20Le%20reflet%20de%20l'int%C3%A9rieur%20du%20train%20est%20subtilement%20visible%20sur%20la%20vitre.%20L'%C3%A9talonnage%20des%20couleurs%20doit%20%C3%AAtre%20sombre%20et%20atmosph%C3%A9rique%2C%20avec%20un%20l%C3%A9ger%20grain%20de%20film%20pour%20%C3%A9voquer%20un%20sentiment%20d'%C3%A9vasion%20et%20d'introspection.%20Ceci%20d%C3%A9montre%20un%20contr%C3%B4le%20avanc%C3%A9%20de%20l'%C3%A9clairage%2C%20des%20reflets%20et%20de%20l'ambiance%20pour%20la%20publication%20d'une%20blogueuse%20de%20voyage.%20%E2%80%93ar%204%3A5)**
 
 ---
 
-<<<<<<< HEAD
-### No. 65: Grille d'art cinématographique à trois panneaux
-=======
-### No. 68: Grille d'art cinématographique à trois panneaux
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 69: Grille d'art cinématographique à trois panneaux
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2555,15 +2374,11 @@ Modifiez l'image pour en faire un portrait artistique en trois panneaux égaux, 
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Modifiez%20l'image%20pour%20en%20faire%20un%20portrait%20artistique%20en%20trois%20panneaux%20%C3%A9gaux%2C%20avec%20une%20texture%20de%20film.%20La%20sc%C3%A8ne%20se%20d%C3%A9roule%20un%20apr%C3%A8s-midi%20verdoyant.%20Le%20soleil%20brille%20intens%C3%A9ment.%20Le%20personnage%20sur%20l'image%20est%20conforme%20%C3%A0%20l'image%20de%20r%C3%A9f%C3%A9rence%2C%20portant%20une%20%7Bargument%20name%3D%22clothing%22%20default%3D%22robe%20blanche%22%7D.%20Le%20premier%20plan%20est%20un%20plan%20moyen%2C%20pris%20de%20c%C3%B4t%C3%A9%2C%20le%20personnage%20court%20vers%20la%20%7Bargument%20name%3D%22direction%22%20default%3D%22droite%22%7D%20dans%20un%20jardin%20de%20Monet%20verdoyant%20et%20surexpos%C3%A9%2C%20tenant%20un%20%7Bargument%20name%3D%22item%22%20default%3D%22magnifique%20bouquet%22%7D%20%C3%A0%20la%20main.%20Le%20deuxi%C3%A8me%20plan%20est%20un%20gros%20plan%2C%20photographiant%20le%20bouquet%2C%20surexpos%C3%A9%2C%20avec%20un%20flou%20dynamique.%20Le%20troisi%C3%A8me%20plan%20est%20un%20grand%20gros%20plan%20du%20personnage%2C%20le%20profil%20du%20personnage%20en%20train%20de%20courir%2C%20tourn%C3%A9%20vers%20la%20droite%2C%20surexpos%C3%A9%2C%20avec%20un%20flou%20dynamique%2C%20l'arri%C3%A8re-plan%20est%20un%20jardin%20verdoyant%2C%20donnant%20au%20personnage%20une%20lumi%C3%A8re%20dans%20les%20yeux%2C%20permettant%20%C3%A0%20l'expression%20du%20personnage%20d'apporter%20un%20sentiment%20de%20m%C3%A9lancolie%20et%20d'espoir.%20Photographie%20de%20portrait%2C%20style%20de%20g%C3%A9n%C3%A9ration%20d'image%20avec%20un%20effet%20de%20flash%20direct%20et%20puissant%20%3A%20mode%20surbrillance%2C%20exposition%20au%20premier%20plan%2C%20surr%C3%A9alisme%2C%20atmosph%C3%A8re%20de%20lumi%C3%A8re%20et%20d'ombre%2C%20lumi%C3%A8re%20et%20ombre%20fines%20et%20chatoyantes%2C%20texture%20de%20film%20onirique%2C%20flou%20dynamique%2C%20effet%20d'obturation%20lente%2C%20film%20positif%20et%20n%C3%A9gatif%2C%20film%20%C3%A0%20d%C3%A9veloppement%20instantan%C3%A9%2C%20minimalisme%2C%20composition%20extr%C3%AAme%2C%20vignette%2C%20fuite%20de%20lumi%C3%A8re.%20Les%20sous-titres%20sont%20situ%C3%A9s%20en%20bas%20au%20centre%2C%20la%20grille%20%C3%A0%20trois%20panneaux%20est%20synth%C3%A9tis%C3%A9e%20en%20une%20seule%20image.%20Ratio%203%3A4.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Modifiez%20l'image%20pour%20en%20faire%20un%20portrait%20artistique%20en%20trois%20panneaux%20%C3%A9gaux%2C%20avec%20une%20texture%20de%20film.%20La%20sc%C3%A8ne%20se%20d%C3%A9roule%20un%20apr%C3%A8s-midi%20verdoyant.%20Le%20soleil%20brille%20intens%C3%A9ment.%20Le%20personnage%20sur%20l'image%20est%20conforme%20%C3%A0%20l'image%20de%20r%C3%A9f%C3%A9rence%2C%20portant%20une%20%7Bargument%20name%3D%22clothing%22%20default%3D%22robe%20blanche%22%7D.%20Le%20premier%20plan%20est%20un%20plan%20moyen%2C%20pris%20de%20c%C3%B4t%C3%A9%2C%20le%20personnage%20court%20vers%20la%20%7Bargument%20name%3D%22direction%22%20default%3D%22droite%22%7D%20dans%20un%20jardin%20de%20Monet%20verdoyant%20et%20surexpos%C3%A9%2C%20tenant%20un%20%7Bargument%20name%3D%22item%22%20default%3D%22magnifique%20bouquet%22%7D%20%C3%A0%20la%20main.%20Le%20deuxi%C3%A8me%20plan%20est%20un%20gros%20plan%2C%20photographiant%20le%20bouquet%2C%20surexpos%C3%A9%2C%20avec%20un%20flou%20dynamique.%20Le%20troisi%C3%A8me%20plan%20est%20un%20grand%20gros%20plan%20du%20personnage%2C%20le%20profil%20du%20personnage%20en%20train%20de%20courir%2C%20tourn%C3%A9%20vers%20la%20droite%2C%20surexpos%C3%A9%2C%20avec%20un%20flou%20dynamique%2C%20l'arri%C3%A8re-plan%20est%20un%20jardin%20verdoyant%2C%20donnant%20au%20personnage%20une%20lumi%C3%A8re%20dans%20les%20yeux%2C%20permettant%20%C3%A0%20l'expression%20du%20personnage%20d'apporter%20un%20sentiment%20de%20m%C3%A9lancolie%20et%20d'espoir.%20Photographie%20de%20portrait%2C%20style%20de%20g%C3%A9n%C3%A9ration%20d'image%20avec%20un%20effet%20de%20flash%20direct%20et%20puissant%20%3A%20mode%20surbrillance%2C%20exposition%20au%20premier%20plan%2C%20surr%C3%A9alisme%2C%20atmosph%C3%A8re%20de%20lumi%C3%A8re%20et%20d'ombre%2C%20lumi%C3%A8re%20et%20ombre%20fines%20et%20chatoyantes%2C%20texture%20de%20film%20onirique%2C%20flou%20dynamique%2C%20effet%20d'obturation%20lente%2C%20film%20positif%20et%20n%C3%A9gatif%2C%20film%20%C3%A0%20d%C3%A9veloppement%20instantan%C3%A9%2C%20minimalisme%2C%20composition%20extr%C3%AAme%2C%20vignette%2C%20fuite%20de%20lumi%C3%A8re.%20Les%20sous-titres%20sont%20situ%C3%A9s%20en%20bas%20au%20centre%2C%20la%20grille%20%C3%A0%20trois%20panneaux%20est%20synth%C3%A9tis%C3%A9e%20en%20une%20seule%20image.%20Ratio%203%3A4.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 66: Hello Kitty Office Chaos
-=======
-### No. 69: Hello Kitty Office Chaos
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 70: Hello Kitty Office Chaos
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2592,15 +2407,11 @@ h0674kz, hello kitty faisant exploser le bureau, style film rétro, grain fin
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=h0674kz%2C%20hello%20kitty%20faisant%20exploser%20le%20bureau%2C%20style%20film%20r%C3%A9tro%2C%20grain%20fin)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=h0674kz%2C%20hello%20kitty%20faisant%20exploser%20le%20bureau%2C%20style%20film%20r%C3%A9tro%2C%20grain%20fin)**
 
 ---
 
-<<<<<<< HEAD
-### No. 67: Fontaine de Cristal avec des Étoiles
-=======
-### No. 70: Fontaine de Cristal avec des Étoiles
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 71: Fontaine de Cristal avec des Étoiles
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2629,15 +2440,11 @@ h0674kz, autocollants étoiles colorés, une fontaine décorée de chaînes de p
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=h0674kz%2C%20autocollants%20%C3%A9toiles%20color%C3%A9s%2C%20une%20fontaine%20d%C3%A9cor%C3%A9e%20de%20cha%C3%AEnes%20de%20perles%20de%20cristal%20brillantes%2C%20style%20film%20r%C3%A9tro%2C%20grain%20fin)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=h0674kz%2C%20autocollants%20%C3%A9toiles%20color%C3%A9s%2C%20une%20fontaine%20d%C3%A9cor%C3%A9e%20de%20cha%C3%AEnes%20de%20perles%20de%20cristal%20brillantes%2C%20style%20film%20r%C3%A9tro%2C%20grain%20fin)**
 
 ---
 
-<<<<<<< HEAD
-### No. 68: Instant Geisha à Kyoto
-=======
-### No. 71: Instant Geisha à Kyoto
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 72: Instant Geisha à Kyoto
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2666,15 +2473,11 @@ Geisha (détails de kimono traditionnels, maquillage blanc) marchant sur une rou
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Geisha%20(d%C3%A9tails%20de%20kimono%20traditionnels%2C%20maquillage%20blanc)%20marchant%20sur%20une%20route%20pav%C3%A9e%20de%20Gion%2C%20des%20cerisiers%20Yoshino%20en%20pleine%20floraison%20des%20deux%20c%C3%B4t%C3%A9s%2C%20des%20p%C3%A9tales%20roses%20tombant%20de%20mani%C3%A8re%20dynamique%2C%20lumi%C3%A8re%20douce%20et%20diffuse%20(qualit%C3%A9%20de%20lumi%C3%A8re%20de%20jour%20nuageux)%2C%20esth%C3%A9tique%20de%20film%20japonais%20(style%20Hirokazu%20Kore-eda)%2C%20faible%20profondeur%20de%20champ%2050%20mm%20floutant%20l'arri%C3%A8re-plan%2C%20ton%20cin%C3%A9matographique%20(simulation%20Fujifilm%20Pro%20400H)%2C%20atmosph%C3%A8re%20zen%20et%20calme%2C%20composition%20verticale%20adapt%C3%A9e%20%C3%A0%20un%20fond%20d'%C3%A9cran%20mobile)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Geisha%20(d%C3%A9tails%20de%20kimono%20traditionnels%2C%20maquillage%20blanc)%20marchant%20sur%20une%20route%20pav%C3%A9e%20de%20Gion%2C%20des%20cerisiers%20Yoshino%20en%20pleine%20floraison%20des%20deux%20c%C3%B4t%C3%A9s%2C%20des%20p%C3%A9tales%20roses%20tombant%20de%20mani%C3%A8re%20dynamique%2C%20lumi%C3%A8re%20douce%20et%20diffuse%20(qualit%C3%A9%20de%20lumi%C3%A8re%20de%20jour%20nuageux)%2C%20esth%C3%A9tique%20de%20film%20japonais%20(style%20Hirokazu%20Kore-eda)%2C%20faible%20profondeur%20de%20champ%2050%20mm%20floutant%20l'arri%C3%A8re-plan%2C%20ton%20cin%C3%A9matographique%20(simulation%20Fujifilm%20Pro%20400H)%2C%20atmosph%C3%A8re%20zen%20et%20calme%2C%20composition%20verticale%20adapt%C3%A9e%20%C3%A0%20un%20fond%20d'%C3%A9cran%20mobile)**
 
 ---
 
-<<<<<<< HEAD
-### No. 69: Nuit de Noël à New York
-=======
-### No. 72: Nuit de Noël à New York
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 73: Nuit de Noël à New York
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2704,15 +2507,11 @@ Scène de nuit de Noël à {argument name="location" default="New York Fifth Ave
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Sc%C3%A8ne%20de%20nuit%20de%20No%C3%ABl%20%C3%A0%20%7Bargument%20name%3D%22location%22%20default%3D%22New%20York%20Fifth%20Avenue%22%7D%2C%20sapin%20de%20No%C3%ABl%20g%C3%A9ant%20de%2020%20m%C3%A8tres%20au%20Rockefeller%20Center%20couvert%20de%20lumi%C3%A8res%20color%C3%A9es%2C%20flocons%20de%20neige%20tombant%20(profondeur%20de%20champ%20floue%20en%20taches%20lumineuses)%2C%20lumi%C3%A8res%20chaudes%20des%20vitrines%20des%20magasins%20des%20deux%20c%C3%B4t%C3%A9s%20de%20la%20rue%2C%20silhouettes%20de%20pi%C3%A9tons%20v%C3%AAtus%20de%20v%C3%AAtements%20d'hiver%2C%20contraste%20entre%20les%20tons%20chauds%20et%20la%20nuit%20enneig%C3%A9e%20bleu%20froid%2C%20forte%20ambiance%20festive%2C%20photographie%20de%20nuit%20urbaine%20longue%20exposition%202%20secondes%20capturant%20les%20tra%C3%AEn%C3%A9es%20lumineuses%2C%20%C3%A9talonnage%20des%20couleurs%20de%20qualit%C3%A9%20cin%C3%A9matographique%2C%20composition%20de%20carte%20postale%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Sc%C3%A8ne%20de%20nuit%20de%20No%C3%ABl%20%C3%A0%20%7Bargument%20name%3D%22location%22%20default%3D%22New%20York%20Fifth%20Avenue%22%7D%2C%20sapin%20de%20No%C3%ABl%20g%C3%A9ant%20de%2020%20m%C3%A8tres%20au%20Rockefeller%20Center%20couvert%20de%20lumi%C3%A8res%20color%C3%A9es%2C%20flocons%20de%20neige%20tombant%20(profondeur%20de%20champ%20floue%20en%20taches%20lumineuses)%2C%20lumi%C3%A8res%20chaudes%20des%20vitrines%20des%20magasins%20des%20deux%20c%C3%B4t%C3%A9s%20de%20la%20rue%2C%20silhouettes%20de%20pi%C3%A9tons%20v%C3%AAtus%20de%20v%C3%AAtements%20d'hiver%2C%20contraste%20entre%20les%20tons%20chauds%20et%20la%20nuit%20enneig%C3%A9e%20bleu%20froid%2C%20forte%20ambiance%20festive%2C%20photographie%20de%20nuit%20urbaine%20longue%20exposition%202%20secondes%20capturant%20les%20tra%C3%AEn%C3%A9es%20lumineuses%2C%20%C3%A9talonnage%20des%20couleurs%20de%20qualit%C3%A9%20cin%C3%A9matographique%2C%20composition%20de%20carte%20postale%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 70: Scène de camping au crépuscule
-=======
-### No. 73: Scène de camping au crépuscule
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 74: Scène de camping au crépuscule
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2741,15 +2540,11 @@ Scène de camping au crépuscule en montagne, tente d'extérieur professionnelle
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Sc%C3%A8ne%20de%20camping%20au%20cr%C3%A9puscule%20en%20montagne%2C%20tente%20d'ext%C3%A9rieur%20professionnelle%20(The%20North%20Face)%20avec%20d%C3%A9tails%20visibles%2C%20flammes%20de%20feu%20de%20camp%20dansant%20au%20premier%20plan%2C%20galaxie%20du%20ciel%20%C3%A9toil%C3%A9%20claire%20en%20arri%C3%A8re-plan%20(empilement%20longue%20exposition)%2C%20chaises%20de%20camping%20confortables%2C%20boissons%20chaudes%20fumantes%20sur%20table%20en%20bois%2C%20ton%20chaud%202800K%20cr%C3%A9ant%20une%20atmosph%C3%A8re%2C%20photographie%20esth%C3%A9tique%20de%20style%20de%20vie%20en%20plein%20air%2C%20objectif%20grand%20angle%2024%20mm%20montrant%20la%20sc%C3%A8ne%2C%20style%20National%20Geographic%2C%20composition%20paysage%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Sc%C3%A8ne%20de%20camping%20au%20cr%C3%A9puscule%20en%20montagne%2C%20tente%20d'ext%C3%A9rieur%20professionnelle%20(The%20North%20Face)%20avec%20d%C3%A9tails%20visibles%2C%20flammes%20de%20feu%20de%20camp%20dansant%20au%20premier%20plan%2C%20galaxie%20du%20ciel%20%C3%A9toil%C3%A9%20claire%20en%20arri%C3%A8re-plan%20(empilement%20longue%20exposition)%2C%20chaises%20de%20camping%20confortables%2C%20boissons%20chaudes%20fumantes%20sur%20table%20en%20bois%2C%20ton%20chaud%202800K%20cr%C3%A9ant%20une%20atmosph%C3%A8re%2C%20photographie%20esth%C3%A9tique%20de%20style%20de%20vie%20en%20plein%20air%2C%20objectif%20grand%20angle%2024%20mm%20montrant%20la%20sc%C3%A8ne%2C%20style%20National%20Geographic%2C%20composition%20paysage%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 71: Entraînement intense monochrome
-=======
-### No. 74: Entraînement intense monochrome
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 75: Entraînement intense monochrome
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2779,15 +2574,11 @@ Gros plan sur une {argument name="subject" default="femme athlétique"} soulevan
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Gros%20plan%20sur%20une%20%7Bargument%20name%3D%22subject%22%20default%3D%22femme%20athl%C3%A9tique%22%7D%20soulevant%20des%20halt%C3%A8res%20pendant%20une%20s%C3%A9ance%20de%20musculation%2C%20lignes%20musculaires%20claires%2C%20perles%20de%20sueur%20refl%C3%A9tant%20sur%20la%20peau%2C%20lumi%C3%A8re%20lat%C3%A9rale%20dramatique%20frappant%20fort%20%C3%A0%2090%20degr%C3%A9s%20depuis%20la%20gauche%2C%20%C3%A9quipement%20en%20arri%C3%A8re-plan%20flou%2C%20ton%20noir%20et%20blanc%20%C3%A0%20contraste%20%C3%A9lev%C3%A9%20renfor%C3%A7ant%20le%20sentiment%20de%20puissance%2C%20photographie%20sportive%20haute%20vitesse%20d'obturation%201%2F1000%20seconde%20pour%20figer%20l'action%2C%20visuel%20de%20niveau%20publicit%C3%A9%20Nike%2C%20composition%20carr%C3%A9e%201%3A1%2C%20accentuation%20des%20bords%20am%C3%A9liorant%20la%20texture.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Gros%20plan%20sur%20une%20%7Bargument%20name%3D%22subject%22%20default%3D%22femme%20athl%C3%A9tique%22%7D%20soulevant%20des%20halt%C3%A8res%20pendant%20une%20s%C3%A9ance%20de%20musculation%2C%20lignes%20musculaires%20claires%2C%20perles%20de%20sueur%20refl%C3%A9tant%20sur%20la%20peau%2C%20lumi%C3%A8re%20lat%C3%A9rale%20dramatique%20frappant%20fort%20%C3%A0%2090%20degr%C3%A9s%20depuis%20la%20gauche%2C%20%C3%A9quipement%20en%20arri%C3%A8re-plan%20flou%2C%20ton%20noir%20et%20blanc%20%C3%A0%20contraste%20%C3%A9lev%C3%A9%20renfor%C3%A7ant%20le%20sentiment%20de%20puissance%2C%20photographie%20sportive%20haute%20vitesse%20d'obturation%201%2F1000%20seconde%20pour%20figer%20l'action%2C%20visuel%20de%20niveau%20publicit%C3%A9%20Nike%2C%20composition%20carr%C3%A9e%201%3A1%2C%20accentuation%20des%20bords%20am%C3%A9liorant%20la%20texture.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 72: Intérieur de l'ISS (Station Spatiale Internationale)
-=======
-### No. 75: Intérieur de l'ISS (Station Spatiale Internationale)
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 76: Intérieur de l'ISS (Station Spatiale Internationale)
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2816,15 +2607,11 @@ Intérieur de la Station spatiale internationale, environnement physique réel, 
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Int%C3%A9rieur%20de%20la%20Station%20spatiale%20internationale%2C%20environnement%20physique%20r%C3%A9el%2C%20astronaute%20(d%C3%A9tails%20de%20la%20combinaison%20spatiale%20de%20la%20NASA)%20en%20%C3%A9tat%20d'apesanteur%2C%20atmosph%C3%A8re%20bleue%20de%20la%20Terre%20visible%20%C3%A0%20travers%20le%20hublot%2C%20voyants%20d'%C3%A9quipement%20%C3%A0%20l'int%C3%A9rieur%20fournissant%20un%20%C3%A9clairage%20d'ambiance%2C%20texture%20d'usure%20r%C3%A9aliste%20des%20cloisons%20m%C3%A9talliques%2C%20d%C3%A9tails%20pr%C3%A9cis%20des%20instruments%20scientifiques%2C%20style%20photographique%20officiel%20de%20la%20NASA%2C%20objectif%20grand-angle%2016%20mm%20capturant%20un%20espace%20%C3%A9troit%2C%20simulation%20d'%C3%A9clairage%20physique%20r%C3%A9el)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Int%C3%A9rieur%20de%20la%20Station%20spatiale%20internationale%2C%20environnement%20physique%20r%C3%A9el%2C%20astronaute%20(d%C3%A9tails%20de%20la%20combinaison%20spatiale%20de%20la%20NASA)%20en%20%C3%A9tat%20d'apesanteur%2C%20atmosph%C3%A8re%20bleue%20de%20la%20Terre%20visible%20%C3%A0%20travers%20le%20hublot%2C%20voyants%20d'%C3%A9quipement%20%C3%A0%20l'int%C3%A9rieur%20fournissant%20un%20%C3%A9clairage%20d'ambiance%2C%20texture%20d'usure%20r%C3%A9aliste%20des%20cloisons%20m%C3%A9talliques%2C%20d%C3%A9tails%20pr%C3%A9cis%20des%20instruments%20scientifiques%2C%20style%20photographique%20officiel%20de%20la%20NASA%2C%20objectif%20grand-angle%2016%20mm%20capturant%20un%20espace%20%C3%A9troit%2C%20simulation%20d'%C3%A9clairage%20physique%20r%C3%A9el)**
 
 ---
 
-<<<<<<< HEAD
-### No. 73: Visualisation de réseaux neuronaux
-=======
-### No. 76: Visualisation de réseaux neuronaux
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 77: Visualisation de réseaux neuronaux
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2853,15 +2640,11 @@ Visualisation du flux de données de la structure 3D d'un réseau neuronal, nœu
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Visualisation%20du%20flux%20de%20donn%C3%A9es%20de%20la%20structure%203D%20d'un%20r%C3%A9seau%20neuronal%2C%20n%C5%93uds%20neuronaux%20multicouches%20(sph%C3%A8res%20bleues%20lumineuses)%20dispos%C3%A9s%20en%20matrice%2C%20flux%20de%20donn%C3%A9es%20circulant%20dans%20les%20lignes%20de%20connexion%20sous%20forme%20de%20flux%20de%20particules%20lumineuses%2C%20palette%20de%20couleurs%20d%C3%A9grad%C3%A9es%20tech%20bleu-violet%20(%234A90E2%20%C3%A0%20%239013FE)%2C%20texture%20de%20verre%20translucide%2C%20rendu%203D%20C4D%2C%20clart%C3%A9%20de%20niveau%20illustration%20de%20vulgarisation%20scientifique%2C%20adapt%C3%A9%20aux%20illustrations%20d'articles%20techniques%20sur%20l'IA%2C%20composition%20horizontale%2016%3A9.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Visualisation%20du%20flux%20de%20donn%C3%A9es%20de%20la%20structure%203D%20d'un%20r%C3%A9seau%20neuronal%2C%20n%C5%93uds%20neuronaux%20multicouches%20(sph%C3%A8res%20bleues%20lumineuses)%20dispos%C3%A9s%20en%20matrice%2C%20flux%20de%20donn%C3%A9es%20circulant%20dans%20les%20lignes%20de%20connexion%20sous%20forme%20de%20flux%20de%20particules%20lumineuses%2C%20palette%20de%20couleurs%20d%C3%A9grad%C3%A9es%20tech%20bleu-violet%20(%234A90E2%20%C3%A0%20%239013FE)%2C%20texture%20de%20verre%20translucide%2C%20rendu%203D%20C4D%2C%20clart%C3%A9%20de%20niveau%20illustration%20de%20vulgarisation%20scientifique%2C%20adapt%C3%A9%20aux%20illustrations%20d'articles%20techniques%20sur%20l'IA%2C%20composition%20horizontale%2016%3A9.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 74: Intérieur japonais Wabi-Sabi
-=======
-### No. 77: Intérieur japonais Wabi-Sabi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 78: Intérieur japonais Wabi-Sabi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2891,15 +2674,11 @@ Une invite de design d'intérieur sereine axée sur le minimalisme japonais. Ell
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22area%22%20default%3D%2260%20square%20meter%22%7D%20Panorama%20int%C3%A9rieur%20d'un%20g%C3%AEte%20minimaliste%20japonais%2C%20tatami%20(couleur%20paille%20%23D4C5A0)%2C%20table%20basse%20%C3%A0%20th%C3%A9%20en%20%C3%A9b%C3%A8ne%2C%20lumi%C3%A8re%20naturelle%20chaude%20p%C3%A9n%C3%A9trant%20%C3%A0%20travers%20les%20portes%20shoji%20(mat%C3%A9riau%20en%20papier%20washi%20semi-transparent)%20formant%20des%20jeux%20d'ombre%20et%20de%20lumi%C3%A8re%20doux%2C%20texture%20de%20mur%20en%20pis%C3%A9%20au%20toucher%20rugueux%2C%20espace%20blanc%20incarnant%20l'esth%C3%A9tique%20wabi-sabi%2C%20restauration%20du%20ratio%20architectural%20r%C3%A9el%201%3A1%2C%20objectif%20ultra%20grand-angle%2016%20mm%20montrant%20le%20sens%20de%20l'espace%2C%20style%20photographique%20esth%C3%A9tique%20Kinfolk)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22area%22%20default%3D%2260%20square%20meter%22%7D%20Panorama%20int%C3%A9rieur%20d'un%20g%C3%AEte%20minimaliste%20japonais%2C%20tatami%20(couleur%20paille%20%23D4C5A0)%2C%20table%20basse%20%C3%A0%20th%C3%A9%20en%20%C3%A9b%C3%A8ne%2C%20lumi%C3%A8re%20naturelle%20chaude%20p%C3%A9n%C3%A9trant%20%C3%A0%20travers%20les%20portes%20shoji%20(mat%C3%A9riau%20en%20papier%20washi%20semi-transparent)%20formant%20des%20jeux%20d'ombre%20et%20de%20lumi%C3%A8re%20doux%2C%20texture%20de%20mur%20en%20pis%C3%A9%20au%20toucher%20rugueux%2C%20espace%20blanc%20incarnant%20l'esth%C3%A9tique%20wabi-sabi%2C%20restauration%20du%20ratio%20architectural%20r%C3%A9el%201%3A1%2C%20objectif%20ultra%20grand-angle%2016%20mm%20montrant%20le%20sens%20de%20l'espace%2C%20style%20photographique%20esth%C3%A9tique%20Kinfolk)**
 
 ---
 
-<<<<<<< HEAD
-### No. 75: Photographie de produits de luxe
-=======
-### No. 78: Photographie de produits de luxe
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 79: Photographie de produits de luxe
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2929,15 +2708,11 @@ Gros plan sur un {argument name="product" default="rouge à lèvres haut de gamm
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Gros%20plan%20sur%20un%20%7Bargument%20name%3D%22product%22%20default%3D%22rouge%20%C3%A0%20l%C3%A8vres%20haut%20de%20gamme%22%7D%20pos%C3%A9%20sur%20un%20comptoir%20en%20marbre%20poli%20noir%2C%20des%20p%C3%A9tales%20de%20rose%20frais%20naturellement%20dispers%C3%A9s%2C%20deux%20softbox%20%C3%A0%20%C3%A9clairage%20lat%C3%A9ral%20%C3%A0%2045%20degr%C3%A9s%20combin%C3%A9es%20%C3%A0%20une%20lumi%C3%A8re%20douce%20en%20nid%20d'abeille%20z%C3%A9nithale%20pour%20%C3%A9liminer%20l'%C3%A9blouissement%2C%20texture%20p%C3%A2te%20liquide%20pr%C3%A9sentant%20authentiquement%20un%20%C3%A9clat%20subtil%2C%20fond%20blanc%20pur%20sans%20couture%20niveau%20de%20rendu%20C4D%2C%20objectif%20macro%20100%20mm%20capturant%20les%20d%C3%A9tails%2C%20photographie%20de%20produit%20commerciale%2C%20composition%20de%20page%20de%20d%C3%A9tail%20e-commerce%2016%3A9%2C%20niveau%20de%20retouche%20de%20pr%C3%A9cision%20Photoshop)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Gros%20plan%20sur%20un%20%7Bargument%20name%3D%22product%22%20default%3D%22rouge%20%C3%A0%20l%C3%A8vres%20haut%20de%20gamme%22%7D%20pos%C3%A9%20sur%20un%20comptoir%20en%20marbre%20poli%20noir%2C%20des%20p%C3%A9tales%20de%20rose%20frais%20naturellement%20dispers%C3%A9s%2C%20deux%20softbox%20%C3%A0%20%C3%A9clairage%20lat%C3%A9ral%20%C3%A0%2045%20degr%C3%A9s%20combin%C3%A9es%20%C3%A0%20une%20lumi%C3%A8re%20douce%20en%20nid%20d'abeille%20z%C3%A9nithale%20pour%20%C3%A9liminer%20l'%C3%A9blouissement%2C%20texture%20p%C3%A2te%20liquide%20pr%C3%A9sentant%20authentiquement%20un%20%C3%A9clat%20subtil%2C%20fond%20blanc%20pur%20sans%20couture%20niveau%20de%20rendu%20C4D%2C%20objectif%20macro%20100%20mm%20capturant%20les%20d%C3%A9tails%2C%20photographie%20de%20produit%20commerciale%2C%20composition%20de%20page%20de%20d%C3%A9tail%20e-commerce%2016%3A9%2C%20niveau%20de%20retouche%20de%20pr%C3%A9cision%20Photoshop)**
 
 ---
 
-<<<<<<< HEAD
-### No. 76: Concept K-Pop Futuriste
-=======
-### No. 79: Concept K-Pop Futuriste
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 80: Concept K-Pop Futuriste
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2967,15 +2742,11 @@ Photo concept de groupe de K-pop {argument name="number of people" default="à q
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Photo%20concept%20de%20groupe%20de%20K-pop%20%7Bargument%20name%3D%22number%20of%20people%22%20default%3D%22%C3%A0%20quatre%20membres%22%7D%2C%20positionnement%20pr%C3%A9cis%20en%20formation%20de%20losange%2C%20palette%20de%20couleurs%20unifi%C3%A9e%20de%20style%20futuriste%20argent%C3%A9%2C%20%C3%A9clairage%20d%C3%A9grad%C3%A9%20onirique%20du%20violet%20au%20bleu%2C%20sol%20mouill%C3%A9%20refl%C3%A9tant%20les%20silhouettes%2C%20retouches%20haut%20de%20gamme%20conservant%20la%20texture%20de%20la%20peau%20mais%20unifiant%20les%20tons%2C%20style%20visuel%20SM%20Entertainment%2C%20%C3%A9clairage%20doux%20et%20dur%20m%C3%A9lang%C3%A9%2C%20machine%20%C3%A0%20brouillard%20en%20arri%C3%A8re-plan%20cr%C3%A9ant%20des%20couches%2C%20composition%20de%20photo%20concept%20d'album%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Photo%20concept%20de%20groupe%20de%20K-pop%20%7Bargument%20name%3D%22number%20of%20people%22%20default%3D%22%C3%A0%20quatre%20membres%22%7D%2C%20positionnement%20pr%C3%A9cis%20en%20formation%20de%20losange%2C%20palette%20de%20couleurs%20unifi%C3%A9e%20de%20style%20futuriste%20argent%C3%A9%2C%20%C3%A9clairage%20d%C3%A9grad%C3%A9%20onirique%20du%20violet%20au%20bleu%2C%20sol%20mouill%C3%A9%20refl%C3%A9tant%20les%20silhouettes%2C%20retouches%20haut%20de%20gamme%20conservant%20la%20texture%20de%20la%20peau%20mais%20unifiant%20les%20tons%2C%20style%20visuel%20SM%20Entertainment%2C%20%C3%A9clairage%20doux%20et%20dur%20m%C3%A9lang%C3%A9%2C%20machine%20%C3%A0%20brouillard%20en%20arri%C3%A8re-plan%20cr%C3%A9ant%20des%20couches%2C%20composition%20de%20photo%20concept%20d'album%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 77: Portrait Minimaliste Haute Couture
-=======
-### No. 80: Portrait Minimaliste Haute Couture
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 81: Portrait Minimaliste Haute Couture
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3005,15 +2776,11 @@ Portrait minimaliste en buste d'une {argument name="subject" default="jeune femm
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Portrait%20minimaliste%20en%20buste%20d'une%20%7Bargument%20name%3D%22subject%22%20default%3D%22jeune%20femme%22%7D%2C%20fond%20de%20couleur%20unie%20(%7Bargument%20name%3D%22background%20color%22%20default%3D%22%23B4C7E7%20haze%20blue%22%7D)%2C%20regard%20intense%20fixant%20directement%20l'objectif%2C%20%C3%A9clairage%20frontal%20plat%20par%20ring%20light%20Profoto%20pour%20%C3%A9liminer%20les%20ombres%2C%20texture%20de%20peau%20claire%20mais%20douce%2C%20contraste%20%C3%A9lev%C3%A9%20tout%20en%20conservant%20les%20d%C3%A9tails%2C%20composition%20de%20couverture%20de%20magazine%20de%20mode%2C%20texture%20Hasselblad%20d'appareil%20photo%20moyen%20format%2C%20post-traitement%20aux%20tons%20froids%2C%20esth%C3%A9tique%20de%20pochette%20d'album%20de%20Billie%20Eilish%2C%20composition%20carr%C3%A9e%201%3A1)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Portrait%20minimaliste%20en%20buste%20d'une%20%7Bargument%20name%3D%22subject%22%20default%3D%22jeune%20femme%22%7D%2C%20fond%20de%20couleur%20unie%20(%7Bargument%20name%3D%22background%20color%22%20default%3D%22%23B4C7E7%20haze%20blue%22%7D)%2C%20regard%20intense%20fixant%20directement%20l'objectif%2C%20%C3%A9clairage%20frontal%20plat%20par%20ring%20light%20Profoto%20pour%20%C3%A9liminer%20les%20ombres%2C%20texture%20de%20peau%20claire%20mais%20douce%2C%20contraste%20%C3%A9lev%C3%A9%20tout%20en%20conservant%20les%20d%C3%A9tails%2C%20composition%20de%20couverture%20de%20magazine%20de%20mode%2C%20texture%20Hasselblad%20d'appareil%20photo%20moyen%20format%2C%20post-traitement%20aux%20tons%20froids%2C%20esth%C3%A9tique%20de%20pochette%20d'album%20de%20Billie%20Eilish%2C%20composition%20carr%C3%A9e%201%3A1)**
 
 ---
 
-<<<<<<< HEAD
-### No. 78: Action de super-héros dynamique
-=======
-### No. 81: Action de super-héros dynamique
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 82: Action de super-héros dynamique
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3043,15 +2810,11 @@ Capture une scène de bataille de super-héros à haute intensité avec des effe
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22color%20scheme%22%20default%3D%22Rouge%20et%20noir%22%7D%20%7Bargument%20name%3D%22character%22%20default%3D%22super-h%C3%A9ros%22%7D%20moment%20de%20combat%20dynamique%20dans%20une%20rue%20de%20ville%20apr%C3%A8s%20la%20pluie%2C%20obturateur%20haute%20vitesse%20figeant%20les%20%C3%A9claboussures%20d'eau%2C%20explosion%20en%20arri%C3%A8re-plan%20cr%C3%A9ant%20des%20halos%20chauds%20contrastant%20avec%20les%20lampadaires%20bleus%20froids%2C%20d%C3%A9bris%20d'explosion%20au%20premier%20plan%20%C3%A9claboussant%20avec%20un%20flou%20de%20mouvement%2C%20m%C3%A9lange%20de%20lignes%20de%20bande%20dessin%C3%A9e%20et%20de%20photographie%20r%C3%A9aliste%2C%20HDR%20(High%20Dynamic%20Range)%2C%20composition%20percutante%2C%20texture%20VFX%20digne%20d'un%20film%20Marvel%2C%20rapport%20d'aspect%2016%3A9%2C%20traitement%20d'accentuation%20des%20bords)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22color%20scheme%22%20default%3D%22Rouge%20et%20noir%22%7D%20%7Bargument%20name%3D%22character%22%20default%3D%22super-h%C3%A9ros%22%7D%20moment%20de%20combat%20dynamique%20dans%20une%20rue%20de%20ville%20apr%C3%A8s%20la%20pluie%2C%20obturateur%20haute%20vitesse%20figeant%20les%20%C3%A9claboussures%20d'eau%2C%20explosion%20en%20arri%C3%A8re-plan%20cr%C3%A9ant%20des%20halos%20chauds%20contrastant%20avec%20les%20lampadaires%20bleus%20froids%2C%20d%C3%A9bris%20d'explosion%20au%20premier%20plan%20%C3%A9claboussant%20avec%20un%20flou%20de%20mouvement%2C%20m%C3%A9lange%20de%20lignes%20de%20bande%20dessin%C3%A9e%20et%20de%20photographie%20r%C3%A9aliste%2C%20HDR%20(High%20Dynamic%20Range)%2C%20composition%20percutante%2C%20texture%20VFX%20digne%20d'un%20film%20Marvel%2C%20rapport%20d'aspect%2016%3A9%2C%20traitement%20d'accentuation%20des%20bords)**
 
 ---
 
-<<<<<<< HEAD
-### No. 79: L'ambiance d'un concert en stade
-=======
-### No. 82: L'ambiance d'un concert en stade
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 83: L'ambiance d'un concert en stade
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3081,15 +2844,11 @@ Crée une scène de concert en stade à couper le souffle, rappelant les grandes
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22scene%22%20default%3D%22Grande%20salle%20de%20concert%20dans%20un%20stade%22%7D%2C%20confettis%20dor%C3%A9s%20tombant%20du%20ciel%2C%20%7Bargument%20name%3D%22person%22%20default%3D%22chanteuse%22%7D%20au%20centre%20du%20faisceau%20lumineux%2C%20d%C3%A9grad%C3%A9%20violet-bleu%20sur%20l'%C3%A9cran%20LED%20en%20arri%C3%A8re-plan%2C%20oc%C3%A9an%20de%20lumi%C3%A8res%20de%20t%C3%A9l%C3%A9phones%20du%20public%20cr%C3%A9ant%20un%20effet%20de%20mer%20%C3%A9toil%C3%A9e%2C%20machine%20%C3%A0%20brouillard%20de%20sc%C3%A8ne%20cr%C3%A9ant%20une%20atmosph%C3%A8re%20onirique%2C%20compression%20par%20t%C3%A9l%C3%A9objectif%20de%20photographie%20de%20concert%20200%20mm%2C%20ISO%20%C3%A9lev%C3%A9%203200%20capturant%20le%20mouvement%2C%20couleurs%20satur%C3%A9es%20de%20sc%C3%A8ne%20nocturne%2C%20style%20visuel%20Eras%20Tour%2C%20composition%20paysage%2016%3A9)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=%7Bargument%20name%3D%22scene%22%20default%3D%22Grande%20salle%20de%20concert%20dans%20un%20stade%22%7D%2C%20confettis%20dor%C3%A9s%20tombant%20du%20ciel%2C%20%7Bargument%20name%3D%22person%22%20default%3D%22chanteuse%22%7D%20au%20centre%20du%20faisceau%20lumineux%2C%20d%C3%A9grad%C3%A9%20violet-bleu%20sur%20l'%C3%A9cran%20LED%20en%20arri%C3%A8re-plan%2C%20oc%C3%A9an%20de%20lumi%C3%A8res%20de%20t%C3%A9l%C3%A9phones%20du%20public%20cr%C3%A9ant%20un%20effet%20de%20mer%20%C3%A9toil%C3%A9e%2C%20machine%20%C3%A0%20brouillard%20de%20sc%C3%A8ne%20cr%C3%A9ant%20une%20atmosph%C3%A8re%20onirique%2C%20compression%20par%20t%C3%A9l%C3%A9objectif%20de%20photographie%20de%20concert%20200%20mm%2C%20ISO%20%C3%A9lev%C3%A9%203200%20capturant%20le%20mouvement%2C%20couleurs%20satur%C3%A9es%20de%20sc%C3%A8ne%20nocturne%2C%20style%20visuel%20Eras%20Tour%2C%20composition%20paysage%2016%3A9)**
 
 ---
 
-<<<<<<< HEAD
-### No. 80: Chambre de rêve de Barbie
-=======
-### No. 83: Chambre de rêve de Barbie
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 84: Chambre de rêve de Barbie
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3119,15 +2878,11 @@ Intérieur de chambre de rêve Barbie, murs {argument name="wall color" default=
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Int%C3%A9rieur%20de%20chambre%20de%20r%C3%AAve%20Barbie%2C%20murs%20%7Bargument%20name%3D%22wall%20color%22%20default%3D%22roses%22%7D%20(Pantone%20219C)%2C%20mobilier%20r%C3%A9tro%20en%20plastique%20des%20ann%C3%A9es%2060%20avec%20reflets%20brillants%2C%20%C3%A9clairage%20de%20plafond%20en%20softbox%20combin%C3%A9%20%C3%A0%20des%20parapluies%20lat%C3%A9raux%20pour%20%C3%A9liminer%20les%20ombres%2C%20sensation%20surr%C3%A9aliste%20cr%C3%A9%C3%A9e%20par%20la%20collision%20des%20mat%C3%A9riaux%20plastiques%20et%20de%20la%20lumi%C3%A8re%20et%20de%20l'ombre%20r%C3%A9elles%2C%20sol%20laqu%C3%A9%20brillant%20refl%C3%A9tant%20le%20plafond%2C%20composition%2016%3A9%2C%20couleurs%20%C3%A0%20haute%20saturation%20(saturation%20%2B40)%2C%20bords%20flous%2C%20esth%C3%A9tique%20de%20composition%20sym%C3%A9trique%20%C3%A0%20la%20Wes%20Anderson%2C%20%C3%A9clairage%20de%20niveau%20publicitaire.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Int%C3%A9rieur%20de%20chambre%20de%20r%C3%AAve%20Barbie%2C%20murs%20%7Bargument%20name%3D%22wall%20color%22%20default%3D%22roses%22%7D%20(Pantone%20219C)%2C%20mobilier%20r%C3%A9tro%20en%20plastique%20des%20ann%C3%A9es%2060%20avec%20reflets%20brillants%2C%20%C3%A9clairage%20de%20plafond%20en%20softbox%20combin%C3%A9%20%C3%A0%20des%20parapluies%20lat%C3%A9raux%20pour%20%C3%A9liminer%20les%20ombres%2C%20sensation%20surr%C3%A9aliste%20cr%C3%A9%C3%A9e%20par%20la%20collision%20des%20mat%C3%A9riaux%20plastiques%20et%20de%20la%20lumi%C3%A8re%20et%20de%20l'ombre%20r%C3%A9elles%2C%20sol%20laqu%C3%A9%20brillant%20refl%C3%A9tant%20le%20plafond%2C%20composition%2016%3A9%2C%20couleurs%20%C3%A0%20haute%20saturation%20(saturation%20%2B40)%2C%20bords%20flous%2C%20esth%C3%A9tique%20de%20composition%20sym%C3%A9trique%20%C3%A0%20la%20Wes%20Anderson%2C%20%C3%A9clairage%20de%20niveau%20publicitaire.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 81: Mode de vie sur la côte amalfitaine
-=======
-### No. 84: Mode de vie sur la côte amalfitaine
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 85: Mode de vie sur la côte amalfitaine
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3157,15 +2912,11 @@ Un ensemble de prompts de photographie lifestyle sophistiqués, situés sur la c
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%C3%89l%C3%A9gante%20%7Bargument%20name%3D%22age%22%20default%3D%22femme%20de%2030%20ans%22%7D%20%7Bargument%20name%3D%22gender%22%20default%3D%22femme%22%7D%20sur%20une%20%7Bargument%20name%3D%22location%22%20default%3D%22terrasse%20de%20villa%20%C3%A0%20Amalfi%2C%20Italie%22%7D%2C%20v%C3%AAtue%20d'une%20%7Bargument%20name%3D%22clothing%22%20default%3D%22robe%20en%20lin%20fran%C3%A7ais%20blanc%20cass%C3%A9%22%7D%20flottant%20au%20vent%2C%20%C3%A9clairage%20doux%20de%20l'heure%20dor%C3%A9e%20(Magic%20Hour)%2C%20arri%C3%A8re-plan%20flou%20de%20paysage%20marin%20m%C3%A9diterran%C3%A9en%20bleu%2C%20simulation%20de%20couleur%20de%20film%20Leica%20M10%2C%20texture%20de%20film%20cin%C3%A9matographique%20aux%20tons%20chauds%20(Kodak%20Portra%20400)%2C%20photographie%20humaniste%2035%20mm%20%C3%A0%20faible%20profondeur%20de%20champ%2C%20palette%20de%20gris%20de%20haute%20qualit%C3%A9%2C%20atmosph%C3%A8re%20naturelle%20et%20d%C3%A9tendue)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=%C3%89l%C3%A9gante%20%7Bargument%20name%3D%22age%22%20default%3D%22femme%20de%2030%20ans%22%7D%20%7Bargument%20name%3D%22gender%22%20default%3D%22femme%22%7D%20sur%20une%20%7Bargument%20name%3D%22location%22%20default%3D%22terrasse%20de%20villa%20%C3%A0%20Amalfi%2C%20Italie%22%7D%2C%20v%C3%AAtue%20d'une%20%7Bargument%20name%3D%22clothing%22%20default%3D%22robe%20en%20lin%20fran%C3%A7ais%20blanc%20cass%C3%A9%22%7D%20flottant%20au%20vent%2C%20%C3%A9clairage%20doux%20de%20l'heure%20dor%C3%A9e%20(Magic%20Hour)%2C%20arri%C3%A8re-plan%20flou%20de%20paysage%20marin%20m%C3%A9diterran%C3%A9en%20bleu%2C%20simulation%20de%20couleur%20de%20film%20Leica%20M10%2C%20texture%20de%20film%20cin%C3%A9matographique%20aux%20tons%20chauds%20(Kodak%20Portra%20400)%2C%20photographie%20humaniste%2035%20mm%20%C3%A0%20faible%20profondeur%20de%20champ%2C%20palette%20de%20gris%20de%20haute%20qualit%C3%A9%2C%20atmosph%C3%A8re%20naturelle%20et%20d%C3%A9tendue)**
 
 ---
 
-<<<<<<< HEAD
-### No. 82: Selfie avec un appareil photo numérique Y2K
-=======
-### No. 85: Selfie avec un appareil photo numérique Y2K
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 86: Selfie avec un appareil photo numérique Y2K
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3195,15 +2946,11 @@ Selfie de style appareil photo numérique millénial, sensation délibérément 
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Selfie%20de%20style%20appareil%20photo%20num%C3%A9rique%20mill%C3%A9nial%2C%20sensation%20d%C3%A9lib%C3%A9r%C3%A9ment%20basse%20r%C3%A9solution%20(simulant%20la%20qualit%C3%A9%202%20m%C3%A9gapixels%20des%20ann%C3%A9es%202000)%2C%20recouvert%20de%20filtres%20bleu-violet%20froids%2C%20hautes%20lumi%C3%A8res%20surexpos%C3%A9es%20et%20ombres%20dures%20caus%C3%A9es%20par%20un%20flash%20direct%20frontal%2C%20d%C3%A9calage%20de%20couleur%20unique%20et%20bruit%20des%20capteurs%20CCD%2C%20filigrane%20de%20date%20%22%7Bargument%20name%3D%22date%22%20default%3D%2202%2F12%2F2025%22%7D%22%2C%20d%C3%A9coration%20de%20grille%2C%20texture%20de%20r%C3%A9seau%20social%20de%20l'%C3%A8re%20MySpace%2C%20composition%20carr%C3%A9e%201%3A1)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Selfie%20de%20style%20appareil%20photo%20num%C3%A9rique%20mill%C3%A9nial%2C%20sensation%20d%C3%A9lib%C3%A9r%C3%A9ment%20basse%20r%C3%A9solution%20(simulant%20la%20qualit%C3%A9%202%20m%C3%A9gapixels%20des%20ann%C3%A9es%202000)%2C%20recouvert%20de%20filtres%20bleu-violet%20froids%2C%20hautes%20lumi%C3%A8res%20surexpos%C3%A9es%20et%20ombres%20dures%20caus%C3%A9es%20par%20un%20flash%20direct%20frontal%2C%20d%C3%A9calage%20de%20couleur%20unique%20et%20bruit%20des%20capteurs%20CCD%2C%20filigrane%20de%20date%20%22%7Bargument%20name%3D%22date%22%20default%3D%2202%2F12%2F2025%22%7D%22%2C%20d%C3%A9coration%20de%20grille%2C%20texture%20de%20r%C3%A9seau%20social%20de%20l'%C3%A8re%20MySpace%2C%20composition%20carr%C3%A9e%201%3A1)**
 
 ---
 
-<<<<<<< HEAD
-### No. 83: Portrait de scientifique cinématographique
-=======
-### No. 86: Portrait de scientifique cinématographique
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 87: Portrait de scientifique cinématographique
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3233,15 +2980,11 @@ Style film noir et blanc 35 mm, un {argument name="character identity" default="
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Style%20film%20noir%20et%20blanc%2035%20mm%2C%20un%20%7Bargument%20name%3D%22character%20identity%22%20default%3D%22scientifique%22%7D%20contemplant%20un%20%7Bargument%20name%3D%22object%22%20default%3D%22mod%C3%A8le%20atomique%22%7D%20suspendu%20dans%20un%20laboratoire%20sombre%2C%20une%20forte%20lumi%C3%A8re%20lat%C3%A9rale%20de%20Rembrandt%20frappant%20%C3%A0%2045%20degr%C3%A9s%20depuis%20la%20gauche%2C%20de%20la%20fum%C3%A9e%20formant%20des%20couches%20dans%20le%20faisceau%20lumineux%2C%20des%20rides%20profondes%20clairement%20visibles%20sur%20le%20visage%2C%20l'%C3%A9quipement%20exp%C3%A9rimental%20en%20arri%C3%A8re-plan%20flou%2C%20simulation%20de%20grain%20de%20film%20ISO%20800%2C%20ton%20noir%20et%20blanc%20%C3%A0%20contraste%20%C3%A9lev%C3%A9%2C%20clair-obscur%20dramatique%2C%20style%20cin%C3%A9matographique%20de%20Christopher%20Nolan%2C%20format%20%C3%A9cran%20large%20anamorphique%202.39%3A1)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Style%20film%20noir%20et%20blanc%2035%20mm%2C%20un%20%7Bargument%20name%3D%22character%20identity%22%20default%3D%22scientifique%22%7D%20contemplant%20un%20%7Bargument%20name%3D%22object%22%20default%3D%22mod%C3%A8le%20atomique%22%7D%20suspendu%20dans%20un%20laboratoire%20sombre%2C%20une%20forte%20lumi%C3%A8re%20lat%C3%A9rale%20de%20Rembrandt%20frappant%20%C3%A0%2045%20degr%C3%A9s%20depuis%20la%20gauche%2C%20de%20la%20fum%C3%A9e%20formant%20des%20couches%20dans%20le%20faisceau%20lumineux%2C%20des%20rides%20profondes%20clairement%20visibles%20sur%20le%20visage%2C%20l'%C3%A9quipement%20exp%C3%A9rimental%20en%20arri%C3%A8re-plan%20flou%2C%20simulation%20de%20grain%20de%20film%20ISO%20800%2C%20ton%20noir%20et%20blanc%20%C3%A0%20contraste%20%C3%A9lev%C3%A9%2C%20clair-obscur%20dramatique%2C%20style%20cin%C3%A9matographique%20de%20Christopher%20Nolan%2C%20format%20%C3%A9cran%20large%20anamorphique%202.39%3A1)**
 
 ---
 
-<<<<<<< HEAD
-### No. 84: Affiche de Noël en feutre Judy et Nick
-=======
-### No. 87: Affiche de Noël en feutre Judy et Nick
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 88: Affiche de Noël en feutre Judy et Nick
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3270,15 +3013,11 @@ Affiche sur le thème de Noël avec une texture de feutre, utilisant globalement
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Affiche%20sur%20le%20th%C3%A8me%20de%20No%C3%ABl%20avec%20une%20texture%20de%20feutre%2C%20utilisant%20globalement%20une%20texture%20faite%20%C3%A0%20la%20main%20en%20feutre%20de%20laine%20chaude%20et%20apaisante.%20Au%20centre%20se%20trouve%20un%20sapin%20de%20No%C3%ABl%20en%20feutre%20vert%203D%20duveteux.%20Les%20personnages%20Disney%20Judy%20et%20Nick%20sont%20assis%20sur%20le%20tapis%2C%20emballant%20des%20bo%C3%AEtes%20cadeaux%2C%20orn%C3%A9es%20de%20rubans%20en%20peluche%20blanc%20laiteux%20et%20de%20pompons%20dor%C3%A9s%2C%20le%20sommet%20de%20l'arbre%20%C3%A9tant%20d%C3%A9cor%C3%A9%20d'une%20%C3%A9toile%20lumineuse%20en%20feutre.%20Sous%20l'arbre%20sont%20empil%C3%A9es%20des%20bo%C3%AEtes%20cadeaux%20envelopp%C3%A9es%20de%20tissu%20de%20feutre%20de%20laine%2C%20accompagn%C3%A9es%20de%20n%C5%93uds%20en%20fil%20color%C3%A9%20et%20de%20clochettes%20en%20feutre.%20Des%20flocons%20de%20neige%20en%20feutre%2C%20des%20poup%C3%A9es%20de%20rennes%20en%20feutre%20et%20des%20bonshommes%20en%20pain%20d'%C3%A9pices%20en%20feutre%20sont%20%C3%A9parpill%C3%A9s.%20L'arri%C3%A8re-plan%20est%20une%20sc%C3%A8ne%20de%20chalet%20chaleureuse%20avec%20une%20texture%20de%20feutre%20marron%20clair%2C%20pr%C3%A9sentant%20une%20chemin%C3%A9e%20lumineuse%20en%20feutre%2C%20un%20tapis%20moelleux%20et%20une%20chemin%C3%A9e%20avec%20des%20chaussettes%20en%20feutre.%20De%20doux%20flocons%20de%20neige%20en%20feutre%20flottent%20%C3%A0%20l'ext%C3%A9rieur%20de%20la%20fen%C3%AAtre.%20La%20tonalit%C3%A9%20g%C3%A9n%C3%A9rale%20se%20concentre%20sur%20le%20marron%20chaud%2C%20le%20rouge%20de%20No%C3%ABl%2C%20le%20blanc%20laiteux%20et%20l'or%20clair.%20Une%20palette%20de%20couleurs%20chaudes%20%C3%A0%20haute%20saturation%2C%20des%20d%C3%A9tails%20ultra-haute%20d%C3%A9finition%2C%20un%20%C3%A9clairage%20doux%20et%20chaleureux%2C%20une%20atmosph%C3%A8re%20vivante%20et%20apaisante%20avec%20des%20couches%20riches%2C%20pleine%20d'un%20sens%203D%20prononc%C3%A9%20de%20texture%20faite%20%C3%A0%20la%20main.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Affiche%20sur%20le%20th%C3%A8me%20de%20No%C3%ABl%20avec%20une%20texture%20de%20feutre%2C%20utilisant%20globalement%20une%20texture%20faite%20%C3%A0%20la%20main%20en%20feutre%20de%20laine%20chaude%20et%20apaisante.%20Au%20centre%20se%20trouve%20un%20sapin%20de%20No%C3%ABl%20en%20feutre%20vert%203D%20duveteux.%20Les%20personnages%20Disney%20Judy%20et%20Nick%20sont%20assis%20sur%20le%20tapis%2C%20emballant%20des%20bo%C3%AEtes%20cadeaux%2C%20orn%C3%A9es%20de%20rubans%20en%20peluche%20blanc%20laiteux%20et%20de%20pompons%20dor%C3%A9s%2C%20le%20sommet%20de%20l'arbre%20%C3%A9tant%20d%C3%A9cor%C3%A9%20d'une%20%C3%A9toile%20lumineuse%20en%20feutre.%20Sous%20l'arbre%20sont%20empil%C3%A9es%20des%20bo%C3%AEtes%20cadeaux%20envelopp%C3%A9es%20de%20tissu%20de%20feutre%20de%20laine%2C%20accompagn%C3%A9es%20de%20n%C5%93uds%20en%20fil%20color%C3%A9%20et%20de%20clochettes%20en%20feutre.%20Des%20flocons%20de%20neige%20en%20feutre%2C%20des%20poup%C3%A9es%20de%20rennes%20en%20feutre%20et%20des%20bonshommes%20en%20pain%20d'%C3%A9pices%20en%20feutre%20sont%20%C3%A9parpill%C3%A9s.%20L'arri%C3%A8re-plan%20est%20une%20sc%C3%A8ne%20de%20chalet%20chaleureuse%20avec%20une%20texture%20de%20feutre%20marron%20clair%2C%20pr%C3%A9sentant%20une%20chemin%C3%A9e%20lumineuse%20en%20feutre%2C%20un%20tapis%20moelleux%20et%20une%20chemin%C3%A9e%20avec%20des%20chaussettes%20en%20feutre.%20De%20doux%20flocons%20de%20neige%20en%20feutre%20flottent%20%C3%A0%20l'ext%C3%A9rieur%20de%20la%20fen%C3%AAtre.%20La%20tonalit%C3%A9%20g%C3%A9n%C3%A9rale%20se%20concentre%20sur%20le%20marron%20chaud%2C%20le%20rouge%20de%20No%C3%ABl%2C%20le%20blanc%20laiteux%20et%20l'or%20clair.%20Une%20palette%20de%20couleurs%20chaudes%20%C3%A0%20haute%20saturation%2C%20des%20d%C3%A9tails%20ultra-haute%20d%C3%A9finition%2C%20un%20%C3%A9clairage%20doux%20et%20chaleureux%2C%20une%20atmosph%C3%A8re%20vivante%20et%20apaisante%20avec%20des%20couches%20riches%2C%20pleine%20d'un%20sens%203D%20prononc%C3%A9%20de%20texture%20faite%20%C3%A0%20la%20main.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 85: Le lapin de bureau blasé se prend en selfie
-=======
-### No. 88: Le lapin de bureau blasé se prend en selfie
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 89: Le lapin de bureau blasé se prend en selfie
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3307,15 +3046,11 @@ Un petit lapin anthropomorphe, présenté dans le style visuel d'un instantané 
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20petit%20lapin%20anthropomorphe%2C%20pr%C3%A9sent%C3%A9%20dans%20le%20style%20visuel%20d'un%20instantan%C3%A9%20quotidien%2C%20la%20photo%20n'a%20pas%20de%20sujet%20ni%20de%20sens%20de%20la%20composition%20clairs%2C%20et%20pr%C3%A9sente%20un%20l%C3%A9ger%20flou%20de%20mouvement.%20Le%20protagoniste%20occupe%20le%20centre%20du%20cadre%2C%20un%20autoportrait%20en%20gros%20plan%2C%20avec%20une%20expression%20lasse%20sur%20le%20visage%2C%20portant%20autour%20du%20cou%20un%20badge%20avec%20son%20propre%20portrait.%20L'arri%C3%A8re-plan%20est%20une%20sc%C3%A8ne%20de%20bureau%2C%20avec%20une%20page%20de%20conception%20graphique%20sur%20l'%C3%A9cran%20de%20l'ordinateur%20%C3%A0%20c%C3%B4t%C3%A9%2C%20cr%C3%A9ant%20une%20atmosph%C3%A8re%20%C3%A0%20la%20fois%20banale%20et%20unique.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Un%20petit%20lapin%20anthropomorphe%2C%20pr%C3%A9sent%C3%A9%20dans%20le%20style%20visuel%20d'un%20instantan%C3%A9%20quotidien%2C%20la%20photo%20n'a%20pas%20de%20sujet%20ni%20de%20sens%20de%20la%20composition%20clairs%2C%20et%20pr%C3%A9sente%20un%20l%C3%A9ger%20flou%20de%20mouvement.%20Le%20protagoniste%20occupe%20le%20centre%20du%20cadre%2C%20un%20autoportrait%20en%20gros%20plan%2C%20avec%20une%20expression%20lasse%20sur%20le%20visage%2C%20portant%20autour%20du%20cou%20un%20badge%20avec%20son%20propre%20portrait.%20L'arri%C3%A8re-plan%20est%20une%20sc%C3%A8ne%20de%20bureau%2C%20avec%20une%20page%20de%20conception%20graphique%20sur%20l'%C3%A9cran%20de%20l'ordinateur%20%C3%A0%20c%C3%B4t%C3%A9%2C%20cr%C3%A9ant%20une%20atmosph%C3%A8re%20%C3%A0%20la%20fois%20banale%20et%20unique.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 86: Conception du personnage IP du Petit Renard Tendance
-=======
-### No. 89: Conception du personnage IP du Petit Renard Tendance
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 90: Conception du personnage IP du Petit Renard Tendance
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3345,15 +3080,11 @@ Conception de personnage IP : version Q, un petit renard roux-orangé duveteux, 
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Conception%20de%20personnage%20IP%20%3A%20version%20Q%2C%20un%20petit%20renard%20roux-orang%C3%A9%20duveteux%2C%20portant%20des%20%C3%A9couteurs%2C%20expression%20extasi%C3%A9e%2C%20v%C3%AAtu%20d'un%20T-shirt%20blanc%20tendance%2C%20d'un%20pantalon%20large%2C%20d'un%20sac%20bandouli%C3%A8re%2C%20ambiance%20d%C3%A9contract%C3%A9e%20et%20confortable%2C%20repr%C3%A9sentation%20d%C3%A9taill%C3%A9e%2C%20petit%20texte%20sans%20empattement%20centr%C3%A9%20en%20bas%20%22%7Bargument%20name%3D%22brand%20text%22%20default%3D%22YUAN%C3%97DESIGN%22%7D%22%20%22%7Bargument%20name%3D%22slogan%22%20default%3D%22Original%20Works%2C%20Enriching%20Life%22%7D%22%2C%20sortie%20de%20haute%20qualit%C3%A9.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Conception%20de%20personnage%20IP%20%3A%20version%20Q%2C%20un%20petit%20renard%20roux-orang%C3%A9%20duveteux%2C%20portant%20des%20%C3%A9couteurs%2C%20expression%20extasi%C3%A9e%2C%20v%C3%AAtu%20d'un%20T-shirt%20blanc%20tendance%2C%20d'un%20pantalon%20large%2C%20d'un%20sac%20bandouli%C3%A8re%2C%20ambiance%20d%C3%A9contract%C3%A9e%20et%20confortable%2C%20repr%C3%A9sentation%20d%C3%A9taill%C3%A9e%2C%20petit%20texte%20sans%20empattement%20centr%C3%A9%20en%20bas%20%22%7Bargument%20name%3D%22brand%20text%22%20default%3D%22YUAN%C3%97DESIGN%22%7D%22%20%22%7Bargument%20name%3D%22slogan%22%20default%3D%22Original%20Works%2C%20Enriching%20Life%22%7D%22%2C%20sortie%20de%20haute%20qualit%C3%A9.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 87: Affiche cursive Vitalité infinie
-=======
-### No. 90: Affiche cursive Vitalité infinie
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 91: Affiche cursive Vitalité infinie
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3383,15 +3114,11 @@ Affiche avec police calligraphique "{argument name="poster text" default="Life G
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Affiche%20avec%20police%20calligraphique%20%22%7Bargument%20name%3D%22poster%20text%22%20default%3D%22Life%20Goes%20On%22%7D%22%2C%20police%20cursive%20sauvage%20et%20d%C3%A9brid%C3%A9e%2C%20tension%20visuelle%20pleine%20de%20dynamisme%2C%20traits%20ultra-%C3%A9pais%20lisses%20et%20%C3%A9l%C3%A9gants%2C%20traits%20astucieusement%20%C3%A9tendus%20et%20d%C3%A9form%C3%A9s%2C%20effet%20de%20blanc%20volant%2C%20traits%20lisses%20et%20chics%2C%20fond%20%C3%A9pur%C3%A9%2C%20%C5%93uvre%20d'affiche%20de%20ma%C3%AEtre%2C%20affiche%20de%20film%2C)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Affiche%20avec%20police%20calligraphique%20%22%7Bargument%20name%3D%22poster%20text%22%20default%3D%22Life%20Goes%20On%22%7D%22%2C%20police%20cursive%20sauvage%20et%20d%C3%A9brid%C3%A9e%2C%20tension%20visuelle%20pleine%20de%20dynamisme%2C%20traits%20ultra-%C3%A9pais%20lisses%20et%20%C3%A9l%C3%A9gants%2C%20traits%20astucieusement%20%C3%A9tendus%20et%20d%C3%A9form%C3%A9s%2C%20effet%20de%20blanc%20volant%2C%20traits%20lisses%20et%20chics%2C%20fond%20%C3%A9pur%C3%A9%2C%20%C5%93uvre%20d'affiche%20de%20ma%C3%AEtre%2C%20affiche%20de%20film%2C)**
 
 ---
 
-<<<<<<< HEAD
-### No. 88: Design d'aimant de réfrigérateur irrégulier Judy et Nick
-=======
-### No. 91: Design d'aimant de réfrigérateur irrégulier Judy et Nick
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 92: Design d'aimant de réfrigérateur irrégulier Judy et Nick
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3421,15 +3148,11 @@ Style de design minimaliste moderne, design d'aimant de réfrigérateur en émai
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Style%20de%20design%20minimaliste%20moderne%2C%20design%20d'aimant%20de%20r%C3%A9frig%C3%A9rateur%20en%20%C3%A9mail%20sur%20le%20th%C3%A8me%20de%20Zootopie%2C%20aimant%20de%20forme%20irr%C3%A9guli%C3%A8re%2C%20gros%20plan%20de%20Judy%20Hopps%20et%20Nick%20Wilde%2C%20entour%C3%A9s%20de%20motifs%20d'%C3%A9l%C3%A9ments%20de%20No%C3%ABl%2C%20avec%20la%20police%20anglaise%20%22%7Bargument%20name%3D%22bottom%20text%22%20default%3D%22Merry%20Christmas%22%7D%22%20en%20bas%2C%20design%20international%2C%20sensation%20premium%2C%20couleur%20d%C3%A9grad%C3%A9e%20violet%20clair.%20Fond%20%C3%A0%20texture%20pure.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Style%20de%20design%20minimaliste%20moderne%2C%20design%20d'aimant%20de%20r%C3%A9frig%C3%A9rateur%20en%20%C3%A9mail%20sur%20le%20th%C3%A8me%20de%20Zootopie%2C%20aimant%20de%20forme%20irr%C3%A9guli%C3%A8re%2C%20gros%20plan%20de%20Judy%20Hopps%20et%20Nick%20Wilde%2C%20entour%C3%A9s%20de%20motifs%20d'%C3%A9l%C3%A9ments%20de%20No%C3%ABl%2C%20avec%20la%20police%20anglaise%20%22%7Bargument%20name%3D%22bottom%20text%22%20default%3D%22Merry%20Christmas%22%7D%22%20en%20bas%2C%20design%20international%2C%20sensation%20premium%2C%20couleur%20d%C3%A9grad%C3%A9e%20violet%20clair.%20Fond%20%C3%A0%20texture%20pure.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 89: Icône de portefeuille et de pièces en verre 3D
-=======
-### No. 92: Icône de portefeuille et de pièces en verre 3D
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 93: Icône de portefeuille et de pièces en verre 3D
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3459,15 +3182,11 @@ Icône d'interface utilisateur, un portefeuille rempli de pièces d'or, un tas d
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Ic%C3%B4ne%20d'interface%20utilisateur%2C%20un%20portefeuille%20rempli%20de%20pi%C3%A8ces%20d'or%2C%20un%20tas%20de%20pi%C3%A8ces%20d'or%2C%20sur%20les%20pi%C3%A8ces%20d'or%20se%20trouve%20le%20symbole%20%7Bargument%20name%3D%22currency%20type%22%20default%3D%22RMB%22%7D%2C%20effet%203D%2C%20texture%20de%20verre%2C%20d%C3%A9grad%C3%A9%20dor%C3%A9%20doux%2C%20effet%20de%20halo%20de%20mat%C3%A9riau%20translucide%2C%20flux%20de%20couleur%20contrastant%20sur%20fond%20clair%2C%20style%20de%20rendu%203D%2C%20l'image%20est%20pleine%20de%20souffle.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Ic%C3%B4ne%20d'interface%20utilisateur%2C%20un%20portefeuille%20rempli%20de%20pi%C3%A8ces%20d'or%2C%20un%20tas%20de%20pi%C3%A8ces%20d'or%2C%20sur%20les%20pi%C3%A8ces%20d'or%20se%20trouve%20le%20symbole%20%7Bargument%20name%3D%22currency%20type%22%20default%3D%22RMB%22%7D%2C%20effet%203D%2C%20texture%20de%20verre%2C%20d%C3%A9grad%C3%A9%20dor%C3%A9%20doux%2C%20effet%20de%20halo%20de%20mat%C3%A9riau%20translucide%2C%20flux%20de%20couleur%20contrastant%20sur%20fond%20clair%2C%20style%20de%20rendu%203D%2C%20l'image%20est%20pleine%20de%20souffle.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 90: Illustration Chibi de Nick et Judy dessinée à la main
-=======
-### No. 93: Illustration Chibi de Nick et Judy dessinée à la main
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 94: Illustration Chibi de Nick et Judy dessinée à la main
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3496,15 +3215,11 @@ Voici une illustration dessinée à la main en version Q des personnages classiq
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Voici%20une%20illustration%20dessin%C3%A9e%20%C3%A0%20la%20main%20en%20version%20Q%20des%20personnages%20classiques%20du%20duo%20du%20film%20d'animation%20Disney%20%C2%AB%20Zootopie%20%C2%BB%20%3A%20Nick%20le%20renard%20et%20Judy%20la%20lapine.%20Sur%20l'image%2C%20Nick%20est%20allong%C3%A9%20sur%20Judy%2C%20et%20ils%20passent%20tous%20les%20deux%20leurs%20t%C3%AAtes%20derri%C3%A8re%20une%20porte.%20Il%20y%20a%20deux%20%C3%A9l%C3%A9ments%20en%20forme%20de%20c%C5%93ur%20%C3%A0%20c%C3%B4t%C3%A9%20de%20Judy.%20Le%20style%20g%C3%A9n%C3%A9ral%20est%20mignon%20et%20enjou%C3%A9%2C%20d%C3%A9montrant%20pleinement%20la%20complicit%C3%A9%20et%20la%20mignonnerie%20de%20ce%20duo%20de%20partenaires%2C%20le%20tout%20dans%20une%20atmosph%C3%A8re%20chaleureuse.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Voici%20une%20illustration%20dessin%C3%A9e%20%C3%A0%20la%20main%20en%20version%20Q%20des%20personnages%20classiques%20du%20duo%20du%20film%20d'animation%20Disney%20%C2%AB%20Zootopie%20%C2%BB%20%3A%20Nick%20le%20renard%20et%20Judy%20la%20lapine.%20Sur%20l'image%2C%20Nick%20est%20allong%C3%A9%20sur%20Judy%2C%20et%20ils%20passent%20tous%20les%20deux%20leurs%20t%C3%AAtes%20derri%C3%A8re%20une%20porte.%20Il%20y%20a%20deux%20%C3%A9l%C3%A9ments%20en%20forme%20de%20c%C5%93ur%20%C3%A0%20c%C3%B4t%C3%A9%20de%20Judy.%20Le%20style%20g%C3%A9n%C3%A9ral%20est%20mignon%20et%20enjou%C3%A9%2C%20d%C3%A9montrant%20pleinement%20la%20complicit%C3%A9%20et%20la%20mignonnerie%20de%20ce%20duo%20de%20partenaires%2C%20le%20tout%20dans%20une%20atmosph%C3%A8re%20chaleureuse.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 91: Selfie fusionné de trois personnes en plongée
-=======
-### No. 94: Selfie fusionné de trois personnes en plongée
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 95: Selfie fusionné de trois personnes en plongée
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3534,15 +3249,11 @@ Ne pas échanger les visages, les visages des personnages ne doivent pas changer
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Ne%20pas%20%C3%A9changer%20les%20visages%2C%20les%20visages%20des%20personnages%20ne%20doivent%20pas%20changer%20du%20tout%20!%20Veuillez%20fusionner%20les%20trois%20personnes%20de%20l'Image%201%2C%20de%20l'Image%202%20et%20de%20l'Image%203%20en%20un%20selfie%20en%20plong%C3%A9e%20%C3%A0%20trois%20personnes.%20La%20composition%20est%20serr%C3%A9e%2C%20les%20trois%20sujets%20sont%20tr%C3%A8s%20proches%2C%20la%20t%C3%AAte%20l%C3%A9g%C3%A8rement%20lev%C3%A9e%2C%20les%20yeux%20regardant%20directement%20l'objectif%2C%20cr%C3%A9ant%20un%20fort%20impact%20visuel.%20La%20personne%20de%20l'Image%201%20se%20tient%20l%C3%A9g%C3%A8rement%20en%20avant%20au%20milieu%2C%20la%20similarit%C3%A9%20du%20visage%20doit%20%C3%AAtre%20maintenue%20%3B%20le%20corps%20l%C3%A9g%C3%A8rement%20pench%C3%A9%2C%20l'angle%20de%20prise%20de%20vue%20est%20une%20plong%C3%A9e%20de%20haut%20en%20bas%2C%20exag%C3%A9rant%20les%20proportions%20de%20la%20t%C3%AAte%2C%20correspondant%20au%20style%20de%20selfie%20visuel%20typiquement%20japonais%2Fcor%C3%A9en.%20Simple%20et%20%C3%A9pur%C3%A9%2C%20mettant%20davantage%20en%20valeur%20les%20sujets%20des%20personnages.%20Le%20style%20visuel%20tend%20vers%20le%20visual%20kei%20japonais%2C%20l'image%20globale%20est%20en%20haute%20d%C3%A9finition%2C%20prise%20avec%20la%20cam%C3%A9ra%20frontale%20d'un%20iPhone%2C%20pr%C3%A9sentant%20finalement%20un%20effet%20de%20photo%20de%20groupe%20exquis%20et%20styl%C3%A9.%20N%C3%A9cessite%20une%20int%C3%A9gration%20transparente%20des%20personnages%20dans%20la%20sc%C3%A8ne%2C%20une%20transition%20visuelle%20naturelle%2C%20un%20%C3%A9clairage%20global%20lumineux%20et%20uniforme.%20L'arri%C3%A8re-plan%20est%20un%20tr%C3%A8s%20grand%20cin%C3%A9ma%20rempli%20de%20spectateurs%2C%20deux%20personnes%20tournant%20le%20dos%20%C3%A0%20l'%C3%A9cran%2C%20l'%C3%A9cran%20affichant%20une%20affiche%20de%20film%20exquise%20de%20%22%7Bargument%20name%3D%22movie%20poster%20name%22%20default%3D%22Zootopia%202%22%7D%22%20remplissant%20l'%C3%A9cran.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Ne%20pas%20%C3%A9changer%20les%20visages%2C%20les%20visages%20des%20personnages%20ne%20doivent%20pas%20changer%20du%20tout%20!%20Veuillez%20fusionner%20les%20trois%20personnes%20de%20l'Image%201%2C%20de%20l'Image%202%20et%20de%20l'Image%203%20en%20un%20selfie%20en%20plong%C3%A9e%20%C3%A0%20trois%20personnes.%20La%20composition%20est%20serr%C3%A9e%2C%20les%20trois%20sujets%20sont%20tr%C3%A8s%20proches%2C%20la%20t%C3%AAte%20l%C3%A9g%C3%A8rement%20lev%C3%A9e%2C%20les%20yeux%20regardant%20directement%20l'objectif%2C%20cr%C3%A9ant%20un%20fort%20impact%20visuel.%20La%20personne%20de%20l'Image%201%20se%20tient%20l%C3%A9g%C3%A8rement%20en%20avant%20au%20milieu%2C%20la%20similarit%C3%A9%20du%20visage%20doit%20%C3%AAtre%20maintenue%20%3B%20le%20corps%20l%C3%A9g%C3%A8rement%20pench%C3%A9%2C%20l'angle%20de%20prise%20de%20vue%20est%20une%20plong%C3%A9e%20de%20haut%20en%20bas%2C%20exag%C3%A9rant%20les%20proportions%20de%20la%20t%C3%AAte%2C%20correspondant%20au%20style%20de%20selfie%20visuel%20typiquement%20japonais%2Fcor%C3%A9en.%20Simple%20et%20%C3%A9pur%C3%A9%2C%20mettant%20davantage%20en%20valeur%20les%20sujets%20des%20personnages.%20Le%20style%20visuel%20tend%20vers%20le%20visual%20kei%20japonais%2C%20l'image%20globale%20est%20en%20haute%20d%C3%A9finition%2C%20prise%20avec%20la%20cam%C3%A9ra%20frontale%20d'un%20iPhone%2C%20pr%C3%A9sentant%20finalement%20un%20effet%20de%20photo%20de%20groupe%20exquis%20et%20styl%C3%A9.%20N%C3%A9cessite%20une%20int%C3%A9gration%20transparente%20des%20personnages%20dans%20la%20sc%C3%A8ne%2C%20une%20transition%20visuelle%20naturelle%2C%20un%20%C3%A9clairage%20global%20lumineux%20et%20uniforme.%20L'arri%C3%A8re-plan%20est%20un%20tr%C3%A8s%20grand%20cin%C3%A9ma%20rempli%20de%20spectateurs%2C%20deux%20personnes%20tournant%20le%20dos%20%C3%A0%20l'%C3%A9cran%2C%20l'%C3%A9cran%20affichant%20une%20affiche%20de%20film%20exquise%20de%20%22%7Bargument%20name%3D%22movie%20poster%20name%22%20default%3D%22Zootopia%202%22%7D%22%20remplissant%20l'%C3%A9cran.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 92: Fiche de connaissances dessinée à la main : Tomates et œufs brouillés
-=======
-### No. 95: Fiche de connaissances dessinée à la main : Tomates et œufs brouillés
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 96: Fiche de connaissances dessinée à la main : Tomates et œufs brouillés
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3572,15 +3283,11 @@ Créez une fiche de connaissances pour la recette de {argument name="dish name" 
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Cr%C3%A9ez%20une%20fiche%20de%20connaissances%20pour%20la%20recette%20de%20%7Bargument%20name%3D%22dish%20name%22%20default%3D%22%C5%92ufs%20brouill%C3%A9s%20%C3%A0%20la%20tomate%22%7D%2C%20le%20style%20de%20la%20fiche%20est%20un%20carnet%20de%20notes%20dessin%C3%A9%20%C3%A0%20la%20main%2Fgribouill%C3%A9.%20Police%20%3A%20Utilisez%20des%20polices%20manuscrites%20ou%20de%20style%20manuscrit%2C%20ou%20une%20%C3%A9criture%20directe.%20%C3%89l%C3%A9ments%20%3A%20Utilisez%20beaucoup%20de%20bonshommes%20allumettes%2C%20de%20petites%20ic%C3%B4nes%2C%20de%20fl%C3%A8ches%2C%20de%20bulles%20de%20dialogue%2C%20de%20s%C3%A9parateurs%20et%20d'autres%20%C3%A9l%C3%A9ments%20dessin%C3%A9s%20%C3%A0%20la%20main%20pour%20faciliter%20l'expression.%20Couleurs%20%3A%20Des%20couleurs%20riches%20et%20vives%2C%20utilisant%20souvent%20des%20effets%20de%20surligneur%20et%20de%20crayon%20de%20couleur.%20Mise%20en%20page%20%3A%20Libre%20et%20spontan%C3%A9e%2C%20non%20conventionnelle%2C%20pleine%20de%20personnalit%C3%A9%20et%20de%20fantaisie.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Cr%C3%A9ez%20une%20fiche%20de%20connaissances%20pour%20la%20recette%20de%20%7Bargument%20name%3D%22dish%20name%22%20default%3D%22%C5%92ufs%20brouill%C3%A9s%20%C3%A0%20la%20tomate%22%7D%2C%20le%20style%20de%20la%20fiche%20est%20un%20carnet%20de%20notes%20dessin%C3%A9%20%C3%A0%20la%20main%2Fgribouill%C3%A9.%20Police%20%3A%20Utilisez%20des%20polices%20manuscrites%20ou%20de%20style%20manuscrit%2C%20ou%20une%20%C3%A9criture%20directe.%20%C3%89l%C3%A9ments%20%3A%20Utilisez%20beaucoup%20de%20bonshommes%20allumettes%2C%20de%20petites%20ic%C3%B4nes%2C%20de%20fl%C3%A8ches%2C%20de%20bulles%20de%20dialogue%2C%20de%20s%C3%A9parateurs%20et%20d'autres%20%C3%A9l%C3%A9ments%20dessin%C3%A9s%20%C3%A0%20la%20main%20pour%20faciliter%20l'expression.%20Couleurs%20%3A%20Des%20couleurs%20riches%20et%20vives%2C%20utilisant%20souvent%20des%20effets%20de%20surligneur%20et%20de%20crayon%20de%20couleur.%20Mise%20en%20page%20%3A%20Libre%20et%20spontan%C3%A9e%2C%20non%20conventionnelle%2C%20pleine%20de%20personnalit%C3%A9%20et%20de%20fantaisie.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 93: Typographie du titre du film Wild Cursive
-=======
-### No. 96: Typographie du titre du film Wild Cursive
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 97: Typographie du titre du film Wild Cursive
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3610,15 +3317,11 @@ Fond noir avec texte blanc, calligraphie aux traits liés chic, police de caract
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Fond%20noir%20avec%20texte%20blanc%2C%20calligraphie%20aux%20traits%20li%C3%A9s%20chic%2C%20police%20de%20caract%C3%A8res%20%C3%A9l%C3%A9gante%20et%20dynamique%20%22%7Bargument%20name%3D%22text%20content%22%20default%3D%22La%20brise%20marine%20souffle%20sans%20fin%2C%20la%20lune%20du%20fleuve%20brille%20en%20vain%22%7D%22%2C%20police%20cursive%20sauvage%20et%20d%C3%A9brid%C3%A9e%2C%20longs%20traits%2C%20tension%20visuelle%20pleine%20de%20dynamisme%2C%20traits%20lisses%20et%20%C3%A9l%C3%A9gants%2C%20traits%20astucieusement%20%C3%A9tendus%20et%20d%C3%A9form%C3%A9s%2C%20effet%20de%20blanc%20volant%2C%20variation%20de%20la%20taille%20de%20la%20police%2C%20disposition%20d%C3%A9cal%C3%A9e.%20Traits%20lisses%20et%20libres%2C%20fond%20%C3%A9pur%C3%A9%2C%20chef-d'%C5%93uvre%2C%20police%20de%20th%C3%A8me%20de%20film%2C%20fort%20impact%20visuel.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Fond%20noir%20avec%20texte%20blanc%2C%20calligraphie%20aux%20traits%20li%C3%A9s%20chic%2C%20police%20de%20caract%C3%A8res%20%C3%A9l%C3%A9gante%20et%20dynamique%20%22%7Bargument%20name%3D%22text%20content%22%20default%3D%22La%20brise%20marine%20souffle%20sans%20fin%2C%20la%20lune%20du%20fleuve%20brille%20en%20vain%22%7D%22%2C%20police%20cursive%20sauvage%20et%20d%C3%A9brid%C3%A9e%2C%20longs%20traits%2C%20tension%20visuelle%20pleine%20de%20dynamisme%2C%20traits%20lisses%20et%20%C3%A9l%C3%A9gants%2C%20traits%20astucieusement%20%C3%A9tendus%20et%20d%C3%A9form%C3%A9s%2C%20effet%20de%20blanc%20volant%2C%20variation%20de%20la%20taille%20de%20la%20police%2C%20disposition%20d%C3%A9cal%C3%A9e.%20Traits%20lisses%20et%20libres%2C%20fond%20%C3%A9pur%C3%A9%2C%20chef-d'%C5%93uvre%2C%20police%20de%20th%C3%A8me%20de%20film%2C%20fort%20impact%20visuel.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 94: Notes d'esquisse de conception mécanique
-=======
-### No. 97: Notes d'esquisse de conception mécanique
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 98: Notes d'esquisse de conception mécanique
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3648,15 +3351,11 @@ Croquis au trait noir, notes de {argument name="subject name" default="Conceptio
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Croquis%20au%20trait%20noir%2C%20notes%20de%20%7Bargument%20name%3D%22subject%20name%22%20default%3D%22Conception%20M%C3%A9canique%22%7D%2C%20disposition%20dense%20de%20type%20notes%2C%20accompagn%C3%A9es%20de%20projections%20orthographiques%2C%20de%20cotations%2C%20d'annotations%20de%20noms%20et%20d'explications%20d'%C3%A9tiquettes%20en%20chinois-anglais.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Croquis%20au%20trait%20noir%2C%20notes%20de%20%7Bargument%20name%3D%22subject%20name%22%20default%3D%22Conception%20M%C3%A9canique%22%7D%2C%20disposition%20dense%20de%20type%20notes%2C%20accompagn%C3%A9es%20de%20projections%20orthographiques%2C%20de%20cotations%2C%20d'annotations%20de%20noms%20et%20d'explications%20d'%C3%A9tiquettes%20en%20chinois-anglais.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 95: Affiche de la logique de richesse de la courbe dorée
-=======
-### No. 98: Affiche de la logique de richesse de la courbe dorée
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 99: Affiche de la logique de richesse de la courbe dorée
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3686,15 +3385,11 @@ Fond élégant bleu profond, une courbe de graphique dorée en constante ascensi
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Fond%20%C3%A9l%C3%A9gant%20bleu%20profond%2C%20une%20courbe%20de%20graphique%20dor%C3%A9e%20en%20constante%20ascension%20traverse%20la%20sc%C3%A8ne%2C%20avec%20une%20ic%C3%B4ne%20de%20pi%C3%A8ce%20lumineuse%20%C3%A0%20la%20pointe%20de%20la%20courbe.%20Le%20titre%20principal%20%C2%AB%20%7Bargument%20name%3D%22main%20title%22%20default%3D%22%5BWealth%20Logic%5D%22%7D%20%C2%BB%20utilise%20une%20police%20%C3%A0%20empattement%20dor%C3%A9e%20exquise.%20Le%20sous-titre%20%C2%AB%20%7Bargument%20name%3D%22subtitle%22%20default%3D%22%5BEconomics%20that%20ordinary%20people%20can%20understand%5D%22%7D%20%C2%BB%20est%20en%20police%20fine%20blanche%2C%20dispos%C3%A9%20directement%20sous%20le%20titre%20principal%2C%20apparaissant%20professionnel%20et%20cr%C3%A9dible.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Fond%20%C3%A9l%C3%A9gant%20bleu%20profond%2C%20une%20courbe%20de%20graphique%20dor%C3%A9e%20en%20constante%20ascension%20traverse%20la%20sc%C3%A8ne%2C%20avec%20une%20ic%C3%B4ne%20de%20pi%C3%A8ce%20lumineuse%20%C3%A0%20la%20pointe%20de%20la%20courbe.%20Le%20titre%20principal%20%C2%AB%20%7Bargument%20name%3D%22main%20title%22%20default%3D%22%5BWealth%20Logic%5D%22%7D%20%C2%BB%20utilise%20une%20police%20%C3%A0%20empattement%20dor%C3%A9e%20exquise.%20Le%20sous-titre%20%C2%AB%20%7Bargument%20name%3D%22subtitle%22%20default%3D%22%5BEconomics%20that%20ordinary%20people%20can%20understand%5D%22%7D%20%C2%BB%20est%20en%20police%20fine%20blanche%2C%20dispos%C3%A9%20directement%20sous%20le%20titre%20principal%2C%20apparaissant%20professionnel%20et%20cr%C3%A9dible.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 96: Schéma d'architecture de la plateforme e-commerce 3D
-=======
-### No. 99: Schéma d'architecture de la plateforme e-commerce 3D
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 100: Schéma d'architecture de la plateforme e-commerce 3D
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3723,15 +3418,11 @@ Avec une perspective très tridimensionnelle, présentez avec précision le diag
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Avec%20une%20perspective%20tr%C3%A8s%20tridimensionnelle%2C%20pr%C3%A9sentez%20avec%20pr%C3%A9cision%20le%20diagramme%20d'architecture%20technique%20d'une%20plateforme%20de%20vente%20via%20un%20organigramme.%20Affichez%20clairement%20les%20relations%20hi%C3%A9rarchiques%20distinctes%20entre%20les%20modules%2C%20montrez%20de%20mani%C3%A8re%20dynamique%20et%20intuitive%20la%20direction%20du%20flux%20de%20donn%C3%A9es%20entre%20les%20modules%2C%20ainsi%20que%20la%20logique%20d'interaction%2C%20pr%C3%A9sentant%20ainsi%20de%20mani%C3%A8re%20exhaustive%20l'image%20compl%C3%A8te%20de%20l'architecture%20technique%20de%20la%20plateforme%20e-commerce.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Avec%20une%20perspective%20tr%C3%A8s%20tridimensionnelle%2C%20pr%C3%A9sentez%20avec%20pr%C3%A9cision%20le%20diagramme%20d'architecture%20technique%20d'une%20plateforme%20de%20vente%20via%20un%20organigramme.%20Affichez%20clairement%20les%20relations%20hi%C3%A9rarchiques%20distinctes%20entre%20les%20modules%2C%20montrez%20de%20mani%C3%A8re%20dynamique%20et%20intuitive%20la%20direction%20du%20flux%20de%20donn%C3%A9es%20entre%20les%20modules%2C%20ainsi%20que%20la%20logique%20d'interaction%2C%20pr%C3%A9sentant%20ainsi%20de%20mani%C3%A8re%20exhaustive%20l'image%20compl%C3%A8te%20de%20l'architecture%20technique%20de%20la%20plateforme%20e-commerce.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 97: Conception de signature artistique Ma Wencheng
-=======
-### No. 100: Conception de signature artistique Ma Wencheng
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 101: Conception de signature artistique Ma Wencheng
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3761,15 +3452,11 @@ Conception de police de signature artistique de niveau maître : {argument name=
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Conception%20de%20police%20de%20signature%20artistique%20de%20niveau%20ma%C3%AEtre%20%3A%20%7Bargument%20name%3D%22name%22%20default%3D%22Ma%20Wencheng%22%7D%20%3A%20La%20police%20est%20%C3%A9l%C3%A9gante%2C%20audacieuse%2C%20fluide%20mais%20majestueuse%2C%20imitant%20les%20signatures%20cursives%20de%20c%C3%A9l%C3%A9brit%C3%A9s%2C%20avec%20un%20effet%20de%20stylo-plume%2C%20une%20%C3%A9paisseur%20variable%2C%20des%20traits%20connect%C3%A9s%20entre%20les%20caract%C3%A8res%2C%20et%20des%20lignes%20d%C3%A9coratives.%20La%20signature%20a%20un%20fort%20sens%20artistique%2C%20sur%20fond%20blanc%20%C3%A9pur%C3%A9%2C%20sans%20filigrane%2C%20avec%20un%20grand%20espace%20n%C3%A9gatif%2C%20adapt%C3%A9e%20aux%20signatures.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Conception%20de%20police%20de%20signature%20artistique%20de%20niveau%20ma%C3%AEtre%20%3A%20%7Bargument%20name%3D%22name%22%20default%3D%22Ma%20Wencheng%22%7D%20%3A%20La%20police%20est%20%C3%A9l%C3%A9gante%2C%20audacieuse%2C%20fluide%20mais%20majestueuse%2C%20imitant%20les%20signatures%20cursives%20de%20c%C3%A9l%C3%A9brit%C3%A9s%2C%20avec%20un%20effet%20de%20stylo-plume%2C%20une%20%C3%A9paisseur%20variable%2C%20des%20traits%20connect%C3%A9s%20entre%20les%20caract%C3%A8res%2C%20et%20des%20lignes%20d%C3%A9coratives.%20La%20signature%20a%20un%20fort%20sens%20artistique%2C%20sur%20fond%20blanc%20%C3%A9pur%C3%A9%2C%20sans%20filigrane%2C%20avec%20un%20grand%20espace%20n%C3%A9gatif%2C%20adapt%C3%A9e%20aux%20signatures.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 98: Interface utilisateur d'application financière de style C4D (Variante)
-=======
-### No. 101: Interface utilisateur d'application financière de style C4D (Variante)
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 102: Interface utilisateur d'application financière de style C4D (Variante)
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3798,15 +3485,11 @@ Conception d'interface utilisateur mobile pour application de gestion de patrimo
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Conception%20d'interface%20utilisateur%20mobile%20pour%20application%20de%20gestion%20de%20patrimoine%20financier%2C%20interface%20utilisateur%20premium%20de%20style%20C4D%2C%20graphiques%20de%20donn%C3%A9es%203D%2C%20interface%20%C3%A0%20d%C3%A9grad%C3%A9%20bleu%2C%20conception%20de%20cartes%20flottantes%2C%20boutons%20en%20glassmorphism%2C%20affichage%20dynamique%20du%20solde%2C%20courbe%20de%20tendance%20du%20march%C3%A9%2C%20fond%20blanc%20pur%2C%20chef-d'%C5%93uvre%2C%20d%C3%A9tails%20%C3%A9lev%C3%A9s.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Conception%20d'interface%20utilisateur%20mobile%20pour%20application%20de%20gestion%20de%20patrimoine%20financier%2C%20interface%20utilisateur%20premium%20de%20style%20C4D%2C%20graphiques%20de%20donn%C3%A9es%203D%2C%20interface%20%C3%A0%20d%C3%A9grad%C3%A9%20bleu%2C%20conception%20de%20cartes%20flottantes%2C%20boutons%20en%20glassmorphism%2C%20affichage%20dynamique%20du%20solde%2C%20courbe%20de%20tendance%20du%20march%C3%A9%2C%20fond%20blanc%20pur%2C%20chef-d'%C5%93uvre%2C%20d%C3%A9tails%20%C3%A9lev%C3%A9s.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 99: Interface utilisateur d'application financière de style C4D
-=======
-### No. 102: Interface utilisateur d'application financière de style C4D
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 103: Interface utilisateur d'application financière de style C4D
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3835,15 +3518,11 @@ Conception d'interface utilisateur mobile pour application de gestion de patrimo
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Conception%20d'interface%20utilisateur%20mobile%20pour%20application%20de%20gestion%20de%20patrimoine%20financier%2C%20UI%20premium%20style%20C4D%2C%20graphiques%20de%20donn%C3%A9es%203D%2C%20interface%20d%C3%A9grad%C3%A9%20bleu%2C%20conception%20de%20cartes%20flottantes%2C%20boutons%20en%20glassmorphism%2C%20affichage%20dynamique%20du%20solde%2C%20courbe%20de%20tendance%20du%20march%C3%A9%2C%20fond%20blanc%20pur%2C%20chef-d'%C5%93uvre%2C%20d%C3%A9tails%20%C3%A9lev%C3%A9s.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Conception%20d'interface%20utilisateur%20mobile%20pour%20application%20de%20gestion%20de%20patrimoine%20financier%2C%20UI%20premium%20style%20C4D%2C%20graphiques%20de%20donn%C3%A9es%203D%2C%20interface%20d%C3%A9grad%C3%A9%20bleu%2C%20conception%20de%20cartes%20flottantes%2C%20boutons%20en%20glassmorphism%2C%20affichage%20dynamique%20du%20solde%2C%20courbe%20de%20tendance%20du%20march%C3%A9%2C%20fond%20blanc%20pur%2C%20chef-d'%C5%93uvre%2C%20d%C3%A9tails%20%C3%A9lev%C3%A9s.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 100: Selfie de Nick et Judy sur une plage rose, style Instagram
-=======
-### No. 103: Selfie de Nick et Judy sur une plage rose, style Instagram
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 104: Selfie de Nick et Judy sur une plage rose, style Instagram
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3873,15 +3552,11 @@ Nick Wilde et Judy Hopps de Zootopie prennent un selfie sur une plage rose, Nick
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Nick%20Wilde%20et%20Judy%20Hopps%20de%20Zootopie%20prennent%20un%20selfie%20sur%20une%20plage%20rose%2C%20Nick%20tient%20un%20t%C3%A9l%C3%A9phone%20g%C3%A9ant%20%C3%A0%20un%20angle%20de%2045%20degr%C3%A9s%2C%20leurs%20bras%20s'%C3%A9tendent%20hors%20du%20cadre%20Instagram%2C%20brisant%20le%20quatri%C3%A8me%20mur%2C%20le%20t%C3%A9l%C3%A9phone%20flotte%20au%20centre%20avec%20une%20distorsion%20de%20perspective.%20L'interface%20utilisateur%20de%20l'%C3%A9cran%20g%C3%A9ant%20%C3%A0%20droite%20est%20ultra-nette%20%3A%20nom%20d'utilisateur%20%C2%AB%20%7Bargument%20name%3D%22username%22%20default%3D%22%40NickJudy_Selfie%22%7D%20%C2%BB%20avec%20v%C3%A9rification%20par%20coche%20bleue%2C%20nombre%20de%20likes%20%C2%AB%20%7Bargument%20name%3D%22like%20count%22%20default%3D%225.8M%22%7D%20%C2%BB%20en%20gras%20et%20clignotant%2C%20point%20rouge%20d'enregistrement%20en%20direct%20pulsant%2C%20bulles%20de%20commentaires%20avec%20des%20traits%20n%C3%A9on.%20Le%20bord%20du%20cadre%20est%20en%20verre%20de%202%20cm%20d'%C3%A9paisseur%20refl%C3%A9tant%20la%20plage%20rose.%20Entour%C3%A9%20de%20c%C5%93urs%203D%20flottants%20%E2%9D%A4%EF%B8%8F%2C%20de%20pouces%20lev%C3%A9s%20%F0%9F%91%8D%2C%20de%20cocotiers%20roses%20%F0%9F%8C%B4%2C%20d'ic%C3%B4nes%20de%20bulles%20de%20champagne%20%E2%9C%A8%2C%20d'effets%20de%20lumi%C3%A8re%20tra%C3%AEnante%20superpos%C3%A9s%20%C3%A0%20un%20halo%20de%20floraison%20rose%20chaud%2C%20d'un%20effet%20de%20lentille%20onirique.%20L'arri%C3%A8re-plan%20est%20une%20plage%20rose%20Barbie%20%3A%20grain%20de%20sable%20corallien%20fin%20visible%2C%20eau%20rose-orange%20d%C3%A9grad%C3%A9e%20chatoyante%2C%20lumi%C3%A8re%20volum%C3%A9trique%20douce%20du%20coucher%20de%20soleil%2C%20coquillages%20et%20sable%20%C3%A9toil%C3%A9%20scintillants.%20Les%20ombres%20du%20monde%20r%C3%A9el%20sur%20le%20c%C3%B4t%C3%A9%20gauche%20sont%20nettes%20avec%20une%20saturation%20r%C3%A9aliste%2C%20l'interface%20num%C3%A9rique%20sur%20le%20c%C3%B4t%C3%A9%20droit%20a%20un%20filtre%20de%20lumi%C3%A8re%20douce%20et%20une%20vignette%2C%20un%20ton%20rose-dor%C3%A9%20%C3%A0%20contraste%20%C3%A9lev%C3%A9.%20Style%20de%20vacances%20d'influenceur%20Instagram%2C%20r%C3%A9alisme%20cin%C3%A9matographique%208K%2C%20ray%20tracing%2C%20d%C3%A9tails%20de%20fourrure%20au%20niveau%20de%20la%20fibre%2C%20diffusion%20sous-surfacique%2C%20profondeur%20de%20champ%20focalis%C3%A9e%20sur%20le%20t%C3%A9l%C3%A9phone%2C%20rendu%20Unreal%20Engine%205%2C%20composition%20dimensionnelle%20%C3%A9clat%C3%A9e%2C%20ambiance%20de%20vacances%2C%20explosant%20d'esth%C3%A9tique%20internet.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Nick%20Wilde%20et%20Judy%20Hopps%20de%20Zootopie%20prennent%20un%20selfie%20sur%20une%20plage%20rose%2C%20Nick%20tient%20un%20t%C3%A9l%C3%A9phone%20g%C3%A9ant%20%C3%A0%20un%20angle%20de%2045%20degr%C3%A9s%2C%20leurs%20bras%20s'%C3%A9tendent%20hors%20du%20cadre%20Instagram%2C%20brisant%20le%20quatri%C3%A8me%20mur%2C%20le%20t%C3%A9l%C3%A9phone%20flotte%20au%20centre%20avec%20une%20distorsion%20de%20perspective.%20L'interface%20utilisateur%20de%20l'%C3%A9cran%20g%C3%A9ant%20%C3%A0%20droite%20est%20ultra-nette%20%3A%20nom%20d'utilisateur%20%C2%AB%20%7Bargument%20name%3D%22username%22%20default%3D%22%40NickJudy_Selfie%22%7D%20%C2%BB%20avec%20v%C3%A9rification%20par%20coche%20bleue%2C%20nombre%20de%20likes%20%C2%AB%20%7Bargument%20name%3D%22like%20count%22%20default%3D%225.8M%22%7D%20%C2%BB%20en%20gras%20et%20clignotant%2C%20point%20rouge%20d'enregistrement%20en%20direct%20pulsant%2C%20bulles%20de%20commentaires%20avec%20des%20traits%20n%C3%A9on.%20Le%20bord%20du%20cadre%20est%20en%20verre%20de%202%20cm%20d'%C3%A9paisseur%20refl%C3%A9tant%20la%20plage%20rose.%20Entour%C3%A9%20de%20c%C5%93urs%203D%20flottants%20%E2%9D%A4%EF%B8%8F%2C%20de%20pouces%20lev%C3%A9s%20%F0%9F%91%8D%2C%20de%20cocotiers%20roses%20%F0%9F%8C%B4%2C%20d'ic%C3%B4nes%20de%20bulles%20de%20champagne%20%E2%9C%A8%2C%20d'effets%20de%20lumi%C3%A8re%20tra%C3%AEnante%20superpos%C3%A9s%20%C3%A0%20un%20halo%20de%20floraison%20rose%20chaud%2C%20d'un%20effet%20de%20lentille%20onirique.%20L'arri%C3%A8re-plan%20est%20une%20plage%20rose%20Barbie%20%3A%20grain%20de%20sable%20corallien%20fin%20visible%2C%20eau%20rose-orange%20d%C3%A9grad%C3%A9e%20chatoyante%2C%20lumi%C3%A8re%20volum%C3%A9trique%20douce%20du%20coucher%20de%20soleil%2C%20coquillages%20et%20sable%20%C3%A9toil%C3%A9%20scintillants.%20Les%20ombres%20du%20monde%20r%C3%A9el%20sur%20le%20c%C3%B4t%C3%A9%20gauche%20sont%20nettes%20avec%20une%20saturation%20r%C3%A9aliste%2C%20l'interface%20num%C3%A9rique%20sur%20le%20c%C3%B4t%C3%A9%20droit%20a%20un%20filtre%20de%20lumi%C3%A8re%20douce%20et%20une%20vignette%2C%20un%20ton%20rose-dor%C3%A9%20%C3%A0%20contraste%20%C3%A9lev%C3%A9.%20Style%20de%20vacances%20d'influenceur%20Instagram%2C%20r%C3%A9alisme%20cin%C3%A9matographique%208K%2C%20ray%20tracing%2C%20d%C3%A9tails%20de%20fourrure%20au%20niveau%20de%20la%20fibre%2C%20diffusion%20sous-surfacique%2C%20profondeur%20de%20champ%20focalis%C3%A9e%20sur%20le%20t%C3%A9l%C3%A9phone%2C%20rendu%20Unreal%20Engine%205%2C%20composition%20dimensionnelle%20%C3%A9clat%C3%A9e%2C%20ambiance%20de%20vacances%2C%20explosant%20d'esth%C3%A9tique%20internet.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 101: Aimant de réfrigérateur en émail Zootopia Judy
-=======
-### No. 104: Aimant de réfrigérateur en émail Zootopia Judy
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 105: Aimant de réfrigérateur en émail Zootopia Judy
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3911,15 +3586,11 @@ Style de design minimaliste moderne, design d'aimant de réfrigérateur en émai
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Style%20de%20design%20minimaliste%20moderne%2C%20design%20d'aimant%20de%20r%C3%A9frig%C3%A9rateur%20en%20%C3%A9mail%20sur%20le%20th%C3%A8me%20de%20Zootopie%2C%20aimant%20circulaire%2C%20gros%20plan%20de%20Judy%20Hopps%2C%20entour%C3%A9e%20de%20motifs%20d'%C3%A9l%C3%A9ments%20de%20No%C3%ABl%2C%20avec%20la%20police%20anglaise%20%22%7Bargument%20name%3D%22bottom%20text%22%20default%3D%22Merry%20Christmas%22%7D%22%20en%20bas%2C%20style%20de%20design%20international%2C%20couleur%20d%C3%A9grad%C3%A9e%20violet%20clair.%20Fond%20%C3%A0%20texture%20pure.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Style%20de%20design%20minimaliste%20moderne%2C%20design%20d'aimant%20de%20r%C3%A9frig%C3%A9rateur%20en%20%C3%A9mail%20sur%20le%20th%C3%A8me%20de%20Zootopie%2C%20aimant%20circulaire%2C%20gros%20plan%20de%20Judy%20Hopps%2C%20entour%C3%A9e%20de%20motifs%20d'%C3%A9l%C3%A9ments%20de%20No%C3%ABl%2C%20avec%20la%20police%20anglaise%20%22%7Bargument%20name%3D%22bottom%20text%22%20default%3D%22Merry%20Christmas%22%7D%22%20en%20bas%2C%20style%20de%20design%20international%2C%20couleur%20d%C3%A9grad%C3%A9e%20violet%20clair.%20Fond%20%C3%A0%20texture%20pure.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 102: Affiche promotionnelle du produit GEO Tech
-=======
-### No. 105: Affiche promotionnelle du produit GEO Tech
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 106: Affiche promotionnelle du produit GEO Tech
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3949,15 +3620,11 @@ Affiche promotionnelle de produit technologique, disposition texte à gauche ima
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Affiche%20promotionnelle%20de%20produit%20technologique%2C%20disposition%20texte%20%C3%A0%20gauche%20image%20%C3%A0%20droite%2C%20fond%20d%C3%A9grad%C3%A9%20d%C3%A9licat%20du%20bleu%20fonc%C3%A9%20au%20bleu%20clair%2C%20halo%20orange%20doux%20s'%C3%A9tendant%20vers%20le%20haut%20depuis%20le%20bas%20du%20texte%20GEO%20%C3%A0%20droite%2C%20effets%20d'%C3%A9clairage%20naturels%2C%20conception%20visuelle%20de%20niveau%20produit%2C%20ton%20principal%20d%C3%A9grad%C3%A9%20bleu%20fonc%C3%A9%2C%20texte%20blanc%20pur%20associ%C3%A9%20%C3%A0%20des%20effets%20de%20lumi%C3%A8re%20orange%2C%20professionnel%2C%20exquis%20et%20accessible%2C%20texture%20visuelle%20riche%20et%20d%C3%A9tails%20fins.%20En%20haut%20%C3%A0%20gauche%20%22%7Bargument%20name%3D%22date%22%20default%3D%22%5B2025.10%5D%7D%22%20en%20petite%20police%20blanche%20concise%2C%20titre%20principal%20%22%7Bargument%20name%3D%22main%20title%22%20default%3D%22When%20AI%20Answers%22%7D%22%20en%20tr%C3%A8s%20grande%20police%20moderne%20blanche%20et%20grasse%2C%20ligne%20suivante%20petit%20texte%20%22%7Bargument%20name%3D%22subtitle%22%20default%3D%22GEO%20decides%20who%20it%20mentions%22%7D%22%2C%20c%C3%B4t%C3%A9%20droit%20texte%203D%20r%C3%A9aliste%20%22%7Bargument%20name%3D%223D%20text%22%20default%3D%22GEO%22%7D%22%2C%20la%20surface%20a%20une%20texture%20mate%20couleur%20bonbon%20parsem%C3%A9e%20de%20reflets%20orange%2C%20utilis%C3%A9%20pour%20l'en-t%C3%AAte%20du%20compte%20officiel%20WeChat.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Affiche%20promotionnelle%20de%20produit%20technologique%2C%20disposition%20texte%20%C3%A0%20gauche%20image%20%C3%A0%20droite%2C%20fond%20d%C3%A9grad%C3%A9%20d%C3%A9licat%20du%20bleu%20fonc%C3%A9%20au%20bleu%20clair%2C%20halo%20orange%20doux%20s'%C3%A9tendant%20vers%20le%20haut%20depuis%20le%20bas%20du%20texte%20GEO%20%C3%A0%20droite%2C%20effets%20d'%C3%A9clairage%20naturels%2C%20conception%20visuelle%20de%20niveau%20produit%2C%20ton%20principal%20d%C3%A9grad%C3%A9%20bleu%20fonc%C3%A9%2C%20texte%20blanc%20pur%20associ%C3%A9%20%C3%A0%20des%20effets%20de%20lumi%C3%A8re%20orange%2C%20professionnel%2C%20exquis%20et%20accessible%2C%20texture%20visuelle%20riche%20et%20d%C3%A9tails%20fins.%20En%20haut%20%C3%A0%20gauche%20%22%7Bargument%20name%3D%22date%22%20default%3D%22%5B2025.10%5D%7D%22%20en%20petite%20police%20blanche%20concise%2C%20titre%20principal%20%22%7Bargument%20name%3D%22main%20title%22%20default%3D%22When%20AI%20Answers%22%7D%22%20en%20tr%C3%A8s%20grande%20police%20moderne%20blanche%20et%20grasse%2C%20ligne%20suivante%20petit%20texte%20%22%7Bargument%20name%3D%22subtitle%22%20default%3D%22GEO%20decides%20who%20it%20mentions%22%7D%22%2C%20c%C3%B4t%C3%A9%20droit%20texte%203D%20r%C3%A9aliste%20%22%7Bargument%20name%3D%223D%20text%22%20default%3D%22GEO%22%7D%22%2C%20la%20surface%20a%20une%20texture%20mate%20couleur%20bonbon%20parsem%C3%A9e%20de%20reflets%20orange%2C%20utilis%C3%A9%20pour%20l'en-t%C3%AAte%20du%20compte%20officiel%20WeChat.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 103: Selfie de Nick et Judy brisant le quatrième mur, style Xiaohongshu
-=======
-### No. 106: Selfie de Nick et Judy brisant le quatrième mur, style Xiaohongshu
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 107: Selfie de Nick et Judy brisant le quatrième mur, style Xiaohongshu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3987,15 +3654,11 @@ Personnages de Zootopie, Nick Wilde et Judy Hopps. Nick a une fourrure roux-oran
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Personnages%20de%20Zootopie%2C%20Nick%20Wilde%20et%20Judy%20Hopps.%20Nick%20a%20une%20fourrure%20roux-orang%C3%A9%2C%20porte%20sa%20chemise%20classique%20%C3%A0%20manches%20courtes%20imprim%C3%A9e%20de%20feuilles%20de%20palmier%20vertes%2C%20une%20cravate%20ray%C3%A9e%20bleue%20et%20rouge%2C%20et%20un%20pantalon%20kaki%2C%20avec%20un%20sourire%20narquois%20s%C3%A9duisant.%20Judy%20a%20une%20fourrure%20grise%20et%20des%20yeux%20violets%2C%20les%20oreilles%20dress%C3%A9es%2C%20v%C3%AAtue%20d'un%20gilet%20d'officier%20du%20ZPD%20bleu%20fonc%C3%A9%2C%20d'un%20insigne%20argent%C3%A9%2C%20d'une%20ceinture%20enti%C3%A8rement%20%C3%A9quip%C3%A9e%2C%20l'air%20doux%20et%20mignon.%20Les%20deux%20sont%20assis%20c%C3%B4te%20%C3%A0%20c%C3%B4te%20sur%20le%20bord%20inf%C3%A9rieur%20d'un%20cadre%20g%C3%A9ant%20et%20flottant%20de%20l'interface%20de%20l'application%20%22Xiaohongshu%22.%20Dans%20une%20composition%20qui%20brise%20le%20quatri%C3%A8me%20mur%2C%20leurs%20jambes%20pendent%20en%20dehors%20du%20plan%20du%20cadre.%20Nick%20enserre%20intimement%20l'%C3%A9paule%20de%20Judy%20d'un%20bras%2C%20tandis%20que%20l'autre%20main%20tient%20un%20smartphone%20tendu%20loin%20vers%20l'avant%2C%20prenant%20un%20selfie%20%C3%A0%20un%20angle%20de%2045%20degr%C3%A9s%20(perspective%20fisheye).%20Judy%20se%20penche%20pr%C3%A8s%20de%20Nick%2C%20regardant%20la%20cam%C3%A9ra%20avec%20un%20doux%20sourire%2C%20montrant%20un%20tendre%20moment%20de%20couple.%20Le%20c%C5%93ur%20de%20l'image%20est%20un%20cadre%20de%20r%C3%A9seau%20social%20g%C3%A9ant%20de%20style%20Xiaohongshu.%20L'interface%20utilisateur%20reproduit%20la%20disposition%20classique%20%3A%20un%20titre%20d%C3%A9filant%20en%20bas%20%C3%A0%20gauche%2C%20des%20ic%C3%B4nes%20flottantes%20verticales%20de%20%22%E2%9D%A4%22%2C%20%22%E2%AD%90%22%2C%20%22bulle%20de%20commentaire%22%20et%20%22fl%C3%A8che%20de%20partage%22%20sur%20la%20droite.%20Le%20haut%20affiche%20le%20nom%20d'utilisateur%20%22%7Bargument%20name%3D%22username%22%20default%3D%22Nick%20%26%20Judy%22%7D%22%20avec%20des%20hashtags%20tendance%20(tels%20que%20%7Bargument%20name%3D%22hashtags%22%20default%3D%22%23Zootopia%20%23CoupleDaily%22%7D).%20Style%20d'animation%203D%20Pixar%2C%20rendu%20Unreal%20Engine%205%2C%20qualit%C3%A9%208K%20ultra-HD.%20La%20fourrure%20pr%C3%A9sente%20des%20d%C3%A9tails%20au%20niveau%20des%20fibres%2C%20technologie%20de%20ray%20tracing%2C%20lumi%C3%A8re%20d'appoint%20douce%20pour%20selfie%20sur%20leurs%20visages%2C%20l'arri%C3%A8re-plan%20est%20une%20sc%C3%A8ne%20de%20rue%20floue%20et%20color%C3%A9e%20de%20Zootopie%20avec%20un%20bokeh%20onirique.%20Couleurs%20vives%20et%20%C3%A9clatantes%2C%20haute%20saturation%2C%20mettant%20l'accent%20sur%20l'esth%C3%A9tique%20internet%20des%20r%C3%A9seaux%20sociaux%20et%20les%20tons%20bonbon%2C%20visuellement%20saisissant.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Personnages%20de%20Zootopie%2C%20Nick%20Wilde%20et%20Judy%20Hopps.%20Nick%20a%20une%20fourrure%20roux-orang%C3%A9%2C%20porte%20sa%20chemise%20classique%20%C3%A0%20manches%20courtes%20imprim%C3%A9e%20de%20feuilles%20de%20palmier%20vertes%2C%20une%20cravate%20ray%C3%A9e%20bleue%20et%20rouge%2C%20et%20un%20pantalon%20kaki%2C%20avec%20un%20sourire%20narquois%20s%C3%A9duisant.%20Judy%20a%20une%20fourrure%20grise%20et%20des%20yeux%20violets%2C%20les%20oreilles%20dress%C3%A9es%2C%20v%C3%AAtue%20d'un%20gilet%20d'officier%20du%20ZPD%20bleu%20fonc%C3%A9%2C%20d'un%20insigne%20argent%C3%A9%2C%20d'une%20ceinture%20enti%C3%A8rement%20%C3%A9quip%C3%A9e%2C%20l'air%20doux%20et%20mignon.%20Les%20deux%20sont%20assis%20c%C3%B4te%20%C3%A0%20c%C3%B4te%20sur%20le%20bord%20inf%C3%A9rieur%20d'un%20cadre%20g%C3%A9ant%20et%20flottant%20de%20l'interface%20de%20l'application%20%22Xiaohongshu%22.%20Dans%20une%20composition%20qui%20brise%20le%20quatri%C3%A8me%20mur%2C%20leurs%20jambes%20pendent%20en%20dehors%20du%20plan%20du%20cadre.%20Nick%20enserre%20intimement%20l'%C3%A9paule%20de%20Judy%20d'un%20bras%2C%20tandis%20que%20l'autre%20main%20tient%20un%20smartphone%20tendu%20loin%20vers%20l'avant%2C%20prenant%20un%20selfie%20%C3%A0%20un%20angle%20de%2045%20degr%C3%A9s%20(perspective%20fisheye).%20Judy%20se%20penche%20pr%C3%A8s%20de%20Nick%2C%20regardant%20la%20cam%C3%A9ra%20avec%20un%20doux%20sourire%2C%20montrant%20un%20tendre%20moment%20de%20couple.%20Le%20c%C5%93ur%20de%20l'image%20est%20un%20cadre%20de%20r%C3%A9seau%20social%20g%C3%A9ant%20de%20style%20Xiaohongshu.%20L'interface%20utilisateur%20reproduit%20la%20disposition%20classique%20%3A%20un%20titre%20d%C3%A9filant%20en%20bas%20%C3%A0%20gauche%2C%20des%20ic%C3%B4nes%20flottantes%20verticales%20de%20%22%E2%9D%A4%22%2C%20%22%E2%AD%90%22%2C%20%22bulle%20de%20commentaire%22%20et%20%22fl%C3%A8che%20de%20partage%22%20sur%20la%20droite.%20Le%20haut%20affiche%20le%20nom%20d'utilisateur%20%22%7Bargument%20name%3D%22username%22%20default%3D%22Nick%20%26%20Judy%22%7D%22%20avec%20des%20hashtags%20tendance%20(tels%20que%20%7Bargument%20name%3D%22hashtags%22%20default%3D%22%23Zootopia%20%23CoupleDaily%22%7D).%20Style%20d'animation%203D%20Pixar%2C%20rendu%20Unreal%20Engine%205%2C%20qualit%C3%A9%208K%20ultra-HD.%20La%20fourrure%20pr%C3%A9sente%20des%20d%C3%A9tails%20au%20niveau%20des%20fibres%2C%20technologie%20de%20ray%20tracing%2C%20lumi%C3%A8re%20d'appoint%20douce%20pour%20selfie%20sur%20leurs%20visages%2C%20l'arri%C3%A8re-plan%20est%20une%20sc%C3%A8ne%20de%20rue%20floue%20et%20color%C3%A9e%20de%20Zootopie%20avec%20un%20bokeh%20onirique.%20Couleurs%20vives%20et%20%C3%A9clatantes%2C%20haute%20saturation%2C%20mettant%20l'accent%20sur%20l'esth%C3%A9tique%20internet%20des%20r%C3%A9seaux%20sociaux%20et%20les%20tons%20bonbon%2C%20visuellement%20saisissant.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 104: Dessin au trait d'herbes aromatiques chinoises traditionnelles
-=======
-### No. 107: Dessin au trait d'herbes aromatiques chinoises traditionnelles
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 108: Dessin au trait d'herbes aromatiques chinoises traditionnelles
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4025,15 +3688,11 @@ Neuf herbes aromatiques chinoises courantes utilisées en cuisine, dessin au tra
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Neuf%20herbes%20aromatiques%20chinoises%20courantes%20utilis%C3%A9es%20en%20cuisine%2C%20dessin%20au%20trait%2C%20gravure%20en%20taille-douce.%20Utilisez%20des%20lignes%20de%20%7Bargument%20name%3D%22thick%20line%20width%22%20default%3D%220.8mm%22%7D%20d'%C3%A9paisseur%20pour%20le%20contour%20ext%C3%A9rieur%20et%20des%20lignes%20fines%20de%20%7Bargument%20name%3D%22thin%20line%20width%22%20default%3D%220.2mm%22%7D%20pour%20repr%C3%A9senter%20la%20texture%20de%20la%20surface%2C%20en%20conservant%20les%20traces%20de%20la%20gravure%20sur%20cuivre%2C%20sur%20un%20fond%20blanc%20pur.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Neuf%20herbes%20aromatiques%20chinoises%20courantes%20utilis%C3%A9es%20en%20cuisine%2C%20dessin%20au%20trait%2C%20gravure%20en%20taille-douce.%20Utilisez%20des%20lignes%20de%20%7Bargument%20name%3D%22thick%20line%20width%22%20default%3D%220.8mm%22%7D%20d'%C3%A9paisseur%20pour%20le%20contour%20ext%C3%A9rieur%20et%20des%20lignes%20fines%20de%20%7Bargument%20name%3D%22thin%20line%20width%22%20default%3D%220.2mm%22%7D%20pour%20repr%C3%A9senter%20la%20texture%20de%20la%20surface%2C%20en%20conservant%20les%20traces%20de%20la%20gravure%20sur%20cuivre%2C%20sur%20un%20fond%20blanc%20pur.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 105: Carte topographique de Hangzhou
-=======
-### No. 108: Carte topographique de Hangzhou
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 109: Carte topographique de Hangzhou
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4062,15 +3721,11 @@ Une carte topographique de Hangzhou, avec un marqueur de localisation rouge cent
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Une%20carte%20topographique%20de%20Hangzhou%2C%20avec%20un%20marqueur%20de%20localisation%20rouge%20centr%C3%A9.%20La%20carte%20affiche%20des%20zones%20v%C3%A9g%C3%A9talis%C3%A9es%20et%20des%20r%C3%A9gions%20urbaines%2C%20transmettant%20une%20sensation%20g%C3%A9n%C3%A9rale%20automnale%2C%20avec%20l'eau%20bleue%20du%20lac%20et%20un%20fond%20beige%20doux.%20Le%20style%20est%20r%C3%A9aliste%2C%20mettant%20l'accent%20sur%20des%20effets%20d'%C3%A9clairage%20d%C3%A9licats%20et%20des%20d%C3%A9tails%20riches.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Une%20carte%20topographique%20de%20Hangzhou%2C%20avec%20un%20marqueur%20de%20localisation%20rouge%20centr%C3%A9.%20La%20carte%20affiche%20des%20zones%20v%C3%A9g%C3%A9talis%C3%A9es%20et%20des%20r%C3%A9gions%20urbaines%2C%20transmettant%20une%20sensation%20g%C3%A9n%C3%A9rale%20automnale%2C%20avec%20l'eau%20bleue%20du%20lac%20et%20un%20fond%20beige%20doux.%20Le%20style%20est%20r%C3%A9aliste%2C%20mettant%20l'accent%20sur%20des%20effets%20d'%C3%A9clairage%20d%C3%A9licats%20et%20des%20d%C3%A9tails%20riches.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 106: Illustration de groupe dans un style hybride entre Moebius et Kim Jung Gi
-=======
-### No. 109: Illustration de groupe dans un style hybride entre Moebius et Kim Jung Gi
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 110: Illustration de groupe dans un style hybride entre Moebius et Kim Jung Gi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4099,15 +3754,11 @@ Adoptez un style d'illustration hybride entre Moebius et Kim Jung Gi, avec un fo
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Adoptez%20un%20style%20d'illustration%20hybride%20entre%20Moebius%20et%20Kim%20Jung%20Gi%2C%20avec%20un%20fond%20blanc%20minimaliste%2C%20utilisant%20des%20crayons%20de%20couleur%20et%20des%20aquarelles%20superpos%C3%A9es%20pour%20cr%C3%A9er%20des%20couleurs%20vibrantes%2C%20des%20d%C3%A9tails%20complexes%20et%20des%20lignes%20fluides%20et%20pleines%20de%20tension.%20L'effet%20global%20doit%20transmettre%20un%20visuel%20futuriste%20et%20fortement%20dynamique%2C%20exag%C3%A9r%C3%A9%2C%20repr%C3%A9sentant%20un%20groupe%20avec%20des%20formes%20bizarres%20et%20des%20mouvements%20exag%C3%A9r%C3%A9s.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Adoptez%20un%20style%20d'illustration%20hybride%20entre%20Moebius%20et%20Kim%20Jung%20Gi%2C%20avec%20un%20fond%20blanc%20minimaliste%2C%20utilisant%20des%20crayons%20de%20couleur%20et%20des%20aquarelles%20superpos%C3%A9es%20pour%20cr%C3%A9er%20des%20couleurs%20vibrantes%2C%20des%20d%C3%A9tails%20complexes%20et%20des%20lignes%20fluides%20et%20pleines%20de%20tension.%20L'effet%20global%20doit%20transmettre%20un%20visuel%20futuriste%20et%20fortement%20dynamique%2C%20exag%C3%A9r%C3%A9%2C%20repr%C3%A9sentant%20un%20groupe%20avec%20des%20formes%20bizarres%20et%20des%20mouvements%20exag%C3%A9r%C3%A9s.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 107: Guide illustré des romanciers chinois contemporains
-=======
-### No. 110: Guide illustré des romanciers chinois contemporains
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 111: Guide illustré des romanciers chinois contemporains
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4152,15 +3803,11 @@ Le titre principal est « Guide illustré des romanciers chinois contemporains �
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Cr%C3%A9ez%20une%20affiche%20d'information%20graphique%20intitul%C3%A9e%20%C2%AB%20Guide%20illustr%C3%A9%20des%20romanciers%20chinois%20contemporains%20%C2%BB%2C%20en%20utilisant%20un%20style%20d'illustration%20plate%20%2B%20infographie.%20La%20mise%20en%20page%20g%C3%A9n%C3%A9rale%20est%20divis%C3%A9e%20en%20%7Bargument%20name%3D%22number%20of%20columns%22%20default%3D%226%22%7D%20sections%2C%20chacune%20pr%C3%A9sentant%20un%20romancier%20chinois%20contemporain%20repr%C3%A9sentatif.%0AChaque%20section%20comprend%20%3A%0A-%20Un%20portrait%20illustr%C3%A9%20stylis%C3%A9%2C%20non-photographique%20et%20simplifi%C3%A9%2C%20mais%20bas%C3%A9%20sur%20une%20photographie%20r%C3%A9elle%20pour%20maintenir%20la%20ressemblance%0A-%20Le%20nom%20de%20l'auteur%20(en%20chinois)%0A-%20Des%20%C5%93uvres%20repr%C3%A9sentatives%20(%7Bargument%20name%3D%22number%20of%20works%22%20default%3D%221-2%22%7D)%0A-%20Des%20%C3%A9tiquettes%20de%20style%20(par%20exemple%2C%20%7Bargument%20name%3D%22style%20tag%20examples%22%20default%3D%22r%C3%A9alisme%2C%20litt%C3%A9rature%20d'avant-garde%2C%20litt%C3%A9rature%20jeunesse%2C%20r%C3%A9cit%20historique%2C%20r%C3%A9alisme%20magique%2C%20science-fiction%22%7D)%0A-%20Une%20tr%C3%A8s%20courte%20introduction%20d'une%20phrase%0ALe%20design%20g%C3%A9n%C3%A9ral%20utilise%20un%20fond%20clair%20%2B%20des%20blocs%20de%20couleur%20partitionn%C3%A9s%2C%20avec%20une%20mise%20en%20page%20nette%20et%20ordonn%C3%A9e.%0ALes%20six%20romanciers%20sont%20%3A%0A-%20%7Bargument%20name%3D%22novelist%201%22%20default%3D%22Jia%20Pingwa%22%7D%0A-%20%7Bargument%20name%3D%22novelist%202%22%20default%3D%22Yu%20Hua%22%7D%0A-%20%7Bargument%20name%3D%22novelist%203%22%20default%3D%22Wang%20Anyi%22%7D%0A-%20%7Bargument%20name%3D%22novelist%204%22%20default%3D%22Liu%20Cixin%22%7D%0A-%20%7Bargument%20name%3D%22novelist%205%22%20default%3D%22Su%20Tong%22%7D%0A-%20%7Bargument%20name%3D%22novelist%206%22%20default%3D%22Han%20Shaogong%22%7D%0ALe%20titre%20principal%20est%20%C2%AB%20Guide%20illustr%C3%A9%20des%20romanciers%20chinois%20contemporains%20%C2%BB%2C%20avec%20un%20style%20concis%20et%20moderne%2C%20adapt%C3%A9%20%C3%A0%20une%20affiche%20de%20vulgarisation%20litt%C3%A9raire.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Cr%C3%A9ez%20une%20affiche%20d'information%20graphique%20intitul%C3%A9e%20%C2%AB%20Guide%20illustr%C3%A9%20des%20romanciers%20chinois%20contemporains%20%C2%BB%2C%20en%20utilisant%20un%20style%20d'illustration%20plate%20%2B%20infographie.%20La%20mise%20en%20page%20g%C3%A9n%C3%A9rale%20est%20divis%C3%A9e%20en%20%7Bargument%20name%3D%22number%20of%20columns%22%20default%3D%226%22%7D%20sections%2C%20chacune%20pr%C3%A9sentant%20un%20romancier%20chinois%20contemporain%20repr%C3%A9sentatif.%0AChaque%20section%20comprend%20%3A%0A-%20Un%20portrait%20illustr%C3%A9%20stylis%C3%A9%2C%20non-photographique%20et%20simplifi%C3%A9%2C%20mais%20bas%C3%A9%20sur%20une%20photographie%20r%C3%A9elle%20pour%20maintenir%20la%20ressemblance%0A-%20Le%20nom%20de%20l'auteur%20(en%20chinois)%0A-%20Des%20%C5%93uvres%20repr%C3%A9sentatives%20(%7Bargument%20name%3D%22number%20of%20works%22%20default%3D%221-2%22%7D)%0A-%20Des%20%C3%A9tiquettes%20de%20style%20(par%20exemple%2C%20%7Bargument%20name%3D%22style%20tag%20examples%22%20default%3D%22r%C3%A9alisme%2C%20litt%C3%A9rature%20d'avant-garde%2C%20litt%C3%A9rature%20jeunesse%2C%20r%C3%A9cit%20historique%2C%20r%C3%A9alisme%20magique%2C%20science-fiction%22%7D)%0A-%20Une%20tr%C3%A8s%20courte%20introduction%20d'une%20phrase%0ALe%20design%20g%C3%A9n%C3%A9ral%20utilise%20un%20fond%20clair%20%2B%20des%20blocs%20de%20couleur%20partitionn%C3%A9s%2C%20avec%20une%20mise%20en%20page%20nette%20et%20ordonn%C3%A9e.%0ALes%20six%20romanciers%20sont%20%3A%0A-%20%7Bargument%20name%3D%22novelist%201%22%20default%3D%22Jia%20Pingwa%22%7D%0A-%20%7Bargument%20name%3D%22novelist%202%22%20default%3D%22Yu%20Hua%22%7D%0A-%20%7Bargument%20name%3D%22novelist%203%22%20default%3D%22Wang%20Anyi%22%7D%0A-%20%7Bargument%20name%3D%22novelist%204%22%20default%3D%22Liu%20Cixin%22%7D%0A-%20%7Bargument%20name%3D%22novelist%205%22%20default%3D%22Su%20Tong%22%7D%0A-%20%7Bargument%20name%3D%22novelist%206%22%20default%3D%22Han%20Shaogong%22%7D%0ALe%20titre%20principal%20est%20%C2%AB%20Guide%20illustr%C3%A9%20des%20romanciers%20chinois%20contemporains%20%C2%BB%2C%20avec%20un%20style%20concis%20et%20moderne%2C%20adapt%C3%A9%20%C3%A0%20une%20affiche%20de%20vulgarisation%20litt%C3%A9raire.)**
 
 ---
 
-<<<<<<< HEAD
-### No. 108: Affiche infographique de la carte des plats chinois
-=======
-### No. 111: Affiche infographique de la carte des plats chinois
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+### No. 112: Affiche infographique de la carte des plats chinois
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4190,7 +3837,7 @@ Créez une affiche graphique intitulée « Carte culinaire chinoise ». Le desig
 - **Publié:** 10 décembre 2025
 - **Langues:** zh
 
-**[👉 Essayer maintenant →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Cr%C3%A9ez%20une%20affiche%20graphique%20intitul%C3%A9e%20%C2%AB%20Carte%20culinaire%20chinoise%20%C2%BB.%20Le%20design%20g%C3%A9n%C3%A9ral%20est%20bas%C3%A9%20sur%20la%20carte%20de%20la%20Chine%2C%20chaque%20province%20%C3%A9tant%20identifi%C3%A9e%20par%20un%20bloc%20de%20couleur%20distinct%20en%20arri%C3%A8re-plan.%20Au-dessus%20de%20chaque%20province%2C%20indiquez%20le%20nom%20d'un%20plat%20repr%C3%A9sentatif%20et%20incluez%20une%20ic%C3%B4ne%20tridimensionnelle%20avec%20un%20fort%20sens%20du%20r%C3%A9alisme%20(telle%20que%20%7Bargument%20name%3D%22food%20icon%20examples%22%20default%3D%22fondue%20chinoise%2C%20canard%20laqu%C3%A9%2C%20dim%20sum%22%7D)%2C%20en%20veillant%20%C3%A0%20ce%20que%20les%20ic%C3%B4nes%20de%20nourriture%20aient%20une%20texture%20r%C3%A9aliste.%20Le%20titre%20principal%20est%20%C2%AB%20Carte%20culinaire%20chinoise%20%C2%BB%2C%20avec%20une%20typographie%20soign%C3%A9e%2C%20combinant%20un%20style%20d'illustration%20plat%20avec%20des%20%C3%A9l%C3%A9ments%20tridimensionnels%20et%20des%20couleurs%20douces.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/seedream-4-dot-5-prompts?prompt=Cr%C3%A9ez%20une%20affiche%20graphique%20intitul%C3%A9e%20%C2%AB%20Carte%20culinaire%20chinoise%20%C2%BB.%20Le%20design%20g%C3%A9n%C3%A9ral%20est%20bas%C3%A9%20sur%20la%20carte%20de%20la%20Chine%2C%20chaque%20province%20%C3%A9tant%20identifi%C3%A9e%20par%20un%20bloc%20de%20couleur%20distinct%20en%20arri%C3%A8re-plan.%20Au-dessus%20de%20chaque%20province%2C%20indiquez%20le%20nom%20d'un%20plat%20repr%C3%A9sentatif%20et%20incluez%20une%20ic%C3%B4ne%20tridimensionnelle%20avec%20un%20fort%20sens%20du%20r%C3%A9alisme%20(telle%20que%20%7Bargument%20name%3D%22food%20icon%20examples%22%20default%3D%22fondue%20chinoise%2C%20canard%20laqu%C3%A9%2C%20dim%20sum%22%7D)%2C%20en%20veillant%20%C3%A0%20ce%20que%20les%20ic%C3%B4nes%20de%20nourriture%20aient%20une%20texture%20r%C3%A9aliste.%20Le%20titre%20principal%20est%20%C2%AB%20Carte%20culinaire%20chinoise%20%C2%BB%2C%20avec%20une%20typographie%20soign%C3%A9e%2C%20combinant%20un%20style%20d'illustration%20plat%20avec%20des%20%C3%A9l%C3%A9ments%20tridimensionnels%20et%20des%20couleurs%20douces.)**
 
 ---
 
@@ -4233,14 +3880,10 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 <div align="center">
 
-**[🌐 Voir dans la galerie Web](https://youmind.com/seedream-4-dot-5-prompts)** •
+**[🌐 Voir dans la galerie Web](https://youmind.com/fr-FR/seedream-4-dot-5-prompts)** •
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<<<<<<< HEAD
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-12-10T09:54:59.706Z</sub>
-=======
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-12-10T12:21:12.585Z</sub>
->>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-12-10T14:21:53.482Z</sub>
 
 </div>
