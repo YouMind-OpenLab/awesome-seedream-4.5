@@ -88,9 +88,15 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 
 | Metrica | Conteggio |
 |--------|-------|
+<<<<<<< HEAD
 | 📝 Totale prompt | **108** |
 | ⭐ In evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **mercoledì 10 dicembre 2025 alle ore 09:55:01 UTC** |
+=======
+| 📝 Totale prompt | **111** |
+| ⭐ In evidenza | **0** |
+| 🔄 Ultimo aggiornamento | **mercoledì 10 dicembre 2025 alle ore 12:21:13 UTC** |
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 </div>
 
@@ -430,7 +436,106 @@ Un poster stravagante e dallo stile indipendente per un festival di cortometragg
 
 ---
 
-### No. 11: Copertina del romanzo poliziesco "L'investigatore ombra"
+### No. 11: Locandina del workshop di Serene Yoga & Meditazione
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Questo prompt genera un poster sereno e rilassante per un workshop di yoga e meditazione nel weekend. Presenta una fotografia sfocata di una persona in una posa yoga pacifica all'alba, evocando pace e benessere.
+
+#### 📝 Prompt
+
+```
+Un poster sereno e rilassante per un workshop di yoga e meditazione del fine settimana. L'elemento visivo principale è una fotografia splendida e sfocata di una persona in una posa yoga pacifica su una spiaggia all'alba. La palette di colori è composta da pastelli tenui (rosa, arancioni, azzurri chiari). La tipografia è un carattere script delicato e fluido. Il poster dovrebbe evocare sentimenti di pace, benessere e cura di sé. –ar 3:4
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765367961714_t47x0n_313e7deeb6c193d794d71ec8cec044dbc36e20b3f9e0fa338284467031d9e04f" width="600" alt="Locandina del workshop di Serene Yoga & Meditazione - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 10 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20poster%20sereno%20e%20rilassante%20per%20un%20workshop%20di%20yoga%20e%20meditazione%20del%20fine%20settimana.%20L'elemento%20visivo%20principale%20%C3%A8%20una%20fotografia%20splendida%20e%20sfocata%20di%20una%20persona%20in%20una%20posa%20yoga%20pacifica%20su%20una%20spiaggia%20all'alba.%20La%20palette%20di%20colori%20%C3%A8%20composta%20da%20pastelli%20tenui%20(rosa%2C%20arancioni%2C%20azzurri%20chiari).%20La%20tipografia%20%C3%A8%20un%20carattere%20script%20delicato%20e%20fluido.%20Il%20poster%20dovrebbe%20evocare%20sentimenti%20di%20pace%2C%20benessere%20e%20cura%20di%20s%C3%A9.%20%E2%80%93ar%203%3A4)**
+
+---
+
+### No. 12: Volantino per la Grande Inaugurazione del Ristorante Italiano
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Questo prompt genera un volantino delizioso e invitante per la grande apertura di un nuovo ristorante italiano. Presenta una composizione rustica e piatta di cibo italiano e un'atmosfera calda e autentica per attirare i clienti.
+
+#### 📝 Prompt
+
+```
+Un volantino delizioso e invitante per l'inaugurazione di un nuovo ristorante italiano. L'immagine principale è una bellissima fotografia rustica, scattata dall'alto, di un tavolo imbandito con cibo italiano: una pizza, una ciotola di pasta, un bicchiere di vino rosso e del basilico fresco. Il nome del ristorante è scritto con un carattere caldo, che ricorda la scrittura a mano. La data e l'indirizzo dell'inaugurazione sono ben visibili. L'atmosfera generale è calda, autentica e appetitosa. –ar 4:5
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765367961890_sii4rm_1f4e43ff4dda6b28373b94aed5aa7bffc4815c1f5d212053ab1a343051b86704" width="600" alt="Volantino per la Grande Inaugurazione del Ristorante Italiano - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 10 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20volantino%20delizioso%20e%20invitante%20per%20l'inaugurazione%20di%20un%20nuovo%20ristorante%20italiano.%20L'immagine%20principale%20%C3%A8%20una%20bellissima%20fotografia%20rustica%2C%20scattata%20dall'alto%2C%20di%20un%20tavolo%20imbandito%20con%20cibo%20italiano%3A%20una%20pizza%2C%20una%20ciotola%20di%20pasta%2C%20un%20bicchiere%20di%20vino%20rosso%20e%20del%20basilico%20fresco.%20Il%20nome%20del%20ristorante%20%C3%A8%20scritto%20con%20un%20carattere%20caldo%2C%20che%20ricorda%20la%20scrittura%20a%20mano.%20La%20data%20e%20l'indirizzo%20dell'inaugurazione%20sono%20ben%20visibili.%20L'atmosfera%20generale%20%C3%A8%20calda%2C%20autentica%20e%20appetitosa.%20%E2%80%93ar%204%3A5)**
+
+---
+
+### No. 13: Poster PSA sull'inquinamento da plastica
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+Questo prompt genera un poster potente e stimolante per un annuncio di pubblica utilità sull'inquinamento da plastica. Raffigura una tartaruga marina che nuota tra i rifiuti di plastica, progettato per evocare una risposta emotiva e aumentare la consapevolezza.
+
+#### 📝 Prompt
+
+```
+Un poster potente e stimolante per un annuncio di pubblica utilità sull'inquinamento da plastica negli oceani. L'immagine è una rappresentazione surreale e triste di una tartaruga marina che nuota in un mare di sacchetti e bottiglie di plastica, invece che in acqua. Lo slogan "È questo l'oceano che vuoi?" è in basso. L'immagine dovrebbe essere realistica e d'impatto, progettata per evocare una risposta emotiva e aumentare la consapevolezza. –ar 3:4
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765367960733_h016tz_5ed05bd2ce5bba756b3a380cd7620a25b24a29a495ab05eafe9f2c85b4c08d8a" width="600" alt="Poster PSA sull'inquinamento da plastica - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 10 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Un%20poster%20potente%20e%20stimolante%20per%20un%20annuncio%20di%20pubblica%20utilit%C3%A0%20sull'inquinamento%20da%20plastica%20negli%20oceani.%20L'immagine%20%C3%A8%20una%20rappresentazione%20surreale%20e%20triste%20di%20una%20tartaruga%20marina%20che%20nuota%20in%20un%20mare%20di%20sacchetti%20e%20bottiglie%20di%20plastica%2C%20invece%20che%20in%20acqua.%20Lo%20slogan%20%22%C3%88%20questo%20l'oceano%20che%20vuoi%3F%22%20%C3%A8%20in%20basso.%20L'immagine%20dovrebbe%20essere%20realistica%20e%20d'impatto%2C%20progettata%20per%20evocare%20una%20risposta%20emotiva%20e%20aumentare%20la%20consapevolezza.%20%E2%80%93ar%203%3A4)**
+
+---
+
+### No. 14: Copertina del romanzo poliziesco "L'investigatore ombra"
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -463,7 +568,7 @@ Una copertina di libro emozionante e misteriosa per un romanzo giallo intitolato
 
 ---
 
-### No. 12: Poster del Museo Giapponese Ukiyo-e
+### No. 15: Poster del Museo Giapponese Ukiyo-e
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -496,7 +601,7 @@ Un poster elegante e artistico per una mostra museale di stampe xilografiche Uki
 
 ---
 
-### No. 13: Volantino per il reclutamento di sviluppatori software
+### No. 16: Volantino per il reclutamento di sviluppatori software
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -529,7 +634,11 @@ Un volantino di reclutamento audace e diretto per una startup alla ricerca di sv
 
 ---
 
+<<<<<<< HEAD
 ### No. 14: Poster del Festival di Musica Psichedelica "Ethereal Bloom"
+=======
+### No. 17: Poster del Festival di Musica Psichedelica "Ethereal Bloom"
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -562,7 +671,11 @@ Un poster vibrante e psichedelico per un festival musicale estivo chiamato "Ethe
 
 ---
 
+<<<<<<< HEAD
 ### No. 15: Locandina cinematografica di fantascienza "CHRONOS"
+=======
+### No. 18: Locandina cinematografica di fantascienza "CHRONOS"
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -595,7 +708,11 @@ Un poster cinematografico epico per un blockbuster fantascientifico immaginario 
 
 ---
 
+<<<<<<< HEAD
 ### No. 16: Miniatura del tutorial sulla creazione di siti web
+=======
+### No. 19: Miniatura del tutorial sulla creazione di siti web
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -628,7 +745,11 @@ Un'anteprima per un tutorial su "Come creare un sito web in 10 minuti". L'immagi
 
 ---
 
+<<<<<<< HEAD
 ### No. 17: Miniatura della sfida alimentare del distributore automatico
+=======
+### No. 20: Miniatura della sfida alimentare del distributore automatico
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -661,7 +782,11 @@ Una miniatura per la sfida "Mangiare solo cibo da distributori automatici per 24
 
 ---
 
+<<<<<<< HEAD
 ### No. 18: Miniatura video scherzo
+=======
+### No. 21: Miniatura video scherzo
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -694,7 +819,11 @@ Un'anteprima per un video di scherzi. L'immagine cattura il momento clou dello s
 
 ---
 
+<<<<<<< HEAD
 ### No. 19: Miniature "Trucchi di vita da 5 minuti"
+=======
+### No. 22: Miniature "Trucchi di vita da 5 minuti"
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -727,7 +856,11 @@ Una miniatura per un video intitolato "5-Minute Life Hacks". L'immagine è una g
 
 ---
 
+<<<<<<< HEAD
 ### No. 20: Miniatura Unboxing Gadget Tecnologico
+=======
+### No. 23: Miniatura Unboxing Gadget Tecnologico
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -760,7 +893,11 @@ Una miniatura per un video di unboxing di un nuovo e costoso gadget tecnologico.
 
 ---
 
+<<<<<<< HEAD
 ### No. 21: Miniatura del documentario sull'Antico Egitto
+=======
+### No. 24: Miniatura del documentario sull'Antico Egitto
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -793,7 +930,11 @@ Una miniatura per un documentario sull'antico Egitto. L'immagine è un rendering
 
 ---
 
+<<<<<<< HEAD
 ### No. 22: Miniatura recensione supercar elettrica
+=======
+### No. 25: Miniatura recensione supercar elettrica
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -826,7 +967,11 @@ Una miniatura per una recensione di una nuova supercar elettrica. L'auto è most
 
 ---
 
+<<<<<<< HEAD
 ### No. 23: Miniatura del documentario True Crime
+=======
+### No. 26: Miniatura del documentario True Crime
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -859,7 +1004,11 @@ Una miniatura scura e misteriosa per un documentario true crime. L'immagine è u
 
 ---
 
+<<<<<<< HEAD
 ### No. 24: Miniatura dei risultati della sfida fitness di 30 giorni
+=======
+### No. 27: Miniatura dei risultati della sfida fitness di 30 giorni
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -892,7 +1041,11 @@ Un'immagine in miniatura per un video sui risultati di una "Sfida Fitness di 30 
 
 ---
 
+<<<<<<< HEAD
 ### No. 25: Miniatura della spiegazione del buco nero
+=======
+### No. 28: Miniatura della spiegazione del buco nero
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -925,7 +1078,11 @@ Una miniatura per un video che spiega i buchi neri. L'immagine è una rappresent
 
 ---
 
+<<<<<<< HEAD
 ### No. 26: Ristrutturazione fai da te della stanza: prima e dopo
+=======
+### No. 29: Ristrutturazione fai da te della stanza: prima e dopo
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -958,7 +1115,11 @@ Una miniatura per un video di decorazione fai-da-te. L'immagine mostra uno scher
 
 ---
 
+<<<<<<< HEAD
 ### No. 27: Miniatura della ricetta della torta al cioccolato definitiva
+=======
+### No. 30: Miniatura della ricetta della torta al cioccolato definitiva
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -991,7 +1152,11 @@ Una miniatura per un video di ricette su "La Torta al Cioccolato Definitiva". L'
 
 ---
 
+<<<<<<< HEAD
 ### No. 28: Miniatura del Vlog di Viaggio a Bali
+=======
+### No. 31: Miniatura del Vlog di Viaggio a Bali
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1024,7 +1189,11 @@ Una miniatura mozzafiato per un vlog di viaggio su Bali. L'immagine è uno scatt
 
 ---
 
+<<<<<<< HEAD
 ### No. 29: Miniatura recensione smartphone
+=======
+### No. 32: Miniatura recensione smartphone
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1057,7 +1226,11 @@ Un'immagine in miniatura per una recensione dell'ultimo smartphone. Il telefono 
 
 ---
 
+<<<<<<< HEAD
 ### No. 30: Miniatura della sfida "Cerca di non ridere"
+=======
+### No. 33: Miniatura della sfida "Cerca di non ridere"
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1090,7 +1263,11 @@ Una miniatura ad alta energia per un video "Try Not to Laugh Challenge". Present
 
 ---
 
+<<<<<<< HEAD
 ### No. 31: Diagramma dell'Architettura del Sistema di un'Applicazione Web
+=======
+### No. 34: Diagramma dell'Architettura del Sistema di un'Applicazione Web
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1123,7 +1300,11 @@ Un diagramma di architettura di sistema di alto livello per una moderna applicaz
 
 ---
 
+<<<<<<< HEAD
 ### No. 32: Scheda illustrata della ricetta della pasta fatta in casa
+=======
+### No. 35: Scheda illustrata della ricetta della pasta fatta in casa
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1156,7 +1337,11 @@ Una scheda ricetta splendidamente illustrata per preparare la pasta fatta in cas
 
 ---
 
+<<<<<<< HEAD
 ### No. 33: Guida alla sicurezza per la postura sul posto di lavoro
+=======
+### No. 36: Guida alla sicurezza per la postura sul posto di lavoro
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1189,7 +1374,11 @@ Una guida visiva sulla sicurezza sul luogo di lavoro, che illustra la postura co
 
 ---
 
+<<<<<<< HEAD
 ### No. 34: Diagramma di funzionamento della stampante 3D
+=======
+### No. 37: Diagramma di funzionamento della stampante 3D
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1222,7 +1411,11 @@ Un diagramma chiaro e semplice che spiega come funziona una stampante 3D (tecnol
 
 ---
 
+<<<<<<< HEAD
 ### No. 35: Mappa isometrica del Parco Nazionale
+=======
+### No. 38: Mappa isometrica del Parco Nazionale
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1255,7 +1448,11 @@ Una mappa illustrata stilizzata e isometrica di un parco nazionale. La mappa dov
 
 ---
 
+<<<<<<< HEAD
 ### No. 36: Progettazione passiva solare Blueprint
+=======
+### No. 39: Progettazione passiva solare Blueprint
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1288,7 +1485,11 @@ Una sezione di un disegno in stile progetto che spiega il concetto di design sol
 
 ---
 
+<<<<<<< HEAD
 ### No. 37: Illustrazione scientifica di una cellula vegetale
+=======
+### No. 40: Illustrazione scientifica di una cellula vegetale
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1321,7 +1522,11 @@ Un'illustrazione scientifica dettagliata di una cellula vegetale, nello stile di
 
 ---
 
+<<<<<<< HEAD
 ### No. 38: Visualizzazione dei dati sulla deforestazione globale
+=======
+### No. 41: Visualizzazione dei dati sulla deforestazione globale
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1354,7 +1559,11 @@ Una visualizzazione dati bella e informativa per un report sulla deforestazione 
 
 ---
 
+<<<<<<< HEAD
 ### No. 39: Illustrazione di una fotocamera DSLR con vista esplosa
+=======
+### No. 42: Illustrazione di una fotocamera DSLR con vista esplosa
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1387,7 +1596,11 @@ Un'illustrazione tecnica in vista esplosa di una fotocamera DSLR. Ogni component
 
 ---
 
+<<<<<<< HEAD
 ### No. 40: Confronto tra auto elettriche e a benzina
+=======
+### No. 43: Confronto tra auto elettriche e a benzina
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1420,7 +1633,11 @@ Una tabella di confronto visiva (un'infografica "vs.") che mette a confronto aut
 
 ---
 
+<<<<<<< HEAD
 ### No. 41: Guida al caffè Pour-Over
+=======
+### No. 44: Guida al caffè Pour-Over
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1453,7 +1670,11 @@ Una guida visiva semplice e passo-passo su "Come preparare la tazza di caffè pe
 
 ---
 
+<<<<<<< HEAD
 ### No. 42: Diagramma 3D di un vulcano in sezione
+=======
+### No. 45: Diagramma 3D di un vulcano in sezione
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1486,7 +1707,11 @@ Un diagramma in sezione 3D di un vulcano, che mostra la sua struttura interna. I
 
 ---
 
+<<<<<<< HEAD
 ### No. 43: Anatomia del cuore su lavagna vintage
+=======
+### No. 46: Anatomia del cuore su lavagna vintage
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1519,7 +1744,11 @@ Un'illustrazione dettagliata in stile lavagna vintage che spiega l'anatomia del 
 
 ---
 
+<<<<<<< HEAD
 ### No. 44: Mappa Mentale Vivace per il Pensiero Creativo
+=======
+### No. 47: Mappa Mentale Vivace per il Pensiero Creativo
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1552,7 +1781,11 @@ Una mappa mentale vibrante e organica incentrata sul tema del "Pensiero Creativo
 
 ---
 
+<<<<<<< HEAD
 ### No. 45: Diagramma di flusso SDLC professionale
+=======
+### No. 48: Diagramma di flusso SDLC professionale
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1585,7 +1818,11 @@ Un diagramma di flusso pulito e professionale che illustra il ciclo di vita dell
 
 ---
 
+<<<<<<< HEAD
 ### No. 46: Spiegazione della fotosintesi alla lavagna
+=======
+### No. 49: Spiegazione della fotosintesi alla lavagna
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1618,7 +1855,11 @@ Una spiegazione dettagliata, disegnata a mano su una lavagna, del processo di fo
 
 ---
 
+<<<<<<< HEAD
 ### No. 47: Bagno Sereno per la Cura di Sé
+=======
+### No. 50: Bagno Sereno per la Cura di Sé
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1651,7 +1892,11 @@ Un'immagine serena e rilassante per un post sulla cura di sé e la salute mental
 
 ---
 
+<<<<<<< HEAD
 ### No. 48: Lo studio disordinato dell'artista
+=======
+### No. 51: Lo studio disordinato dell'artista
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1684,7 +1929,11 @@ Una foto di uno studio d'artista disordinato ma stimolante. Tele sono appoggiate
 
 ---
 
+<<<<<<< HEAD
 ### No. 49: Cioccolata calda natalizia accogliente
+=======
+### No. 52: Cioccolata calda natalizia accogliente
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1717,7 +1966,11 @@ Una foto accogliente e festosa per un post di Instagram a tema natalizio. La sce
 
 ---
 
+<<<<<<< HEAD
 ### No. 50: Configurazione di gioco di fascia alta
+=======
+### No. 53: Configurazione di gioco di fascia alta
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1750,7 +2003,11 @@ Una foto di una postazione da gaming di fascia alta, pronta per una sessione di 
 
 ---
 
+<<<<<<< HEAD
 ### No. 51: Germogliare attraverso la terra arida
+=======
+### No. 54: Germogliare attraverso la terra arida
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1783,7 +2040,11 @@ Un'immagine potente e stimolante di un singolo germoglio verde che cresce attrav
 
 ---
 
+<<<<<<< HEAD
 ### No. 52: Scatto della palette di ombretti Macro
+=======
+### No. 55: Scatto della palette di ombretti Macro
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1816,7 +2077,11 @@ Un'inquadratura macro e artistica di una nuova palette di ombretti per la recens
 
 ---
 
+<<<<<<< HEAD
 ### No. 53: Collezione di dischi in vinile vintage
+=======
+### No. 56: Collezione di dischi in vinile vintage
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1849,7 +2114,11 @@ Una foto di una collezione di dischi in vinile vintage sparsi su un pavimento di
 
 ---
 
+<<<<<<< HEAD
 ### No. 54: Angolo Lettura Luminoso
+=======
+### No. 57: Angolo Lettura Luminoso
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1882,7 +2151,11 @@ Una foto di un angolo lettura splendidamente decorato e luminoso in una casa. L'
 
 ---
 
+<<<<<<< HEAD
 ### No. 55: Outfit Minimalista Chic - Composizione Piatta
+=======
+### No. 58: Outfit Minimalista Chic - Composizione Piatta
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1915,7 +2188,11 @@ Una composizione flat-lay minimalista e chic di un outfit curato per un post "lo
 
 ---
 
+<<<<<<< HEAD
 ### No. 56: Vivace scena notturna del mercato di Taipei
+=======
+### No. 59: Vivace scena notturna del mercato di Taipei
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1948,7 +2225,11 @@ Una foto che cattura la vivace vita di strada di un mercato notturno a Taipei. L
 
 ---
 
+<<<<<<< HEAD
 ### No. 57: Vista del paesaggio montano dalla tenda
+=======
+### No. 60: Vista del paesaggio montano dalla tenda
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1981,7 +2262,11 @@ Una foto mozzafiato dalla prospettiva di qualcuno seduto all'interno di una tend
 
 ---
 
+<<<<<<< HEAD
 ### No. 58: Picnic Romantico in un Campo di Lavanda
+=======
+### No. 61: Picnic Romantico in un Campo di Lavanda
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2014,7 +2299,11 @@ Una foto romantica e sognante di una coppia che fa un picnic al tramonto in un c
 
 ---
 
+<<<<<<< HEAD
 ### No. 59: Scatto dall'alto di un'opera di calligrafia
+=======
+### No. 62: Scatto dall'alto di un'opera di calligrafia
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2047,7 +2336,11 @@ Una ripresa dall'alto splendidamente stilizzata di un tavolo da lavoro dove qual
 
 ---
 
+<<<<<<< HEAD
 ### No. 60: Scatto di allenamento dinamico di un'atleta donna
+=======
+### No. 63: Scatto di allenamento dinamico di un'atleta donna
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2080,7 +2373,11 @@ Un'immagine dinamica e potente di un'atleta donna a metà allenamento in una pal
 
 ---
 
+<<<<<<< HEAD
 ### No. 61: Pancakes appetitosi – Scatto
+=======
+### No. 64: Pancakes appetitosi – Scatto
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2113,7 +2410,11 @@ Un primo piano estremamente appetitoso di una pila di soffici pancake per i soci
 
 ---
 
+<<<<<<< HEAD
 ### No. 62: Street Style degli Influencer di Moda a Parigi
+=======
+### No. 65: Street Style degli Influencer di Moda a Parigi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2146,7 +2447,11 @@ Una foto di street style di un'influencer di moda a Parigi durante la Fashion We
 
 ---
 
+<<<<<<< HEAD
 ### No. 63: Cucciolo di Golden Retriever tra le foglie autunnali
+=======
+### No. 66: Cucciolo di Golden Retriever tra le foglie autunnali
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2179,7 +2484,11 @@ Una foto commovente e spontanea di un cucciolo di golden retriever che gioca in 
 
 ---
 
+<<<<<<< HEAD
 ### No. 64: Ripresa cinematografica di un viaggio in solitaria
+=======
+### No. 67: Ripresa cinematografica di un viaggio in solitaria
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2212,7 +2521,11 @@ Un'istantanea spontanea e cinematografica di una giovane donna in un'avventura d
 
 ---
 
+<<<<<<< HEAD
 ### No. 65: Griglia di opere d'arte cinematografiche a tre pannelli
+=======
+### No. 68: Griglia di opere d'arte cinematografiche a tre pannelli
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2246,7 +2559,11 @@ Modifica l'immagine in un ritratto artistico con texture cinematografica a grigl
 
 ---
 
+<<<<<<< HEAD
 ### No. 66: Hello Kitty: Caos in Ufficio
+=======
+### No. 69: Hello Kitty: Caos in Ufficio
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2279,7 +2596,11 @@ h0674kz, Hello Kitty che fa esplodere l'ufficio, stile film retrò, grana fine
 
 ---
 
+<<<<<<< HEAD
 ### No. 67: Crystal Fountain with Stars
+=======
+### No. 70: Crystal Fountain with Stars
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2312,7 +2633,11 @@ h0674kz, adesivi a stella colorati, una fontana decorata con luminose catene di 
 
 ---
 
+<<<<<<< HEAD
 ### No. 68: Momento Geisha a Kyoto
+=======
+### No. 71: Momento Geisha a Kyoto
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2345,7 +2670,11 @@ Geisha (dettagli kimono tradizionali, trucco bianco) che cammina su strada lastr
 
 ---
 
+<<<<<<< HEAD
 ### No. 69: Notte di Natale a New York
+=======
+### No. 72: Notte di Natale a New York
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2379,7 +2708,11 @@ Un prompt per una notte di festa in città che cattura il Natale a New York. Pre
 
 ---
 
+<<<<<<< HEAD
 ### No. 70: Scena di campeggio al crepuscolo
+=======
+### No. 73: Scena di campeggio al crepuscolo
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2412,7 +2745,11 @@ Scena crepuscolare di campeggio in tenda di montagna, dettagli visibili di tenda
 
 ---
 
+<<<<<<< HEAD
 ### No. 71: Allenamento Intenso Monocromatico
+=======
+### No. 74: Allenamento Intenso Monocromatico
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2446,7 +2783,11 @@ Primo piano di {argument name="subject" default="donna atletica"} che solleva ma
 
 ---
 
+<<<<<<< HEAD
 ### No. 72: Interno dell'astronauta ISS
+=======
+### No. 75: Interno dell'astronauta ISS
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2479,7 +2820,11 @@ Interno della Stazione Spaziale Internazionale, ambiente fisico reale, astronaut
 
 ---
 
+<<<<<<< HEAD
 ### No. 73: Visualizzazione delle Reti Neurali
+=======
+### No. 76: Visualizzazione delle Reti Neurali
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2512,7 +2857,11 @@ Visualizzazione del flusso di dati della struttura 3D di una rete neurale, nodi 
 
 ---
 
+<<<<<<< HEAD
 ### No. 74: Interni giapponesi Wabi-Sabi
+=======
+### No. 77: Interni giapponesi Wabi-Sabi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2546,7 +2895,11 @@ Panoramica interna di una homestay minimalista giapponese di {argument name="are
 
 ---
 
+<<<<<<< HEAD
 ### No. 75: Fotografia di prodotti di lusso
+=======
+### No. 78: Fotografia di prodotti di lusso
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2580,7 +2933,11 @@ Primo piano di {argument name="product" default="rossetto di alta gamma"} posizi
 
 ---
 
+<<<<<<< HEAD
 ### No. 76: Concept K-Pop Futuristico
+=======
+### No. 79: Concept K-Pop Futuristico
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2614,7 +2971,11 @@ Foto concept di un gruppo K-pop {argument name="number of people" default="di qu
 
 ---
 
+<<<<<<< HEAD
 ### No. 77: Ritratto Minimalista di Alta Moda
+=======
+### No. 80: Ritratto Minimalista di Alta Moda
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2648,7 +3009,11 @@ Ritratto minimalista a mezzo busto di una {argument name="subject" default="giov
 
 ---
 
+<<<<<<< HEAD
 ### No. 78: Azione dinamica da supereroi
+=======
+### No. 81: Azione dinamica da supereroi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2682,7 +3047,11 @@ Cattura una scena di battaglia di supereroi ad alta intensità con effetti visiv
 
 ---
 
+<<<<<<< HEAD
 ### No. 79: Atmosfera da concerto allo stadio
+=======
+### No. 82: Atmosfera da concerto allo stadio
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2716,7 +3085,11 @@ Crea una scena mozzafiato di un concerto in uno stadio che ricorda i grandi tour
 
 ---
 
+<<<<<<< HEAD
 ### No. 80: Barbie Dream Room
+=======
+### No. 83: Barbie Dream Room
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2750,7 +3123,11 @@ Interno della stanza dei sogni di Barbie, pareti {argument name="wall color" def
 
 ---
 
+<<<<<<< HEAD
 ### No. 81: Stile di vita della Costiera Amalfitana
+=======
+### No. 84: Stile di vita della Costiera Amalfitana
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2784,7 +3161,11 @@ Elegante {argument name="gender" default="donna"} di {argument name="age" defaul
 
 ---
 
+<<<<<<< HEAD
 ### No. 82: Selfie con fotocamera digitale Y2K
+=======
+### No. 85: Selfie con fotocamera digitale Y2K
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2818,7 +3199,11 @@ Selfie in stile fotocamera digitale Millennial, con un effetto deliberatamente a
 
 ---
 
+<<<<<<< HEAD
 ### No. 83: Ritratto di scienziato cinematografico
+=======
+### No. 86: Ritratto di scienziato cinematografico
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2852,7 +3237,11 @@ Stile pellicola in bianco e nero da 35 mm, un {argument name="character identity
 
 ---
 
+<<<<<<< HEAD
 ### No. 84: Poster di Natale "Judy e Nick Felt"
+=======
+### No. 87: Poster di Natale "Judy e Nick Felt"
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2885,7 +3274,11 @@ Poster a tema natalizio con texture in feltro, che utilizza complessivamente una
 
 ---
 
+<<<<<<< HEAD
 ### No. 85: Selfie del coniglio da ufficio stanco del mondo
+=======
+### No. 88: Selfie del coniglio da ufficio stanco del mondo
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2918,7 +3311,11 @@ Un coniglietto antropomorfo, presentato nello stile visivo di un'istantanea quot
 
 ---
 
+<<<<<<< HEAD
 ### No. 86: Design del personaggio IP Trendy Little Fox
+=======
+### No. 89: Design del personaggio IP Trendy Little Fox
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2952,7 +3349,11 @@ Design del personaggio IP: versione Q, una piccola volpe rosso-arancio soffice, 
 
 ---
 
+<<<<<<< HEAD
 ### No. 87: Poster con Scritta Corsiva "Endless Vitality"
+=======
+### No. 90: Poster con Scritta Corsiva "Endless Vitality"
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2986,7 +3387,11 @@ Poster con font calligrafico "{argument name="poster text" default="Life Goes On
 
 ---
 
+<<<<<<< HEAD
 ### No. 88: Design del magnete da frigo irregolare di Judy e Nick
+=======
+### No. 91: Design del magnete da frigo irregolare di Judy e Nick
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3020,7 +3425,11 @@ Stile di design moderno e minimalista, design di magnete da frigo in smalto a te
 
 ---
 
+<<<<<<< HEAD
 ### No. 89: Icona 3D di portafoglio e monete in vetro
+=======
+### No. 92: Icona 3D di portafoglio e monete in vetro
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3054,7 +3463,11 @@ Icona UI, un portafoglio pieno di monete d'oro, una pila di monete d'oro, sulle 
 
 ---
 
+<<<<<<< HEAD
 ### No. 90: Illustrazione Chibi di Nick e Judy Disegnata a Mano
+=======
+### No. 93: Illustrazione Chibi di Nick e Judy Disegnata a Mano
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3087,7 +3500,11 @@ Questa è un'illustrazione disegnata a mano in versione Q del classico duo di pe
 
 ---
 
+<<<<<<< HEAD
 ### No. 91: Selfie dall'alto di tre persone unito
+=======
+### No. 94: Selfie dall'alto di tre persone unito
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3121,7 +3538,11 @@ Non scambiare i volti, i volti dei personaggi non devono cambiare affatto! Si pr
 
 ---
 
+<<<<<<< HEAD
 ### No. 92: Scheda informativa disegnata a mano: Pomodoro e uova saltati in padella
+=======
+### No. 95: Scheda informativa disegnata a mano: Pomodoro e uova saltati in padella
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3155,7 +3576,11 @@ Crea una scheda informativa per la ricetta di {argument name="dish name" default
 
 ---
 
+<<<<<<< HEAD
 ### No. 93: Tipografia del titolo del film Wild Cursive
+=======
+### No. 96: Tipografia del titolo del film Wild Cursive
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3189,7 +3614,11 @@ Sfondo nero con testo bianco, calligrafia con tratti collegati chic, elegante e 
 
 ---
 
+<<<<<<< HEAD
 ### No. 94: Note di schizzo di progettazione meccanica
+=======
+### No. 97: Note di schizzo di progettazione meccanica
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3223,7 +3652,11 @@ Schizzo a linee nere, note di {argument name="subject name" default="Progettazio
 
 ---
 
+<<<<<<< HEAD
 ### No. 95: Poster Golden Curve Wealth Logic
+=======
+### No. 98: Poster Golden Curve Wealth Logic
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3257,7 +3690,11 @@ Sfondo blu scuro ed elegante, una curva dorata di un grafico in costante aumento
 
 ---
 
+<<<<<<< HEAD
 ### No. 96: Diagramma dell'Architettura della Piattaforma E-Commerce 3D
+=======
+### No. 99: Diagramma dell'Architettura della Piattaforma E-Commerce 3D
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3290,7 +3727,11 @@ Con una prospettiva altamente tridimensionale, presenta accuratamente il diagram
 
 ---
 
+<<<<<<< HEAD
 ### No. 97: Ma Wencheng: Design della Firma Artistica
+=======
+### No. 100: Ma Wencheng: Design della Firma Artistica
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3324,7 +3765,11 @@ Design di font artistico di livello magistrale per firme: {argument name="name" 
 
 ---
 
+<<<<<<< HEAD
 ### No. 98: Interfaccia utente dell'app finanziaria in stile C4D (variante)
+=======
+### No. 101: Interfaccia utente dell'app finanziaria in stile C4D (variante)
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3357,7 +3802,11 @@ Design dell'interfaccia utente mobile per app di gestione patrimoniale, UI premi
 
 ---
 
+<<<<<<< HEAD
 ### No. 99: UI di un'app finanziaria in stile C4D
+=======
+### No. 102: UI di un'app finanziaria in stile C4D
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3390,7 +3839,11 @@ Design dell'interfaccia utente mobile di un'app per la gestione della ricchezza 
 
 ---
 
+<<<<<<< HEAD
 ### No. 100: Selfie in stile Instagram di Nick e Judy a Pink Beach
+=======
+### No. 103: Selfie in stile Instagram di Nick e Judy a Pink Beach
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3424,7 +3877,11 @@ Nick Wilde e Judy Hopps di Zootopia si scattano un selfie su una spiaggia rosa, 
 
 ---
 
+<<<<<<< HEAD
 ### No. 101: Zootopia Judy Magnete da Frigorifero in Smalto
+=======
+### No. 104: Zootopia Judy Magnete da Frigorifero in Smalto
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3458,7 +3915,11 @@ Stile di design moderno e minimalista, design di magnete da frigo in smalto a te
 
 ---
 
+<<<<<<< HEAD
 ### No. 102: GEO Tech - Poster promozionale del prodotto
+=======
+### No. 105: GEO Tech - Poster promozionale del prodotto
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3492,7 +3953,11 @@ Poster promozionale di un prodotto tecnologico, layout testo a sinistra e immagi
 
 ---
 
+<<<<<<< HEAD
 ### No. 103: Selfie di Nick e Judy in stile Xiaohongshu che rompe la quarta parete
+=======
+### No. 106: Selfie di Nick e Judy in stile Xiaohongshu che rompe la quarta parete
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3526,7 +3991,11 @@ Personaggi di Zootopia, Nick Wilde e Judy Hopps. Nick ha una pelliccia rosso-ara
 
 ---
 
+<<<<<<< HEAD
 ### No. 104: Line Art di Erbe Aromatiche Tradizionali Cinesi
+=======
+### No. 107: Line Art di Erbe Aromatiche Tradizionali Cinesi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3560,7 +4029,11 @@ Nove comuni erbe aromatiche cinesi usate in cucina, disegno al tratto, incisione
 
 ---
 
+<<<<<<< HEAD
 ### No. 105: Mappa topografica di Hangzhou
+=======
+### No. 108: Mappa topografica di Hangzhou
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3593,7 +4066,11 @@ Una mappa topografica di Hangzhou, con un indicatore di posizione rosso centrato
 
 ---
 
+<<<<<<< HEAD
 ### No. 106: Illustrazione di una band in uno stile ibrido tra Moebius e Kim Jung Gi
+=======
+### No. 109: Illustrazione di una band in uno stile ibrido tra Moebius e Kim Jung Gi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3626,7 +4103,11 @@ Adotta uno stile illustrativo ibrido tra Moebius e Kim Jung Gi, con uno sfondo b
 
 ---
 
+<<<<<<< HEAD
 ### No. 107: Guida illustrata ai romanzieri cinesi contemporanei
+=======
+### No. 110: Guida illustrata ai romanzieri cinesi contemporanei
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3660,7 +4141,11 @@ Crea un poster informativo grafico intitolato "Guida illustrata ai romanzieri ci
 
 ---
 
+<<<<<<< HEAD
 ### No. 108: Infografica Poster Mappa del Cibo Cinese
+=======
+### No. 111: Infografica Poster Mappa del Cibo Cinese
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3737,6 +4222,10 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
+<<<<<<< HEAD
 <sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-12-10T09:55:01.277Z</sub>
+=======
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-12-10T12:21:13.428Z</sub>
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 </div>

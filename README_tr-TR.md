@@ -88,9 +88,15 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
+<<<<<<< HEAD
 | 📝 Toplam İstem | **108** |
 | ⭐ Öne Çıkan | **0** |
 | 🔄 Son Güncelleme | **10 Aralık 2025 Çarşamba 09:55:06 UTC** |
+=======
+| 📝 Toplam İstem | **111** |
+| ⭐ Öne Çıkan | **0** |
+| 🔄 Son Güncelleme | **10 Aralık 2025 Çarşamba 12:21:15 UTC** |
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 </div>
 
@@ -430,7 +436,106 @@ Bir kısa film festivali için ilginç ve bağımsız tarzda bir poster. Tasarı
 
 ---
 
-### No. 11: Suç Romanı Kitap Kapağı "Gölge Dedektif"
+### No. 11: Serene Yoga ve Meditasyon Çalıştayı Afişi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Bu istem, hafta sonu yoga ve meditasyon atölyesi için dingin ve sakinleştirici bir poster oluşturur. Gün doğumunda huzurlu bir yoga pozunda olan bir kişinin yumuşak odaklı fotoğrafını içerir, bu da huzur ve esenlik hissi uyandırır.
+
+#### 📝 İstem
+
+```
+Hafta sonu yoga ve meditasyon atölyesi için sakinleştirici ve huzur veren bir poster. Ana görsel, gün doğumunda bir sahilde huzurlu bir yoga pozisyonunda duran bir kişinin güzel, yumuşak odaklı fotoğrafı. Renk paleti yumuşak pastel tonlardan (pembe, turuncu, açık mavi) oluşuyor. Tipografi, nazik ve akıcı bir el yazısı fontu. Poster, huzur, esenlik ve kişisel bakım duygularını uyandırmalıdır. –ar 3:4
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765367961714_t47x0n_313e7deeb6c193d794d71ec8cec044dbc36e20b3f9e0fa338284467031d9e04f" width="600" alt="Serene Yoga ve Meditasyon Çalıştayı Afişi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 10 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Hafta%20sonu%20yoga%20ve%20meditasyon%20at%C3%B6lyesi%20i%C3%A7in%20sakinle%C5%9Ftirici%20ve%20huzur%20veren%20bir%20poster.%20Ana%20g%C3%B6rsel%2C%20g%C3%BCn%20do%C4%9Fumunda%20bir%20sahilde%20huzurlu%20bir%20yoga%20pozisyonunda%20duran%20bir%20ki%C5%9Finin%20g%C3%BCzel%2C%20yumu%C5%9Fak%20odakl%C4%B1%20foto%C4%9Fraf%C4%B1.%20Renk%20paleti%20yumu%C5%9Fak%20pastel%20tonlardan%20(pembe%2C%20turuncu%2C%20a%C3%A7%C4%B1k%20mavi)%20olu%C5%9Fuyor.%20Tipografi%2C%20nazik%20ve%20ak%C4%B1c%C4%B1%20bir%20el%20yaz%C4%B1s%C4%B1%20fontu.%20Poster%2C%20huzur%2C%20esenlik%20ve%20ki%C5%9Fisel%20bak%C4%B1m%20duygular%C4%B1n%C4%B1%20uyand%C4%B1rmal%C4%B1d%C4%B1r.%20%E2%80%93ar%203%3A4)**
+
+---
+
+### No. 12: İtalyan Restoranı Büyük Açılış Broşürü
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Bu bilgi istemi, yeni bir İtalyan restoranının büyük açılışı için lezzetli ve davetkar bir el ilanı oluşturur. Müşterilere hitap etmek için rustik bir İtalyan yemeği düzenlemesi ve sıcak, otantik bir his içerir.
+
+#### 📝 İstem
+
+```
+Yeni bir İtalyan restoranının büyük açılışı için lezzetli ve davetkar bir el ilanı. Ana görsel, İtalyan yemekleriyle dolu bir masanın (pizza, bir kase makarna, bir kadeh kırmızı şarap ve taze fesleğen) güzel, rustik bir düz çekim fotoğrafı. Restoranın adı sıcak, el yazısı bir yazı tipinde. Açılış tarihi ve adresi açıkça görülebiliyor. Genel his sıcak, otantik ve iştah açıcı. –ar 4:5
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765367961890_sii4rm_1f4e43ff4dda6b28373b94aed5aa7bffc4815c1f5d212053ab1a343051b86704" width="600" alt="İtalyan Restoranı Büyük Açılış Broşürü - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 10 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Yeni%20bir%20%C4%B0talyan%20restoran%C4%B1n%C4%B1n%20b%C3%BCy%C3%BCk%20a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1%20i%C3%A7in%20lezzetli%20ve%20davetkar%20bir%20el%20ilan%C4%B1.%20Ana%20g%C3%B6rsel%2C%20%C4%B0talyan%20yemekleriyle%20dolu%20bir%20masan%C4%B1n%20(pizza%2C%20bir%20kase%20makarna%2C%20bir%20kadeh%20k%C4%B1rm%C4%B1z%C4%B1%20%C5%9Farap%20ve%20taze%20fesle%C4%9Fen)%20g%C3%BCzel%2C%20rustik%20bir%20d%C3%BCz%20%C3%A7ekim%20foto%C4%9Fraf%C4%B1.%20Restoran%C4%B1n%20ad%C4%B1%20s%C4%B1cak%2C%20el%20yaz%C4%B1s%C4%B1%20bir%20yaz%C4%B1%20tipinde.%20A%C3%A7%C4%B1l%C4%B1%C5%9F%20tarihi%20ve%20adresi%20a%C3%A7%C4%B1k%C3%A7a%20g%C3%B6r%C3%BClebiliyor.%20Genel%20his%20s%C4%B1cak%2C%20otantik%20ve%20i%C5%9Ftah%20a%C3%A7%C4%B1c%C4%B1.%20%E2%80%93ar%204%3A5)**
+
+---
+
+### No. 13: Plastik Kirliliği Kamu Spotu Afişi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Bu bilgi istemi, plastik kirliliği hakkında bir kamu hizmeti duyurusu için güçlü ve düşündürücü bir poster oluşturur. Duygusal bir tepki uyandırmak ve farkındalık yaratmak amacıyla plastik atıkların arasında yüzen bir deniz kaplumbağasını tasvir eder.
+
+#### 📝 İstem
+
+```
+Okyanuslardaki plastik kirliliği hakkında bir kamu hizmeti duyurusu için güçlü ve düşündürücü bir poster. Görsel, su yerine plastik torba ve şişe denizinde yüzen bir deniz kaplumbağasının gerçeküstü ve hüzünlü bir tasviridir. "İstediğiniz okyanus bu mu?" sloganı altta yer almaktadır. Görsel, duygusal bir tepki uyandırmak ve farkındalık yaratmak amacıyla gerçekçi ve etkileyici olmalıdır. –ar 3:4
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765367960733_h016tz_5ed05bd2ce5bba756b3a380cd7620a25b24a29a495ab05eafe9f2c85b4c08d8a" width="600" alt="Plastik Kirliliği Kamu Spotu Afişi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 10 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/seedream-4-dot-5-prompts?prompt=Okyanuslardaki%20plastik%20kirlili%C4%9Fi%20hakk%C4%B1nda%20bir%20kamu%20hizmeti%20duyurusu%20i%C3%A7in%20g%C3%BC%C3%A7l%C3%BC%20ve%20d%C3%BC%C5%9F%C3%BCnd%C3%BCr%C3%BCc%C3%BC%20bir%20poster.%20G%C3%B6rsel%2C%20su%20yerine%20plastik%20torba%20ve%20%C5%9Fi%C5%9Fe%20denizinde%20y%C3%BCzen%20bir%20deniz%20kaplumba%C4%9Fas%C4%B1n%C4%B1n%20ger%C3%A7ek%C3%BCst%C3%BC%20ve%20h%C3%BCz%C3%BCnl%C3%BC%20bir%20tasviridir.%20%22%C4%B0stedi%C4%9Finiz%20okyanus%20bu%20mu%3F%22%20slogan%C4%B1%20altta%20yer%20almaktad%C4%B1r.%20G%C3%B6rsel%2C%20duygusal%20bir%20tepki%20uyand%C4%B1rmak%20ve%20fark%C4%B1ndal%C4%B1k%20yaratmak%20amac%C4%B1yla%20ger%C3%A7ek%C3%A7i%20ve%20etkileyici%20olmal%C4%B1d%C4%B1r.%20%E2%80%93ar%203%3A4)**
+
+---
+
+### No. 14: Suç Romanı Kitap Kapağı "Gölge Dedektif"
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -463,7 +568,7 @@ Bu istem, "Gölge Dedektif" başlıklı bir polisiye roman için heyecan verici 
 
 ---
 
-### No. 12: Japon Ukiyo-e Müzesi Posteri
+### No. 15: Japon Ukiyo-e Müzesi Posteri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -496,7 +601,7 @@ Japon Ukiyo-e tahta baskılarının müze sergisi için zarif ve sanatsal bir po
 
 ---
 
-### No. 13: Yazılım Geliştirici İşe Alım Broşürü
+### No. 16: Yazılım Geliştirici İşe Alım Broşürü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -531,7 +636,7 @@ Bir startup için yazılım geliştiricileri arayan cesur ve doğrudan bir işe 
 
 ---
 
-### No. 14: Saykodelik Müzik Festivali Afişi "Ethereal Bloom"
+### No. 17: Saykodelik Müzik Festivali Afişi "Ethereal Bloom"
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -564,7 +669,7 @@ Bu komut, "Ethereal Bloom" adlı bir yaz müzik festivali için canlı, saykodel
 
 ---
 
-### No. 15: Sinematik Bilim Kurgu Film Afişi "CHRONOS"
+### No. 18: Sinematik Bilim Kurgu Film Afişi "CHRONOS"
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -597,7 +702,7 @@ Bu istem, "CHRONOS" başlıklı kurgusal bir bilim kurgu gişe rekortmeni için 
 
 ---
 
-### No. 16: Web Sitesi Oluşturma Eğitimi Küçük Resmi
+### No. 19: Web Sitesi Oluşturma Eğitimi Küçük Resmi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -630,7 +735,11 @@ Bu istem, "10 Dakikada Nasıl Web Sitesi Kurulur" eğitim videosu için, kendine
 
 ---
 
+<<<<<<< HEAD
 ### No. 17: Otomat Yiyecekleri Mücadelesi Küçük Resmi
+=======
+### No. 20: Otomat Yiyecekleri Mücadelesi Küçük Resmi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -663,7 +772,11 @@ Bu bilgi istemi, "24 Saat Boyunca Sadece Otomat Yiyecekleri Yeme" meydan okumas�
 
 ---
 
+<<<<<<< HEAD
 ### No. 18: Şaka Videosu Küçük Resmi
+=======
+### No. 21: Şaka Videosu Küçük Resmi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -696,7 +809,11 @@ Bir şaka videosu için küçük resim. Görüntü, şakanın doruk noktasını 
 
 ---
 
+<<<<<<< HEAD
 ### No. 19: 5 Dakikalık Hayat Hileleri Küçük Resmi
+=======
+### No. 22: 5 Dakikalık Hayat Hileleri Küçük Resmi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -729,7 +846,11 @@ Bu istem, "5 Dakikalık Hayat Hileleri" videosu için, net öğretici görseller
 
 ---
 
+<<<<<<< HEAD
 ### No. 20: Teknoloji Gadget'ı Kutu Açılışı Küçük Resmi
+=======
+### No. 23: Teknoloji Gadget'ı Kutu Açılışı Küçük Resmi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -762,7 +883,11 @@ Yeni, pahalı bir teknoloji ürününün kutu açılış videosu için bir küç
 
 ---
 
+<<<<<<< HEAD
 ### No. 21: Antik Mısır Belgeseli Küçük Resmi
+=======
+### No. 24: Antik Mısır Belgeseli Küçük Resmi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -795,7 +920,11 @@ Antik Mısır belgeseli için bir küçük resim. Görüntü, Gize'deki Büyük 
 
 ---
 
+<<<<<<< HEAD
 ### No. 22: Elektrikli Süper Otomobil İncelemesi Küçük Resmi
+=======
+### No. 25: Elektrikli Süper Otomobil İncelemesi Küçük Resmi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -828,7 +957,11 @@ Yeni bir elektrikli süper otomobil incelemesi için bir küçük resim. Otomobi
 
 ---
 
+<<<<<<< HEAD
 ### No. 23: Gerçek Suç Belgeseli Küçük Resmi
+=======
+### No. 26: Gerçek Suç Belgeseli Küçük Resmi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -861,7 +994,11 @@ Gerçek bir suç belgeseli için karanlık ve gizemli bir küçük resim. Görü
 
 ---
 
+<<<<<<< HEAD
 ### No. 24: 30 Günlük Fitness Mücadelesi Sonuçları Küçük Resmi
+=======
+### No. 27: 30 Günlük Fitness Mücadelesi Sonuçları Küçük Resmi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -894,7 +1031,11 @@ Bu istem, bir "30 Günlük Fitness Mücadelesi" sonuçları videosu için, YouTu
 
 ---
 
+<<<<<<< HEAD
 ### No. 25: Kara Delik Açıklaması Küçük Resmi
+=======
+### No. 28: Kara Delik Açıklaması Küçük Resmi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -927,7 +1068,11 @@ Kara delikleri açıklayan bir video için küçük resim. Görüntü, bir kara 
 
 ---
 
+<<<<<<< HEAD
 ### No. 26: Kendin Yap Oda Dönüşümü: Öncesi ve Sonrası
+=======
+### No. 29: Kendin Yap Oda Dönüşümü: Öncesi ve Sonrası
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -960,7 +1105,11 @@ Bir kendin yap ev dekorasyonu videosu için küçük resim. Görselde "öncesi v
 
 ---
 
+<<<<<<< HEAD
 ### No. 27: Enfes Çikolatalı Kek Tarifi Küçük Resmi
+=======
+### No. 30: Enfes Çikolatalı Kek Tarifi Küçük Resmi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -993,7 +1142,11 @@ Bu istem, "Enfes Çikolatalı Kek" tarifi videosu için bir YouTube küçük res
 
 ---
 
+<<<<<<< HEAD
 ### No. 28: Bali Seyahat Vlog'u Küçük Resmi
+=======
+### No. 31: Bali Seyahat Vlog'u Küçük Resmi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1026,7 +1179,11 @@ Bali hakkında bir seyahat vlog'u için çarpıcı bir küçük resim. Görünt�
 
 ---
 
+<<<<<<< HEAD
 ### No. 29: Akıllı Telefon İncelemesi Küçük Resmi
+=======
+### No. 32: Akıllı Telefon İncelemesi Küçük Resmi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1059,7 +1216,11 @@ En yeni akıllı telefonun incelemesi için bir küçük resim. Telefon, şık e
 
 ---
 
+<<<<<<< HEAD
 ### No. 30: Gülmeme Meydan Okuması Küçük Resmi
+=======
+### No. 33: Gülmeme Meydan Okuması Küçük Resmi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1092,7 +1253,11 @@ Bu istem, abartılı bir şekilde ağlayan-gülen bir YouTuber ve cesur metin i�
 
 ---
 
+<<<<<<< HEAD
 ### No. 31: Web Uygulaması Sistem Mimari Diyagramı
+=======
+### No. 34: Web Uygulaması Sistem Mimari Diyagramı
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1125,7 +1290,11 @@ Paydaşlara yönelik bir sunum için modern bir web uygulamasının üst düzey 
 
 ---
 
+<<<<<<< HEAD
 ### No. 32: Resimli Ev Yapımı Makarna Tarifi Kartı
+=======
+### No. 35: Resimli Ev Yapımı Makarna Tarifi Kartı
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1158,7 +1327,11 @@ Ev yapımı makarna yapmak için güzelce resmedilmiş bir tarif kartı. Üst ya
 
 ---
 
+<<<<<<< HEAD
 ### No. 33: İşyeri Duruş Güvenliği Rehberi
+=======
+### No. 36: İşyeri Duruş Güvenliği Rehberi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1191,7 +1364,11 @@ Bu bilgi istemi, sırt ağrısını önlemek için doğru masa duruşu için gö
 
 ---
 
+<<<<<<< HEAD
 ### No. 34: 3D Yazıcının Çalışma Diyagramı
+=======
+### No. 37: 3D Yazıcının Çalışma Diyagramı
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1224,7 +1401,11 @@ Bir 3D yazıcının (FDM teknolojisi) nasıl çalıştığını açıklayan net 
 
 ---
 
+<<<<<<< HEAD
 ### No. 35: İzometrik Milli Park Haritası
+=======
+### No. 38: İzometrik Milli Park Haritası
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1257,7 +1438,11 @@ Bir milli parkın stilize edilmiş, izometrik illüstrasyon haritası. Harita, �
 
 ---
 
+<<<<<<< HEAD
 ### No. 36: Blueprint Pasif Güneş Tasarımı
+=======
+### No. 39: Blueprint Pasif Güneş Tasarımı
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1290,7 +1475,11 @@ Bir evin pasif güneş tasarımı konseptini açıklayan, plan tarzı bir çizim
 
 ---
 
+<<<<<<< HEAD
 ### No. 37: Bilimsel Bitki Hücresi İllüstrasyonu
+=======
+### No. 40: Bilimsel Bitki Hücresi İllüstrasyonu
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1323,7 +1512,11 @@ Modern bir biyoloji ders kitabının tarzında, bir bitki hücresinin detaylı, 
 
 ---
 
+<<<<<<< HEAD
 ### No. 38: Küresel Ormansızlaşma Veri Görselleştirmesi
+=======
+### No. 41: Küresel Ormansızlaşma Veri Görselleştirmesi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1356,7 +1549,11 @@ Küresel orman tahribatı raporu için güzel ve bilgilendirici bir veri görsel
 
 ---
 
+<<<<<<< HEAD
 ### No. 39: Patlatılmış Görünüm DSLR Fotoğraf Makinesi İllüstrasyonu
+=======
+### No. 42: Patlatılmış Görünüm DSLR Fotoğraf Makinesi İllüstrasyonu
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1389,7 +1586,11 @@ Bir DSLR fotoğraf makinesinin patlatılmış görünüm teknik çizimi. Fotoğr
 
 ---
 
+<<<<<<< HEAD
 ### No. 40: Elektrikli Arabalar ile Benzinli Arabaların Karşılaştırması
+=======
+### No. 43: Elektrikli Arabalar ile Benzinli Arabaların Karşılaştırması
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1422,7 +1623,11 @@ Elektrikli arabalar ve benzinli arabaları karşılaştıran görsel bir karşı
 
 ---
 
+<<<<<<< HEAD
 ### No. 41: Pour-Over Kahve Rehberi
+=======
+### No. 44: Pour-Over Kahve Rehberi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1455,7 +1660,11 @@ Bu bilgi istemi, "Pour-Over Yöntemiyle Mükemmel Bir Fincan Kahve Nasıl Demlen
 
 ---
 
+<<<<<<< HEAD
 ### No. 42: 3D Kesit Yanardağ Diyagramı
+=======
+### No. 45: 3D Kesit Yanardağ Diyagramı
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1488,7 +1697,11 @@ Bir yanardağın iç yapısını gösteren 3 boyutlu kesit diyagramı. Diyagramd
 
 ---
 
+<<<<<<< HEAD
 ### No. 43: Vintage Kara Tahta Kalp Anatomisi
+=======
+### No. 46: Vintage Kara Tahta Kalp Anatomisi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1521,7 +1734,11 @@ Bu bilgi istemi, insan kalbinin anatomisini açıklayan ayrıntılı, eski tarz 
 
 ---
 
+<<<<<<< HEAD
 ### No. 44: Yaratıcı Düşünme için Canlı Zihin Haritası
+=======
+### No. 47: Yaratıcı Düşünme için Canlı Zihin Haritası
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1554,7 +1771,11 @@ Bu istem, "Yaratıcı Düşünme" üzerine odaklanmış canlı ve organik bir zi
 
 ---
 
+<<<<<<< HEAD
 ### No. 45: Profesyonel SDLC Akış Şeması
+=======
+### No. 48: Profesyonel SDLC Akış Şeması
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1587,7 +1808,11 @@ Yazılım geliştirme yaşam döngüsünü (SDLC) gösteren temiz ve profesyonel
 
 ---
 
+<<<<<<< HEAD
 ### No. 46: Beyaz Tahta Fotosentez Açıklaması
+=======
+### No. 49: Beyaz Tahta Fotosentez Açıklaması
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1620,7 +1845,11 @@ Lise biyoloji dersi için tasarlanmış, fotosentez sürecinin detaylı, elle ç
 
 ---
 
+<<<<<<< HEAD
 ### No. 47: Kendine Bakım İçin Huzurlu Bir Banyo
+=======
+### No. 50: Kendine Bakım İçin Huzurlu Bir Banyo
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1653,7 +1882,11 @@ Kendine bakım ve ruh sağlığı hakkında bir gönderi için sakinleştirici v
 
 ---
 
+<<<<<<< HEAD
 ### No. 48: Sanatçının Dağınık Stüdyosu
+=======
+### No. 51: Sanatçının Dağınık Stüdyosu
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1686,7 +1919,11 @@ Bir sanatçının dağınık ama ilham verici stüdyosunun fotoğrafı. Duvara y
 
 ---
 
+<<<<<<< HEAD
 ### No. 49: Sıcak Noel Çikolatası
+=======
+### No. 52: Sıcak Noel Çikolatası
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1719,7 +1956,11 @@ Noel temalı bir Instagram gönderisi için sıcak ve şenlikli bir fotoğraf. S
 
 ---
 
+<<<<<<< HEAD
 ### No. 50: Üst Düzey Oyun Kurulumu
+=======
+### No. 53: Üst Düzey Oyun Kurulumu
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1752,7 +1993,11 @@ Yüksek kaliteli bir oyun kurulumunun, yayın oturumu için hazır haldeki foto�
 
 ---
 
+<<<<<<< HEAD
 ### No. 51: Kuru Topraktan Filizlenmek
+=======
+### No. 54: Kuru Topraktan Filizlenmek
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1785,7 +2030,11 @@ Kuru, çorak topraktaki bir çatlaktan büyüyen tek, yeşil bir filizin güçl�
 
 ---
 
+<<<<<<< HEAD
 ### No. 52: Macro Far Paleti Çekimi
+=======
+### No. 55: Macro Far Paleti Çekimi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1818,7 +2067,11 @@ Bir güzellik blogger'ının incelemesi için yeni bir far paletinin makro, sana
 
 ---
 
+<<<<<<< HEAD
 ### No. 53: Vintage Plak Koleksiyonu
+=======
+### No. 56: Vintage Plak Koleksiyonu
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1851,7 +2104,11 @@ Köşede bir pikap bulunan, ahşap bir zemine dağılmış vintage plak koleksiy
 
 ---
 
+<<<<<<< HEAD
 ### No. 54: Işık Dolu Okuma Köşesi
+=======
+### No. 57: Işık Dolu Okuma Köşesi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1884,7 +2141,11 @@ Evde güzelce dekore edilmiş, ışık dolu bir okuma köşesinin fotoğrafı. K
 
 ---
 
+<<<<<<< HEAD
 ### No. 55: Minimalist Şık Kıyafet Düz Serim
+=======
+### No. 58: Minimalist Şık Kıyafet Düz Serim
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1917,7 +2178,11 @@ Bu istem, "günün kombini" gönderisi için derlenmiş bir kıyafetin minimalis
 
 ---
 
+<<<<<<< HEAD
 ### No. 56: Taipei'in Canlı Gece Pazarı Sahnesi
+=======
+### No. 59: Taipei'in Canlı Gece Pazarı Sahnesi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1950,7 +2215,11 @@ Taipei'deki bir gece pazarının hareketli sokak yaşamını yakalayan bir foto�
 
 ---
 
+<<<<<<< HEAD
 ### No. 57: Dağ Manzaralı Çadır Görünümü
+=======
+### No. 60: Dağ Manzaralı Çadır Görünümü
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1983,7 +2252,11 @@ Bir çadırın içinde oturan birinin bakış açısından, şafakta büyüleyic
 
 ---
 
+<<<<<<< HEAD
 ### No. 58: Lavanta Tarlasında Romantik Piknik
+=======
+### No. 61: Lavanta Tarlasında Romantik Piknik
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2016,7 +2289,11 @@ Fransa'nın Provence bölgesindeki bir lavanta tarlasında gün batımında pikn
 
 ---
 
+<<<<<<< HEAD
 ### No. 59: Yukarıdan Kaligrafi El Sanatları Çekimi
+=======
+### No. 62: Yukarıdan Kaligrafi El Sanatları Çekimi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2049,7 +2326,11 @@ Birinin kaligrafi çalıştığı, güzelce düzenlenmiş bir el işi masasını
 
 ---
 
+<<<<<<< HEAD
 ### No. 60: Dinamik Kadın Sporcu Antrenman Çekimi
+=======
+### No. 63: Dinamik Kadın Sporcu Antrenman Çekimi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2082,7 +2363,11 @@ Bu bilgi istemi, şehirdeki bir spor salonunda ağırlık kaldıran kadın bir s
 
 ---
 
+<<<<<<< HEAD
 ### No. 61: İştah Açıcı Krepler
+=======
+### No. 64: İştah Açıcı Krepler
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2115,7 +2400,11 @@ Bir yemek blogger'ının sosyal medyası için son derece iştah açıcı, yakı
 
 ---
 
+<<<<<<< HEAD
 ### No. 62: Paris Moda Fenomeni Sokak Stili
+=======
+### No. 65: Paris Moda Fenomeni Sokak Stili
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2148,7 +2437,11 @@ Paris Moda Haftası sırasında Paris'te bir moda influencer'ının sokak stili 
 
 ---
 
+<<<<<<< HEAD
 ### No. 63: Sonbahar Yaprakları Arasında Golden Retriever Yavrusu
+=======
+### No. 66: Sonbahar Yaprakları Arasında Golden Retriever Yavrusu
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2181,7 +2474,11 @@ Sonbahar yapraklarıyla dolu bir tarlada oynayan altın retriever yavrusunun iç
 
 ---
 
+<<<<<<< HEAD
 ### No. 64: Sinematik Yalnız Seyahat Çekimi
+=======
+### No. 67: Sinematik Yalnız Seyahat Çekimi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2214,7 +2511,11 @@ Tek başına seyahat macerasında olan genç bir kadının, hareket halindeki bi
 
 ---
 
+<<<<<<< HEAD
 ### No. 65: Üç Panelli Film Sanatı Izgarası
+=======
+### No. 68: Üç Panelli Film Sanatı Izgarası
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2248,7 +2549,11 @@ Görüntüyü eşit üç panelli ızgara film dokulu sanatsal bir portreye dön�
 
 ---
 
+<<<<<<< HEAD
 ### No. 66: Hello Kitty Ofis Kaosu
+=======
+### No. 69: Hello Kitty Ofis Kaosu
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2281,7 +2586,11 @@ h0674kz, hello kitty ofisi havaya uçuruyor, retro film tarzı, ince grenli
 
 ---
 
+<<<<<<< HEAD
 ### No. 67: Yıldızlı Kristal Fıskiye
+=======
+### No. 70: Yıldızlı Kristal Fıskiye
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2314,7 +2623,11 @@ h0674kz, renkli yıldız çıkartmaları, parlak kristal boncuk zincirlerle süs
 
 ---
 
+<<<<<<< HEAD
 ### No. 68: Kyoto Geyşa Anı
+=======
+### No. 71: Kyoto Geyşa Anı
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2347,7 +2660,11 @@ Gion'un taş döşeli yolunda yürüyen geyşa (geleneksel kimono detayları, be
 
 ---
 
+<<<<<<< HEAD
 ### No. 69: NYC Noel Gecesi
+=======
+### No. 72: NYC Noel Gecesi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2381,7 +2698,11 @@ New York'ta Noel'i yakalayan şenlikli bir şehir gecesi istemi. Rockefeller ağ
 
 ---
 
+<<<<<<< HEAD
 ### No. 70: Alacakaranlık Kamp Sahnesi
+=======
+### No. 73: Alacakaranlık Kamp Sahnesi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2414,7 +2735,11 @@ Dağ çadırı kamp alanı alacakaranlık sahnesi, profesyonel dış mekan çad�
 
 ---
 
+<<<<<<< HEAD
 ### No. 71: Yoğun Egzersiz Monokrom
+=======
+### No. 74: Yoğun Egzersiz Monokrom
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2448,7 +2773,11 @@ Direnç antrenmanı sırasında dambıl kaldıran {argument name="subject" defau
 
 ---
 
+<<<<<<< HEAD
 ### No. 72: ISS Astronot İç Mekanı
+=======
+### No. 75: ISS Astronot İç Mekanı
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2481,7 +2810,11 @@ Uluslararası Uzay İstasyonu iç gerçek fiziksel ortam, astronot (NASA uzay gi
 
 ---
 
+<<<<<<< HEAD
 ### No. 73: Sinir Ağı Görselleştirme
+=======
+### No. 76: Sinir Ağı Görselleştirme
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2514,7 +2847,11 @@ Sinir ağı 3D yapı veri akışı görselleştirmesi, matris halinde düzenlenm
 
 ---
 
+<<<<<<< HEAD
 ### No. 74: Wabi-Sabi Japon İç Mekanı
+=======
+### No. 77: Wabi-Sabi Japon İç Mekanı
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2548,7 +2885,11 @@ Japon minimalizmine odaklanan sakin bir iç tasarım istemi. Tatami ve sıkışt
 
 ---
 
+<<<<<<< HEAD
 ### No. 75: Lüks Ürün Fotoğrafçılığı
+=======
+### No. 78: Lüks Ürün Fotoğrafçılığı
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2582,7 +2923,11 @@ Siyah cilalı mermer tezgah üzerine yerleştirilmiş {argument name="product" d
 
 ---
 
+<<<<<<< HEAD
 ### No. 76: Fütüristik K-Pop Konsepti
+=======
+### No. 79: Fütüristik K-Pop Konsepti
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2616,7 +2961,11 @@ K-pop {argument name="number of people" default="four-member"} grup konsept foto
 
 ---
 
+<<<<<<< HEAD
 ### No. 77: Minimalist Yüksek Moda Portresi
+=======
+### No. 80: Minimalist Yüksek Moda Portresi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2650,7 +2999,11 @@ Modern albüm kapaklarından ilham alan çarpıcı, minimalist bir portre istemi
 
 ---
 
+<<<<<<< HEAD
 ### No. 78: Dinamik Süper Kahraman Aksiyonu
+=======
+### No. 81: Dinamik Süper Kahraman Aksiyonu
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2684,7 +3037,11 @@ Film kalitesinde görsel efektlerle yüksek tempolu bir süper kahraman savaş s
 
 ---
 
+<<<<<<< HEAD
 ### No. 79: Stadyum Konser Atmosferi
+=======
+### No. 82: Stadyum Konser Atmosferi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2718,7 +3075,11 @@ Büyük pop turnelerini anımsatan nefes kesici bir stadyum konser sahnesi yarat
 
 ---
 
+<<<<<<< HEAD
 ### No. 80: Barbie Rüya Odası
+=======
+### No. 83: Barbie Rüya Odası
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2752,7 +3113,11 @@ Barbie rüya oda iç mekanı, {argument name="wall color" default="pink"} duvarl
 
 ---
 
+<<<<<<< HEAD
 ### No. 81: Amalfi Sahili Yaşam Tarzı
+=======
+### No. 84: Amalfi Sahili Yaşam Tarzı
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2786,7 +3151,11 @@ Amalfi, İtalya'da bir villanın terasında, rüzgarda uçuşan ekru Fransız ke
 
 ---
 
+<<<<<<< HEAD
 ### No. 82: Y2K Dijital Kamera Selfiesi
+=======
+### No. 85: Y2K Dijital Kamera Selfiesi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2820,7 +3189,11 @@ Milenyum dijital fotoğraf makinesi tarzı selfie, kasıtlı düşük çözünü
 
 ---
 
+<<<<<<< HEAD
 ### No. 83: Sinematik Bilim İnsanı Portresi
+=======
+### No. 86: Sinematik Bilim İnsanı Portresi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2854,7 +3227,11 @@ Christopher Nolan'ın biyografik tarzını anımsatan dramatik siyah beyaz bir f
 
 ---
 
+<<<<<<< HEAD
 ### No. 84: Judy ve Nick Keçe Noel Posteri
+=======
+### No. 87: Judy ve Nick Keçe Noel Posteri
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2887,7 +3264,11 @@ Keçe dokulu Noel temalı poster, genel olarak sıcak ve iyileştirici yün keç
 
 ---
 
+<<<<<<< HEAD
 ### No. 85: Dünyadan Bıkmış Ofis Tavşanı Selfiesi
+=======
+### No. 88: Dünyadan Bıkmış Ofis Tavşanı Selfiesi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2920,7 +3301,11 @@ Günlük bir enstantane görsel tarzında sunulan, insan biçimli küçük bir t
 
 ---
 
+<<<<<<< HEAD
 ### No. 86: Trendy Little Fox IP Karakter Tasarımı
+=======
+### No. 89: Trendy Little Fox IP Karakter Tasarımı
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2954,7 +3339,11 @@ IP karakter tasarımı: Q-versiyon, tüylü, kırmızımsı-turuncu küçük bir
 
 ---
 
+<<<<<<< HEAD
 ### No. 87: Sonsuz Canlılık El Yazısı Poster
+=======
+### No. 90: Sonsuz Canlılık El Yazısı Poster
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2988,7 +3377,11 @@ Kaligrafi yazı tipi posteri "{argument name="poster text" default="Life Goes On
 
 ---
 
+<<<<<<< HEAD
 ### No. 88: Judy ve Nick Düzensiz Buzdolabı Magnet Tasarımı
+=======
+### No. 91: Judy ve Nick Düzensiz Buzdolabı Magnet Tasarımı
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3022,7 +3415,11 @@ Modern minimalist tasarım stili, Zootopia temalı emaye buzdolabı mıknatısı
 
 ---
 
+<<<<<<< HEAD
 ### No. 89: 3D Cam Cüzdan ve Madeni Para Simgesi
+=======
+### No. 92: 3D Cam Cüzdan ve Madeni Para Simgesi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3056,7 +3453,11 @@ Kullanıcı arayüzü simgesi, altın paralarla dolu bir cüzdan, bir yığın a
 
 ---
 
+<<<<<<< HEAD
 ### No. 90: Nick ve Judy Chibi El Çizimi İllüstrasyon
+=======
+### No. 93: Nick ve Judy Chibi El Çizimi İllüstrasyon
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3089,7 +3490,11 @@ Bu, Disney'in "Zootopia" adlı animasyon filmindeki klasik karakter ikilisi tilk
 
 ---
 
+<<<<<<< HEAD
 ### No. 91: Üç Kişilik Birleştirilmiş Yukarıdan Aşağıya Selfie
+=======
+### No. 94: Üç Kişilik Birleştirilmiş Yukarıdan Aşağıya Selfie
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3123,7 +3528,11 @@ Yüzleri değiştirmeyin, karakterlerin yüzleri kesinlikle değişmemeli! Lütf
 
 ---
 
+<<<<<<< HEAD
 ### No. 92: Domatesli ve Yumurtalı Sote El Çizimi Bilgi Kartı
+=======
+### No. 95: Domatesli ve Yumurtalı Sote El Çizimi Bilgi Kartı
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3157,7 +3566,11 @@ Bu bilgi istemi, eğlenceli öğretim materyalleri veya günlük yaşam kayıtla
 
 ---
 
+<<<<<<< HEAD
 ### No. 93: Wild Cursive Film Başlığı Tipografisi
+=======
+### No. 96: Wild Cursive Film Başlığı Tipografisi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3191,7 +3604,11 @@ Siyah arka plan üzerinde beyaz metin, kaligrafi bağlantılı vuruşlar şık, 
 
 ---
 
+<<<<<<< HEAD
 ### No. 94: Mekanik Tasarım Eskiz Notları
+=======
+### No. 97: Mekanik Tasarım Eskiz Notları
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3225,7 +3642,11 @@ Siyah çizgi eskizi, {argument name="subject name" default="Mekanik Tasarım"} n
 
 ---
 
+<<<<<<< HEAD
 ### No. 95: Golden Curve Wealth Logic Posteri
+=======
+### No. 98: Golden Curve Wealth Logic Posteri
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3259,7 +3680,11 @@ Koyu mavi zarif bir arka plan, sahneyi kesen istikrarlı bir şekilde yükselen 
 
 ---
 
+<<<<<<< HEAD
 ### No. 96: 3D E-Ticaret Platformu Mimari Diyagramı
+=======
+### No. 99: 3D E-Ticaret Platformu Mimari Diyagramı
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3292,7 +3717,11 @@ Yüksek derecede üç boyutlu bir bakış açısıyla, bir satış platformunun 
 
 ---
 
+<<<<<<< HEAD
 ### No. 97: Ma Wencheng Sanatsal İmza Tasarımı
+=======
+### No. 100: Ma Wencheng Sanatsal İmza Tasarımı
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3326,7 +3755,11 @@ Usta seviyesinde sanatsal imza yazı tipi tasarımı: {argument name="name" defa
 
 ---
 
+<<<<<<< HEAD
 ### No. 98: C4D Tarzı Finans Uygulaması Kullanıcı Arayüzü (Varyant)
+=======
+### No. 101: C4D Tarzı Finans Uygulaması Kullanıcı Arayüzü (Varyant)
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3359,7 +3792,11 @@ Finansal varlık yönetimi uygulaması mobil kullanıcı arayüzü tasarımı, C
 
 ---
 
+<<<<<<< HEAD
 ### No. 99: C4D Tarzı Finans Uygulaması Kullanıcı Arayüzü
+=======
+### No. 102: C4D Tarzı Finans Uygulaması Kullanıcı Arayüzü
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3392,7 +3829,11 @@ Finansal varlık yönetimi uygulaması mobil kullanıcı arayüzü tasarımı, C
 
 ---
 
+<<<<<<< HEAD
 ### No. 100: Nick ve Judy Pembe Plaj Instagram Tarzı Selfie
+=======
+### No. 103: Nick ve Judy Pembe Plaj Instagram Tarzı Selfie
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3426,7 +3867,11 @@ Zootopia'dan Nick Wilde ve Judy Hopps pembe bir kumsalda selfie çekerken, Nick 
 
 ---
 
+<<<<<<< HEAD
 ### No. 101: Zootopia Judy Emaye Buzdolabı Magneti
+=======
+### No. 104: Zootopia Judy Emaye Buzdolabı Magneti
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3460,7 +3905,11 @@ Modern minimalist tasarım stili, Zootopia temalı emaye buzdolabı magneti tasa
 
 ---
 
+<<<<<<< HEAD
 ### No. 102: GEO Tech Ürün Tanıtım Afişi
+=======
+### No. 105: GEO Tech Ürün Tanıtım Afişi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3494,7 +3943,11 @@ Teknoloji ürün tanıtım afişi, solda metin sağda görsel düzeni, narin koy
 
 ---
 
+<<<<<<< HEAD
 ### No. 103: Nick ve Judy Xiaohongshu Tarzı Dördüncü Duvarı Yıkan Selfie
+=======
+### No. 106: Nick ve Judy Xiaohongshu Tarzı Dördüncü Duvarı Yıkan Selfie
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3528,7 +3981,11 @@ Zootopia karakterleri Nick Wilde ve Judy Hopps. Nick turuncu-kırmızı kürklü
 
 ---
 
+<<<<<<< HEAD
 ### No. 104: Geleneksel Çin Baharat Otlarının Çizgi Sanatı
+=======
+### No. 107: Geleneksel Çin Baharat Otlarının Çizgi Sanatı
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3562,7 +4019,11 @@ Yemek pişirmede kullanılan dokuz yaygın Çin baharatı, çizgi çizimi, grav�
 
 ---
 
+<<<<<<< HEAD
 ### No. 105: Hangzhou Topografik Haritası
+=======
+### No. 108: Hangzhou Topografik Haritası
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3595,7 +4056,11 @@ Ortasında kırmızı bir konum işaretçisi bulunan Hangzhou'nun topografik har
 
 ---
 
+<<<<<<< HEAD
 ### No. 106: Moebius ve Kim Jung Gi'nin Hibrit Tarzında Grup İllüstrasyonu
+=======
+### No. 109: Moebius ve Kim Jung Gi'nin Hibrit Tarzında Grup İllüstrasyonu
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3628,7 +4093,11 @@ Moebius ve Kim Jung Gi'nin hibrit illüstrasyon stilini benimseyin; beyaz minima
 
 ---
 
+<<<<<<< HEAD
 ### No. 107: Çağdaş Çinli Romancılar İçin Resimli Bir Rehber
+=======
+### No. 110: Çağdaş Çinli Romancılar İçin Resimli Bir Rehber
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3677,7 +4146,11 @@ Ana başlık "Çağdaş Çinli Romancılar Resimli Rehberi" olup, edebi bir pop�
 
 ---
 
+<<<<<<< HEAD
 ### No. 108: Çin Yemek Haritası Bilgilendirici Poster
+=======
+### No. 111: Çin Yemek Haritası Bilgilendirici Poster
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3754,6 +4227,10 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
+<<<<<<< HEAD
 <sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-10T09:55:06.293Z</sub>
+=======
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-10T12:21:15.990Z</sub>
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 </div>

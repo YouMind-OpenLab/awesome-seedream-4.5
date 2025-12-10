@@ -88,9 +88,15 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
+<<<<<<< HEAD
 | 📝 Tổng số câu lệnh | **108** |
 | ⭐ Nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **lúc 09:54:52 UTC Thứ Tư, 10 tháng 12, 2025** |
+=======
+| 📝 Tổng số câu lệnh | **111** |
+| ⭐ Nổi bật | **0** |
+| 🔄 Cập nhật lần cuối | **lúc 12:21:07 UTC Thứ Tư, 10 tháng 12, 2025** |
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 </div>
 
@@ -430,7 +436,106 @@ Một poster độc đáo và mang phong cách độc lập cho liên hoan phim 
 
 ---
 
-### No. 11: Bìa sách tiểu thuyết trinh thám "Thám tử bóng đêm"
+### No. 11: Áp phích Hội thảo Yoga & Thiền Serene
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Lời nhắc này tạo ra một tấm áp phích thanh bình và nhẹ nhàng cho buổi hội thảo yoga và thiền cuối tuần. Tấm áp phích có hình ảnh chụp một người đang thực hiện tư thế yoga thanh tịnh vào lúc bình minh, được làm mờ nhẹ, gợi lên sự bình yên và khỏe mạnh.
+
+#### 📝 Câu lệnh
+
+```
+Một tấm áp phích thanh bình và nhẹ nhàng cho buổi hội thảo yoga và thiền cuối tuần. Hình ảnh chính là một bức ảnh đẹp, lấy nét mềm mại về một người đang thực hiện tư thế yoga thanh tịnh trên bãi biển lúc bình minh. Bảng màu là những gam màu pastel nhẹ nhàng (hồng, cam, xanh lam nhạt). Kiểu chữ là một phông chữ viết tay mềm mại, uyển chuyển. Tấm áp phích nên gợi lên cảm giác bình yên, khỏe mạnh và tự chăm sóc bản thân. –ar 3:4
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765367961714_t47x0n_313e7deeb6c193d794d71ec8cec044dbc36e20b3f9e0fa338284467031d9e04f" width="600" alt="Áp phích Hội thảo Yoga & Thiền Serene - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 10 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20t%E1%BA%A5m%20%C3%A1p%20ph%C3%ADch%20thanh%20b%C3%ACnh%20v%C3%A0%20nh%E1%BA%B9%20nh%C3%A0ng%20cho%20bu%E1%BB%95i%20h%E1%BB%99i%20th%E1%BA%A3o%20yoga%20v%C3%A0%20thi%E1%BB%81n%20cu%E1%BB%91i%20tu%E1%BA%A7n.%20H%C3%ACnh%20%E1%BA%A3nh%20ch%C3%ADnh%20l%C3%A0%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20%C4%91%E1%BA%B9p%2C%20l%E1%BA%A5y%20n%C3%A9t%20m%E1%BB%81m%20m%E1%BA%A1i%20v%E1%BB%81%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20%C4%91ang%20th%E1%BB%B1c%20hi%E1%BB%87n%20t%C6%B0%20th%E1%BA%BF%20yoga%20thanh%20t%E1%BB%8Bnh%20tr%C3%AAn%20b%C3%A3i%20bi%E1%BB%83n%20l%C3%BAc%20b%C3%ACnh%20minh.%20B%E1%BA%A3ng%20m%C3%A0u%20l%C3%A0%20nh%E1%BB%AFng%20gam%20m%C3%A0u%20pastel%20nh%E1%BA%B9%20nh%C3%A0ng%20(h%E1%BB%93ng%2C%20cam%2C%20xanh%20lam%20nh%E1%BA%A1t).%20Ki%E1%BB%83u%20ch%E1%BB%AF%20l%C3%A0%20m%E1%BB%99t%20ph%C3%B4ng%20ch%E1%BB%AF%20vi%E1%BA%BFt%20tay%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20uy%E1%BB%83n%20chuy%E1%BB%83n.%20T%E1%BA%A5m%20%C3%A1p%20ph%C3%ADch%20n%C3%AAn%20g%E1%BB%A3i%20l%C3%AAn%20c%E1%BA%A3m%20gi%C3%A1c%20b%C3%ACnh%20y%C3%AAn%2C%20kh%E1%BB%8Fe%20m%E1%BA%A1nh%20v%C3%A0%20t%E1%BB%B1%20ch%C4%83m%20s%C3%B3c%20b%E1%BA%A3n%20th%C3%A2n.%20%E2%80%93ar%203%3A4)**
+
+---
+
+### No. 12: Tờ rơi khai trương nhà hàng Ý
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Lời nhắc này tạo ra một tờ rơi hấp dẫn và ngon miệng cho lễ khai trương nhà hàng Ý mới. Tờ rơi có hình ảnh món ăn Ý được sắp xếp theo phong cách rustic flat-lay, mang lại cảm giác ấm cúng và chân thực để thu hút khách hàng.
+
+#### 📝 Câu lệnh
+
+```
+Một tờ rơi hấp dẫn và mời gọi cho lễ khai trương nhà hàng Ý mới. Hình ảnh chính là một bức ảnh chụp từ trên cao đẹp mắt, mộc mạc về một chiếc bàn đầy ắp món ăn Ý: một chiếc pizza, một tô mì Ý, một ly rượu vang đỏ và một ít húng quế tươi. Tên nhà hàng được viết bằng phông chữ viết tay ấm áp. Ngày và địa chỉ khai trương được hiển thị rõ ràng. Cảm giác tổng thể là ấm cúng, chân thực và ngon miệng. –ar 4:5
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765367961890_sii4rm_1f4e43ff4dda6b28373b94aed5aa7bffc4815c1f5d212053ab1a343051b86704" width="600" alt="Tờ rơi khai trương nhà hàng Ý - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 10 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20t%E1%BB%9D%20r%C6%A1i%20h%E1%BA%A5p%20d%E1%BA%ABn%20v%C3%A0%20m%E1%BB%9Di%20g%E1%BB%8Di%20cho%20l%E1%BB%85%20khai%20tr%C6%B0%C6%A1ng%20nh%C3%A0%20h%C3%A0ng%20%C3%9D%20m%E1%BB%9Bi.%20H%C3%ACnh%20%E1%BA%A3nh%20ch%C3%ADnh%20l%C3%A0%20m%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20ch%E1%BB%A5p%20t%E1%BB%AB%20tr%C3%AAn%20cao%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%2C%20m%E1%BB%99c%20m%E1%BA%A1c%20v%E1%BB%81%20m%E1%BB%99t%20chi%E1%BA%BFc%20b%C3%A0n%20%C4%91%E1%BA%A7y%20%E1%BA%AFp%20m%C3%B3n%20%C4%83n%20%C3%9D%3A%20m%E1%BB%99t%20chi%E1%BA%BFc%20pizza%2C%20m%E1%BB%99t%20t%C3%B4%20m%C3%AC%20%C3%9D%2C%20m%E1%BB%99t%20ly%20r%C6%B0%E1%BB%A3u%20vang%20%C4%91%E1%BB%8F%20v%C3%A0%20m%E1%BB%99t%20%C3%ADt%20h%C3%BAng%20qu%E1%BA%BF%20t%C6%B0%C6%A1i.%20T%C3%AAn%20nh%C3%A0%20h%C3%A0ng%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20vi%E1%BA%BFt%20tay%20%E1%BA%A5m%20%C3%A1p.%20Ng%C3%A0y%20v%C3%A0%20%C4%91%E1%BB%8Ba%20ch%E1%BB%89%20khai%20tr%C6%B0%C6%A1ng%20%C4%91%C6%B0%E1%BB%A3c%20hi%E1%BB%83n%20th%E1%BB%8B%20r%C3%B5%20r%C3%A0ng.%20C%E1%BA%A3m%20gi%C3%A1c%20t%E1%BB%95ng%20th%E1%BB%83%20l%C3%A0%20%E1%BA%A5m%20c%C3%BAng%2C%20ch%C3%A2n%20th%E1%BB%B1c%20v%C3%A0%20ngon%20mi%E1%BB%87ng.%20%E2%80%93ar%204%3A5)**
+
+---
+
+### No. 13: Áp phích PSA về ô nhiễm nhựa
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Lời nhắc này tạo ra một áp phích mạnh mẽ và đầy suy tư cho một thông báo dịch vụ công cộng về ô nhiễm nhựa. Nó mô tả một con rùa biển đang bơi giữa rác thải nhựa, được thiết kế để gợi lên phản ứng cảm xúc và nâng cao nhận thức.
+
+#### 📝 Câu lệnh
+
+```
+Một poster mạnh mẽ và đầy suy tư cho thông báo dịch vụ công cộng về ô nhiễm nhựa trong đại dương. Hình ảnh là một mô tả siêu thực và buồn bã về một con rùa biển đang bơi qua một biển túi và chai nhựa, thay vì nước. Dòng khẩu hiệu “Đây có phải là đại dương bạn muốn?” nằm ở phía dưới. Hình ảnh phải chân thực và có tác động, được thiết kế để khơi gợi phản ứng cảm xúc và nâng cao nhận thức. –ar 3:4
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765367960733_h016tz_5ed05bd2ce5bba756b3a380cd7620a25b24a29a495ab05eafe9f2c85b4c08d8a" width="600" alt="Áp phích PSA về ô nhiễm nhựa - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 10 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/seedream-4-dot-5-prompts?prompt=M%E1%BB%99t%20poster%20m%E1%BA%A1nh%20m%E1%BA%BD%20v%C3%A0%20%C4%91%E1%BA%A7y%20suy%20t%C6%B0%20cho%20th%C3%B4ng%20b%C3%A1o%20d%E1%BB%8Bch%20v%E1%BB%A5%20c%C3%B4ng%20c%E1%BB%99ng%20v%E1%BB%81%20%C3%B4%20nhi%E1%BB%85m%20nh%E1%BB%B1a%20trong%20%C4%91%E1%BA%A1i%20d%C6%B0%C6%A1ng.%20H%C3%ACnh%20%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20m%C3%B4%20t%E1%BA%A3%20si%C3%AAu%20th%E1%BB%B1c%20v%C3%A0%20bu%E1%BB%93n%20b%C3%A3%20v%E1%BB%81%20m%E1%BB%99t%20con%20r%C3%B9a%20bi%E1%BB%83n%20%C4%91ang%20b%C6%A1i%20qua%20m%E1%BB%99t%20bi%E1%BB%83n%20t%C3%BAi%20v%C3%A0%20chai%20nh%E1%BB%B1a%2C%20thay%20v%C3%AC%20n%C6%B0%E1%BB%9Bc.%20D%C3%B2ng%20kh%E1%BA%A9u%20hi%E1%BB%87u%20%E2%80%9C%C4%90%C3%A2y%20c%C3%B3%20ph%E1%BA%A3i%20l%C3%A0%20%C4%91%E1%BA%A1i%20d%C6%B0%C6%A1ng%20b%E1%BA%A1n%20mu%E1%BB%91n%3F%E2%80%9D%20n%E1%BA%B1m%20%E1%BB%9F%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi.%20H%C3%ACnh%20%E1%BA%A3nh%20ph%E1%BA%A3i%20ch%C3%A2n%20th%E1%BB%B1c%20v%C3%A0%20c%C3%B3%20t%C3%A1c%20%C4%91%E1%BB%99ng%2C%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%83%20kh%C6%A1i%20g%E1%BB%A3i%20ph%E1%BA%A3n%20%E1%BB%A9ng%20c%E1%BA%A3m%20x%C3%BAc%20v%C3%A0%20n%C3%A2ng%20cao%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20%E2%80%93ar%203%3A4)**
+
+---
+
+### No. 14: Bìa sách tiểu thuyết trinh thám "Thám tử bóng đêm"
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -463,7 +568,7 @@ Một bìa sách ly kỳ và bí ẩn cho tiểu thuyết trinh thám có tựa 
 
 ---
 
-### No. 12: Áp phích Bảo tàng Tranh khắc gỗ Ukiyo-e Nhật Bản
+### No. 15: Áp phích Bảo tàng Tranh khắc gỗ Ukiyo-e Nhật Bản
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -496,7 +601,7 @@ Một tấm áp phích trang nhã và nghệ thuật cho triển lãm tranh kh�
 
 ---
 
-### No. 13: Tuyển dụng Nhà phát triển phần mềm
+### No. 16: Tuyển dụng Nhà phát triển phần mềm
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -529,7 +634,11 @@ Một tờ rơi tuyển dụng táo bạo và trực tiếp dành cho một star
 
 ---
 
+<<<<<<< HEAD
 ### No. 14: Áp phích Lễ hội Âm nhạc Psychedelic "Ethereal Bloom"
+=======
+### No. 17: Áp phích Lễ hội Âm nhạc Psychedelic "Ethereal Bloom"
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -562,7 +671,11 @@ Một áp phích sống động, ảo giác cho lễ hội âm nhạc mùa hè m
 
 ---
 
+<<<<<<< HEAD
 ### No. 15: Áp phích phim khoa học viễn tưởng điện ảnh "CHRONOS"
+=======
+### No. 18: Áp phích phim khoa học viễn tưởng điện ảnh "CHRONOS"
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -595,7 +708,11 @@ Một poster phim điện ảnh hoành tráng, đậm chất sử thi cho bộ p
 
 ---
 
+<<<<<<< HEAD
 ### No. 16: Hình thu nhỏ hướng dẫn xây dựng trang web
+=======
+### No. 19: Hình thu nhỏ hướng dẫn xây dựng trang web
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -628,7 +745,11 @@ Hình thu nhỏ cho video hướng dẫn "Cách tạo trang web trong 10 phút".
 
 ---
 
+<<<<<<< HEAD
 ### No. 17: Hình thu nhỏ thử thách đồ ăn máy bán hàng tự động
+=======
+### No. 20: Hình thu nhỏ thử thách đồ ăn máy bán hàng tự động
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -661,7 +782,11 @@ Một hình thu nhỏ cho thử thách "Chỉ ăn đồ ăn từ máy bán hàng
 
 ---
 
+<<<<<<< HEAD
 ### No. 18: Hình thu nhỏ video chơi khăm
+=======
+### No. 21: Hình thu nhỏ video chơi khăm
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -694,7 +819,11 @@ Một ảnh thumbnail cho video chơi khăm. Hình ảnh ghi lại khoảnh kh�
 
 ---
 
+<<<<<<< HEAD
 ### No. 19: Hình thu nhỏ cho Mẹo vặt cuộc sống 5 phút
+=======
+### No. 22: Hình thu nhỏ cho Mẹo vặt cuộc sống 5 phút
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -727,7 +856,11 @@ Một ảnh thumbnail cho video “5-Minute Life Hacks”. Hình ảnh là một
 
 ---
 
+<<<<<<< HEAD
 ### No. 20: Hình thu nhỏ mở hộp thiết bị công nghệ
+=======
+### No. 23: Hình thu nhỏ mở hộp thiết bị công nghệ
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -760,7 +893,11 @@ Hình thu nhỏ cho video unboxing một thiết bị công nghệ mới, đắt
 
 ---
 
+<<<<<<< HEAD
 ### No. 21: Ảnh thu nhỏ phim tài liệu Ai Cập cổ đại
+=======
+### No. 24: Ảnh thu nhỏ phim tài liệu Ai Cập cổ đại
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -793,7 +930,11 @@ Hình thu nhỏ cho phim tài liệu về Ai Cập cổ đại. Hình ảnh là 
 
 ---
 
+<<<<<<< HEAD
 ### No. 22: Hình thu nhỏ đánh giá siêu xe điện
+=======
+### No. 25: Hình thu nhỏ đánh giá siêu xe điện
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -826,7 +967,11 @@ Một hình ảnh thu nhỏ cho bài đánh giá về một siêu xe điện m�
 
 ---
 
+<<<<<<< HEAD
 ### No. 23: Hình thu nhỏ phim tài liệu tội phạm có thật
+=======
+### No. 26: Hình thu nhỏ phim tài liệu tội phạm có thật
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -859,7 +1004,11 @@ Một hình thu nhỏ tối tăm và bí ẩn cho phim tài liệu về tội ph
 
 ---
 
+<<<<<<< HEAD
 ### No. 24: Hình thu nhỏ: Kết quả Thử thách Thể hình 30 ngày
+=======
+### No. 27: Hình thu nhỏ: Kết quả Thử thách Thể hình 30 ngày
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -892,7 +1041,11 @@ Một hình thu nhỏ cho video kết quả "Thử thách thể hình 30 ngày".
 
 ---
 
+<<<<<<< HEAD
 ### No. 25: Hình thu nhỏ Giải thích Hố đen
+=======
+### No. 28: Hình thu nhỏ Giải thích Hố đen
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -925,7 +1078,11 @@ Hình thu nhỏ cho một video giải thích về lỗ đen. Hình ảnh là m�
 
 ---
 
+<<<<<<< HEAD
 ### No. 26: Tự Tay Cải Tạo Phòng: Trước và Sau
+=======
+### No. 29: Tự Tay Cải Tạo Phòng: Trước và Sau
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -958,7 +1115,11 @@ Một hình thu nhỏ cho video trang trí nhà cửa tự làm (DIY). Hình ả
 
 ---
 
+<<<<<<< HEAD
 ### No. 27: Hình thu nhỏ công thức bánh sô cô la tuyệt đỉnh
+=======
+### No. 30: Hình thu nhỏ công thức bánh sô cô la tuyệt đỉnh
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -991,7 +1152,11 @@ Hình thu nhỏ cho video công thức "Bánh Sô-cô-la Tuyệt Đỉnh". Hình
 
 ---
 
+<<<<<<< HEAD
 ### No. 28: Ảnh thu nhỏ Vlog Du lịch Bali
+=======
+### No. 31: Ảnh thu nhỏ Vlog Du lịch Bali
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1024,7 +1189,11 @@ Một hình thu nhỏ tuyệt đẹp cho vlog du lịch về Bali. Hình ảnh l
 
 ---
 
+<<<<<<< HEAD
 ### No. 29: Hình thu nhỏ đánh giá điện thoại thông minh
+=======
+### No. 32: Hình thu nhỏ đánh giá điện thoại thông minh
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1057,7 +1226,11 @@ Hình thu nhỏ cho bài đánh giá điện thoại thông minh mới nhất. C
 
 ---
 
+<<<<<<< HEAD
 ### No. 30: Hình thu nhỏ Thử thách Đừng Cười
+=======
+### No. 33: Hình thu nhỏ Thử thách Đừng Cười
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1090,7 +1263,11 @@ Một ảnh thumbnail tràn đầy năng lượng cho video "Thử thách không
 
 ---
 
+<<<<<<< HEAD
 ### No. 31: Sơ đồ kiến trúc hệ thống ứng dụng web
+=======
+### No. 34: Sơ đồ kiến trúc hệ thống ứng dụng web
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1123,7 +1300,11 @@ Sơ đồ kiến trúc hệ thống cấp cao cho một ứng dụng web hiện 
 
 ---
 
+<<<<<<< HEAD
 ### No. 32: Thẻ Công Thức Mì Ống Tự Làm Minh Họa
+=======
+### No. 35: Thẻ Công Thức Mì Ống Tự Làm Minh Họa
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1156,7 +1337,11 @@ Một thẻ công thức được minh họa đẹp mắt để làm mì ống t
 
 ---
 
+<<<<<<< HEAD
 ### No. 33: Hướng Dẫn An Toàn Về Tư Thế Làm Việc
+=======
+### No. 36: Hướng Dẫn An Toàn Về Tư Thế Làm Việc
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1189,7 +1374,11 @@ Hướng dẫn an toàn trực quan cho nơi làm việc, minh họa tư thế n
 
 ---
 
+<<<<<<< HEAD
 ### No. 34: Sơ đồ hoạt động của máy in 3D
+=======
+### No. 37: Sơ đồ hoạt động của máy in 3D
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1222,7 +1411,11 @@ Một sơ đồ rõ ràng và đơn giản giải thích cách hoạt động c�
 
 ---
 
+<<<<<<< HEAD
 ### No. 35: Bản đồ Công viên Quốc gia Isometric
+=======
+### No. 38: Bản đồ Công viên Quốc gia Isometric
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1255,7 +1448,11 @@ Một bản đồ minh họa phong cách, đẳng cự của một công viên q
 
 ---
 
+<<<<<<< HEAD
 ### No. 36: Thiết Kế Năng Lượng Mặt Trời Thụ Động Blueprint
+=======
+### No. 39: Thiết Kế Năng Lượng Mặt Trời Thụ Động Blueprint
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1288,7 +1485,11 @@ Một phần của bản vẽ kiểu thiết kế chi tiết giải thích khái
 
 ---
 
+<<<<<<< HEAD
 ### No. 37: Minh họa Tế bào Thực vật Khoa học
+=======
+### No. 40: Minh họa Tế bào Thực vật Khoa học
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1321,7 +1522,11 @@ Một hình minh họa khoa học chi tiết về tế bào thực vật, theo p
 
 ---
 
+<<<<<<< HEAD
 ### No. 38: Trực quan hóa dữ liệu nạn phá rừng toàn cầu
+=======
+### No. 41: Trực quan hóa dữ liệu nạn phá rừng toàn cầu
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1354,7 +1559,11 @@ Một hình ảnh trực quan dữ liệu đẹp mắt và giàu thông tin cho 
 
 ---
 
+<<<<<<< HEAD
 ### No. 39: Hình minh họa máy ảnh DSLR dạng cắt lớp
+=======
+### No. 42: Hình minh họa máy ảnh DSLR dạng cắt lớp
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1387,7 +1596,11 @@ Một hình minh họa kỹ thuật dạng tách rời của máy ảnh DSLR. M�
 
 ---
 
+<<<<<<< HEAD
 ### No. 40: So sánh ô tô điện và ô tô chạy xăng
+=======
+### No. 43: So sánh ô tô điện và ô tô chạy xăng
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1420,7 +1633,11 @@ Một biểu đồ so sánh trực quan (một infographic "so sánh") giữa ô
 
 ---
 
+<<<<<<< HEAD
 ### No. 41: Hướng Dẫn Pha Cà Phê Pour-Over
+=======
+### No. 44: Hướng Dẫn Pha Cà Phê Pour-Over
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1453,7 +1670,11 @@ Một hướng dẫn trực quan, từng bước đơn giản về “Cách pha 
 
 ---
 
+<<<<<<< HEAD
 ### No. 42: Sơ đồ cắt lớp núi lửa 3D
+=======
+### No. 45: Sơ đồ cắt lớp núi lửa 3D
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1486,7 +1707,11 @@ Một sơ đồ cắt lớp 3D của một ngọn núi lửa, thể hiện cấu
 
 ---
 
+<<<<<<< HEAD
 ### No. 43: Giải phẫu Tim Bảng đen Cổ điển
+=======
+### No. 46: Giải phẫu Tim Bảng đen Cổ điển
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1519,7 +1744,11 @@ Một hình minh họa chi tiết, theo phong cách bảng đen cổ điển gi�
 
 ---
 
+<<<<<<< HEAD
 ### No. 44: Sơ đồ tư duy sống động cho tư duy sáng tạo
+=======
+### No. 47: Sơ đồ tư duy sống động cho tư duy sáng tạo
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1552,7 +1781,11 @@ Một sơ đồ tư duy sống động và tự nhiên xoay quanh chủ đề "T
 
 ---
 
+<<<<<<< HEAD
 ### No. 45: Sơ đồ luồng SDLC chuyên nghiệp
+=======
+### No. 48: Sơ đồ luồng SDLC chuyên nghiệp
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1585,7 +1818,11 @@ Một biểu đồ quy trình sạch sẽ và chuyên nghiệp minh họa vòng 
 
 ---
 
+<<<<<<< HEAD
 ### No. 46: Giải thích Quang hợp trên Bảng trắng
+=======
+### No. 49: Giải thích Quang hợp trên Bảng trắng
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1618,7 +1855,11 @@ Một bản giải thích chi tiết, vẽ tay trên bảng trắng về quá tr
 
 ---
 
+<<<<<<< HEAD
 ### No. 47: Tắm Serene để Tự Chăm Sóc
+=======
+### No. 50: Tắm Serene để Tự Chăm Sóc
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1651,7 +1892,11 @@ Một hình ảnh thanh bình và êm dịu cho bài đăng về chăm sóc bả
 
 ---
 
+<<<<<<< HEAD
 ### No. 48: Xưởng vẽ bừa bộn của nghệ sĩ
+=======
+### No. 51: Xưởng vẽ bừa bộn của nghệ sĩ
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1684,7 +1929,11 @@ Một bức ảnh chụp xưởng vẽ của một nghệ sĩ, tuy lộn xộn n
 
 ---
 
+<<<<<<< HEAD
 ### No. 49: Sô-cô-la Nóng Giáng Sinh Ấm Cúng
+=======
+### No. 52: Sô-cô-la Nóng Giáng Sinh Ấm Cúng
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1717,7 +1966,11 @@ Một bức ảnh ấm cúng và đậm chất lễ hội cho bài đăng Instag
 
 ---
 
+<<<<<<< HEAD
 ### No. 50: Cấu hình chơi game cao cấp
+=======
+### No. 53: Cấu hình chơi game cao cấp
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1750,7 +2003,11 @@ Một bức ảnh về dàn máy chơi game cao cấp, sẵn sàng cho buổi ph
 
 ---
 
+<<<<<<< HEAD
 ### No. 51: Đâm Chồi Qua Đất Khô
+=======
+### No. 54: Đâm Chồi Qua Đất Khô
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1783,7 +2040,11 @@ Một hình ảnh mạnh mẽ và đầy suy tư về một mầm xanh duy nhấ
 
 ---
 
+<<<<<<< HEAD
 ### No. 52: Ảnh Chụp Bảng Phấn Mắt Macro
+=======
+### No. 55: Ảnh Chụp Bảng Phấn Mắt Macro
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1816,7 +2077,11 @@ Một bức ảnh macro, mang tính nghệ thuật về một bảng phấn mắ
 
 ---
 
+<<<<<<< HEAD
 ### No. 53: Bộ Sưu Tập Đĩa Than Cổ Điển
+=======
+### No. 56: Bộ Sưu Tập Đĩa Than Cổ Điển
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1849,7 +2114,11 @@ Một bức ảnh chụp bộ sưu tập đĩa than cổ điển nằm rải rá
 
 ---
 
+<<<<<<< HEAD
 ### No. 54: Góc Đọc Sách Đầy Ánh Sáng
+=======
+### No. 57: Góc Đọc Sách Đầy Ánh Sáng
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1882,7 +2151,11 @@ Một bức ảnh chụp góc đọc sách được trang trí đẹp mắt, tr�
 
 ---
 
+<<<<<<< HEAD
 ### No. 55: Phối Đồ Tối Giản Thanh Lịch Chụp Từ Trên Xuống
+=======
+### No. 58: Phối Đồ Tối Giản Thanh Lịch Chụp Từ Trên Xuống
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1915,7 +2188,11 @@ Một bức ảnh flat-lay tối giản và sang trọng về một bộ trang p
 
 ---
 
+<<<<<<< HEAD
 ### No. 56: Khung cảnh chợ đêm Đài Bắc sôi động
+=======
+### No. 59: Khung cảnh chợ đêm Đài Bắc sôi động
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1948,7 +2225,11 @@ Một bức ảnh ghi lại khung cảnh đường phố sôi động của mộ
 
 ---
 
+<<<<<<< HEAD
 ### No. 57: Khung cảnh núi non nhìn từ lều
+=======
+### No. 60: Khung cảnh núi non nhìn từ lều
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1981,7 +2262,11 @@ Một bức ảnh ngoạn mục chụp từ góc nhìn của một người đan
 
 ---
 
+<<<<<<< HEAD
 ### No. 58: Dã Ngoại Lãng Mạn Giữa Cánh Đồng Hoa Oải Hương
+=======
+### No. 61: Dã Ngoại Lãng Mạn Giữa Cánh Đồng Hoa Oải Hương
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2014,7 +2299,11 @@ Một bức ảnh lãng mạn và mơ màng về một cặp đôi đang dã ngo
 
 ---
 
+<<<<<<< HEAD
 ### No. 59: Ảnh Chụp Từ Trên Cao Quá Trình Chế Tác Thư Pháp
+=======
+### No. 62: Ảnh Chụp Từ Trên Cao Quá Trình Chế Tác Thư Pháp
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2047,7 +2336,11 @@ Một bức ảnh chụp từ trên cao được tạo kiểu đẹp mắt về 
 
 ---
 
+<<<<<<< HEAD
 ### No. 60: Ảnh chụp buổi tập luyện của vận động viên nữ năng động
+=======
+### No. 63: Ảnh chụp buổi tập luyện của vận động viên nữ năng động
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2080,7 +2373,11 @@ Một bức ảnh sống động và mạnh mẽ về một nữ vận động v
 
 ---
 
+<<<<<<< HEAD
 ### No. 61: Ảnh Chụp Bánh Kếp Hấp Dẫn
+=======
+### No. 64: Ảnh Chụp Bánh Kếp Hấp Dẫn
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2113,7 +2410,11 @@ Một bức ảnh cận cảnh cực kỳ hấp dẫn về một chồng bánh p
 
 ---
 
+<<<<<<< HEAD
 ### No. 62: Phong cách đường phố của người có ảnh hưởng thời trang Paris
+=======
+### No. 65: Phong cách đường phố của người có ảnh hưởng thời trang Paris
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2146,7 +2447,11 @@ Một bức ảnh street style của một influencer thời trang ở Paris tro
 
 ---
 
+<<<<<<< HEAD
 ### No. 63: Chó con Golden Retriever trong lá mùa thu
+=======
+### No. 66: Chó con Golden Retriever trong lá mùa thu
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2179,7 +2484,11 @@ Một bức ảnh chân thực, ấm áp về một chú chó Golden Retriever c
 
 ---
 
+<<<<<<< HEAD
 ### No. 64: Cảnh quay du lịch một mình đậm chất điện ảnh
+=======
+### No. 67: Cảnh quay du lịch một mình đậm chất điện ảnh
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2212,7 +2521,11 @@ Một bức ảnh chân thực, đậm chất điện ảnh về một phụ n�
 
 ---
 
+<<<<<<< HEAD
 ### No. 65: Lưới nghệ thuật phim ba ô
+=======
+### No. 68: Lưới nghệ thuật phim ba ô
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2246,7 +2559,11 @@ Chỉnh sửa hình ảnh thành một bức chân dung nghệ thuật có kết
 
 ---
 
+<<<<<<< HEAD
 ### No. 66: Hello Kitty: Hỗn Loạn Văn Phòng
+=======
+### No. 69: Hello Kitty: Hỗn Loạn Văn Phòng
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2279,7 +2596,11 @@ h0674kz, hello kitty thổi tung văn phòng, phong cách phim cổ điển, h�
 
 ---
 
+<<<<<<< HEAD
 ### No. 67: Đài phun nước pha lê với những vì sao
+=======
+### No. 70: Đài phun nước pha lê với những vì sao
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2312,7 +2633,11 @@ h0674kz, hình dán ngôi sao đầy màu sắc, đài phun nước trang trí b
 
 ---
 
+<<<<<<< HEAD
 ### No. 68: Khoảnh khắc Geisha Kyoto
+=======
+### No. 71: Khoảnh khắc Geisha Kyoto
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2345,7 +2670,11 @@ Geisha (chi tiết kimono truyền thống, trang điểm mặt trắng) đi tr�
 
 ---
 
+<<<<<<< HEAD
 ### No. 69: Đêm Giáng sinh ở NYC
+=======
+### No. 72: Đêm Giáng sinh ở NYC
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2379,7 +2708,11 @@ Một lời nhắc về đêm thành phố lễ hội ghi lại Giáng sinh ở 
 
 ---
 
+<<<<<<< HEAD
 ### No. 70: Khung cảnh cắm trại lúc hoàng hôn
+=======
+### No. 73: Khung cảnh cắm trại lúc hoàng hôn
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2412,7 +2745,11 @@ Cảnh hoàng hôn tại khu cắm trại trên núi, chi tiết lều dã ngo�
 
 ---
 
+<<<<<<< HEAD
 ### No. 71: Tập Luyện Cường Độ Cao Đơn Sắc
+=======
+### No. 74: Tập Luyện Cường Độ Cao Đơn Sắc
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2446,7 +2783,11 @@ Cận cảnh {argument name="subject" default="người phụ nữ lực lưỡn
 
 ---
 
+<<<<<<< HEAD
 ### No. 72: Nội thất Tàu vũ trụ ISS
+=======
+### No. 75: Nội thất Tàu vũ trụ ISS
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2479,7 +2820,11 @@ Môi trường vật lý thực tế bên trong Trạm Vũ trụ Quốc tế, ph
 
 ---
 
+<<<<<<< HEAD
 ### No. 73: Trực quan hóa Mạng nơ-ron
+=======
+### No. 76: Trực quan hóa Mạng nơ-ron
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2512,7 +2857,11 @@ Trực quan hóa luồng dữ liệu cấu trúc 3D mạng nơ-ron, các nút n�
 
 ---
 
+<<<<<<< HEAD
 ### No. 74: Nội thất Wabi-Sabi Nhật Bản
+=======
+### No. 77: Nội thất Wabi-Sabi Nhật Bản
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2546,7 +2895,11 @@ Nội thất toàn cảnh homestay tối giản kiểu Nhật Bản {argument na
 
 ---
 
+<<<<<<< HEAD
 ### No. 75: Chụp ảnh sản phẩm cao cấp
+=======
+### No. 78: Chụp ảnh sản phẩm cao cấp
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2580,7 +2933,11 @@ Cận cảnh {argument name="product" default="thỏi son cao cấp"} đặt tr�
 
 ---
 
+<<<<<<< HEAD
 ### No. 76: Phong cách K-Pop Tương Lai
+=======
+### No. 79: Phong cách K-Pop Tương Lai
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2614,7 +2971,11 @@ K-pop nhóm {argument name="number of people" default="four-member"} ảnh conce
 
 ---
 
+<<<<<<< HEAD
 ### No. 77: Chân Dung Thời Trang Cao Cấp Tối Giản
+=======
+### No. 80: Chân Dung Thời Trang Cao Cấp Tối Giản
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2648,7 +3009,11 @@ Chân dung tối giản nửa thân của một {argument name="subject" default
 
 ---
 
+<<<<<<< HEAD
 ### No. 78: Hành Động Siêu Anh Hùng Đầy Kịch Tính
+=======
+### No. 81: Hành Động Siêu Anh Hùng Đầy Kịch Tính
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2682,7 +3047,11 @@ Ghi lại cảnh chiến đấu siêu anh hùng đầy kịch tính với hiệu
 
 ---
 
+<<<<<<< HEAD
 ### No. 79: Không khí buổi hòa nhạc tại sân vận động
+=======
+### No. 82: Không khí buổi hòa nhạc tại sân vận động
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2716,7 +3085,11 @@ Tạo ra một khung cảnh buổi hòa nhạc sân vận động ngoạn mục 
 
 ---
 
+<<<<<<< HEAD
 ### No. 80: Phòng mơ ước của Barbie
+=======
+### No. 83: Phòng mơ ước của Barbie
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2750,7 +3123,11 @@ Nội thất phòng mơ ước của Barbie, tường màu {argument name="wall 
 
 ---
 
+<<<<<<< HEAD
 ### No. 81: Phong cách sống Bờ biển Amalfi
+=======
+### No. 84: Phong cách sống Bờ biển Amalfi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2784,7 +3161,11 @@ Một {argument name="gender" default="phụ nữ"} {argument name="age" default
 
 ---
 
+<<<<<<< HEAD
 ### No. 82: Ảnh Selfie Máy Ảnh Kỹ Thuật Số Y2K
+=======
+### No. 85: Ảnh Selfie Máy Ảnh Kỹ Thuật Số Y2K
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2818,7 +3199,11 @@ Một lời nhắc gợi nhớ hoàn hảo tái tạo lại phong cách nhiếp 
 
 ---
 
+<<<<<<< HEAD
 ### No. 83: Chân dung nhà khoa học điện ảnh
+=======
+### No. 86: Chân dung nhà khoa học điện ảnh
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2852,7 +3237,11 @@ Phong cách phim đen trắng 35mm, một {argument name="character identity" de
 
 ---
 
+<<<<<<< HEAD
 ### No. 84: Áp phích Giáng sinh Judy và Nick Felt
+=======
+### No. 87: Áp phích Giáng sinh Judy và Nick Felt
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2885,7 +3274,11 @@ Lời nhắc này tạo ra một tấm áp phích Giáng sinh phong cách nỉ �
 
 ---
 
+<<<<<<< HEAD
 ### No. 85: Thỏ Văn Phòng Mệt Mỏi Tự Sướng
+=======
+### No. 88: Thỏ Văn Phòng Mệt Mỏi Tự Sướng
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2918,7 +3311,11 @@ Một chú thỏ nhỏ hình người, được thể hiện theo phong cách h�
 
 ---
 
+<<<<<<< HEAD
 ### No. 86: Thiết kế nhân vật IP Cáo nhỏ thời thượng
+=======
+### No. 89: Thiết kế nhân vật IP Cáo nhỏ thời thượng
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2952,7 +3349,11 @@ Thiết kế nhân vật IP: phiên bản Q, một chú cáo nhỏ màu cam đ�
 
 ---
 
+<<<<<<< HEAD
 ### No. 87: Poster Chữ Thảo "Sức Sống Bất Tận"
+=======
+### No. 90: Poster Chữ Thảo "Sức Sống Bất Tận"
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2986,7 +3387,11 @@ Lời nhắc này tạo ra một áp phích thư pháp động với cụm từ 
 
 ---
 
+<<<<<<< HEAD
 ### No. 88: Thiết kế nam châm tủ lạnh hình Judy và Nick không đều
+=======
+### No. 91: Thiết kế nam châm tủ lạnh hình Judy và Nick không đều
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3020,7 +3425,11 @@ Phong cách thiết kế tối giản hiện đại, thiết kế nam châm tủ
 
 ---
 
+<<<<<<< HEAD
 ### No. 89: Biểu Tượng Ví và Tiền Xu 3D
+=======
+### No. 92: Biểu Tượng Ví và Tiền Xu 3D
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3054,7 +3463,11 @@ Biểu tượng UI, một chiếc ví đầy tiền vàng, một đống tiền 
 
 ---
 
+<<<<<<< HEAD
 ### No. 90: Hình minh họa Nick và Judy Chibi vẽ tay
+=======
+### No. 93: Hình minh họa Nick và Judy Chibi vẽ tay
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3087,7 +3500,11 @@ Lời nhắc minh họa vẽ tay chibi dễ thương này mô tả Nick và Judy
 
 ---
 
+<<<<<<< HEAD
 ### No. 91: Ảnh tự sướng ba người chụp từ trên xuống kết hợp
+=======
+### No. 94: Ảnh tự sướng ba người chụp từ trên xuống kết hợp
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3121,7 +3538,11 @@ Không hoán đổi khuôn mặt, khuôn mặt của các nhân vật không đ�
 
 ---
 
+<<<<<<< HEAD
 ### No. 92: Thẻ kiến thức vẽ tay món Cà chua xào trứng
+=======
+### No. 95: Thẻ kiến thức vẽ tay món Cà chua xào trứng
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3155,7 +3576,11 @@ Tạo thẻ kiến thức cho công thức {argument name="dish name" default="T
 
 ---
 
+<<<<<<< HEAD
 ### No. 93: Kiểu chữ Tiêu đề Phim Wild Cursive
+=======
+### No. 96: Kiểu chữ Tiêu đề Phim Wild Cursive
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3189,7 +3614,11 @@ Nền đen chữ trắng, thư pháp nét liền sang trọng, thiết kế phô
 
 ---
 
+<<<<<<< HEAD
 ### No. 94: Ghi chú Phác thảo Thiết kế Cơ khí
+=======
+### No. 97: Ghi chú Phác thảo Thiết kế Cơ khí
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3223,7 +3652,11 @@ Bản phác thảo đường nét đen, ghi chú {argument name="subject name" d
 
 ---
 
+<<<<<<< HEAD
 ### No. 95: Áp phích Golden Curve Wealth Logic
+=======
+### No. 98: Áp phích Golden Curve Wealth Logic
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3257,7 +3690,11 @@ Nền màu xanh đậm trang nhã, một đường cong biểu đồ màu vàng 
 
 ---
 
+<<<<<<< HEAD
 ### No. 96: Sơ đồ kiến trúc nền tảng thương mại điện tử 3D
+=======
+### No. 99: Sơ đồ kiến trúc nền tảng thương mại điện tử 3D
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3290,7 +3727,11 @@ Với góc nhìn ba chiều cao, trình bày chính xác sơ đồ kiến trúc 
 
 ---
 
+<<<<<<< HEAD
 ### No. 97: Thiết Kế Chữ Ký Nghệ Thuật Ma Wencheng
+=======
+### No. 100: Thiết Kế Chữ Ký Nghệ Thuật Ma Wencheng
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3324,7 +3765,11 @@ Thiết kế chữ ký nghệ thuật cấp bậc thầy: {argument name="name" 
 
 ---
 
+<<<<<<< HEAD
 ### No. 98: Giao diện người dùng ứng dụng tài chính kiểu C4D (Biến thể)
+=======
+### No. 101: Giao diện người dùng ứng dụng tài chính kiểu C4D (Biến thể)
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3357,7 +3802,11 @@ Thiết kế giao diện người dùng (UI) ứng dụng quản lý tài chính
 
 ---
 
+<<<<<<< HEAD
 ### No. 99: Giao diện ứng dụng tài chính theo phong cách C4D
+=======
+### No. 102: Giao diện ứng dụng tài chính theo phong cách C4D
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3390,7 +3839,11 @@ Thiết kế giao diện người dùng (UI) ứng dụng quản lý tài chính
 
 ---
 
+<<<<<<< HEAD
 ### No. 100: Nick và Judy Chụp ảnh Tự sướng Kiểu Instagram trên Bãi biển Hồng
+=======
+### No. 103: Nick và Judy Chụp ảnh Tự sướng Kiểu Instagram trên Bãi biển Hồng
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3424,7 +3877,11 @@ Nick Wilde và Judy Hopps của Zootopia đang chụp ảnh selfie trên bãi bi
 
 ---
 
+<<<<<<< HEAD
 ### No. 101: Nam châm tủ lạnh tráng men Zootopia Judy
+=======
+### No. 104: Nam châm tủ lạnh tráng men Zootopia Judy
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3458,7 +3915,11 @@ Phong cách thiết kế tối giản hiện đại, thiết kế nam châm tủ
 
 ---
 
+<<<<<<< HEAD
 ### No. 102: Áp phích quảng cáo sản phẩm công nghệ GEO
+=======
+### No. 105: Áp phích quảng cáo sản phẩm công nghệ GEO
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3492,7 +3953,11 @@ Lời nhắc này tạo ra một poster quảng cáo sản phẩm công nghệ c
 
 ---
 
+<<<<<<< HEAD
 ### No. 103: Ảnh tự sướng phá vỡ bức tường thứ tư phong cách Tiểu Hồng Thư của Nick và Judy
+=======
+### No. 106: Ảnh tự sướng phá vỡ bức tường thứ tư phong cách Tiểu Hồng Thư của Nick và Judy
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3526,7 +3991,11 @@ Các nhân vật trong Zootopia, Nick Wilde và Judy Hopps. Nick có bộ lông 
 
 ---
 
+<<<<<<< HEAD
 ### No. 104: Nghệ thuật đường nét các loại thảo mộc gia vị truyền thống của Trung Quốc
+=======
+### No. 107: Nghệ thuật đường nét các loại thảo mộc gia vị truyền thống của Trung Quốc
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3560,7 +4029,11 @@ Chín loại thảo mộc gia vị Trung Quốc phổ biến dùng trong nấu �
 
 ---
 
+<<<<<<< HEAD
 ### No. 105: Bản đồ địa hình Hàng Châu
+=======
+### No. 108: Bản đồ địa hình Hàng Châu
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3593,7 +4066,11 @@ Một bản đồ địa hình của Hàng Châu, với một điểm đánh d�
 
 ---
 
+<<<<<<< HEAD
 ### No. 106: Minh họa ban nhạc theo phong cách kết hợp giữa Moebius và Kim Jung Gi
+=======
+### No. 109: Minh họa ban nhạc theo phong cách kết hợp giữa Moebius và Kim Jung Gi
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3626,7 +4103,11 @@ Prompt này nhằm tạo ra một hình ảnh ban nhạc kết hợp phong cách
 
 ---
 
+<<<<<<< HEAD
 ### No. 107: Hướng dẫn minh họa về các tiểu thuyết gia Trung Quốc đương đại
+=======
+### No. 110: Hướng dẫn minh họa về các tiểu thuyết gia Trung Quốc đương đại
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3675,7 +4156,11 @@ Tiêu đề chính là "Hướng dẫn minh họa về các tiểu thuyết gia 
 
 ---
 
+<<<<<<< HEAD
 ### No. 108: Bản đồ ẩm thực Trung Quốc: Infographic dạng Poster
+=======
+### No. 111: Bản đồ ẩm thực Trung Quốc: Infographic dạng Poster
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3752,6 +4237,10 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
+<<<<<<< HEAD
 <sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-10T09:54:52.365Z</sub>
+=======
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-10T12:21:07.744Z</sub>
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 </div>

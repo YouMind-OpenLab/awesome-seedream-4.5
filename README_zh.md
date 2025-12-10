@@ -88,9 +88,15 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
+<<<<<<< HEAD
 | 📝 提示词总数 | **108** |
 | ⭐ 精选 | **0** |
 | 🔄 最后更新 | **2025年12月10日星期三 UTC 09:54:44** |
+=======
+| 📝 提示词总数 | **111** |
+| ⭐ 精选 | **0** |
+| 🔄 最后更新 | **2025年12月10日星期三 UTC 12:21:02** |
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 </div>
 
@@ -430,7 +436,106 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 11: 犯罪小说封面《暗影侦探》
+### No. 11: 宁静瑜伽与冥想工作坊海报
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+此提示可生成一张宁静祥和的海报，用于周末瑜伽和冥想工作坊。海报以柔焦摄影的方式呈现了一个人在日出时分摆出平静的瑜伽姿势，唤起平和与健康的感觉。
+
+#### 📝 提示词
+
+```
+一张宁静祥和的海报，宣传周末瑜伽与冥想工作坊。主视觉是一张柔焦的精美照片，一名练习者在日出时的海滩上摆出宁静的瑜伽姿势。配色采用柔和的马卡龙色系（粉色、橙色、浅蓝色）。字体是柔和流畅的草书。海报应唤起平和、健康和自我关怀的感觉。–ar 3:4
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765367961714_t47x0n_313e7deeb6c193d794d71ec8cec044dbc36e20b3f9e0fa338284467031d9e04f" width="600" alt="宁静瑜伽与冥想工作坊海报 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月10日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%E4%B8%80%E5%BC%A0%E5%AE%81%E9%9D%99%E7%A5%A5%E5%92%8C%E7%9A%84%E6%B5%B7%E6%8A%A5%EF%BC%8C%E5%AE%A3%E4%BC%A0%E5%91%A8%E6%9C%AB%E7%91%9C%E4%BC%BD%E4%B8%8E%E5%86%A5%E6%83%B3%E5%B7%A5%E4%BD%9C%E5%9D%8A%E3%80%82%E4%B8%BB%E8%A7%86%E8%A7%89%E6%98%AF%E4%B8%80%E5%BC%A0%E6%9F%94%E7%84%A6%E7%9A%84%E7%B2%BE%E7%BE%8E%E7%85%A7%E7%89%87%EF%BC%8C%E4%B8%80%E5%90%8D%E7%BB%83%E4%B9%A0%E8%80%85%E5%9C%A8%E6%97%A5%E5%87%BA%E6%97%B6%E7%9A%84%E6%B5%B7%E6%BB%A9%E4%B8%8A%E6%91%86%E5%87%BA%E5%AE%81%E9%9D%99%E7%9A%84%E7%91%9C%E4%BC%BD%E5%A7%BF%E5%8A%BF%E3%80%82%E9%85%8D%E8%89%B2%E9%87%87%E7%94%A8%E6%9F%94%E5%92%8C%E7%9A%84%E9%A9%AC%E5%8D%A1%E9%BE%99%E8%89%B2%E7%B3%BB%EF%BC%88%E7%B2%89%E8%89%B2%E3%80%81%E6%A9%99%E8%89%B2%E3%80%81%E6%B5%85%E8%93%9D%E8%89%B2%EF%BC%89%E3%80%82%E5%AD%97%E4%BD%93%E6%98%AF%E6%9F%94%E5%92%8C%E6%B5%81%E7%95%85%E7%9A%84%E8%8D%89%E4%B9%A6%E3%80%82%E6%B5%B7%E6%8A%A5%E5%BA%94%E5%94%A4%E8%B5%B7%E5%B9%B3%E5%92%8C%E3%80%81%E5%81%A5%E5%BA%B7%E5%92%8C%E8%87%AA%E6%88%91%E5%85%B3%E6%80%80%E7%9A%84%E6%84%9F%E8%A7%89%E3%80%82%E2%80%93ar%203%3A4)**
+
+---
+
+### No. 12: 意大利餐厅盛大开业传单
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+此提示可生成一张美味诱人的传单，用于一家新开意大利餐厅的盛大开业。传单以质朴的意大利美食平铺图为特色，营造出温馨、地道的氛围，以吸引顾客。
+
+#### 📝 提示词
+
+```
+一家新开意大利餐厅盛大开业的美味诱人传单。主视觉是一张精美的乡村风格平铺照片，桌上摆满了意大利美食：一个披萨、一碗意面、一杯红酒和一些新鲜罗勒。餐厅名称采用温暖的手写字体。开业日期和地址清晰可见。整体感觉温暖、地道、令人食欲大开。–ar 4:5
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765367961890_sii4rm_1f4e43ff4dda6b28373b94aed5aa7bffc4815c1f5d212053ab1a343051b86704" width="600" alt="意大利餐厅盛大开业传单 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月10日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%E4%B8%80%E5%AE%B6%E6%96%B0%E5%BC%80%E6%84%8F%E5%A4%A7%E5%88%A9%E9%A4%90%E5%8E%85%E7%9B%9B%E5%A4%A7%E5%BC%80%E4%B8%9A%E7%9A%84%E7%BE%8E%E5%91%B3%E8%AF%B1%E4%BA%BA%E4%BC%A0%E5%8D%95%E3%80%82%E4%B8%BB%E8%A7%86%E8%A7%89%E6%98%AF%E4%B8%80%E5%BC%A0%E7%B2%BE%E7%BE%8E%E7%9A%84%E4%B9%A1%E6%9D%91%E9%A3%8E%E6%A0%BC%E5%B9%B3%E9%93%BA%E7%85%A7%E7%89%87%EF%BC%8C%E6%A1%8C%E4%B8%8A%E6%91%86%E6%BB%A1%E4%BA%86%E6%84%8F%E5%A4%A7%E5%88%A9%E7%BE%8E%E9%A3%9F%EF%BC%9A%E4%B8%80%E4%B8%AA%E6%8A%AB%E8%90%A8%E3%80%81%E4%B8%80%E7%A2%97%E6%84%8F%E9%9D%A2%E3%80%81%E4%B8%80%E6%9D%AF%E7%BA%A2%E9%85%92%E5%92%8C%E4%B8%80%E4%BA%9B%E6%96%B0%E9%B2%9C%E7%BD%97%E5%8B%92%E3%80%82%E9%A4%90%E5%8E%85%E5%90%8D%E7%A7%B0%E9%87%87%E7%94%A8%E6%B8%A9%E6%9A%96%E7%9A%84%E6%89%8B%E5%86%99%E5%AD%97%E4%BD%93%E3%80%82%E5%BC%80%E4%B8%9A%E6%97%A5%E6%9C%9F%E5%92%8C%E5%9C%B0%E5%9D%80%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A7%81%E3%80%82%E6%95%B4%E4%BD%93%E6%84%9F%E8%A7%89%E6%B8%A9%E6%9A%96%E3%80%81%E5%9C%B0%E9%81%93%E3%80%81%E4%BB%A4%E4%BA%BA%E9%A3%9F%E6%AC%B2%E5%A4%A7%E5%BC%80%E3%80%82%E2%80%93ar%204%3A5)**
+
+---
+
+### No. 13: 塑料污染公益海报
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+此提示可生成一张强有力且发人深省的公益海报，旨在宣传塑料污染问题。海报描绘了一只海龟在塑料垃圾中游泳的场景，旨在唤起人们的情感共鸣并提高环保意识。
+
+#### 📝 提示词
+
+```
+一张强有力且发人深省的公益海报，旨在宣传海洋塑料污染问题。画面中，一只海龟在由塑料袋和塑料瓶组成的“海洋”中游弋，而非在水中，呈现出一种超现实且悲伤的景象。海报底部写着标语：“这就是你想要的海洋吗？”。视觉效果应力求真实且富有冲击力，旨在唤起情感共鸣并提高公众意识。–ar 3:4
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765367960733_h016tz_5ed05bd2ce5bba756b3a380cd7620a25b24a29a495ab05eafe9f2c85b4c08d8a" width="600" alt="塑料污染公益海报 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月10日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/seedream-4-dot-5-prompts?prompt=%E4%B8%80%E5%BC%A0%E5%BC%BA%E6%9C%89%E5%8A%9B%E4%B8%94%E5%8F%91%E4%BA%BA%E6%B7%B1%E7%9C%81%E7%9A%84%E5%85%AC%E7%9B%8A%E6%B5%B7%E6%8A%A5%EF%BC%8C%E6%97%A8%E5%9C%A8%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%B4%8B%E5%A1%91%E6%96%99%E6%B1%A1%E6%9F%93%E9%97%AE%E9%A2%98%E3%80%82%E7%94%BB%E9%9D%A2%E4%B8%AD%EF%BC%8C%E4%B8%80%E5%8F%AA%E6%B5%B7%E9%BE%9F%E5%9C%A8%E7%94%B1%E5%A1%91%E6%96%99%E8%A2%8B%E5%92%8C%E5%A1%91%E6%96%99%E7%93%B6%E7%BB%84%E6%88%90%E7%9A%84%E2%80%9C%E6%B5%B7%E6%B4%8B%E2%80%9D%E4%B8%AD%E6%B8%B8%E5%BC%8B%EF%BC%8C%E8%80%8C%E9%9D%9E%E5%9C%A8%E6%B0%B4%E4%B8%AD%EF%BC%8C%E5%91%88%E7%8E%B0%E5%87%BA%E4%B8%80%E7%A7%8D%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%94%E6%82%B2%E4%BC%A4%E7%9A%84%E6%99%AF%E8%B1%A1%E3%80%82%E6%B5%B7%E6%8A%A5%E5%BA%95%E9%83%A8%E5%86%99%E7%9D%80%E6%A0%87%E8%AF%AD%EF%BC%9A%E2%80%9C%E8%BF%99%E5%B0%B1%E6%98%AF%E4%BD%A0%E6%83%B3%E8%A6%81%E7%9A%84%E6%B5%B7%E6%B4%8B%E5%90%97%EF%BC%9F%E2%80%9D%E3%80%82%E8%A7%86%E8%A7%89%E6%95%88%E6%9E%9C%E5%BA%94%E5%8A%9B%E6%B1%82%E7%9C%9F%E5%AE%9E%E4%B8%94%E5%AF%8C%E6%9C%89%E5%86%B2%E5%87%BB%E5%8A%9B%EF%BC%8C%E6%97%A8%E5%9C%A8%E5%94%A4%E8%B5%B7%E6%83%85%E6%84%9F%E5%85%B1%E9%B8%A3%E5%B9%B6%E6%8F%90%E9%AB%98%E5%85%AC%E4%BC%97%E6%84%8F%E8%AF%86%E3%80%82%E2%80%93ar%203%3A4)**
+
+---
+
+### No. 14: 犯罪小说封面《暗影侦探》
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -463,7 +568,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 12: 日本浮世绘博物馆海报
+### No. 15: 日本浮世绘博物馆海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -496,7 +601,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 13: 软件开发人员招聘传单
+### No. 16: 软件开发人员招聘传单
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -533,7 +638,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 14: 迷幻音乐节海报“空灵绽放”
+=======
+### No. 17: 迷幻音乐节海报“空灵绽放”
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -566,7 +675,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 15: 电影科幻海报“CHRONOS”
+=======
+### No. 18: 电影科幻海报“CHRONOS”
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -599,7 +712,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 16: 网站建设教程缩略图
+=======
+### No. 19: 网站建设教程缩略图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -632,7 +749,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 17: 自动售货机美食挑战缩略图
+=======
+### No. 20: 自动售货机美食挑战缩略图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -665,7 +786,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 18: 恶作剧视频缩略图
+=======
+### No. 21: 恶作剧视频缩略图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -698,7 +823,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 19: 5 分钟生活小窍门缩略图
+=======
+### No. 22: 5 分钟生活小窍门缩略图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -731,7 +860,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 20: 科技小工具开箱缩略图
+=======
+### No. 23: 科技小工具开箱缩略图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -764,7 +897,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 21: 古埃及纪录片缩略图
+=======
+### No. 24: 古埃及纪录片缩略图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -797,7 +934,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 22: 电动超级跑车评测缩略图
+=======
+### No. 25: 电动超级跑车评测缩略图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -830,7 +971,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 23: 真实犯罪纪录片缩略图
+=======
+### No. 26: 真实犯罪纪录片缩略图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -863,7 +1008,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 24: 30 天健身挑战成果缩略图
+=======
+### No. 27: 30 天健身挑战成果缩略图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -896,7 +1045,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 25: 黑洞解释缩略图
+=======
+### No. 28: 黑洞解释缩略图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -929,7 +1082,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 26: DIY 房间改造前后对比
+=======
+### No. 29: DIY 房间改造前后对比
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -962,7 +1119,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 27: 终极巧克力蛋糕食谱缩略图
+=======
+### No. 30: 终极巧克力蛋糕食谱缩略图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -995,7 +1156,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 28: 巴厘岛旅行 Vlog 缩略图
+=======
+### No. 31: 巴厘岛旅行 Vlog 缩略图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1028,7 +1193,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 29: 智能手机评测缩略图
+=======
+### No. 32: 智能手机评测缩略图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1061,7 +1230,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 30: 别笑挑战缩略图
+=======
+### No. 33: 别笑挑战缩略图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1094,7 +1267,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 31: Web 应用系统架构图
+=======
+### No. 34: Web 应用系统架构图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1127,7 +1304,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 32: 图解自制意面食谱卡
+=======
+### No. 35: 图解自制意面食谱卡
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1160,7 +1341,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 33: 工作场所姿势安全指南
+=======
+### No. 36: 工作场所姿势安全指南
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1193,7 +1378,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 34: 3D 打印机工作原理图
+=======
+### No. 37: 3D 打印机工作原理图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1226,7 +1415,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 35: 等距国家公园地图
+=======
+### No. 38: 等距国家公园地图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1259,7 +1452,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 36: Blueprint 被动式太阳能设计
+=======
+### No. 39: Blueprint 被动式太阳能设计
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1292,7 +1489,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 37: 植物细胞科学插图
+=======
+### No. 40: 植物细胞科学插图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1325,7 +1526,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 38: 全球森林砍伐数据可视化
+=======
+### No. 41: 全球森林砍伐数据可视化
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1358,7 +1563,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 39: 单反相机爆炸图插画
+=======
+### No. 42: 单反相机爆炸图插画
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1391,7 +1600,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 40: 电动汽车与燃油汽车对比
+=======
+### No. 43: 电动汽车与燃油汽车对比
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1424,7 +1637,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 41: 手冲咖啡指南
+=======
+### No. 44: 手冲咖啡指南
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1457,7 +1674,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 42: 3D 火山剖面图
+=======
+### No. 45: 3D 火山剖面图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1490,7 +1711,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 43: 复古黑板心脏解剖图
+=======
+### No. 46: 复古黑板心脏解剖图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1523,7 +1748,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 44: 激发创意思维的生动思维导图
+=======
+### No. 47: 激发创意思维的生动思维导图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1556,7 +1785,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 45: 专业的 SDLC 流程图
+=======
+### No. 48: 专业的 SDLC 流程图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1589,7 +1822,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 46: 白板光合作用解释
+=======
+### No. 49: 白板光合作用解释
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1622,7 +1859,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 47: 静谧沐浴，呵护自我
+=======
+### No. 50: 静谧沐浴，呵护自我
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1655,7 +1896,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 48: 艺术家的凌乱工作室
+=======
+### No. 51: 艺术家的凌乱工作室
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1688,7 +1933,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 49: 温馨圣诞热巧克力
+=======
+### No. 52: 温馨圣诞热巧克力
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1721,7 +1970,11 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+<<<<<<< HEAD
 ### No. 50: High-End Gaming Setup
+=======
+### No. 53: High-End Gaming Setup
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1754,7 +2007,11 @@ A photo of a high-end gaming setup, ready for a streaming session. The setup inc
 
 ---
 
+<<<<<<< HEAD
 ### No. 51: 破土而出
+=======
+### No. 54: 破土而出
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1787,7 +2044,11 @@ A photo of a high-end gaming setup, ready for a streaming session. The setup inc
 
 ---
 
+<<<<<<< HEAD
 ### No. 52: 魅可眼影盘特写
+=======
+### No. 55: 魅可眼影盘特写
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1820,7 +2081,11 @@ A photo of a high-end gaming setup, ready for a streaming session. The setup inc
 
 ---
 
+<<<<<<< HEAD
 ### No. 53: 复古黑胶唱片收藏
+=======
+### No. 56: 复古黑胶唱片收藏
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1853,7 +2118,11 @@ A photo of a high-end gaming setup, ready for a streaming session. The setup inc
 
 ---
 
+<<<<<<< HEAD
 ### No. 54: 光线充足的阅读角
+=======
+### No. 57: 光线充足的阅读角
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1886,7 +2155,11 @@ A photo of a high-end gaming setup, ready for a streaming session. The setup inc
 
 ---
 
+<<<<<<< HEAD
 ### No. 55: 极简时尚穿搭平铺图
+=======
+### No. 58: 极简时尚穿搭平铺图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1919,7 +2192,11 @@ A photo of a high-end gaming setup, ready for a streaming session. The setup inc
 
 ---
 
+<<<<<<< HEAD
 ### No. 56: 充满活力的台北夜市景象
+=======
+### No. 59: 充满活力的台北夜市景象
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1952,7 +2229,11 @@ A photo of a high-end gaming setup, ready for a streaming session. The setup inc
 
 ---
 
+<<<<<<< HEAD
 ### No. 57: 帐篷视角下的山景
+=======
+### No. 60: 帐篷视角下的山景
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1985,7 +2266,11 @@ A photo of a high-end gaming setup, ready for a streaming session. The setup inc
 
 ---
 
+<<<<<<< HEAD
 ### No. 58: 薰衣草田里的浪漫野餐
+=======
+### No. 61: 薰衣草田里的浪漫野餐
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2018,7 +2303,11 @@ A photo of a high-end gaming setup, ready for a streaming session. The setup inc
 
 ---
 
+<<<<<<< HEAD
 ### No. 59: 书法工艺俯拍图
+=======
+### No. 62: 书法工艺俯拍图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2051,7 +2340,11 @@ A photo of a high-end gaming setup, ready for a streaming session. The setup inc
 
 ---
 
+<<<<<<< HEAD
 ### No. 60: 充满活力的女运动员训练照片
+=======
+### No. 63: 充满活力的女运动员训练照片
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2084,7 +2377,11 @@ A photo of a high-end gaming setup, ready for a streaming session. The setup inc
 
 ---
 
+<<<<<<< HEAD
 ### No. 61: 令人垂涎的煎饼特写
+=======
+### No. 64: 令人垂涎的煎饼特写
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2117,7 +2414,11 @@ A photo of a high-end gaming setup, ready for a streaming session. The setup inc
 
 ---
 
+<<<<<<< HEAD
 ### No. 62: 巴黎时尚达人街拍风格
+=======
+### No. 65: 巴黎时尚达人街拍风格
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2150,7 +2451,11 @@ A photo of a high-end gaming setup, ready for a streaming session. The setup inc
 
 ---
 
+<<<<<<< HEAD
 ### No. 63: 秋叶中的金毛寻回犬幼犬
+=======
+### No. 66: 秋叶中的金毛寻回犬幼犬
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2183,7 +2488,11 @@ A photo of a high-end gaming setup, ready for a streaming session. The setup inc
 
 ---
 
+<<<<<<< HEAD
 ### No. 64: 电影般的单人旅行镜头
+=======
+### No. 67: 电影般的单人旅行镜头
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2216,7 +2525,11 @@ A photo of a high-end gaming setup, ready for a streaming session. The setup inc
 
 ---
 
+<<<<<<< HEAD
 ### No. 65: 三格电影艺术网格
+=======
+### No. 68: 三格电影艺术网格
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2250,7 +2563,11 @@ A photo of a high-end gaming setup, ready for a streaming session. The setup inc
 
 ---
 
+<<<<<<< HEAD
 ### No. 66: Hello Kitty 办公室大乱斗
+=======
+### No. 69: Hello Kitty 办公室大乱斗
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2283,7 +2600,11 @@ h0674kz，Hello Kitty 炸毁办公室，复古电影风格，细腻颗粒感
 
 ---
 
+<<<<<<< HEAD
 ### No. 67: Crystal Fountain with Stars
+=======
+### No. 70: Crystal Fountain with Stars
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2316,7 +2637,11 @@ h0674kz, colorful star stickers, a fountain decorated with bright crystal bead c
 
 ---
 
+<<<<<<< HEAD
 ### No. 68: 京都艺伎时刻
+=======
+### No. 71: 京都艺伎时刻
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2349,7 +2674,11 @@ h0674kz, colorful star stickers, a fountain decorated with bright crystal bead c
 
 ---
 
+<<<<<<< HEAD
 ### No. 69: 纽约圣诞夜
+=======
+### No. 72: 纽约圣诞夜
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2383,7 +2712,11 @@ h0674kz, colorful star stickers, a fountain decorated with bright crystal bead c
 
 ---
 
+<<<<<<< HEAD
 ### No. 70: 暮色露营场景
+=======
+### No. 73: 暮色露营场景
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2416,7 +2749,11 @@ h0674kz, colorful star stickers, a fountain decorated with bright crystal bead c
 
 ---
 
+<<<<<<< HEAD
 ### No. 71: 高强度训练单色调
+=======
+### No. 74: 高强度训练单色调
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2450,7 +2787,11 @@ h0674kz, colorful star stickers, a fountain decorated with bright crystal bead c
 
 ---
 
+<<<<<<< HEAD
 ### No. 72: 国际空间站宇航员内景
+=======
+### No. 75: 国际空间站宇航员内景
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2483,7 +2824,11 @@ h0674kz, colorful star stickers, a fountain decorated with bright crystal bead c
 
 ---
 
+<<<<<<< HEAD
 ### No. 73: 神经网络可视化
+=======
+### No. 76: 神经网络可视化
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2516,7 +2861,11 @@ h0674kz, colorful star stickers, a fountain decorated with bright crystal bead c
 
 ---
 
+<<<<<<< HEAD
 ### No. 74: 侘寂日式室内设计
+=======
+### No. 77: 侘寂日式室内设计
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2550,7 +2899,11 @@ h0674kz, colorful star stickers, a fountain decorated with bright crystal bead c
 
 ---
 
+<<<<<<< HEAD
 ### No. 75: 奢华产品摄影
+=======
+### No. 78: 奢华产品摄影
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2584,7 +2937,11 @@ h0674kz, colorful star stickers, a fountain decorated with bright crystal bead c
 
 ---
 
+<<<<<<< HEAD
 ### No. 76: 未来感十足的 K-Pop 概念
+=======
+### No. 79: 未来感十足的 K-Pop 概念
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2618,7 +2975,11 @@ K-pop {argument name="number of people" default="four-member"} 组合概念照�
 
 ---
 
+<<<<<<< HEAD
 ### No. 77: 极简主义高级时尚肖像
+=======
+### No. 80: 极简主义高级时尚肖像
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2652,7 +3013,11 @@ K-pop {argument name="number of people" default="four-member"} 组合概念照�
 
 ---
 
+<<<<<<< HEAD
 ### No. 78: 动感超级英雄动作
+=======
+### No. 81: 动感超级英雄动作
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2686,7 +3051,11 @@ K-pop {argument name="number of people" default="four-member"} 组合概念照�
 
 ---
 
+<<<<<<< HEAD
 ### No. 79: 体育场演唱会氛围
+=======
+### No. 82: 体育场演唱会氛围
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2720,7 +3089,11 @@ K-pop {argument name="number of people" default="four-member"} 组合概念照�
 
 ---
 
+<<<<<<< HEAD
 ### No. 80: 芭比梦想房间
+=======
+### No. 83: 芭比梦想房间
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2754,7 +3127,11 @@ K-pop {argument name="number of people" default="four-member"} 组合概念照�
 
 ---
 
+<<<<<<< HEAD
 ### No. 81: 阿马尔菲海岸生活方式
+=======
+### No. 84: 阿马尔菲海岸生活方式
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2788,7 +3165,11 @@ K-pop {argument name="number of people" default="four-member"} 组合概念照�
 
 ---
 
+<<<<<<< HEAD
 ### No. 82: Y2K 数码相机自拍
+=======
+### No. 85: Y2K 数码相机自拍
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2822,7 +3203,11 @@ K-pop {argument name="number of people" default="four-member"} 组合概念照�
 
 ---
 
+<<<<<<< HEAD
 ### No. 83: 电影科学家肖像
+=======
+### No. 86: 电影科学家肖像
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2856,7 +3241,11 @@ K-pop {argument name="number of people" default="four-member"} 组合概念照�
 
 ---
 
+<<<<<<< HEAD
 ### No. 84: 朱迪和尼克圣诞海报
+=======
+### No. 87: 朱迪和尼克圣诞海报
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2889,7 +3278,11 @@ K-pop {argument name="number of people" default="four-member"} 组合概念照�
 
 ---
 
+<<<<<<< HEAD
 ### No. 85: World-Weary Office Bunny Selfie
+=======
+### No. 88: World-Weary Office Bunny Selfie
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2922,7 +3315,11 @@ An anthropomorphic little rabbit, presented in the visual style of a daily snaps
 
 ---
 
+<<<<<<< HEAD
 ### No. 86: 时尚小狐狸 IP 角色设计
+=======
+### No. 89: 时尚小狐狸 IP 角色设计
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2956,7 +3353,11 @@ IP 角色设计：Q 版，一只毛茸茸的红橙色小狐狸，戴着耳机，
 
 ---
 
+<<<<<<< HEAD
 ### No. 87: 无尽活力草书海报
+=======
+### No. 90: 无尽活力草书海报
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2990,7 +3391,11 @@ IP 角色设计：Q 版，一只毛茸茸的红橙色小狐狸，戴着耳机，
 
 ---
 
+<<<<<<< HEAD
 ### No. 88: 朱迪和尼克异形冰箱贴设计
+=======
+### No. 91: 朱迪和尼克异形冰箱贴设计
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3024,7 +3429,11 @@ IP 角色设计：Q 版，一只毛茸茸的红橙色小狐狸，戴着耳机，
 
 ---
 
+<<<<<<< HEAD
 ### No. 89: 3D 玻璃钱包和硬币图标
+=======
+### No. 92: 3D 玻璃钱包和硬币图标
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3058,7 +3467,11 @@ UI 图标，一个装满金币的钱包，一堆金币，金币上是 {argument 
 
 ---
 
+<<<<<<< HEAD
 ### No. 90: 尼克和朱迪 Q 版手绘插画
+=======
+### No. 93: 尼克和朱迪 Q 版手绘插画
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3091,7 +3504,11 @@ UI 图标，一个装满金币的钱包，一堆金币，金币上是 {argument 
 
 ---
 
+<<<<<<< HEAD
 ### No. 91: 三人合并式俯拍自拍
+=======
+### No. 94: 三人合并式俯拍自拍
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3125,7 +3542,11 @@ UI 图标，一个装满金币的钱包，一堆金币，金币上是 {argument 
 
 ---
 
+<<<<<<< HEAD
 ### No. 92: 番茄炒蛋手绘知识卡
+=======
+### No. 95: 番茄炒蛋手绘知识卡
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3159,7 +3580,11 @@ UI 图标，一个装满金币的钱包，一堆金币，金币上是 {argument 
 
 ---
 
+<<<<<<< HEAD
 ### No. 93: 狂草电影标题字体
+=======
+### No. 96: 狂草电影标题字体
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3192,7 +3617,11 @@ UI 图标，一个装满金币的钱包，一堆金币，金币上是 {argument 
 
 ---
 
+<<<<<<< HEAD
 ### No. 94: 机械设计草图笔记
+=======
+### No. 97: 机械设计草图笔记
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3226,7 +3655,11 @@ UI 图标，一个装满金币的钱包，一堆金币，金币上是 {argument 
 
 ---
 
+<<<<<<< HEAD
 ### No. 95: 金曲线财富逻辑海报
+=======
+### No. 98: 金曲线财富逻辑海报
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3260,7 +3693,11 @@ UI 图标，一个装满金币的钱包，一堆金币，金币上是 {argument 
 
 ---
 
+<<<<<<< HEAD
 ### No. 96: 3D 电商平台架构图
+=======
+### No. 99: 3D 电商平台架构图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3293,7 +3730,11 @@ UI 图标，一个装满金币的钱包，一堆金币，金币上是 {argument 
 
 ---
 
+<<<<<<< HEAD
 ### No. 97: 马文成艺术签名设计
+=======
+### No. 100: 马文成艺术签名设计
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3327,7 +3768,11 @@ UI 图标，一个装满金币的钱包，一堆金币，金币上是 {argument 
 
 ---
 
+<<<<<<< HEAD
 ### No. 98: C4D 风格金融 App UI（变体）
+=======
+### No. 101: C4D 风格金融 App UI（变体）
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3360,7 +3805,11 @@ UI 图标，一个装满金币的钱包，一堆金币，金币上是 {argument 
 
 ---
 
+<<<<<<< HEAD
 ### No. 99: C4D 风格的金融 App UI
+=======
+### No. 102: C4D 风格的金融 App UI
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3393,7 +3842,11 @@ UI 图标，一个装满金币的钱包，一堆金币，金币上是 {argument 
 
 ---
 
+<<<<<<< HEAD
 ### No. 100: 尼克和朱迪粉色沙滩 Instagram 风格自拍
+=======
+### No. 103: 尼克和朱迪粉色沙滩 Instagram 风格自拍
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3427,7 +3880,11 @@ UI 图标，一个装满金币的钱包，一堆金币，金币上是 {argument 
 
 ---
 
+<<<<<<< HEAD
 ### No. 101: Zootopia Judy Enamel Fridge Magnet
+=======
+### No. 104: Zootopia Judy Enamel Fridge Magnet
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3461,7 +3918,11 @@ Modern minimalist design style, Zootopia themed enamel fridge magnet design, cir
 
 ---
 
+<<<<<<< HEAD
 ### No. 102: GEO 科技产品宣传海报
+=======
+### No. 105: GEO 科技产品宣传海报
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3495,7 +3956,11 @@ Modern minimalist design style, Zootopia themed enamel fridge magnet design, cir
 
 ---
 
+<<<<<<< HEAD
 ### No. 103: 尼克和朱迪小红书风格的打破第四面墙自拍
+=======
+### No. 106: 尼克和朱迪小红书风格的打破第四面墙自拍
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3529,7 +3994,11 @@ Modern minimalist design style, Zootopia themed enamel fridge magnet design, cir
 
 ---
 
+<<<<<<< HEAD
 ### No. 104: 传统中式调味香草的线条艺术
+=======
+### No. 107: 传统中式调味香草的线条艺术
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3563,7 +4032,11 @@ Modern minimalist design style, Zootopia themed enamel fridge magnet design, cir
 
 ---
 
+<<<<<<< HEAD
 ### No. 105: 杭州地形图
+=======
+### No. 108: 杭州地形图
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3596,7 +4069,11 @@ Modern minimalist design style, Zootopia themed enamel fridge magnet design, cir
 
 ---
 
+<<<<<<< HEAD
 ### No. 106: 莫比乌斯和金政基混合风格的乐队插画
+=======
+### No. 109: 莫比乌斯和金政基混合风格的乐队插画
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3629,7 +4106,11 @@ Modern minimalist design style, Zootopia themed enamel fridge magnet design, cir
 
 ---
 
+<<<<<<< HEAD
 ### No. 107: 当代中国小说家图鉴
+=======
+### No. 110: 当代中国小说家图鉴
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3681,7 +4162,11 @@ Modern minimalist design style, Zootopia themed enamel fridge magnet design, cir
 
 ---
 
+<<<<<<< HEAD
 ### No. 108: 中国美食地图信息图海报
+=======
+### No. 111: 中国美食地图信息图海报
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3757,6 +4242,10 @@ Modern minimalist design style, Zootopia themed enamel fridge magnet design, cir
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
+<<<<<<< HEAD
 <sub>🤖 此 README 自动生成。最后更新： 2025-12-10T09:54:44.548Z</sub>
+=======
+<sub>🤖 此 README 自动生成。最后更新： 2025-12-10T12:21:02.754Z</sub>
+>>>>>>> 2df28494243c5c8b45a191e6767e0e16b9704d1b
 
 </div>
