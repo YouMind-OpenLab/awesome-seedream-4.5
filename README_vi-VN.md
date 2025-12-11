@@ -90,7 +90,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **112** |
 | ⭐ Nổi bật | **0** |
-| 🔄 Cập nhật lần cuối | **lúc 12:22:09 UTC Thứ Năm, 11 tháng 12, 2025** |
+| 🔄 Cập nhật lần cuối | **lúc 16:15:45 UTC Thứ Năm, 11 tháng 12, 2025** |
 
 </div>
 
@@ -119,7 +119,7 @@ Một áp phích vui nhộn và mang tính giáo dục cho hội chợ khoa họ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359646358_zspn1j_00dc35614217759a1ac037ff108b7f90289c94d0a1d5608a917db3eb67739092-600x900.png" width="600" alt="Áp phích Hội chợ Khoa học Vui nhộn và Giáo dục dành cho Trẻ em - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359646358_zspn1j_00dc35614217759a1ac037ff108b7f90289c94d0a1d5608a917db3eb67739092-600x900.png" width="600" alt="Áp phích Hội chợ Khoa học Vui nhộn và Giáo dục dành cho Trẻ em - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -152,7 +152,7 @@ Một poster thời trang, bắt mắt dành cho chương trình giảm giá cu�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359647934_s6cd50_4eb3bcd431d809253c682482e40d34148f4c9fdf5ba65b00c11eaa279fe3230a-600x800.png" width="600" alt="Áp phích khuyến mãi thời trang thịnh hành - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359647934_s6cd50_4eb3bcd431d809253c682482e40d34148f4c9fdf5ba65b00c11eaa279fe3230a-600x800.png" width="600" alt="Áp phích khuyến mãi thời trang thịnh hành - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -185,7 +185,7 @@ Một tấm áp phích du lịch đầy khát vọng và đẹp mắt để ghé
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359647153_218ang_18e85e9a2161677e43484cb9cd7b1887218ccf8c936d1d72f58fef6c121a3ea8-600x900.png" width="600" alt="Áp phích du lịch đầy khát vọng về dãy Alps của Thụy Sĩ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359647153_218ang_18e85e9a2161677e43484cb9cd7b1887218ccf8c936d1d72f58fef6c121a3ea8-600x900.png" width="600" alt="Áp phích du lịch đầy khát vọng về dãy Alps của Thụy Sĩ - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -218,7 +218,7 @@ Một tờ rơi "Mèo bị lạc" hiệu quả và rõ ràng. Thiết kế đơn
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359674422_t8le7q_a7f1e1c4d786c8a59b6d56bed9f1794953eaf4c91d925c67b07d1ea281ad9f69-600x800.png" width="600" alt="Tờ rơi 'Mèo bị lạc' hiệu quả - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359674422_t8le7q_a7f1e1c4d786c8a59b6d56bed9f1794953eaf4c91d925c67b07d1ea281ad9f69-600x800.png" width="600" alt="Tờ rơi 'Mèo bị lạc' hiệu quả - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -251,7 +251,7 @@ Một áp phích cung cấp thông tin và hấp dẫn cho một buổi hội th
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359675240_wtti1k_510c61e386a172f76c297cc251ac9821ddd69c51683562b1f031106bbb682648-600x800.png" width="600" alt="Áp phích hội thảo thông tin về biến đổi khí hậu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359675240_wtti1k_510c61e386a172f76c297cc251ac9821ddd69c51683562b1f031106bbb682648-600x800.png" width="600" alt="Áp phích hội thảo thông tin về biến đổi khí hậu - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -284,7 +284,7 @@ Một quảng cáo áp phích đẹp mắt và tối giản cho tai nghe không 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359675191_mabnp6_d4ff0ab7b9e83178bdb7e5546de94745d68c03ddaa5d94b504aefe6a50e0d7f4-600x900.png" width="600" alt="Quảng cáo tai nghe không dây tối giản, kiểu dáng đẹp - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359675191_mabnp6_d4ff0ab7b9e83178bdb7e5546de94745d68c03ddaa5d94b504aefe6a50e0d7f4-600x900.png" width="600" alt="Quảng cáo tai nghe không dây tối giản, kiểu dáng đẹp - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -317,7 +317,7 @@ Một áp phích tràn đầy năng lượng và động lực cho cuộc chạy
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359698997_0535q8_9b84c623bf6bb66705b99447806c127dd3cec6a9e589365025568b97f69865d0-600x800.png" width="600" alt="Áp phích Chạy Bộ 5K Gây Quỹ Từ Thiện Đầy Năng Lượng - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359698997_0535q8_9b84c623bf6bb66705b99447806c127dd3cec6a9e589365025568b97f69865d0-600x800.png" width="600" alt="Áp phích Chạy Bộ 5K Gây Quỹ Từ Thiện Đầy Năng Lượng - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -350,7 +350,7 @@ Một tấm áp phích đầy kịch tính và tối giản cho vở kịch “H
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359699721_02hotm_a51c96ee3424f33d0b56d9c5ecd63f2ec580c0cd121f9eade399c950ed035404-600x900.png" width="600" alt="Áp phích Hamlet Tối giản Đầy kịch tính - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359699721_02hotm_a51c96ee3424f33d0b56d9c5ecd63f2ec580c0cd121f9eade399c950ed035404-600x900.png" width="600" alt="Áp phích Hamlet Tối giản Đầy kịch tính - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -383,7 +383,7 @@ Một tấm áp phích duyên dáng và mộc mạc dành cho chợ nông sản 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359700134_ix6s0n_aac15ea93919e9be4354837fd578b1dd1ab5f5eb0fa46415d47b4c11c9d1ae36-600x800.png" width="600" alt="Áp phích Chợ Nông sản Mộc mạc Đáng yêu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359700134_ix6s0n_aac15ea93919e9be4354837fd578b1dd1ab5f5eb0fa46415d47b4c11c9d1ae36-600x800.png" width="600" alt="Áp phích Chợ Nông sản Mộc mạc Đáng yêu - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -416,7 +416,7 @@ Một poster độc đáo và mang phong cách độc lập cho liên hoan phim 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359726468_zopie3_4d8e818fd456103fde0de05f3d0f862ec8a451a32e6ec72f0dba56f5346c6fd2-600x900.png" width="600" alt="Áp phích Liên hoan phim ngắn độc lập độc đáo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359726468_zopie3_4d8e818fd456103fde0de05f3d0f862ec8a451a32e6ec72f0dba56f5346c6fd2-600x900.png" width="600" alt="Áp phích Liên hoan phim ngắn độc lập độc đáo - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -449,7 +449,7 @@ Một tấm áp phích thanh bình và nhẹ nhàng cho buổi hội thảo yoga
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765367961714_t47x0n_313e7deeb6c193d794d71ec8cec044dbc36e20b3f9e0fa338284467031d9e04f-600x800.png" width="600" alt="Áp phích Hội thảo Yoga & Thiền Serene - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765367961714_t47x0n_313e7deeb6c193d794d71ec8cec044dbc36e20b3f9e0fa338284467031d9e04f-600x800.png" width="600" alt="Áp phích Hội thảo Yoga & Thiền Serene - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -482,7 +482,7 @@ Một tờ rơi hấp dẫn và mời gọi cho lễ khai trương nhà hàng Ý
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765367961890_sii4rm_1f4e43ff4dda6b28373b94aed5aa7bffc4815c1f5d212053ab1a343051b86704-600x750.png" width="600" alt="Tờ rơi khai trương nhà hàng Ý - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765367961890_sii4rm_1f4e43ff4dda6b28373b94aed5aa7bffc4815c1f5d212053ab1a343051b86704-600x750.png" width="600" alt="Tờ rơi khai trương nhà hàng Ý - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -515,7 +515,7 @@ Một poster mạnh mẽ và đầy suy tư cho thông báo dịch vụ công c�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765367960733_h016tz_5ed05bd2ce5bba756b3a380cd7620a25b24a29a495ab05eafe9f2c85b4c08d8a-600x800.png" width="600" alt="Áp phích PSA về ô nhiễm nhựa - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765367960733_h016tz_5ed05bd2ce5bba756b3a380cd7620a25b24a29a495ab05eafe9f2c85b4c08d8a-600x800.png" width="600" alt="Áp phích PSA về ô nhiễm nhựa - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -548,7 +548,7 @@ Một bìa sách ly kỳ và bí ẩn cho tiểu thuyết trinh thám có tựa 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359749886_kp53z5_6e8b4aee7f3968c08d89355e02eac75f80081c5a652af5be3043a2f7ddf122f3-600x900.png" width="600" alt="Bìa sách tiểu thuyết trinh thám "Thám tử bóng đêm" - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359749886_kp53z5_6e8b4aee7f3968c08d89355e02eac75f80081c5a652af5be3043a2f7ddf122f3-600x900.png" width="600" alt="Bìa sách tiểu thuyết trinh thám "Thám tử bóng đêm" - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -581,7 +581,7 @@ Một tấm áp phích trang nhã và nghệ thuật cho triển lãm tranh kh�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359780100_qk33pd_beae2d398472f2b3de739d44e5bf89f8efa9c33dfe4296325c296f7d75081a85-600x900.png" width="600" alt="Áp phích Bảo tàng Tranh khắc gỗ Ukiyo-e Nhật Bản - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359780100_qk33pd_beae2d398472f2b3de739d44e5bf89f8efa9c33dfe4296325c296f7d75081a85-600x900.png" width="600" alt="Áp phích Bảo tàng Tranh khắc gỗ Ukiyo-e Nhật Bản - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -614,7 +614,7 @@ Một tờ rơi tuyển dụng táo bạo và trực tiếp dành cho một star
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359779471_v1iid4_2be83f81b65155b8bd931d172064c1bc0cc2fb041ac281d6514d194c61e594a6-600x800.png" width="600" alt="Tuyển dụng Nhà phát triển phần mềm - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359779471_v1iid4_2be83f81b65155b8bd931d172064c1bc0cc2fb041ac281d6514d194c61e594a6-600x800.png" width="600" alt="Tuyển dụng Nhà phát triển phần mềm - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -647,7 +647,7 @@ Một áp phích sống động, ảo giác cho lễ hội âm nhạc mùa hè m
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359797691_hgduy7_7f38ccdb2888614aea47dcabcb193265155dc519db24136d6482c0dd6a6c1160-600x900.png" width="600" alt="Áp phích Lễ hội Âm nhạc Psychedelic "Ethereal Bloom" - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359797691_hgduy7_7f38ccdb2888614aea47dcabcb193265155dc519db24136d6482c0dd6a6c1160-600x900.png" width="600" alt="Áp phích Lễ hội Âm nhạc Psychedelic "Ethereal Bloom" - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -680,7 +680,7 @@ Một poster phim điện ảnh hoành tráng, đậm chất sử thi cho bộ p
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359801504_0xpg0w_1e5e6f6d40dcbf37b3007a60a5143337e0a67b48f0bae155544672a004419bb1-600x900.png" width="600" alt="Áp phích phim khoa học viễn tưởng điện ảnh "CHRONOS" - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359801504_0xpg0w_1e5e6f6d40dcbf37b3007a60a5143337e0a67b48f0bae155544672a004419bb1-600x900.png" width="600" alt="Áp phích phim khoa học viễn tưởng điện ảnh "CHRONOS" - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -713,7 +713,7 @@ Hình thu nhỏ cho video hướng dẫn "Cách tạo trang web trong 10 phút".
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359803888_85aak1_7db4d11cf8cb3d575477d6fcb44c884e843e09a9d1c849534498fc289271574c-600x337.png" width="600" alt="Hình thu nhỏ hướng dẫn xây dựng trang web - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359803888_85aak1_7db4d11cf8cb3d575477d6fcb44c884e843e09a9d1c849534498fc289271574c-600x337.png" width="600" alt="Hình thu nhỏ hướng dẫn xây dựng trang web - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -746,7 +746,7 @@ Một hình thu nhỏ cho thử thách "Chỉ ăn đồ ăn từ máy bán hàng
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359826384_5thcf7_cf2681b72434f1f9eb3abcd48a02db5ba77094a0806434a7083b13088ea01ca2-600x337.png" width="600" alt="Hình thu nhỏ thử thách đồ ăn máy bán hàng tự động - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359826384_5thcf7_cf2681b72434f1f9eb3abcd48a02db5ba77094a0806434a7083b13088ea01ca2-600x337.png" width="600" alt="Hình thu nhỏ thử thách đồ ăn máy bán hàng tự động - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -779,7 +779,7 @@ Một ảnh thumbnail cho video chơi khăm. Hình ảnh ghi lại khoảnh kh�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359826812_3kmm0z_c27c032b4e0eb4dd230eb1dbc5d907728aef5e86c12c00bd34808d2d640ef7f7-600x337.png" width="600" alt="Hình thu nhỏ video chơi khăm - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359826812_3kmm0z_c27c032b4e0eb4dd230eb1dbc5d907728aef5e86c12c00bd34808d2d640ef7f7-600x337.png" width="600" alt="Hình thu nhỏ video chơi khăm - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -812,7 +812,7 @@ Một ảnh thumbnail cho video “5-Minute Life Hacks”. Hình ảnh là một
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359826854_zld663_5e728a1a63f054c88f1d7d774ba7d0e36ca40b9fad806abddf954eb7d957ef54-600x337.png" width="600" alt="Hình thu nhỏ cho Mẹo vặt cuộc sống 5 phút - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359826854_zld663_5e728a1a63f054c88f1d7d774ba7d0e36ca40b9fad806abddf954eb7d957ef54-600x337.png" width="600" alt="Hình thu nhỏ cho Mẹo vặt cuộc sống 5 phút - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -845,7 +845,7 @@ Hình thu nhỏ cho video unboxing một thiết bị công nghệ mới, đắt
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359851834_un6clb_85a267e1d3130620520e2800c5866185ed2faa39f4085ff237d045b4ef4ffce7-600x337.png" width="600" alt="Hình thu nhỏ mở hộp thiết bị công nghệ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359851834_un6clb_85a267e1d3130620520e2800c5866185ed2faa39f4085ff237d045b4ef4ffce7-600x337.png" width="600" alt="Hình thu nhỏ mở hộp thiết bị công nghệ - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -878,7 +878,7 @@ Hình thu nhỏ cho phim tài liệu về Ai Cập cổ đại. Hình ảnh là 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359853121_adq5sn_fab0eac438d07ba84861e7fabce5dd05b6a36b2183b7b06b72c5ad546aa7df69-600x337.png" width="600" alt="Ảnh thu nhỏ phim tài liệu Ai Cập cổ đại - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359853121_adq5sn_fab0eac438d07ba84861e7fabce5dd05b6a36b2183b7b06b72c5ad546aa7df69-600x337.png" width="600" alt="Ảnh thu nhỏ phim tài liệu Ai Cập cổ đại - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -911,7 +911,7 @@ Một hình ảnh thu nhỏ cho bài đánh giá về một siêu xe điện m�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359852520_3t2hlv_4514080c766c42a1255a2246ff4b6261d85db0f25a78dd70994fe22caa05f7cb-600x337.png" width="600" alt="Hình thu nhỏ đánh giá siêu xe điện - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359852520_3t2hlv_4514080c766c42a1255a2246ff4b6261d85db0f25a78dd70994fe22caa05f7cb-600x337.png" width="600" alt="Hình thu nhỏ đánh giá siêu xe điện - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -944,7 +944,7 @@ Một hình thu nhỏ tối tăm và bí ẩn cho phim tài liệu về tội ph
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359875601_ti4vut_5ebeba4d9fc7284defb13ff5cbdf69102cae60e95aaa7af3bfd9e512b2a79d2f-600x337.png" width="600" alt="Hình thu nhỏ phim tài liệu tội phạm có thật - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359875601_ti4vut_5ebeba4d9fc7284defb13ff5cbdf69102cae60e95aaa7af3bfd9e512b2a79d2f-600x337.png" width="600" alt="Hình thu nhỏ phim tài liệu tội phạm có thật - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -977,7 +977,7 @@ Một hình thu nhỏ cho video kết quả "Thử thách thể hình 30 ngày".
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359877133_wfrjxo_71b453d5c7354270702bd21ea6ce5c292083909941c78792940f78f07738b929-600x337.png" width="600" alt="Hình thu nhỏ: Kết quả Thử thách Thể hình 30 ngày - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359877133_wfrjxo_71b453d5c7354270702bd21ea6ce5c292083909941c78792940f78f07738b929-600x337.png" width="600" alt="Hình thu nhỏ: Kết quả Thử thách Thể hình 30 ngày - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1010,7 +1010,7 @@ Hình thu nhỏ cho một video giải thích về lỗ đen. Hình ảnh là m�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359877066_tmo2mz_8ef67c65974dda9a310ea2835c5dfe9c4503821ef97bdeb9a7fd193f301d5313-600x337.png" width="600" alt="Hình thu nhỏ Giải thích Hố đen - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359877066_tmo2mz_8ef67c65974dda9a310ea2835c5dfe9c4503821ef97bdeb9a7fd193f301d5313-600x337.png" width="600" alt="Hình thu nhỏ Giải thích Hố đen - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1043,7 +1043,7 @@ Một hình thu nhỏ cho video trang trí nhà cửa tự làm (DIY). Hình ả
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359900370_9r1704_ab90bfdfcf0d0c7ab2556c996cbd238f4fe239e87325268a10cd40436c3f3634-600x337.png" width="600" alt="Tự Tay Cải Tạo Phòng: Trước và Sau - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359900370_9r1704_ab90bfdfcf0d0c7ab2556c996cbd238f4fe239e87325268a10cd40436c3f3634-600x337.png" width="600" alt="Tự Tay Cải Tạo Phòng: Trước và Sau - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1076,7 +1076,7 @@ Hình thu nhỏ cho video công thức "Bánh Sô-cô-la Tuyệt Đỉnh". Hình
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359901359_1x34it_03121fa70e72330556cbd276f62b40bb3b959dd20737ecf355e76d61e5a3e077-600x337.png" width="600" alt="Hình thu nhỏ công thức bánh sô cô la tuyệt đỉnh - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359901359_1x34it_03121fa70e72330556cbd276f62b40bb3b959dd20737ecf355e76d61e5a3e077-600x337.png" width="600" alt="Hình thu nhỏ công thức bánh sô cô la tuyệt đỉnh - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1109,7 +1109,7 @@ Hình thu nhỏ cho video “Minecraft Survival”. Hình ảnh cho thấy nhân
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765369899639_932wt1_image-600x337.png" width="600" alt="Ảnh thu nhỏ video Minecraft Sinh tồn - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765369899639_932wt1_image-600x337.png" width="600" alt="Ảnh thu nhỏ video Minecraft Sinh tồn - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1142,7 +1142,7 @@ Một hình thu nhỏ tuyệt đẹp cho vlog du lịch về Bali. Hình ảnh l
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359903042_30dda6_1b055fabcac0ef74ade652ee5f228fd4eabc9b207be6f70f37a1616a3de931e2-600x337.png" width="600" alt="Ảnh thu nhỏ Vlog Du lịch Bali - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359903042_30dda6_1b055fabcac0ef74ade652ee5f228fd4eabc9b207be6f70f37a1616a3de931e2-600x337.png" width="600" alt="Ảnh thu nhỏ Vlog Du lịch Bali - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1175,7 +1175,7 @@ Hình thu nhỏ cho bài đánh giá điện thoại thông minh mới nhất. C
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359924818_vj5g9z_a672cbbb55c04d0fd842612f03751ff6f71209ee26810d0ecb31fb0006abacf0-600x337.png" width="600" alt="Hình thu nhỏ đánh giá điện thoại thông minh - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359924818_vj5g9z_a672cbbb55c04d0fd842612f03751ff6f71209ee26810d0ecb31fb0006abacf0-600x337.png" width="600" alt="Hình thu nhỏ đánh giá điện thoại thông minh - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1208,7 +1208,7 @@ Một ảnh thumbnail tràn đầy năng lượng cho video "Thử thách không
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359926354_hoegcp_68ca62b3e06921c89f49982ed2dc9c4feff4e9435c2c33f98c1c42669ab38f7e-600x337.png" width="600" alt="Hình thu nhỏ Thử thách Đừng Cười - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359926354_hoegcp_68ca62b3e06921c89f49982ed2dc9c4feff4e9435c2c33f98c1c42669ab38f7e-600x337.png" width="600" alt="Hình thu nhỏ Thử thách Đừng Cười - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1241,7 +1241,7 @@ Sơ đồ kiến trúc hệ thống cấp cao cho một ứng dụng web hiện 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359932380_34jgt9_cf89b086154f3db23cb91cf01007b07ff5b0d1d6de917cbdfd872738fc0d5298-600x337.png" width="600" alt="Sơ đồ kiến trúc hệ thống ứng dụng web - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359932380_34jgt9_cf89b086154f3db23cb91cf01007b07ff5b0d1d6de917cbdfd872738fc0d5298-600x337.png" width="600" alt="Sơ đồ kiến trúc hệ thống ứng dụng web - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1274,7 +1274,7 @@ Một thẻ công thức được minh họa đẹp mắt để làm mì ống t
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359944420_tw6rfy_77721eb71d52cc73d3605105bd8b7a9888b199ad870f6a4296bfc6c56102fd53-600x800.png" width="600" alt="Thẻ Công Thức Mì Ống Tự Làm Minh Họa - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359944420_tw6rfy_77721eb71d52cc73d3605105bd8b7a9888b199ad870f6a4296bfc6c56102fd53-600x800.png" width="600" alt="Thẻ Công Thức Mì Ống Tự Làm Minh Họa - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1307,7 +1307,7 @@ Hướng dẫn an toàn trực quan cho nơi làm việc, minh họa tư thế n
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359948609_2vso37_0490ff1e27881908c2f57279ed53cb0683a6246fe993c76ed401e66f57f0caac-600x800.png" width="600" alt="Hướng Dẫn An Toàn Về Tư Thế Làm Việc - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359948609_2vso37_0490ff1e27881908c2f57279ed53cb0683a6246fe993c76ed401e66f57f0caac-600x800.png" width="600" alt="Hướng Dẫn An Toàn Về Tư Thế Làm Việc - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1340,7 +1340,7 @@ Một sơ đồ rõ ràng và đơn giản giải thích cách hoạt động c�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359951657_6x8wiq_a28d98bfdcf6bcfbf29d169ba7af5ea98ab3794f7bd1909ab4b05462414b7772-600x337.png" width="600" alt="Sơ đồ hoạt động của máy in 3D - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359951657_6x8wiq_a28d98bfdcf6bcfbf29d169ba7af5ea98ab3794f7bd1909ab4b05462414b7772-600x337.png" width="600" alt="Sơ đồ hoạt động của máy in 3D - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1373,7 +1373,7 @@ Một bản đồ minh họa phong cách, đẳng cự của một công viên q
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359970268_rcdthd_bf500cba6499874444cf6ff9375a9c765df1bb571a2b8216c70ffa7a3a283d54-600x450.png" width="600" alt="Bản đồ Công viên Quốc gia Isometric - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359970268_rcdthd_bf500cba6499874444cf6ff9375a9c765df1bb571a2b8216c70ffa7a3a283d54-600x450.png" width="600" alt="Bản đồ Công viên Quốc gia Isometric - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1406,7 +1406,7 @@ Một phần của bản vẽ kiểu thiết kế chi tiết giải thích khái
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359973271_pdbxwc_c6b94b7b550aac22ddcc5cb218e2579891facd7bf4789233eb0581b2ba0c84d9-600x337.png" width="600" alt="Thiết Kế Năng Lượng Mặt Trời Thụ Động Blueprint - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359973271_pdbxwc_c6b94b7b550aac22ddcc5cb218e2579891facd7bf4789233eb0581b2ba0c84d9-600x337.png" width="600" alt="Thiết Kế Năng Lượng Mặt Trời Thụ Động Blueprint - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1439,7 +1439,7 @@ Một hình minh họa khoa học chi tiết về tế bào thực vật, theo p
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359975492_2deaph_df758e9f5d5ddd765d001220d1412d72984f04eb480958eeb7f9ac08e4275cee-600x450.png" width="600" alt="Minh họa Tế bào Thực vật Khoa học - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359975492_2deaph_df758e9f5d5ddd765d001220d1412d72984f04eb480958eeb7f9ac08e4275cee-600x450.png" width="600" alt="Minh họa Tế bào Thực vật Khoa học - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1472,7 +1472,7 @@ Một hình ảnh trực quan dữ liệu đẹp mắt và giàu thông tin cho 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359995792_935v79_451d9e59da9ac0d1e4ab12f3fc35b626497c9a0386c651672c3556e1ec4fc70a-600x337.png" width="600" alt="Trực quan hóa dữ liệu nạn phá rừng toàn cầu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359995792_935v79_451d9e59da9ac0d1e4ab12f3fc35b626497c9a0386c651672c3556e1ec4fc70a-600x337.png" width="600" alt="Trực quan hóa dữ liệu nạn phá rừng toàn cầu - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1505,7 +1505,7 @@ Một hình minh họa kỹ thuật dạng tách rời của máy ảnh DSLR. M�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359997080_1prfza_c8269754000f110a97bf65145ca5373a1fc1fbe87f6b30e334dffbd18bc5b5df-600x337.png" width="600" alt="Hình minh họa máy ảnh DSLR dạng cắt lớp - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359997080_1prfza_c8269754000f110a97bf65145ca5373a1fc1fbe87f6b30e334dffbd18bc5b5df-600x337.png" width="600" alt="Hình minh họa máy ảnh DSLR dạng cắt lớp - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1538,7 +1538,7 @@ Một biểu đồ so sánh trực quan (một infographic "so sánh") giữa ô
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765359996985_swkfjt_025cf48cdf39f10755df260dea0d9796003eb88ba7ff741c5ef20828050b678b-600x337.png" width="600" alt="So sánh ô tô điện và ô tô chạy xăng - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765359996985_swkfjt_025cf48cdf39f10755df260dea0d9796003eb88ba7ff741c5ef20828050b678b-600x337.png" width="600" alt="So sánh ô tô điện và ô tô chạy xăng - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1571,7 +1571,7 @@ Một hướng dẫn trực quan, từng bước đơn giản về “Cách pha 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360020018_utsoub_569c26ce3c8be204cf2719b1245fa0d66c9364713f37e088e9c7f89b24103f68-600x1200.png" width="600" alt="Hướng Dẫn Pha Cà Phê Pour-Over - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360020018_utsoub_569c26ce3c8be204cf2719b1245fa0d66c9364713f37e088e9c7f89b24103f68-600x1200.png" width="600" alt="Hướng Dẫn Pha Cà Phê Pour-Over - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1604,7 +1604,7 @@ Một sơ đồ cắt lớp 3D của một ngọn núi lửa, thể hiện cấu
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360021554_hz6eqa_15384c7a700e2f6caf11a1ae450c9b4f2fa7259b6bd2aab631cd7ddbdea697bb-600x337.png" width="600" alt="Sơ đồ cắt lớp núi lửa 3D - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360021554_hz6eqa_15384c7a700e2f6caf11a1ae450c9b4f2fa7259b6bd2aab631cd7ddbdea697bb-600x337.png" width="600" alt="Sơ đồ cắt lớp núi lửa 3D - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1637,7 +1637,7 @@ Một hình minh họa chi tiết, theo phong cách bảng đen cổ điển gi�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360021711_vf88g1_375e97890c3e1c912a6be2d5a3238a4fe91a2a3e99abc7e9caeade8d5ebde855-600x450.png" width="600" alt="Giải phẫu Tim Bảng đen Cổ điển - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360021711_vf88g1_375e97890c3e1c912a6be2d5a3238a4fe91a2a3e99abc7e9caeade8d5ebde855-600x450.png" width="600" alt="Giải phẫu Tim Bảng đen Cổ điển - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1670,7 +1670,7 @@ Một sơ đồ tư duy sống động và tự nhiên xoay quanh chủ đề "T
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360046589_xbdktm_7f8ef516875cb2529572760ff3af83434fa448b108c72ee77fbed2f0d0c31349-600x337.png" width="600" alt="Sơ đồ tư duy sống động cho tư duy sáng tạo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360046589_xbdktm_7f8ef516875cb2529572760ff3af83434fa448b108c72ee77fbed2f0d0c31349-600x337.png" width="600" alt="Sơ đồ tư duy sống động cho tư duy sáng tạo - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1703,7 +1703,7 @@ Một biểu đồ quy trình sạch sẽ và chuyên nghiệp minh họa vòng 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360048342_c53zez_ee77452b9f75a5acfcb5d1f9cce49aa48c929b421e9b18173c78f58aaa3340b5-600x337.png" width="600" alt="Sơ đồ luồng SDLC chuyên nghiệp - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360048342_c53zez_ee77452b9f75a5acfcb5d1f9cce49aa48c929b421e9b18173c78f58aaa3340b5-600x337.png" width="600" alt="Sơ đồ luồng SDLC chuyên nghiệp - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1736,7 +1736,7 @@ Một bản giải thích chi tiết, vẽ tay trên bảng trắng về quá tr
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360049311_aiw2tn_57462cb7394928f1406090ed7f8a63b9f188c3a2475b057361262f1842e3904b-600x337.png" width="600" alt="Giải thích Quang hợp trên Bảng trắng - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360049311_aiw2tn_57462cb7394928f1406090ed7f8a63b9f188c3a2475b057361262f1842e3904b-600x337.png" width="600" alt="Giải thích Quang hợp trên Bảng trắng - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1769,7 +1769,7 @@ Một hình ảnh thanh bình và êm dịu cho bài đăng về chăm sóc bả
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360072488_tpymr8_dde65621d97d14063e3d68ed13f389873d2eb1207bb870d484007949cda32fe8-600x400.png" width="600" alt="Tắm Serene để Tự Chăm Sóc - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360072488_tpymr8_dde65621d97d14063e3d68ed13f389873d2eb1207bb870d484007949cda32fe8-600x400.png" width="600" alt="Tắm Serene để Tự Chăm Sóc - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1802,7 +1802,7 @@ Một bức ảnh chụp xưởng vẽ của một nghệ sĩ, tuy lộn xộn n
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360073375_zdsx14_642c32b87cf5be86178882a3ce41f082d51ff7403ec7c14a2ff414736abd12fb-600x450.png" width="600" alt="Xưởng vẽ bừa bộn của nghệ sĩ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360073375_zdsx14_642c32b87cf5be86178882a3ce41f082d51ff7403ec7c14a2ff414736abd12fb-600x450.png" width="600" alt="Xưởng vẽ bừa bộn của nghệ sĩ - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1835,7 +1835,7 @@ Một bức ảnh ấm cúng và đậm chất lễ hội cho bài đăng Instag
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360073433_zgk9cr_4797fcbfa8cd3ff3bf1cb9894770f1dc19960ed270508561f45acbe17ea134e4-600x750.png" width="600" alt="Sô-cô-la Nóng Giáng Sinh Ấm Cúng - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360073433_zgk9cr_4797fcbfa8cd3ff3bf1cb9894770f1dc19960ed270508561f45acbe17ea134e4-600x750.png" width="600" alt="Sô-cô-la Nóng Giáng Sinh Ấm Cúng - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1868,7 +1868,7 @@ Một bức ảnh về dàn máy chơi game cao cấp, sẵn sàng cho buổi ph
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360098499_qow13s_063678853526af502f0b76f143585a8979a45a67dece2321fc4d79bf0da9f83f-600x337.png" width="600" alt="Cấu hình chơi game cao cấp - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360098499_qow13s_063678853526af502f0b76f143585a8979a45a67dece2321fc4d79bf0da9f83f-600x337.png" width="600" alt="Cấu hình chơi game cao cấp - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1901,7 +1901,7 @@ Một hình ảnh mạnh mẽ và đầy suy tư về một mầm xanh duy nhấ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360098798_0ty8mt_27b0b9e3e1c8d2fea5a0be237beb86d21c6c58e79dfea103cc7edb0f15e5f3d0-600x400.png" width="600" alt="Đâm Chồi Qua Đất Khô - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360098798_0ty8mt_27b0b9e3e1c8d2fea5a0be237beb86d21c6c58e79dfea103cc7edb0f15e5f3d0-600x400.png" width="600" alt="Đâm Chồi Qua Đất Khô - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1934,7 +1934,7 @@ Một bức ảnh macro, mang tính nghệ thuật về một bảng phấn mắ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360099051_05ebmu_d39be6af8bb56f8a40942d1fb704230eb8b901658fd0e7ceaafa68a04f2499d3-600x337.png" width="600" alt="Ảnh Chụp Bảng Phấn Mắt Macro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360099051_05ebmu_d39be6af8bb56f8a40942d1fb704230eb8b901658fd0e7ceaafa68a04f2499d3-600x337.png" width="600" alt="Ảnh Chụp Bảng Phấn Mắt Macro - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1967,7 +1967,7 @@ Một bức ảnh chụp bộ sưu tập đĩa than cổ điển nằm rải rá
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360124674_xzhr1p_7d16592f8f1aa02223f82ae42795ae66da069e1af33fe9e63371d52dd47b894c-600x600.png" width="600" alt="Bộ Sưu Tập Đĩa Than Cổ Điển - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360124674_xzhr1p_7d16592f8f1aa02223f82ae42795ae66da069e1af33fe9e63371d52dd47b894c-600x600.png" width="600" alt="Bộ Sưu Tập Đĩa Than Cổ Điển - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2000,7 +2000,7 @@ Một bức ảnh chụp góc đọc sách được trang trí đẹp mắt, tr�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360125025_ciiseo_5860277b77f24e38e81b2792eb00b894a0519067d7b2aa684e0c7c5536380593-600x800.png" width="600" alt="Góc Đọc Sách Đầy Ánh Sáng - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360125025_ciiseo_5860277b77f24e38e81b2792eb00b894a0519067d7b2aa684e0c7c5536380593-600x800.png" width="600" alt="Góc Đọc Sách Đầy Ánh Sáng - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2033,7 +2033,7 @@ Một bức ảnh flat-lay tối giản và sang trọng về một bộ trang p
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360125159_i2075w_a0b39b20f4395d55a2eb9c0a526a6f21b39a7b892567c39ee689a98a3d1f2575-600x750.png" width="600" alt="Phối Đồ Tối Giản Thanh Lịch Chụp Từ Trên Xuống - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360125159_i2075w_a0b39b20f4395d55a2eb9c0a526a6f21b39a7b892567c39ee689a98a3d1f2575-600x750.png" width="600" alt="Phối Đồ Tối Giản Thanh Lịch Chụp Từ Trên Xuống - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2066,7 +2066,7 @@ Một bức ảnh ghi lại khung cảnh đường phố sôi động của mộ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360152044_pk5sb6_e9ddfef112bb3b2bd6c55bfd15e05e2b643bb8e136662189eef61b6b7b729ec6-600x337.png" width="600" alt="Khung cảnh chợ đêm Đài Bắc sôi động - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360152044_pk5sb6_e9ddfef112bb3b2bd6c55bfd15e05e2b643bb8e136662189eef61b6b7b729ec6-600x337.png" width="600" alt="Khung cảnh chợ đêm Đài Bắc sôi động - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2099,7 +2099,7 @@ Một bức ảnh ngoạn mục chụp từ góc nhìn của một người đan
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360152223_ecnmvk_9bd9adf33a941d866242521ffec8b0294c759982f041b08601e09f200cc991e2-600x400.png" width="600" alt="Khung cảnh núi non nhìn từ lều - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360152223_ecnmvk_9bd9adf33a941d866242521ffec8b0294c759982f041b08601e09f200cc991e2-600x400.png" width="600" alt="Khung cảnh núi non nhìn từ lều - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2132,7 +2132,7 @@ Một bức ảnh lãng mạn và mơ màng về một cặp đôi đang dã ngo
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360152290_ucceii_2e1174d444139a8eb541644c3eb5020576fe4c220017db9e976b341d2a54a149-600x337.png" width="600" alt="Dã Ngoại Lãng Mạn Giữa Cánh Đồng Hoa Oải Hương - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360152290_ucceii_2e1174d444139a8eb541644c3eb5020576fe4c220017db9e976b341d2a54a149-600x337.png" width="600" alt="Dã Ngoại Lãng Mạn Giữa Cánh Đồng Hoa Oải Hương - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2165,7 +2165,7 @@ Một bức ảnh chụp từ trên cao được tạo kiểu đẹp mắt về 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360179002_wwu76m_70062e7ce488d2b620eee1af3585e26d690b5efc7951939621407713383231e4-600x600.png" width="600" alt="Ảnh Chụp Từ Trên Cao Quá Trình Chế Tác Thư Pháp - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360179002_wwu76m_70062e7ce488d2b620eee1af3585e26d690b5efc7951939621407713383231e4-600x600.png" width="600" alt="Ảnh Chụp Từ Trên Cao Quá Trình Chế Tác Thư Pháp - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2198,7 +2198,7 @@ Một bức ảnh sống động và mạnh mẽ về một nữ vận động v
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360179604_xwadaf_4bc42730fac9b6b298ba8f732b6431248ae84dd281657d8709a0c816b1de3304-600x750.png" width="600" alt="Ảnh chụp buổi tập luyện của vận động viên nữ năng động - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360179604_xwadaf_4bc42730fac9b6b298ba8f732b6431248ae84dd281657d8709a0c816b1de3304-600x750.png" width="600" alt="Ảnh chụp buổi tập luyện của vận động viên nữ năng động - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2231,7 +2231,7 @@ Một bức ảnh cận cảnh cực kỳ hấp dẫn về một chồng bánh p
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360185212_vl0ce8_70017eedaaad9b54e0a49da5a3b8b7de1af4e256b97a1ba157b7b884114968ba-600x600.png" width="600" alt="Ảnh Chụp Bánh Kếp Hấp Dẫn - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360185212_vl0ce8_70017eedaaad9b54e0a49da5a3b8b7de1af4e256b97a1ba157b7b884114968ba-600x600.png" width="600" alt="Ảnh Chụp Bánh Kếp Hấp Dẫn - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2264,7 +2264,7 @@ Một bức ảnh street style của một influencer thời trang ở Paris tro
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360204383_1ci042_1b3b9a6717aab1c6f9fc0068aac1becadb4d037b522eb47cf359437d908456a6-600x800.png" width="600" alt="Phong cách đường phố của người có ảnh hưởng thời trang Paris - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360204383_1ci042_1b3b9a6717aab1c6f9fc0068aac1becadb4d037b522eb47cf359437d908456a6-600x800.png" width="600" alt="Phong cách đường phố của người có ảnh hưởng thời trang Paris - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2297,7 +2297,7 @@ Một bức ảnh chân thực, ấm áp về một chú chó Golden Retriever c
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360205636_17iyst_f56f471d208f74fe3b796f5ea9e53dd60401af8e47242309fdc7119c652ee5e1-600x400.png" width="600" alt="Chó con Golden Retriever trong lá mùa thu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360205636_17iyst_f56f471d208f74fe3b796f5ea9e53dd60401af8e47242309fdc7119c652ee5e1-600x400.png" width="600" alt="Chó con Golden Retriever trong lá mùa thu - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2330,7 +2330,7 @@ Một bức ảnh chân thực, đậm chất điện ảnh về một phụ n�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360207630_nsjfk5_fabb02d530b4a43eed2633aeec2c7d448f898236c81c39d909b63fee4b4f792b-600x750.png" width="600" alt="Cảnh quay du lịch một mình đậm chất điện ảnh - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360207630_nsjfk5_fabb02d530b4a43eed2633aeec2c7d448f898236c81c39d909b63fee4b4f792b-600x750.png" width="600" alt="Cảnh quay du lịch một mình đậm chất điện ảnh - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2364,7 +2364,7 @@ Chỉnh sửa hình ảnh thành một bức chân dung nghệ thuật có kết
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360229744_nvm9w5_1765288935135-wud1t9-0217652888936922504cb05148e9a08cc7612c3f2b24e52b75ef9_0-600x800.jpg" width="600" alt="Lưới nghệ thuật phim ba ô - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360229744_nvm9w5_1765288935135-wud1t9-0217652888936922504cb05148e9a08cc7612c3f2b24e52b75ef9_0-600x800.jpg" width="600" alt="Lưới nghệ thuật phim ba ô - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2397,7 +2397,7 @@ h0674kz, hello kitty thổi tung văn phòng, phong cách phim cổ điển, h�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360229710_tgjwxf_1765288474005-k41are-0217652884614137b67bbc2a2a9a26108e071e40bb0b084bb4c62_0-600x600.jpg" width="600" alt="Hello Kitty: Hỗn Loạn Văn Phòng - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360229710_tgjwxf_1765288474005-k41are-0217652884614137b67bbc2a2a9a26108e071e40bb0b084bb4c62_0-600x600.jpg" width="600" alt="Hello Kitty: Hỗn Loạn Văn Phòng - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2430,7 +2430,7 @@ h0674kz, hình dán ngôi sao đầy màu sắc, đài phun nước trang trí b
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360230270_ezv9cs_1765288370319-dqtbl9-0217652883542227b67bbc2a2a9a26108e071e40bb0b084e528f9_0-600x600.jpg" width="600" alt="Đài phun nước pha lê với những vì sao - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360230270_ezv9cs_1765288370319-dqtbl9-0217652883542227b67bbc2a2a9a26108e071e40bb0b084e528f9_0-600x600.jpg" width="600" alt="Đài phun nước pha lê với những vì sao - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2463,7 +2463,7 @@ Geisha (chi tiết kimono truyền thống, trang điểm mặt trắng) đi tr�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360245230_cdsky8_1765275017915-b4oun1-02176527500110899f4740eadd3360aa6250e68d85f7ec7d1ab1c_0-600x1068.jpg" width="600" alt="Khoảnh khắc Geisha Kyoto - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360245230_cdsky8_1765275017915-b4oun1-02176527500110899f4740eadd3360aa6250e68d85f7ec7d1ab1c_0-600x1068.jpg" width="600" alt="Khoảnh khắc Geisha Kyoto - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2497,7 +2497,7 @@ Một lời nhắc về đêm thành phố lễ hội ghi lại Giáng sinh ở 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360246013_zi91m8_1765275008056-awrlob-02176527499183730d072d337ea6fcc7bbfbe2f0c485be2133621_0-600x337.jpg" width="600" alt="Đêm Giáng sinh ở NYC - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360246013_zi91m8_1765275008056-awrlob-02176527499183730d072d337ea6fcc7bbfbe2f0c485be2133621_0-600x337.jpg" width="600" alt="Đêm Giáng sinh ở NYC - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2530,7 +2530,7 @@ Cảnh hoàng hôn tại khu cắm trại trên núi, chi tiết lều dã ngo�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360246893_mtapx3_1765275019542-dn719s-02176527499084515b33ccaa151d3ed7feaaa761bc71c37d80b76_0-600x337.jpg" width="600" alt="Khung cảnh cắm trại lúc hoàng hôn - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360246893_mtapx3_1765275019542-dn719s-02176527499084515b33ccaa151d3ed7feaaa761bc71c37d80b76_0-600x337.jpg" width="600" alt="Khung cảnh cắm trại lúc hoàng hôn - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2564,7 +2564,7 @@ Cận cảnh {argument name="subject" default="người phụ nữ lực lưỡn
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360261690_4x4uf4_1765275000507-sqsucj-02176527498905999f4740eadd3360aa6250e68d85f7ec76a5c3d_0-600x600.jpg" width="600" alt="Tập Luyện Cường Độ Cao Đơn Sắc - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360261690_4x4uf4_1765275000507-sqsucj-02176527498905999f4740eadd3360aa6250e68d85f7ec76a5c3d_0-600x600.jpg" width="600" alt="Tập Luyện Cường Độ Cao Đơn Sắc - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2597,7 +2597,7 @@ Môi trường vật lý thực tế bên trong Trạm Vũ trụ Quốc tế, ph
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360262884_b88c1d_1765274990209-k4hrrh-02176527497561815b33ccaa151d3ed7feaaa761bc71c37a78d07_0-600x600.jpg" width="600" alt="Nội thất Tàu vũ trụ ISS - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360262884_b88c1d_1765274990209-k4hrrh-02176527497561815b33ccaa151d3ed7feaaa761bc71c37a78d07_0-600x600.jpg" width="600" alt="Nội thất Tàu vũ trụ ISS - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2630,7 +2630,7 @@ Trực quan hóa luồng dữ liệu cấu trúc 3D mạng nơ-ron, các nút n�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360268560_ru3u50_1765274988508-6ncxi9-02176527496911399f4740eadd3360aa6250e68d85f7ec7e96f29_0-600x337.jpg" width="600" alt="Trực quan hóa Mạng nơ-ron - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360268560_ru3u50_1765274988508-6ncxi9-02176527496911399f4740eadd3360aa6250e68d85f7ec7e96f29_0-600x337.jpg" width="600" alt="Trực quan hóa Mạng nơ-ron - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2664,7 +2664,7 @@ Nội thất toàn cảnh homestay tối giản kiểu Nhật Bản {argument na
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360278768_h291le_1765274957426-7ugun0-02176527494361030d072d337ea6fcc7bbfbe2f0c485be262967b_0-600x257.jpg" width="600" alt="Nội thất Wabi-Sabi Nhật Bản - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360278768_h291le_1765274957426-7ugun0-02176527494361030d072d337ea6fcc7bbfbe2f0c485be262967b_0-600x257.jpg" width="600" alt="Nội thất Wabi-Sabi Nhật Bản - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2698,7 +2698,7 @@ Cận cảnh {argument name="product" default="thỏi son cao cấp"} đặt tr�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360278696_3z2znz_1765274938378-ir04ld-02176527492419215b33ccaa151d3ed7feaaa761bc71c372a0d71_0-600x337.jpg" width="600" alt="Chụp ảnh sản phẩm cao cấp - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360278696_3z2znz_1765274938378-ir04ld-02176527492419215b33ccaa151d3ed7feaaa761bc71c372a0d71_0-600x337.jpg" width="600" alt="Chụp ảnh sản phẩm cao cấp - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2732,7 +2732,7 @@ K-pop nhóm {argument name="number of people" default="four-member"} ảnh conce
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360279863_tz4g4f_1765274910581-tq9tne-02176527489415015b33ccaa151d3ed7feaaa761bc71c37a7cd8b_0-600x337.jpg" width="600" alt="Phong cách K-Pop Tương Lai - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360279863_tz4g4f_1765274910581-tq9tne-02176527489415015b33ccaa151d3ed7feaaa761bc71c37a7cd8b_0-600x337.jpg" width="600" alt="Phong cách K-Pop Tương Lai - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2766,7 +2766,7 @@ Chân dung tối giản nửa thân của một {argument name="subject" default
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360294364_xh7py4_1765274895843-7atxql-02176527488562899f4740eadd3360aa6250e68d85f7ec7240623_0-600x600.jpg" width="600" alt="Chân Dung Thời Trang Cao Cấp Tối Giản - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360294364_xh7py4_1765274895843-7atxql-02176527488562899f4740eadd3360aa6250e68d85f7ec7240623_0-600x600.jpg" width="600" alt="Chân Dung Thời Trang Cao Cấp Tối Giản - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2800,7 +2800,7 @@ Ghi lại cảnh chiến đấu siêu anh hùng đầy kịch tính với hiệu
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360294446_b2592m_1765274884527-5qoikv-0217652748491047ed3dd5a26da08a73b6b7a28831080928df278_0-600x337.jpg" width="600" alt="Hành Động Siêu Anh Hùng Đầy Kịch Tính - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360294446_b2592m_1765274884527-5qoikv-0217652748491047ed3dd5a26da08a73b6b7a28831080928df278_0-600x337.jpg" width="600" alt="Hành Động Siêu Anh Hùng Đầy Kịch Tính - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2834,7 +2834,7 @@ Tạo ra một khung cảnh buổi hòa nhạc sân vận động ngoạn mục 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360294924_376i3s_1765274893099-wen28j-02176527488074375aeae14c82856eca08eecb5e75c0575f6b505_0-600x337.jpg" width="600" alt="Không khí buổi hòa nhạc tại sân vận động - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360294924_376i3s_1765274893099-wen28j-02176527488074375aeae14c82856eca08eecb5e75c0575f6b505_0-600x337.jpg" width="600" alt="Không khí buổi hòa nhạc tại sân vận động - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2868,7 +2868,7 @@ Nội thất phòng mơ ước của Barbie, tường màu {argument name="wall 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360309359_gxt805_1765274866398-qhrtja-02176527483217975aeae14c82856eca08eecb5e75c05752b8142_0-600x600.jpg" width="600" alt="Phòng mơ ước của Barbie - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360309359_gxt805_1765274866398-qhrtja-02176527483217975aeae14c82856eca08eecb5e75c05752b8142_0-600x600.jpg" width="600" alt="Phòng mơ ước của Barbie - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2902,7 +2902,7 @@ Một {argument name="gender" default="phụ nữ"} {argument name="age" default
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360310269_g67vo3_1765274880173-hxchdb-02176527486700575aeae14c82856eca08eecb5e75c057534d7a5_0-600x400.jpg" width="600" alt="Phong cách sống Bờ biển Amalfi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360310269_g67vo3_1765274880173-hxchdb-02176527486700575aeae14c82856eca08eecb5e75c057534d7a5_0-600x400.jpg" width="600" alt="Phong cách sống Bờ biển Amalfi - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2936,7 +2936,7 @@ Một lời nhắc gợi nhớ hoàn hảo tái tạo lại phong cách nhiếp 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360310481_xzf6b0_1765274865448-ih2b3j-021765274852656f8f49430e1e3875ff473008eb96b3a39f292b7_0-600x600.jpg" width="600" alt="Ảnh Selfie Máy Ảnh Kỹ Thuật Số Y2K - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360310481_xzf6b0_1765274865448-ih2b3j-021765274852656f8f49430e1e3875ff473008eb96b3a39f292b7_0-600x600.jpg" width="600" alt="Ảnh Selfie Máy Ảnh Kỹ Thuật Số Y2K - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2970,7 +2970,7 @@ Phong cách phim đen trắng 35mm, một {argument name="character identity" de
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360330618_p4wiub_1765274852012-pxolfq-021765274832182f8f49430e1e3875ff473008eb96b3a39e28165_0-600x257.jpg" width="600" alt="Chân dung nhà khoa học điện ảnh - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360330618_p4wiub_1765274852012-pxolfq-021765274832182f8f49430e1e3875ff473008eb96b3a39e28165_0-600x257.jpg" width="600" alt="Chân dung nhà khoa học điện ảnh - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3003,7 +3003,7 @@ Lời nhắc này tạo ra một tấm áp phích Giáng sinh phong cách nỉ �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360325350_ip9hj7_1765339550598-d2sstp-0217653395383777b67bbc2a2a9a26108e071e40bb0b08477b4fc_0-600x800.jpg" width="600" alt="Áp phích Giáng sinh Judy và Nick Felt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360325350_ip9hj7_1765339550598-d2sstp-0217653395383777b67bbc2a2a9a26108e071e40bb0b08477b4fc_0-600x800.jpg" width="600" alt="Áp phích Giáng sinh Judy và Nick Felt - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3036,7 +3036,7 @@ Một chú thỏ nhỏ hình người, được thể hiện theo phong cách h�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360328619_oh4j4y_1765339546064-p0sf2g-021765339534403f9825d5f0df17daef396c99db0606054de24f2_0-600x600.jpg" width="600" alt="Thỏ Văn Phòng Mệt Mỏi Tự Sướng - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360328619_oh4j4y_1765339546064-p0sf2g-021765339534403f9825d5f0df17daef396c99db0606054de24f2_0-600x600.jpg" width="600" alt="Thỏ Văn Phòng Mệt Mỏi Tự Sướng - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3070,7 +3070,7 @@ Thiết kế nhân vật IP: phiên bản Q, một chú cáo nhỏ màu cam đ�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360343896_ks24yz_1765339541415-tyft9h-0217653395301927b67bbc2a2a9a26108e071e40bb0b084e8cebf_0-600x600.jpg" width="600" alt="Thiết kế nhân vật IP Cáo nhỏ thời thượng - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360343896_ks24yz_1765339541415-tyft9h-0217653395301927b67bbc2a2a9a26108e071e40bb0b084e8cebf_0-600x600.jpg" width="600" alt="Thiết kế nhân vật IP Cáo nhỏ thời thượng - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3104,7 +3104,7 @@ Lời nhắc này tạo ra một áp phích thư pháp động với cụm từ 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360344447_ay1svn_1765339531784-ohhx37-0217653395206267b67bbc2a2a9a26108e071e40bb0b0844e93e4_0-600x800.jpg" width="600" alt="Poster Chữ Thảo "Sức Sống Bất Tận" - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360344447_ay1svn_1765339531784-ohhx37-0217653395206267b67bbc2a2a9a26108e071e40bb0b0844e93e4_0-600x800.jpg" width="600" alt="Poster Chữ Thảo "Sức Sống Bất Tận" - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3138,7 +3138,7 @@ Phong cách thiết kế tối giản hiện đại, thiết kế nam châm tủ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360345227_87dzct_1765339524396-c2vrso-021765339509675732fd601d62b6a7044a0e20965673d99fc2e76_0-600x600.jpg" width="600" alt="Thiết kế nam châm tủ lạnh hình Judy và Nick không đều - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360345227_87dzct_1765339524396-c2vrso-021765339509675732fd601d62b6a7044a0e20965673d99fc2e76_0-600x600.jpg" width="600" alt="Thiết kế nam châm tủ lạnh hình Judy và Nick không đều - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3172,7 +3172,7 @@ Biểu tượng UI, một chiếc ví đầy tiền vàng, một đống tiền 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360359275_0kx2gu_1765339517519-f89k34-0217653395048557b67bbc2a2a9a26108e071e40bb0b084742913_0-600x600.jpg" width="600" alt="Biểu Tượng Ví và Tiền Xu 3D - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360359275_0kx2gu_1765339517519-f89k34-0217653395048557b67bbc2a2a9a26108e071e40bb0b084742913_0-600x600.jpg" width="600" alt="Biểu Tượng Ví và Tiền Xu 3D - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3205,7 +3205,7 @@ Lời nhắc minh họa vẽ tay chibi dễ thương này mô tả Nick và Judy
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360360278_3xdcvi_1765339507274-m3vaqc-0217653394969647ed3dd5a26da08a73b6b7a288310809223b101_0-600x600.jpg" width="600" alt="Hình minh họa Nick và Judy Chibi vẽ tay - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360360278_3xdcvi_1765339507274-m3vaqc-0217653394969647ed3dd5a26da08a73b6b7a288310809223b101_0-600x600.jpg" width="600" alt="Hình minh họa Nick và Judy Chibi vẽ tay - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3239,7 +3239,7 @@ Không hoán đổi khuôn mặt, khuôn mặt của các nhân vật không đ�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360362194_fl5qcm_1765339508978-oe6je3-021765339490813f9825d5f0df17daef396c99db0606054d5e479_0-600x600.jpg" width="600" alt="Ảnh tự sướng ba người chụp từ trên xuống kết hợp - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360362194_fl5qcm_1765339508978-oe6je3-021765339490813f9825d5f0df17daef396c99db0606054d5e479_0-600x600.jpg" width="600" alt="Ảnh tự sướng ba người chụp từ trên xuống kết hợp - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3273,7 +3273,7 @@ Tạo thẻ kiến thức cho công thức {argument name="dish name" default="T
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360374866_rxnciw_1765339485966-e46fx9-021765339462510c799e7b290acded99bf6695874956a9f61f59d_0-600x450.jpg" width="600" alt="Thẻ kiến thức vẽ tay món Cà chua xào trứng - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360374866_rxnciw_1765339485966-e46fx9-021765339462510c799e7b290acded99bf6695874956a9f61f59d_0-600x450.jpg" width="600" alt="Thẻ kiến thức vẽ tay món Cà chua xào trứng - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3307,7 +3307,7 @@ Nền đen chữ trắng, thư pháp nét liền sang trọng, thiết kế phô
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360375259_s6jr2i_1765339501783-kxt0et-021765339489400c799e7b290acded99bf6695874956a9f90b493_0-600x600.jpg" width="600" alt="Kiểu chữ Tiêu đề Phim Wild Cursive - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360375259_s6jr2i_1765339501783-kxt0et-021765339489400c799e7b290acded99bf6695874956a9f90b493_0-600x600.jpg" width="600" alt="Kiểu chữ Tiêu đề Phim Wild Cursive - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3341,7 +3341,7 @@ Bản phác thảo đường nét đen, ghi chú {argument name="subject name" d
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360378310_h8l37v_1765339493312-we5btx-02176533946480475aeae14c82856eca08eecb5e75c0575970b2c_0-600x600.jpg" width="600" alt="Ghi chú Phác thảo Thiết kế Cơ khí - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360378310_h8l37v_1765339493312-we5btx-02176533946480475aeae14c82856eca08eecb5e75c0575970b2c_0-600x600.jpg" width="600" alt="Ghi chú Phác thảo Thiết kế Cơ khí - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3375,7 +3375,7 @@ Nền màu xanh đậm trang nhã, một đường cong biểu đồ màu vàng 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360390202_td5qct_1765339443943-9svsin-021765339430962f8f49430e1e3875ff473008eb96b3a3922f1fc_0-600x600.jpg" width="600" alt="Áp phích Golden Curve Wealth Logic - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360390202_td5qct_1765339443943-9svsin-021765339430962f8f49430e1e3875ff473008eb96b3a3922f1fc_0-600x600.jpg" width="600" alt="Áp phích Golden Curve Wealth Logic - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3408,7 +3408,7 @@ Với góc nhìn ba chiều cao, trình bày chính xác sơ đồ kiến trúc 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360391141_ovuy4h_1765339488473-osj4sc-021765339454032f9825d5f0df17daef396c99db0606054fc66d7_0-600x337.jpg" width="600" alt="Sơ đồ kiến trúc nền tảng thương mại điện tử 3D - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360391141_ovuy4h_1765339488473-osj4sc-021765339454032f9825d5f0df17daef396c99db0606054fc66d7_0-600x337.jpg" width="600" alt="Sơ đồ kiến trúc nền tảng thương mại điện tử 3D - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3442,7 +3442,7 @@ Thiết kế chữ ký nghệ thuật cấp bậc thầy: {argument name="name" 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360394516_gxpvgm_1765339460382-eznpqh-021765339449957f8f49430e1e3875ff473008eb96b3a392ba9d6_0-600x600.jpg" width="600" alt="Thiết Kế Chữ Ký Nghệ Thuật Ma Wencheng - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360394516_gxpvgm_1765339460382-eznpqh-021765339449957f8f49430e1e3875ff473008eb96b3a392ba9d6_0-600x600.jpg" width="600" alt="Thiết Kế Chữ Ký Nghệ Thuật Ma Wencheng - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3475,7 +3475,7 @@ Thiết kế giao diện người dùng (UI) ứng dụng quản lý tài chính
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360404555_3v5zdz_1765339459457-jkploz-0217653394477525097524147fba306f3fd5b41c93377027a5329_0-600x1068.jpg" width="600" alt="Giao diện người dùng ứng dụng tài chính kiểu C4D (Biến thể) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360404555_3v5zdz_1765339459457-jkploz-0217653394477525097524147fba306f3fd5b41c93377027a5329_0-600x1068.jpg" width="600" alt="Giao diện người dùng ứng dụng tài chính kiểu C4D (Biến thể) - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3508,7 +3508,7 @@ Thiết kế giao diện người dùng (UI) ứng dụng quản lý tài chính
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360405323_gut77j_1765339448274-3d70yd-0217653394360811e15ac27860f2c8c25bccd5ee2521f9a5adc04_0-600x1068.jpg" width="600" alt="Giao diện ứng dụng tài chính theo phong cách C4D - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360405323_gut77j_1765339448274-3d70yd-0217653394360811e15ac27860f2c8c25bccd5ee2521f9a5adc04_0-600x1068.jpg" width="600" alt="Giao diện ứng dụng tài chính theo phong cách C4D - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3542,7 +3542,7 @@ Nick Wilde và Judy Hopps của Zootopia đang chụp ảnh selfie trên bãi bi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360408170_qygk43_1765339451176-di6d3i-021765339431792f8f49430e1e3875ff473008eb96b3a39602ab2_0-600x1068.jpg" width="600" alt="Nick và Judy Chụp ảnh Tự sướng Kiểu Instagram trên Bãi biển Hồng - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360408170_qygk43_1765339451176-di6d3i-021765339431792f8f49430e1e3875ff473008eb96b3a39602ab2_0-600x1068.jpg" width="600" alt="Nick và Judy Chụp ảnh Tự sướng Kiểu Instagram trên Bãi biển Hồng - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3576,7 +3576,7 @@ Phong cách thiết kế tối giản hiện đại, thiết kế nam châm tủ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360418782_694ouv_1765339426120-9d2kwb-021765339415014732fd601d62b6a7044a0e20965673d99f6e2fc_0-600x600.jpg" width="600" alt="Nam châm tủ lạnh tráng men Zootopia Judy - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360418782_694ouv_1765339426120-9d2kwb-021765339415014732fd601d62b6a7044a0e20965673d99f6e2fc_0-600x600.jpg" width="600" alt="Nam châm tủ lạnh tráng men Zootopia Judy - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3610,7 +3610,7 @@ Lời nhắc này tạo ra một poster quảng cáo sản phẩm công nghệ c
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360419602_kaflap_1765339429857-eubuen-021765339414965f8f49430e1e3875ff473008eb96b3a3954eec6_0-600x1068.jpg" width="600" alt="Áp phích quảng cáo sản phẩm công nghệ GEO - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360419602_kaflap_1765339429857-eubuen-021765339414965f8f49430e1e3875ff473008eb96b3a3954eec6_0-600x1068.jpg" width="600" alt="Áp phích quảng cáo sản phẩm công nghệ GEO - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3644,7 +3644,7 @@ Các nhân vật trong Zootopia, Nick Wilde và Judy Hopps. Nick có bộ lông 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360424853_aa4im4_3ff7bf8e75a27eee13984fb677f4cb01d8949df05bbf6a9bc3e3a3f4688c880b-600x1068.png" width="600" alt="Ảnh tự sướng phá vỡ bức tường thứ tư phong cách Tiểu Hồng Thư của Nick và Judy - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360424853_aa4im4_3ff7bf8e75a27eee13984fb677f4cb01d8949df05bbf6a9bc3e3a3f4688c880b-600x1068.png" width="600" alt="Ảnh tự sướng phá vỡ bức tường thứ tư phong cách Tiểu Hồng Thư của Nick và Judy - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3678,7 +3678,7 @@ Chín loại thảo mộc gia vị Trung Quốc phổ biến dùng trong nấu �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360433911_ehmj82_1765340299572-6opt91-0217653402821028547934892c4038781a87d514f9a9196c3270d_0-600x450.jpg" width="600" alt="Nghệ thuật đường nét các loại thảo mộc gia vị truyền thống của Trung Quốc - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360433911_ehmj82_1765340299572-6opt91-0217653402821028547934892c4038781a87d514f9a9196c3270d_0-600x450.jpg" width="600" alt="Nghệ thuật đường nét các loại thảo mộc gia vị truyền thống của Trung Quốc - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3711,7 +3711,7 @@ Một bản đồ địa hình của Hàng Châu, với một điểm đánh d�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360434501_816kxa_1765340306930-vmeass-02176534029138615b33ccaa151d3ed7feaaa761bc71c37d6bb0d_0-600x450.jpg" width="600" alt="Bản đồ địa hình Hàng Châu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360434501_816kxa_1765340306930-vmeass-02176534029138615b33ccaa151d3ed7feaaa761bc71c37d6bb0d_0-600x450.jpg" width="600" alt="Bản đồ địa hình Hàng Châu - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3744,7 +3744,7 @@ Prompt này nhằm tạo ra một hình ảnh ban nhạc kết hợp phong cách
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360448225_8otize_1765340288295-sovmnh-0217653402735382504cb05148e9a08cc7612c3f2b24e524dcfe7_0-600x450.jpg" width="600" alt="Minh họa ban nhạc theo phong cách kết hợp giữa Moebius và Kim Jung Gi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360448225_8otize_1765340288295-sovmnh-0217653402735382504cb05148e9a08cc7612c3f2b24e524dcfe7_0-600x450.jpg" width="600" alt="Minh họa ban nhạc theo phong cách kết hợp giữa Moebius và Kim Jung Gi - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3793,7 +3793,7 @@ Tiêu đề chính là "Hướng dẫn minh họa về các tiểu thuyết gia 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360449200_ssk71c_1765340288466-2q2mst-021765340250361c5f50319cb4d4388d7836967b82aebe5128460_0-600x800.jpg" width="600" alt="Hướng dẫn minh họa về các tiểu thuyết gia Trung Quốc đương đại - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360449200_ssk71c_1765340288466-2q2mst-021765340250361c5f50319cb4d4388d7836967b82aebe5128460_0-600x800.jpg" width="600" alt="Hướng dẫn minh họa về các tiểu thuyết gia Trung Quốc đương đại - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3827,7 +3827,7 @@ Tạo một poster đồ họa có tiêu đề "Bản đồ Ẩm thực Trung Qu
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765360455020_wgx9v9_1765340270629-wkli3h-02176534024967730d072d337ea6fcc7bbfbe2f0c485be24888b0_0-600x800.jpg" width="600" alt="Bản đồ ẩm thực Trung Quốc: Infographic dạng Poster - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765360455020_wgx9v9_1765340270629-wkli3h-02176534024967730d072d337ea6fcc7bbfbe2f0c485be24888b0_0-600x800.jpg" width="600" alt="Bản đồ ẩm thực Trung Quốc: Infographic dạng Poster - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3884,6 +3884,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-11T12:22:09.218Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-11T16:15:45.710Z</sub>
 
 </div>
