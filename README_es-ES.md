@@ -90,7 +90,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **112** |
 | ⭐ Destacado | **0** |
-| 🔄 Última actualización | **jueves, 25 de diciembre de 2025, 4:29:25 UTC** |
+| 🔄 Última actualización | **jueves, 25 de diciembre de 2025, 8:15:46 UTC** |
 
 </div>
 
@@ -3888,6 +3888,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-25T04:29:25.852Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-25T08:15:46.466Z</sub>
 
 </div>
