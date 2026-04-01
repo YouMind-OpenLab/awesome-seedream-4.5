@@ -90,7 +90,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示词总数 | **112** |
 | ⭐ 精选 | **0** |
-| 🔄 最后更新 | **2026年3月31日星期二 UTC 20:31:44** |
+| 🔄 最后更新 | **2026年4月1日星期三 UTC 01:20:51** |
 
 </div>
 
@@ -3889,6 +3889,6 @@ Modern minimalist design style, Zootopia themed enamel fridge magnet design, cir
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-03-31T20:31:44.224Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-04-01T01:20:51.402Z</sub>
 
 </div>
