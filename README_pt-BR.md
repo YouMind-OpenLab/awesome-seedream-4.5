@@ -90,7 +90,7 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 |--------|-------|
 | 📝 Total de prompts | **112** |
 | ⭐ Destaque | **0** |
-| 🔄 Última atualização | **sábado, 4 de abril de 2026 às 08:27:46 UTC** |
+| 🔄 Última atualização | **sábado, 4 de abril de 2026 às 12:29:09 UTC** |
 
 </div>
 
@@ -3884,6 +3884,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-04-04T08:27:46.959Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-04-04T12:29:09.976Z</sub>
 
 </div>
