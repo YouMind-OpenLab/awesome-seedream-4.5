@@ -90,7 +90,7 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 |--------|-------|
 | 📝 Totale prompt | **112** |
 | ⭐ In evidenza | **0** |
-| 🔄 Ultimo aggiornamento | **giovedì 23 aprile 2026 alle ore 09:16:39 UTC** |
+| 🔄 Ultimo aggiornamento | **giovedì 23 aprile 2026 alle ore 12:56:16 UTC** |
 
 </div>
 
@@ -3869,6 +3869,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-04-23T09:16:39.290Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-04-23T12:56:16.264Z</sub>
 
 </div>
