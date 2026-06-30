@@ -90,7 +90,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **112** |
 | ⭐ Öne Çıkan | **0** |
-| 🔄 Son Güncelleme | **30 Haziran 2026 Salı 17:45:21 UTC** |
+| 🔄 Son Güncelleme | **30 Haziran 2026 Salı 21:21:15 UTC** |
 
 </div>
 
@@ -3886,6 +3886,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-30T17:45:21.018Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-30T21:21:15.542Z</sub>
 
 </div>

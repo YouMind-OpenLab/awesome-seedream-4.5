@@ -90,7 +90,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **112** |
 | ⭐ Featured | **0** |
-| 🔄 Last Updated | **Tuesday, June 30, 2026 at 5:45:11 PM UTC** |
+| 🔄 Last Updated | **Tuesday, June 30, 2026 at 9:21:10 PM UTC** |
 
 </div>
 
@@ -3869,6 +3869,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-30T17:45:11.546Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-30T21:21:10.583Z</sub>
 
 </div>
