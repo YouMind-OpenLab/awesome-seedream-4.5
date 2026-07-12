@@ -90,7 +90,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **112** |
 | ⭐ 精選 | **0** |
-| 🔄 最後更新 | **2026年7月11日 星期六 晚上8:36:04 [UTC]** |
+| 🔄 最後更新 | **2026年7月12日 星期日 凌晨1:24:58 [UTC]** |
 
 </div>
 
@@ -3882,6 +3882,6 @@ UI 圖示，一個裝滿金幣的錢包，一堆金幣，金幣上是 {argument 
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-11T20:36:04.053Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-12T01:24:58.897Z</sub>
 
 </div>
