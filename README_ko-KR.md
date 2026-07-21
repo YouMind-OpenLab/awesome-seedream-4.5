@@ -90,7 +90,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 |--------|-------|
 | 📝 총 프롬프트 수 | **112** |
 | ⭐ 추천 | **0** |
-| 🔄 마지막 업데이트 | **2026년 7월 21일 화요일 AM 10시 12분 0초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 7월 21일 화요일 PM 1시 10분 54초 UTC** |
 
 </div>
 
@@ -3889,6 +3889,6 @@ UI 아이콘, 금화로 가득 찬 지갑, 금화 더미, 금화 위에 {argumen
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-21T10:12:00.828Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-21T13:10:54.979Z</sub>
 
 </div>
