@@ -90,7 +90,7 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 |--------|-------|
 | 📝 プロンプト総数 | **112** |
 | ⭐ おすすめ | **0** |
-| 🔄 最終更新 | **2026年9月4日金曜日 21:54:17 UTC** |
+| 🔄 最終更新 | **2026年9月5日土曜日 1:43:53 UTC** |
 
 </div>
 
@@ -3892,6 +3892,6 @@ UI アイコン、金貨でいっぱいの財布、金貨の山、金貨の上�
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-09-04T21:54:17.920Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-09-05T01:43:53.485Z</sub>
 
 </div>
