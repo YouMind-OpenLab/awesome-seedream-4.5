@@ -90,7 +90,7 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **112** |
 | ⭐ Ausgewählt | **0** |
-| 🔄 Zuletzt aktualisiert | **Dienstag, 17. November 2026 um 17:09:29 UTC** |
+| 🔄 Zuletzt aktualisiert | **Mittwoch, 18. November 2026 um 01:55:15 UTC** |
 
 </div>
 
@@ -3883,6 +3883,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedream-4.5/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedream-4.5)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-17T17:09:29.934Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-18T01:55:15.607Z</sub>
 
 </div>
